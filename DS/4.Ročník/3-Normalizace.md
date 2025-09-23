@@ -23,7 +23,7 @@ Adresa -> město, ulice, číslo popisné
 
 b) je-li hodnot více (nevíme přesný počet), vytvoříme novou tabulku a propojíme vazbou
 
-![[Pasted image 20250916101458.png]]
+![[pasted1.png]]
 
 | Zam              | Telefon  |
 | ---------------- | -------- |
@@ -54,7 +54,7 @@ patro závisý na třída (= část PK) -> **nesplňuje 2. NF**
 
 ### Řešení:
 rozdělení do více tabulek zavedením jednoduchých klíčů
-![[Pasted image 20250916101707.png]]
+![[pasted2.png]]
 
 
 | Třída      | student    |

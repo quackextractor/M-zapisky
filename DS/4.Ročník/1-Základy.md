@@ -1,7 +1,7 @@
 **Relační databáze** - popis, terminologie, modelování rel. db.
 	rel. db. architektura klient-server
 
-![[Image1 ds.png]]
+![[Image1DS.png]]
 
 **klient** - program např. v C#, Java, web. stránka, managment studio, příkazový řádek
 
@@ -28,7 +28,7 @@
 	b) stupeň 2 ...dvě entity, klasický vztah dvou entit (i vztah M:N)
 	c) stupeň 3 a více ... 3 a více entit ve vztahu
 	
-****![[Image2 ds.png]]
+****![[Image2DS.png]]
 
 **Primární klíč**, **Cizí klíč**: technicky realizují vazby v databázi
 
