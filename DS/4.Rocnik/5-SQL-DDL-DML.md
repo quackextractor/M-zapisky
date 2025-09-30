@@ -69,6 +69,9 @@ SET Salary = Salary + 5000
 WHERE Position = 'Developer';
 ```
 
+![[zam-pozice.svg]]
+
+
 ```mermaid
 erDiagram
     POZICE {
