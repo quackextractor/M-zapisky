@@ -3,7 +3,7 @@
 
 ![[Image1DS.png]]
 
-**klient** - program např. v C#, Java, web. stránka, managment studio, příkazový řádek
+**klient** - program např. v C#, Java, web. stránka, management studio, příkazový řádek
 
 **databáze** - úložiště obsahující data a metadata
 	data - **uživatelské hodnoty**
