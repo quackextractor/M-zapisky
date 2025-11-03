@@ -24,6 +24,7 @@
 ---
 
 ## 2. Slovní zadání - Evidence knih a autorů
+V testu bude dané nějaké zadání
 
 **Zadání:** *Navrhněte databázi pro evidenci knih a jejich autorů. Kniha může mít více autorů a autor může napsat více knih.*
 
@@ -190,6 +191,7 @@ FROM tabulka1
 ---
 
 ## 6. Příklady - JOINy a agregační funkce
+V testu bude dané nějaké zadání
 
 ### A) Využití všech typů JOINů:
 
