@@ -166,8 +166,8 @@ erDiagram
 
 ## 5. SQL - DDL a DML syntaxe
 
-**DDL** - (Data Definition Language) – definuje strukturu db. `CREATE, ALTER, DROP`
-**DML** - (Data Manipulation Language) – manipulace s daty v db. `SELECT, INSERT, UPDATE, DELETE`
+- **DDL** - (Data Definition Language) – definuje strukturu db. `CREATE, ALTER, DROP`
+- **DML** - (Data Manipulation Language) – manipulace s daty v db. `SELECT, INSERT, UPDATE, DELETE`
 
 ### Kompletní SELECT syntaxe:
 ```sql
