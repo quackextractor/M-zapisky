@@ -82,10 +82,10 @@ erDiagram
 
 ### Příklad nenormalizované tabulky:
 
-| id_objednavky | zakaznik | adresa_zakaznika | polozky |
-|---------------|----------|------------------|---------|
-| 1 | Jan Novák | Praha 1 | Kniha, Tužka |
-| 2 | Eva Svobodová | Brno 2 | Sešit |
+| id_objednavky | zakaznik      | adresa_zakaznika | polozky      |
+| ------------- | ------------- | ---------------- | ------------ |
+| 1             | Jan Novák     | Praha 1          | Kniha, Tužka |
+| 2             | Eva Svobodová | Brno 2           | Sešit        |
 
 ### Normalizace do 1. NF:
 ```mermaid
@@ -205,6 +205,9 @@ erDiagram
         int id_zakaznika FK
         decimal castka
     }
+
+    ZAKAZNICI ||--o{ OBJEDNAVKY : "vytváří"
+
 ```
 
 **INNER JOIN** - pouze zákazníci s objednávkami:
