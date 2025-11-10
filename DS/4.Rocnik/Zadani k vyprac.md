@@ -6,7 +6,7 @@ Rozděluje se do:
 - DML (data manipulation language) = select, insert, update, delete
 
 kompletní SELECT příkaz:
-```
+```sql
 SELECT [DISTINCT] sloupec1, sloupec2 [AS alias], ... agregacni_fce(sloupec)
 FROM tabulka [AS alias]
 [[LEFT/RIGHT/INNER/OUTER] JOIN tabulka2 [alias] ON podmínka ... dalsi joiny]
@@ -41,6 +41,85 @@ Klient-Server.
 a) **Datum nejstarší projekce v evidenci.**
 b) **Počet filmů v evidenci pro jednotlivé žánry.**
 c) **Filmy, které nebyly dosud promítány, střídané podle žánru a názvu filmu.**
+
+Zde je návrh logického ER diagramu v Mermaid syntaxi (bez diakritiky) a SQL dotazy:
+
+---
+
+## ER Diagram (3NF)
+```mermaid
+erDiagram
+    ZAMESTNANEC {
+        int id PK
+        varchar jmeno
+        varchar prijmeni
+        varchar email
+        varchar telefon
+    }
+
+    FILM {
+        int id PK
+        varchar nazev
+        int delka
+        int rok_vydani
+        int zanr_id FK
+    }
+
+    ZANR {
+        int id PK
+        varchar nazev
+    }
+
+    PROJEKCE {
+        int id PK
+        int film_id FK
+        int zamestnanec_id FK
+        datetime datum_cas
+        int sal_id FK
+    }
+
+    SAL {
+        int id PK
+        varchar nazev
+        int kapacita
+    }
+
+    FILM ||--o{ PROJEKCE : "ma"
+    ZANR ||--o{ FILM : "zarazen"
+    ZAMESTNANEC ||--o{ PROJEKCE : "obsluhuje"
+    SAL ||--o{ PROJEKCE : "hosti"
+```
+![[mermaid_prakticky_priklad.svg]]
+---
+
+## SQL Dotazy
+
+### a) Datum nejstarší projekce
+```sql
+SELECT MIN(datum_cas) AS nejstarsi_projekce
+FROM PROJEKCE;
+```
+
+### b) Počet filmů dle žánrů
+```sql
+SELECT z.nazev AS zanr, COUNT(f.id) AS pocet_filmu
+FROM ZANR z
+LEFT JOIN FILM f ON z.id = f.zanr_id
+GROUP BY z.id, z.nazev;
+```
+
+### c) Nepromítané filmy seřazené dle žánru a názvu
+```sql
+SELECT f.nazev, z.nazev AS zanr
+FROM FILM f
+JOIN ZANR z ON f.zanr_id = z.id
+LEFT JOIN PROJEKCE p ON f.id = p.film_id
+WHERE p.id IS NULL
+ORDER BY z.nazev, f.nazev;
+```
+
+---
+
 
 **4. Vysvětlete pojem integrita databáze. Popište a vysvětlete referenční integritni omezeni a uveďte jednoduchý příklad.**
 
@@ -145,6 +224,7 @@ erDiagram
 
 ```
 
+![[normal.png]]
 
 **6. Pro dané tři tabulky sestavte příkaz SQL, který vypíše dopravní společnosti, které mají na své trase vozy Mercedes. Vepište společnost, zemi a celkový počet vozů
 
