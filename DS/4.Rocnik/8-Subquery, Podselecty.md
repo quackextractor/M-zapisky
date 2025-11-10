@@ -1,3 +1,5 @@
+# 8. Subquery, Podselecty
+
 - lze použít ve všech DML příkazech
 - musí být uzavřen v kulatých závorkách
 - počet podselectů **není omezen**

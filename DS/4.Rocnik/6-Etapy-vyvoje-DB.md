@@ -1,4 +1,4 @@
-# 5 - Etapy vývoje db
+# 6. Etapy vývoje db
 
 ## Důležité diagramy
 ### 1) fáze: vytváření db

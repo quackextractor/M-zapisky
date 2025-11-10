@@ -1,19 +1,10 @@
-# 4 - Normalizace vs Denormalizace: SQL DDL, DML
+# 4. Normalizace vs Denormalizace: SQL DDL, DML
 
 ## 3. NF
 - existuje **PK jednoduchý**, **je splněna 1. NF** a zároveň je defaultně **splněna i 2. NF** a zároveň **neklíčové atributy na sobě navzájem nezávisí**
     
 
 => **Neklíčové atributy nejsou tranzitivně závislé**
-
-|**id**|**název zboží**|**název výrobce**|**(město) adresa výrobce**|
-|---|---|---|---|
-|1|mléko|Olma|Olomouc|
-|2|tvaroh|Olma|Olomouc|
-|3|mléko|Tatra|Kunín|
-|4|jogurt|Tatra|Kunín|
-|5|jogurt|Tatra|Praha|
-|6|tvaroh|Tatra|Kunín|
 
 ![[4NF.png]]  
 ![[4NF2.png]]
