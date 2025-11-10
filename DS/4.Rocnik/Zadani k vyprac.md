@@ -9,7 +9,7 @@ kompletní SELECT příkaz:
 ```
 SELECT [DISTINCT] sloupec1, sloupec2 [AS alias], ... agregacni_fce(sloupec)
 FROM tabulka [AS alias]
-[[LEFT/RIGHT/INNER/OUTER] JOIN tabulka2 ON podmínka ... dalsi joiny]
+[[LEFT/RIGHT/INNER/OUTER] JOIN tabulka2 [alias] ON podmínka ... dalsi joiny]
 WHERE podminka
 GROUP BY sloupec1, sloupec2...
 HAVING podminka_na_agregaci  !!!!
@@ -50,8 +50,39 @@ c) **Filmy, které nebyly dosud promítány, střídané podle žánru a názvu 
 - Každá entita musí mít právě 1 atribut unikátní, není null, a jednoznačně označuje každý záznam v tabulce. => PK
 
 **Referenční** Integrita
-- Každá entita na straně N musí mít atribut, který obsahuje některou z hodnot PK na straně 1 nebo je NULL, nemusí být unikátní => FK
+- **každý FK v jedné tabulce musí **odpovídat existujícímu PK v jiné tabulce, nebo být **NULL** (pokud je to povoleno).
 - Pokud je nastavená ref. integrita, tak defaultně nelze smazat záznam ze strany 1, pokud odkazuje na záznam na straně N (lze to povolit pomocí např. ON DELETE CASCADE)
+
+
+**Referenční integrita** je pravidlo v relačních databázích, které zajišťuje správné a logické vazby mezi tabulkami.  
+Znamená to, že **každý cizí klíč (foreign key)** v jedné tabulce musí **odpovídat existujícímu primárnímu klíči (primary key)** v jiné tabulce, nebo být **NULL** (pokud je to povoleno).
+
+### Smysl:
+
+Zabraňuje tomu, aby DB obsahovala „**syrotky**“ záznamy – tedy odkazy na neexistující data.  
+Například: nelze vytvořit objednávku pro zákazníka, který v tabulce zákazníků neexistuje.
+
+### Příklad:
+
+Máme dvě tabulky:
+
+**Zákazníci**
+
+|ID_zákazníka|Jméno|
+|---|---|
+|1|Novák|
+|2|Svoboda|
+
+**Objednávky**
+
+| ID_objednávky | ID_zákazníka | Produkt |
+| ------------- | ------------ | ------- |
+| 101           | 1            | Chléb   |
+| 102           | 2            | Mléko   |
+
+Zde **ID_zákazníka** v tabulce _Objednávky_ je **cizí klíč**, který odkazuje na **primární klíč ID_zákazníka** v tabulce _Zákazníci_.
+
+➡️ Pokud by se někdo pokusil vložit objednávku s `ID_zákazníka = 3`, databáze by to odmítla, protože zákazník s ID 3 neexistuje – tím se udržuje **referenční integrita**.
 
 **Doménová** Integrita
 - Omezení neklíčových atributů:
@@ -86,9 +117,56 @@ Normalizujte následující tabulku tak, aby výsledná databáze splňovala 1. 
 | 3434      | Stephen Williams | Green      | Blok D   | 45       | 2           | 34          |
 
 
+3-NF: **!!! NEVIM JESTLI JE TO SPRAVNE** 
+
+```mermaid
+erDiagram
+    ZAMESTNANCI {
+        int cislo_zam PK
+        string jmeno_zam
+        int cislo_mista FK "NULL povolen"
+    }
+    
+    PARKOVACI_MISTA {
+        int cislo_mista PK
+        int id_parkoviste FK
+    }
+    
+    PARKOVISTE {
+        int id_parkoviste PK
+        string nazev_parkoviste
+        string umisteni
+        int kapacita
+        int pocet_pater
+    }
+
+    ZAMESTNANCI }o--|| PARKOVACI_MISTA : "ma pridelano"
+    PARKOVACI_MISTA }o--|| PARKOVISTE : "nachazi se na"
+
+```
+
 
 **6. Pro dané tři tabulky sestavte příkaz SQL, který vypíše dopravní společnosti, které mají na své trase vozy Mercedes. Vepište společnost, zemi a celkový počet vozů
 
 **Dopravní_vůz** (id, vyrobce, typ_vozu, najeto_km, kapacita, vozidlo_v_provozu_od)
 **Dopravní_společnost** (id, nazev, zeme, svetadil, zalozeno)
 **Trasa** (id, společnost_id, vuz_id, pocet_vozu)
+
+```sql
+SELECT
+  ds.nazev AS spolecnost,
+  ds.zeme,
+  COUNT(dv.id) AS pocet_vozu
+FROM
+  trasa t
+  INNER JOIN dopravni_vuz dv ON t.vuz_id = dv.id
+  INNER JOIN dopravni_spolecnost ds ON t.spolecnost_id = ds.id
+WHERE
+  dv.vyrobce = 'Mercedes-Benz'
+GROUP BY
+  ds.nazev,
+  ds.zeme;
+```
+
+
+
