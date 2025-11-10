@@ -1,3 +1,5 @@
+# 1. Základy
+
 **Relační databáze** - popis, terminologie, modelování rel. db.
 	rel. db. architektura klient-server
 
@@ -28,7 +30,7 @@
 	b) stupeň 2 ...dvě entity, klasický vztah dvou entit (i vztah M:N)
 	c) stupeň 3 a více ... 3 a více entit ve vztahu
 	
-****![[Image2DS.png]]
+![[Image2DS.png]]
 
 **Primární klíč**, **Cizí klíč**: technicky realizují vazby v databázi
 

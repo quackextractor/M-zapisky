@@ -1,4 +1,4 @@
-# Normalizace, normální formy 1NF - 3NF
+# 3. Normalizace, normální formy 1NF - 3NF
 
 = Normalizace je process úpravy struktury databáze (tabulky), aby nedocházelo k **redundanci dat** (opakující se data) a aby byla zajištěna **konzistence** z hlediska jednoznačnosti **při vyhledávání**.
 

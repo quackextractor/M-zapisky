@@ -1,4 +1,4 @@
-# Agregační funkce, GROUP BY, HAVING
+# 7. Agregační funkce, GROUP BY, HAVING
 
 Funkce, které pracují jen s jedním argumentem a vrací vždy pouze jednu hodnotu:
 

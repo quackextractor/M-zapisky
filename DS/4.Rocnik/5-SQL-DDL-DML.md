@@ -1,4 +1,4 @@
-# 5 - SQL, DDL, DML, joins, agregační funkce
+# 5. SQL, DDL, DML, joins, agregační funkce
 
 ## SQL
 = **Structured Query Language** = dotazovací jazyk, interpretovaný jazyk.
@@ -69,25 +69,6 @@ SET Salary = Salary + 5000
 WHERE Position = 'Developer';
 ```
 
-![[zam-pozice.svg]]
-
-
-```mermaid
-erDiagram
-    POZICE {
-        int id PK
-        varchar nazev
-    }
-    
-    ZAM {
-        int id PK
-        varchar prijmeni
-        int pozice_id FK
-        decimal plat
-    }
-
-    POZICE ||--o{ ZAM : "has"
-```
 ```sql
 -- Pridani platu vsem IT
 UPDATE zam SET plat = plat + 1000
