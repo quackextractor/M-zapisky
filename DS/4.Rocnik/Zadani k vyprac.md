@@ -19,7 +19,7 @@ ORDER BY sloupec1 [asc/desc], sloupec2...
 - DISTINCT - odstraňuje duplikátní řádky
 - FROM - určuje zdrojovou tabulku
 - AS alias - přejmenuje sloupec ve výsledné tabulce
-- JOIN - propojí data různých tabulek dle podmínky, typ joinu určuje, které řádky zůstavají 
+- JOIN - propojí data různých tabulek dle podmínky, typ joinu určuje, které řádky zůstávají 
 - WHERE - filtruje záznamy před agregací, nemůže používat agr. fce
 - GROUP BY - seskupuje řádky do skupin pro agregační fce (např. součet, průměr...)
 - HAVING - filter skupin které vznikly z GROUP BY, může používat agr. fce
