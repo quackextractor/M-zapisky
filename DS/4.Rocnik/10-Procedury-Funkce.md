@@ -1,43 +1,97 @@
-Typy:
-- bez paramaetri
-- se vstupnimi  IN(INPUT) nebo vystupnimi OUT(OUTPUT) parametri
-- s oběma (doporuceno pro maturitu)
+# Typy procedur
 
-Příklad procedury s oběma v MySQL
+* **Bez parametrů**
+* **Se vstupními parametry (IN)**
+* **S výstupními parametry (OUT)**
+* **S oběma typy parametrů – doporučeno pro maturitu**
 
-PRIDAT PRIKLAD
+---
 
-## Funkce
-- a) agregacni funkce sum(), count()
-- b) systémové fce sysdate(), year(), check(), ...
-- c) uživatelsky def. fce
+# Příklad procedury s IN i OUT parametry (MySQL)
 
-Vlastnosti:
-- mají jeden nebo více vstupních parametrů
-- **vždy pouze 1** výstupní hodnostu
-- => lze použít za klauzulí **SELECT**
-
-Syntaxe uživatelsky def. fce:
- a) skalární
-
-PRIDAT PRIKLAD MYSQL
-
-b) uživatelská fce, která **vrací hodnoty v tabulce** (1 výstupní hodnota = tabulka)
--> returns table (return select * from zbozi;)
-
-```mysql
+```sql
 DELIMITER $$
 
-CREATE FUNCTION vek(par DATE)
-RETURNS INT
-DETERMINISTIC
+CREATE PROCEDURE zvys_plat(
+    IN id_zam INT, 
+    IN kolik INT, 
+    OUT novy_plat INT
+)
 BEGIN
-  RETURN DATEDIFF(SYSDATE(), par);
+    UPDATE zamestnanci
+    SET plat = plat + kolik
+    WHERE id = id_zam;
+
+    SELECT plat INTO novy_plat 
+    FROM zamestnanci 
+    WHERE id = id_zam;
 END$$
 
 DELIMITER ;
-
 ```
 
+**Volání:**
 
-	ll  
+```sql
+CALL zvys_plat(3, 2000, @vysledek);
+SELECT @vysledek;
+```
+
+---
+
+# Funkce
+
+**Typy:**
+
+* a) Agregační: `SUM()`, `COUNT()`, `AVG()`, `MAX()`, `MIN()`
+* b) Systémové: `SYSDATE()`, `YEAR()`, `USER()`
+* c) Uživatelské (vlastní)
+
+**Vlastnosti:**
+
+* mají jeden nebo více vstupních parametrů
+* **vždy jen 1 návratovou hodnotu**
+* lze použít za **SELECT**
+
+---
+
+# Uživatelsky definované funkce
+
+## a) Skalární funkce – příklad MySQL
+
+```sql
+DELIMITER $$
+
+CREATE FUNCTION celkem_s_dph(cena DECIMAL(10,2))
+RETURNS DECIMAL(10,2)
+DETERMINISTIC
+BEGIN
+  RETURN cena * 1.21;
+END$$
+
+DELIMITER ;
+```
+
+**Použití:**
+
+```sql
+SELECT celkem_s_dph(100);
+```
+
+---
+
+## b) Uživatelská funkce vracející tabulku
+
+MySQL **tohle neumí přes RETURNS TABLE**, to je funkce z MSSQL/PostgreSQL.
+V MySQL se místo toho používá **VIEW** nebo **procedura**, protože funkce může vrátit jen 1 skalární hodnotu.
+
+Pro úplnost – takto vypadá styl v MSSQL:
+
+```sql
+CREATE FUNCTION seznam_zbozi()
+RETURNS TABLE
+AS
+RETURN (
+    SELECT * FROM zbozi
+);
+```
