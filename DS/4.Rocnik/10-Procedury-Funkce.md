@@ -82,6 +82,15 @@ SELECT celkem_s_dph(100);
 
 ## b) Uživatelská funkce vracející tabulku
 
+* Návratový typ je **tabulka** → `RETURN table` (v MySQL nelze přímo, v MSSQL/PostgreSQL ano)
+* Syntaxe je:
+
+```sql
+SELECT * FROM <view> (...);
+```
+
+* Funkce **nemůže** volat procedury.
+
 MySQL **tohle neumí přes RETURNS TABLE**, to je funkce z MSSQL/PostgreSQL.
 V MySQL se místo toho používá **VIEW** nebo **procedura**, protože funkce může vrátit jen 1 skalární hodnotu.
 
