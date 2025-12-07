@@ -192,6 +192,47 @@ Pro zkoušku je nutné znát posloupnost a obsah jednotlivých etap.
 ### 2) fáze: provoz db
 
 ![[faze-2.svg]]
+
+## Otázky z [prezentace](https://moodle.spsejecna.cz/pluginfile.php/14379/mod_resource/content/1/DS%20%C5%BDivotn%C3%AD%20cyklus%20datab%C3%A1ze.pdf) a odpovědi
+
+### **1. Co je životní cyklus databáze**
+
+- šest fází:  
+    – analýza  
+    – návrh  
+    – implementace  
+    – testování  
+    – provoz  
+    – údržba
+
+- popisuje celý proces vzniku, používání a konce databáze  
+
+---
+
+### **2. Nej­důležitější fáze životního cyklu**
+
+- analýza
+- rozhoduje o pochopení organizace, dat, problémů, požadavků
+- špatná analýza = špatný návrh i celá databáze  
+---
+
+### **3. Co prozradí datová analýza**
+
+- definuje potřebná data a jejich vazby
+- určuje datové toky (vstupy, výstupy, transformace)
+- vytváří konceptuální model, např. E-R diagram
+- slouží jako most mezi uživatelem a tvůrcem databáze  
+
+---
+
+### **4. Příčina ukončení životního cyklu databáze**
+
+- údržba se stane dražší než vytvoření nové databáze
+- typicky kvůli nárůstu objemu dat nebo novým zdrojům dat
+- následuje zánik staré a začátek nové ve fázi analýzy  
+
+---
+
 ## Fáze podrobně
 
 ### 1. Analýza
