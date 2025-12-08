@@ -107,38 +107,7 @@ SELECT spocitej_s_dph(100);
 
 ---
 
-## 4. GROUP BY a HAVING
-
-Slouží k seskupování řádků a agregaci dat.
-
-**GROUP BY:**
-- Seskupí řádky se stejnou hodnotou ve vybraném sloupci.
-- Povinné, pokud chceme ve výpisu kombinovat agregační funkce (např. `COUNT`) a neagregované sloupce.
-
-**HAVING:**
-- Filtruje výsledky **až po seskupení** (po GROUP BY).
-- Používá se pro podmínky na agregační funkce (což `WHERE` neumí).
-
-**Pořadí vyhodnocení dotazu:**
-1.  `FROM` + `JOIN` (načtení dat)
-2.  `WHERE` (filtrace řádků)
-3.  `GROUP BY` (seskupení)
-4.  `HAVING` (filtrace skupin)
-5.  `SELECT` (výběr sloupců)
-6.  `ORDER BY` (řazení)
-
-**Příklad:**
-*Vypsat oddělení, která mají více než 5 zaměstnanců.*
-```sql
-SELECT oddeleni, COUNT(*) as pocet
-FROM zamestnanci
-GROUP BY oddeleni       -- Seskupit podle oddělení
-HAVING COUNT(*) > 5;    -- Vybrat jen ta, kde je počet > 5
-```
-
----
-
-## 5. TRIGGERY (Spouště)
+## 4. TRIGGERY (Spouště)
 
 **Co to je:**
 - Databázový objekt navázaný na konkrétní tabulku.
@@ -180,7 +149,7 @@ DELIMITER ;
 
 ---
 
-## 6. Etapy vývoje databáze
+## 5. Etapy vývoje databáze
 
 Pro zkoušku je nutné znát posloupnost a obsah jednotlivých etap.
 
