@@ -15,6 +15,18 @@ Tento dokument shrnuje požadavky k testu a rozšiřuje je o informace z dostupn
 
 **Syntaxe:**
 ```sql
+-- Generic view creation
+CREATE [OR REPLACE] VIEW view_name AS
+SELECT column1, column2, ...
+FROM table_name
+WHERE condition;
+
+-- Using the view
+SELECT * FROM view_name;
+```
+
+
+```sql
 CREATE VIEW jmeno_pohledu AS
 SELECT sloupec1, sloupec2
 FROM tabulka
@@ -41,6 +53,31 @@ SELECT * FROM jmeno_pohledu;
 - **INOUT:** Kombinace obou.
 
 **Syntaxe (MySQL) – Příklad s IN i OUT:**
+```sql
+DELIMITER //
+
+-- Generic procedure
+CREATE PROCEDURE procedure_name(
+    [IN param1 datatype,]
+    [OUT param2 datatype,]
+    [INOUT param3 datatype]
+)
+BEGIN
+    -- SQL statements
+    [SET var = value;]
+    [SELECT ... INTO ...;]
+    [UPDATE ...;]
+    [INSERT ...;]
+    [DELETE ...;]
+END //
+
+DELIMITER ;
+
+-- Call the procedure
+CALL procedure_name([param1_value, @param2_variable, param3_value]);
+```
+
+
 ```sql
 DELIMITER //
 
@@ -83,6 +120,26 @@ SELECT @vysledek;                   -- Zobrazení výstupní hodnoty
 - V MySQL (na rozdíl od MSSQL) obvykle vrací skalární (jednu) hodnotu.
 
 **Syntaxe uživatelské funkce (MySQL):**
+```sql
+DELIMITER //
+
+-- Generic function
+CREATE FUNCTION function_name(param1 datatype, ...)
+RETURNS return_datatype
+[DETERMINISTIC | NOT DETERMINISTIC]
+[READS SQL DATA | MODIFIES SQL DATA]
+BEGIN
+    -- SQL statements
+    RETURN expression;
+END //
+
+DELIMITER ;
+
+-- Using the function
+SELECT function_name(param1_value, ...);
+```
+
+
 ```sql
 DELIMITER //
 
@@ -131,6 +188,25 @@ Uvnitř triggeru máme přístup k původním a novým datům:
 *   `INSTEAD OF` – místo akce (často u pohledů).
 
 **Syntaxe (MySQL) – Příklad:**
+```sql
+DELIMITER //
+
+-- Generic trigger
+CREATE TRIGGER trigger_name
+{BEFORE | AFTER} {INSERT | UPDATE | DELETE} ON table_name
+FOR EACH ROW
+BEGIN
+    -- Trigger logic using OLD and NEW
+    [IF condition THEN
+        SET NEW.column = value;
+     END IF;]
+    [INSERT INTO log_table(...) VALUES(...);]
+END //
+
+DELIMITER ;
+```
+
+
 ```sql
 DELIMITER //
 
