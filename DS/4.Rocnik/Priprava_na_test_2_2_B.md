@@ -9,7 +9,7 @@
 ### **Syntaxe – vytvoření / změna / smazání**
 
 ```sql
--- MySQL
+-- MySQL vytvoření
 DELIMITER //
 CREATE PROCEDURE proc_name(IN p1 INT, OUT p2 INT)
 BEGIN
@@ -17,11 +17,11 @@ BEGIN
 END //
 DELIMITER ;
 
--- MySQL změna
+-- změna
 ALTER PROCEDURE proc_name COMMENT 'popis';
 DROP PROCEDURE proc_name;
 
--- MSSQL začátek změny
+-- začátek změny
 ALTER PROCEDURE dbo.proc_name
 AS
 BEGIN
