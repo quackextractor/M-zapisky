@@ -47,7 +47,10 @@ SELECT * FROM view_name;
     * `BEFORE` – před provedením akce (kontrola dat).
     * `AFTER` – po provedení akce (logování).
     * `INSTEAD OF` – místo akce (často u pohledů).
-
+- **Akce:**
+	- `INSERT`
+	- `UPDATE`
+	- `DELETE`
 ### **Syntaxe – vytvoření / změna / smazání**
 
 ```sql
