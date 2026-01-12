@@ -1,6 +1,7 @@
 Přečtěte si soubor @zadani.txt s tématy testu a poté soubor @prompt_rules.txt s informacemi o prostředí.
 
 Poté vytvořte task pro každé téma.
+Pro cteni PDF jednotlive pouzijte python v cmd cli 
 Pro každé téma: Pečlivě analyzujte, co napsat do souboru tématu v adresáři @jednotliva-temata pomoci obsahu z temata-materialy-teorie. Pište v češtině. 
 
 Potom co jsou vsechny temata hotova, prepis vsechny temata do 
