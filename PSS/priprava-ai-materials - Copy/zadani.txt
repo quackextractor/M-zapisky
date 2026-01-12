@@ -1,3 +1,0 @@
-Témata které se tam mohu objevit: OSPF, VLAN, NAT, L2 bezpečnost, HSRP, etherchannel. 
-
-Písemka bude na hodině. Budu chtít uvést příkazy i vysvětlit nějaké pojmy. U příkazů mi nejde o přesnou syntaktickou správnost, ale pokud jste tyto věci dělali během cvičení, tak byste měli tušit, co napsat. Písemka bude koncipovaná tak, aby vaše odpovědi mohly být stručné.
