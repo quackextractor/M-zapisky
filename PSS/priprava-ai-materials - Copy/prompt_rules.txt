@@ -1,0 +1,24 @@
+Environment info:
+- cisco routers and switches
+- linux ubuntu rasberry PIs
+- windows 10 computers
+
+Return the following:
+
+- configuration table containing IPs, switches, routers, other devices, etc.
+	- if information is unknown or not specified, come up with values that work in the given situation\
+	- e.g. assignment requires one router to be in a specific state, exactly outline which router is the one and write code blocks accordingly
+	- specify how the devices should be connected (what interface names)
+- message in markdown form (DO NOT wrap the whole document in ```markdown ```, do wrap the codeblocks)
+	- title of codeblock with brief description
+	- codeblocks containing the configuration commands without the prompt indicators (Router> and Router#, etc.)
+	- do not write comments into codeblocks
+	- do not explicitly write to memory (persistency not needed)
+	- ensure each codeblock starts and ends in the same EXEC mode
+	- ensure the entire codeblock can be pasted in as is without further modification
+	- do not make indentations inside of codeblocks
+- return configuration code blocks for each router/switch
+	- any device that was not explicitly said to be set up in the assignment will have to be set up
+	- do this even if the scripts are similar, as absolute convenience with zero tech knowledge required is needed
+- return codeblocks for verifying functionality and assignment completion after user configures everything
+	- also specify expected outputs
