@@ -14,6 +14,19 @@ Základní vlastnosti:
 - **Rychlá konvergence**: Rychle reaguje na změny v síti.
 - **Dijkstrův algoritmus**: Používán pro výpočet nejkratší cesty.
 
+**1. Co je to Area (oblast)?**
+Představ si to jako **škálování**. Kdyby byla celá obrovská síť v jedné "placce", každý router by se zbláznil z množství informací o každé malé změně na druhém konci světa.
+
+* **Area** je logická skupina routerů.
+* Uvnitř Area znají routery detailní mapu sebe navzájem.
+* Mezi oblastmi se posílají jen "souhrny" (summary), což šetří výkon routerů.
+
+**2. Jak se počítá vzdálenost?**
+OSPF nepoužívá počet skoků (jako RIP), ale metriku zvanou **Cost** (cena).
+
+* Tato cena se vypočítá na základě **šířky pásma** (rychlosti linky, bandwidth).
+* Cílem Dijkstrova algoritmu je najít cestu s nejnižším součtem těchto cen.
+
 ### Konfigurace (IPv4)
 
 #### Základní nastavení procesu na routeru
