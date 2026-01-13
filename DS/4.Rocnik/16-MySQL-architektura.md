@@ -1,6 +1,32 @@
 # 16. MySQL Architektura
 
-***!! DOPLNIT CHYBEJICI INFORMACE ZDE !!***
+**Vnitřní struktura MySQL**
+
+* Systém je velmi flexibilní a nabízí různé druhy úložišť (storage engines).
+* Obsahuje velké množství pluginů, což znamená, že chování a správa dat záleží na použitém úložišti.
+
+**MySQL fyzická architektura**
+
+* Představuje vlastní realizaci systému, tedy souborový systém.
+* Architekturu dělíme na dvě hlediska:
+1. **Fyzické hledisko**: složky souborů.
+2. **Logické hledisko**: blokové schéma zpracování připojení.
+
+**Adresářová struktura:**
+
+1. **MySQL base directory**
+* a) **Program files** - knihovny, dokumenty, soubory pro UNIX atd.
+* b) **Executables** - spustitelné soubory jako `mysql`, `mysqld`, `mysqladmin`, `mysqldump`.
+
+1. **MySQL data directory**
+* a) **Systémová data** - server log file, status file, .ib log files, system tablespace.
+* b) **Data subdirectories** (pro každou databázi) - obsahují indexy + data, struktury objektů (.frm soubory) a katalogy.
+
+![[architektura-mysql.png]]
+
+**Důležitá poznámka:** Buffer je větší, ale pomalejší oproti cache.
+
+---
 
 klient - app, pomocí které se připojujeme k serveru
 server - MySQL instrukce, kde jsou uložena data
