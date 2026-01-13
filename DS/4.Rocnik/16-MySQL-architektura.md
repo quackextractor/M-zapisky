@@ -13,12 +13,12 @@ server - MySQL instrukce, kde jsou uložena data
 - query execution plan se sestavuje pro každý engine zvlášť
 - důvodem je, ze práce s diskem je nejpomalejší
 - kontroluje právo přístupu uživatele na daný disk (user access privileges)
-**metadata cache** - paměti pro metadata (názvy tabulek, atributu, omezeni, procedur, ..., uživatelských prav.. = to, co nejsou konkrétní uživatelská data) + ??? objektech
+**metadata cache** - paměti pro metadata (názvy tabulek, atributu, omezeni, procedur, ..., uživatelských prav.. = to, co nejsou konkrétní uživatelská data) + statistiky o objektech
 **Query Cache** - obsahuje předchozí, již provedené příkazy, na kterých byla provedena kontrola pomoci **parseru**
 - pokud je příchozí požadavek v té paměti, vezme si z ni a pouze se mu přidá nove unikátní sql_id, ale parser udělá analýzu znovu (zkrátí se čas zpracovaní)
 => query cache je příklad použití "předpřipravených dat"
 = data ahead of time in anticipation of it's use
 (**Key Cache**) - paměť, která obsahuje indexy (PKs nebo indexy vytvořené k tabulkám, které se zpracovávají)
 - pokud je index malý (B-strom pro vyhledávaní), tak se načtou i jeho data
-- pokud je index velký, ke v té paměti pouze b-strom a data jsou na disku v MyISAM ???
+- pokud je index velký, ke v té paměti pouze b-strom a data jsou na disku v MyISAM storage engine
 **MyISAM** (MySQL Indexed Sequential Access Method) - je to algoritmus přístupu k indexovaným datům od firmy IBM => rychli přístup k velmi velkému objemu dat
