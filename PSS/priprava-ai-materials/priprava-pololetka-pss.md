@@ -14,6 +14,7 @@ Základní vlastnosti:
 - **Rychlá konvergence**: Rychle reaguje na změny v síti.
 - **Dijkstrův algoritmus**: Používán pro výpočet nejkratší cesty.
 
+#### Doplňující otázky
 **1. Co je to Area (oblast)?**
 Představ si to jako **škálování**. Kdyby byla celá obrovská síť v jedné "placce", každý router by se zbláznil z množství informací o každé malé změně na druhém konci světa.
 
@@ -31,12 +32,13 @@ OSPF nepoužívá počet skoků (jako RIP), ale metriku zvanou **Cost** (cena).
 
 #### Základní nastavení procesu na routeru
 ```bash
-Router(config)# router ospf 10          # 10 je Process ID (lokální význam)
+Router(config)# router ospf 10          # 10 je Process ID (label)
 Router(config-router)# router-id 1.1.1.1 # Unikátní identifikátor routeru
 ```
 
 #### Přidání sítí do OSPF (klasický způsob)
 ```bash
+# network Process_ID Síť Wildcard_maska Oblast
 Router(config-router)# network 10.10.1.0 0.0.0.255 area 0  # Wildcard maska (inverzní maska)
 ```
 Pozor: Wildcard maska pro /30 (255.255.255.252) je 0.0.0.3.
