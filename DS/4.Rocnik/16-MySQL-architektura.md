@@ -1,3 +1,5 @@
+# 16. MySQL Architektura
+
 ***!! DOPLNIT CHYBEJICI INFORMACE ZDE !!***
 
 klient - app, pomocí které se připojujeme k serveru
