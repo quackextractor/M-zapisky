@@ -1,3 +1,5 @@
+***!! DOPLNIT CHYBEJICI INFORMACE ZDE !!***
+
 klient - app, pomocí které se připojujeme k serveru
 server - MySQL instrukce, kde jsou uložena data
 
