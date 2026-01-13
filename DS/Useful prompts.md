@@ -1,0 +1,1 @@
+ Zlepsi format a pravopis vychoziho md textu. Jinak upravujte jeji obsah co nejmene. 
