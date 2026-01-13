@@ -31,27 +31,27 @@ OSPF nepoužívá počet skoků (jako RIP), ale metriku zvanou **Cost** (cena).
 ### Konfigurace (IPv4)
 
 #### Základní nastavení procesu na routeru
-```bash
+```meow
 Router(config)# router ospf 10          # 10 je Process ID (label)
 Router(config-router)# router-id 1.1.1.1 # Unikátní identifikátor routeru
 ```
 
 #### Přidání sítí do OSPF (klasický způsob)
-```bash
+```meow
 # network Process_ID Síť Wildcard_maska Oblast
 Router(config-router)# network 10.10.1.0 0.0.0.255 area 0  # Wildcard maska (inverzní maska)
 ```
 Pozor: Wildcard maska pro /30 (255.255.255.252) je 0.0.0.3.
 
 #### Nastavení OSPF přímo na rozhraní (modernější způsob)
-```bash
+```meow
 Router(config)# interface g0/0/0
 Router(config-if)# ip ospf 10 area 0    # Zapne OSPF proces 10 pro Area 0 na tomto rozhraní
 ```
 
 #### Pasivní rozhraní
 Zabrání odesílání OSPF Hello paketů na rozhraní, kde nejsou další routery (bezpečnost a efektivita).
-```bash
+```meow
 Router(config-router)# passive-interface g0/0/1
 # nebo pro všechny a pak povolit konkrétní:
 Router(config-router)# passive-interface default
@@ -60,20 +60,20 @@ Router(config-router)# no passive-interface g0/0/0
 
 #### Propagace defaultní routy
 Pokud má router defaultní routu (např. do internetu), může ji poslat ostatním.
-```bash
+```meow
 Router(config-router)# default-information originate
 ```
 
 #### Point-to-Point síť
 Na spojích mezi dvěma routery (bez switche) se nevolí DR/BDR, což zrychluje konvergenci.
-```bash
+```meow
 Router(config-if)# ip ospf network point-to-point
 ```
 
 ### Konfigurace (IPv6) - OSPFv3
 Nutné povolit IPv6 routing: `ipv6 unicast-routing`.
 
-```bash
+```meow
 Router(config)# ipv6 router ospf 10
 Router(config-rtr)# router-id 1.1.1.1
 Router(config)# interface g0/0/0
@@ -101,20 +101,20 @@ VLAN (Virtual Local Area Network) umožňuje logicky rozdělit jednu fyzickou s�
 ### Konfigurace
 
 #### Vytvoření VLAN
-```bash
+```meow
 Switch(config)# vlan 10
 Switch(config-vlan)# name ZAMESTNANCI
 ```
 
 #### Přiřazení portu do VLAN (Access port)
-```bash
+```meow
 Switch(config)# interface f0/1
 Switch(config-if)# switchport mode access
 Switch(config-if)# switchport access vlan 10
 ```
 
 #### Konfigurace Trunku
-```bash
+```meow
 Switch(config)# interface g0/1
 Switch(config-if)# switchport trunk encapsulation dot1q  # Někdy nutné (starší modely podporují i ISL)
 Switch(config-if)# switchport mode trunk
@@ -123,7 +123,7 @@ Switch(config-if)# switchport trunk allowed vlan 10,20,99 # Povolení konkrétn�
 ```
 
 #### Konfigurace VTP
-```bash
+```meow
 Switch(config)# vtp domain MOJE_DOMENA
 Switch(config)# vtp mode server          # nebo client, transparent
 Switch(config)# vtp password TAJNE_HESLO
@@ -132,14 +132,14 @@ Switch(config)# vtp password TAJNE_HESLO
 
 #### Inter-VLAN Routing (Router-on-a-stick)
 Propojení VLAN mezi sebou pomocí routeru.
-```bash
+```meow
 Router(config)# interface g0/0.10        # Subinterface
 Router(config-subif)# encapsulation dot1Q 10  # Přiřazení k VLAN 10
 Router(config-subif)# ip address 192.168.10.1 255.255.255.0
 ```
 
 #### Inter-VLAN Routing (L3 Switch - SVI)
-```bash
+```meow
 Switch(config)# ip routing               # Povolení routování
 Switch(config)# interface vlan 10        # SVI (Switch Virtual Interface)
 Switch(config-if)# ip address 192.168.10.1 255.255.255.0
@@ -162,7 +162,7 @@ NAT překládá IP adresy v hlavičce paketu (typicky privátní na veřejné). 
 
 #### Definice rozhraní
 Nejprve musíme určit, kde je vnitřní (inside) a vnější (outside) síť.
-```bash
+```meow
 Router(config)# interface g0/0
 Router(config-if)# ip nat inside
 
@@ -171,12 +171,12 @@ Router(config-if)# ip nat outside
 ```
 
 #### Static NAT (1:1)
-```bash
+```meow
 Router(config)# ip nat inside source static 192.168.1.10 209.165.200.225
 ```
 
 #### Dynamic NAT (Pool)
-```bash
+```meow
 Router(config)# ip nat pool MY_POOL 209.165.200.226 209.165.200.240 netmask 255.255.255.224
 Router(config)# access-list 1 permit 192.168.1.0 0.0.0.255
 Router(config)# ip nat inside source list 1 pool MY_POOL
@@ -184,7 +184,7 @@ Router(config)# ip nat inside source list 1 pool MY_POOL
 
 #### PAT (NAT Overload)
 Použití jedné veřejné IP na rozhraní.
-```bash
+```meow
 Router(config)# access-list 1 permit 192.168.1.0 0.0.0.255
 Router(config)# ip nat inside source list 1 interface g0/1 overload
 ```
@@ -195,19 +195,19 @@ Linux používá `iptables` (nebo novější `nftables`). Pravidla se píší do
 
 #### Maškaráda (SNAT - Source NAT)
 Odpovídá PAT. Překládá odchozí provoz na IP adresu odchozího rozhraní.
-```bash
+```meow
 iptables -t nat -A POSTROUTING -o eth0 -j MASQUERADE
 ```
 *-t nat (tabulka nat), -A POSTROUTING (přidat do řetězce), -o eth0 (výstupní interface), -j MASQUERADE (cíl).*
 
 #### Port Forwarding (DNAT - Destination NAT)
 Přístup zvenku na vnitřní server (ekvivalent Static NAT s portem).
-```bash
+```meow
 iptables -t nat -A PREROUTING -i eth0 -p tcp --dport 80 -j DNAT --to-destination 192.168.1.50:80
 ```
 
 #### Zobrazení tabulky NAT
-```bash
+```meow
 iptables -t nat -L -n -v
 ```
 
@@ -229,7 +229,7 @@ Zabezpečení na 2. vrstvě (Data Link Layer) je klíčové, protože útoky zde
 
 #### Port Security
 Omezí počet MAC adres na portu nebo povolí jen konkrétní.
-```bash
+```meow
 Switch(config)# interface f0/1
 Switch(config-if)# switchport mode access  # Musí být access port
 Switch(config-if)# switchport port-security
@@ -241,7 +241,7 @@ Switch(config-if)# switchport port-security violation shutdown  # (nebo restrict
 
 #### DHCP Snooping
 Rozlišuje porty na **Trusted** (DHCP server, uplink) a **Untrusted** (klienti). Zahazuje DHCP Offer z untrusted portů.
-```bash
+```meow
 Switch(config)# ip dhcp snooping
 Switch(config)# ip dhcp snooping vlan 10
 Switch(config)# interface g0/1             # Uplink k serveru
@@ -250,7 +250,7 @@ Switch(config-if)# ip dhcp snooping trust
 
 #### Dynamic ARP Inspection (DAI)
 Ověřuje ARP pakety proti vazbám z DHCP Snooping databáze.
-```bash
+```meow
 Switch(config)# ip arp inspection vlan 10
 Switch(config)# interface g0/1             # Uplink
 Switch(config-if)# ip arp inspection trust
@@ -258,7 +258,7 @@ Switch(config-if)# ip arp inspection trust
 
 #### Mitigace STP útoků (BPDU Guard / PortFast)
 Zapnout na portech pro koncová zařízení. Pokud přijde BPDU (znak switche), port se vypne.
-```bash
+```meow
 Switch(config)# interface f0/1
 Switch(config-if)# spanning-tree portfast
 Switch(config-if)# spanning-tree bpduguard enable
@@ -286,7 +286,7 @@ Dovoluje více routerům sdílet jednu virtuální IP adresu a MAC adresu, ktero
 Nastavuje se na interfacu (nebo subinterfacu/SVI), který je bránou pro LAN.
 
 **R1 (Active):**
-```bash
+```meow
 R1(config)# interface g0/1
 R1(config-if)# ip address 192.168.1.2 255.255.255.0  # Fyzická IP
 R1(config-if)# standby 1 ip 192.168.1.1              # Virtuální IP (Skupina 1)
@@ -295,7 +295,7 @@ R1(config-if)# standby 1 preempt                     # Převezme roli, když se 
 ```
 
 **R2 (Standby):**
-```bash
+```meow
 R2(config)# interface g0/1
 R2(config-if)# ip address 192.168.1.3 255.255.255.0  # Fyzická IP
 R2(config-if)# standby 1 ip 192.168.1.1              # Stejná virtuální IP
@@ -304,7 +304,7 @@ R2(config-if)# standby 1 preempt                     # Doporučeno i zde
 ```
 
 #### Ověření
-```bash
+```meow
 R1# show standby brief
 R1# show standby
 ```
@@ -331,7 +331,7 @@ Všechny porty v channelu musí mít shodné nastavení:
 ### Konfigurace
 
 #### L2 EtherChannel (LACP)
-```bash
+```meow
 Switch(config)# interface range g0/1 - 2
 Switch(config-if-range)# channel-group 1 mode active    # Vytvoří interface Port-channel 1
 Switch(config-if-range)# exit
@@ -343,7 +343,7 @@ Switch(config-if)# switchport trunk allowed vlan 10,20
 
 #### L3 EtherChannel (Routed Port)
 Na L3 switchi. Interface má IP adresu, ne switchport.
-```bash
+```meow
 Switch(config)# interface range g0/1 - 2
 Switch(config-if-range)# no switchport               # Změní na L3 port
 Switch(config-if-range)# channel-group 1 mode active
@@ -354,7 +354,7 @@ Switch(config-if)# ip address 192.168.1.1 255.255.255.0
 ```
 
 ### Ověření
-```bash
+```meow
 Switch# show etherchannel summary
 ```
 Hledáme flag **SU** (S = Layer2, U = In Use) nebo **RU** (R = Layer3, U = In Use).
