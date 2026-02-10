@@ -1,35 +1,41 @@
 ## Datový sklad (Data warehouse DWH)
-- centralni **uloziste** dat z jednoho nebo vice zdroju, optimalizovane pro ??? analyzy, reportingu a buisiness intelligence.
-- vetsinou ve tvaru star db, (snowflake db) nebo galaxy db 
-- zakladni je star db, ktera se sklada z jedne facy tabulky a vice dim tabulek
-- tato db slouzi pro OLAP procesy
--
 
-Pr. rozdil mezi OLTP a OLAP 
-- OLTP je nad normalizovanou db v provozu
+* Centrální **úložiště** dat z jednoho nebo více zdrojů, optimalizované pro analýzy, reporting a business intelligence.
+* Většinou ve tvaru star DB, (snowflake DB) nebo galaxy DB.
+* Základní je star DB, která se skládá z jedné fact tabulky a více dim tabulek.
+* Tato DB slouží pro OLAP procesy.
 
-diagram s PIDs
-druch < zvire < adopce > utulek > mesto
-![[OLTP.png]]
+Př. rozdíl mezi OLTP a OLAP
 
-- pro caste transakce (tzn insert, update, delete) + velky pocet
-- OLAP diagram
-![[OLAP.png]]
+* OLTP je nad normalizovanou DB v provozu.
+
+Diagram s PIDs
+Druh < Zvíře < Adopce > Útulek > Město
+![OLTP.png]
+
+* Pro časté transakce (tzn. insert, update, delete) + velký počet.
+* OLAP diagram
+![OLAP.png]
 
 ## Vizualizace dat v Power BI
-- je proces grafického znazorneni informaci a dat
-- vyuziva vizualni prvky jako grafy a mapy pro pochopeni trendu a vzoru (patterns) v datech
-- cilem je transformovat  abstrakni data do srozumitelny formy (storytelling)
-- -> duvodem je efektivnejsi ??? ??? zalozene na faktech (Data-driven decision making) a schopmost rychle identifikovat klicove identifikatory **vykonnosti** (**power** BI)
 
-### Hlavní funkcionalita PowerBI
-1. **Model View** ... zobrazeni dim a fact tabulek a jejich vazeb (joins, název jako ER model)
-2. **Power Query** ... **umoznuje** editaci tabulek a tedy **transformaci** -> ELT process
-3. **Dashboard** ... vizualizace dat pomoci grafu (napr. tab, sloupec, graf)
+* Je proces grafického znázornění informací a dat.
+* Využívá vizuální prvky, jako grafy a mapy, pro pochopení trendů a vzorů (patterns) v datech.
+* Cílem je transformovat abstraktní data do srozumitelné formy (storytelling).
+* -> Důvodem je efektivnější **rozhodování** založené na faktech (Data-driven decision making) a schopnost rychle identifikovat klíčové identifikátory **výkonnosti** (**Power** BI).
+
+### Hlavní funkcionalita Power BI
+
+1. **Model View** ... zobrazení dim a fact tabulek a jejich vazeb (joins, název jako ER model).
+2. **Power Query** ... **umožňuje** editaci tabulek a tedy **transformaci** -> ELT proces.
+3. **Dashboard** ... vizualizace dat pomocí grafů (např. tabulka, sloupec, graf).
+
 ### DAX (Data Analysis Expressions)
-jazyk pro tvorbu pokrocilych vypoctu a mereni
+
+Jazyk pro tvorbu pokročilých výpočtů a měření.
 
 **Import dat:**
-- a) **import** - data se nahraji primo dovnitr napr. jako csv soubor
-- b) **direct query** - pripojeni primo na serveru (vestsinou na cloud)
-- = (live connection) 
+
+* a) **Import** - data se nahrají přímo dovnitř, např. jako CSV soubor.
+* b) **Direct Query** - připojení přímo na server (většinou na cloud).
+* = (Live connection)
