@@ -52,7 +52,7 @@ Skládají se z **FACT tabulek** (měřitelné údaje) a **DIM tabulek** (číse
 * **Snowflake Schema (Vločka):** DIM tabulky jsou normalizované (rozvětvené). Odstraňuje redundanci, ale vede ke složitějším dotazům a pomalejšímu výkonu.
 * **Galaxy Schema (Galaxie):** Obsahuje více FACT tabulek sdílejících stejné DIM tabulky. Vhodné pro sledování více nezávislých procesů.
 
-[Image comparing Star schema, Snowflake schema, and Galaxy schema]
+![[dwh.png]]
 
 ---
 
