@@ -98,7 +98,7 @@ Skládají se z **FACT tabulek** (měřitelné údaje) a **DIM tabulek** (číse
 ### **Jaký je rozdíl mezi MSSQL a MySQL zálohováním?**
 
 
-!!!! DODAT INFO !!!!
+!!!! DODAT INFO, nemám zdroj !!!!
 
 * MySQL využívá pro export vestavěný nástroj `mysqldump`.
 * Archivní soubory obecně nelze použít jako přímou zálohu kvůli absenci systémových souborů.
