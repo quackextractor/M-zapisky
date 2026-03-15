@@ -20,6 +20,8 @@
 
 * Systémový katalog udržuje logickou strukturu objektů a metadata schématu, jako jsou názvy atributů a omezení.
 
+![MySQL_Logical_Architecture](https://media.geeksforgeeks.org/wp-content/uploads/20210211183907/MySQLArchi.png)
+
 ---
 
 ## **2. Data Pipeline**
