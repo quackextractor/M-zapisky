@@ -1,118 +1,113 @@
-## **1. Architektura MySQL**
+## 1. Architektura MySQL
 
-### **Jaká je logická struktura MySQL a co dělají jednotlivé bloky?**
+### Jaká je logická struktura MySQL a co dělají jednotlivé bloky?
 
 * **Klient:** Aplikace, pomocí které se uživatel připojuje k serveru.
-* **Server:** Samotná MySQL instance, kde jsou uložena data.
-* **mysqld (daemon):** Vícevláknový proces běžící na pozadí, který spravuje příchozí a odchozí požadavky a přiděluje připojení unikátní **thread_id**. Připojení (session) trvá od úspěšného propojení až do jeho ukončení.
-* **Parser (analyzátor):** Kontroluje syntaxi SQL příkazů v připojeních, generuje automaticky jedinečné **sql_id** a ověřuje uživatelská oprávnění.
-* **Optimizer:** Připravuje **execution plan** (prováděcí plán) pro přístup na konkrétní oblast na disku. Pracuje multisessionově, to znamená, že pracuje s příkazy různých připojení.
-* **Metadata cache:** Paměť pro metadata, jako jsou názvy tabulek, procedur a uživatelská práva.
-* **Query Cache:** Uchovává předchozí analyzované příkazy pro zrychlení zpracování.
-* **Key Cache:** Paměť pro indexy, u velkých indexů obsahuje B-strom a data jsou na disku.
 
-### **Jak vypadá fyzická struktura a co obsahují hlavní adresáře?**
+* **Server:** Databázová instance, kde jsou uložena data.
 
-* **MySQL base directory:** Obsahuje programové soubory (knihovny, dokumenty) a spustitelné soubory jako `mysql`, `mysqld` nebo `mysqldump`.
-* **MySQL data directory:** Obsahuje systémová data (logy, status file) a podadresáře pro jednotlivé databáze s daty a strukturami objektů (.frm soubory).
+* **mysqld (daemon):** Vícevláknový proces běžící na pozadí, který spravuje příchozí a odchozí požadavky. Přiděluje každému připojení unikátní thread_id, přičemž toto připojení (session) trvá od propojení až do jeho ukončení.
 
-![MySQL_Logical_Architecture](https://media.geeksforgeeks.org/wp-content/uploads/20210211183907/MySQLArchi.png)
+* **Parser (analyzátor):** Kontroluje syntaxi SQL příkazů, ověřuje uživatelská oprávnění a automaticky generuje pro příkazy jedinečné sql_id.
 
-### **Co je to systémový katalog?**
+* **Optimizer:** Připravuje prováděcí plán (execution plan) pro přístup na disk a pracuje multisessionově s příkazy různých připojení.
 
-* Systémový katalog udržuje logickou strukturu objektů a metadata schématu, jako jsou názvy atributů a omezení.
+* **Metadata cache:** Paměť vyhrazená pro metadata, jako jsou názvy tabulek, procedur, uživatelská práva a statistiky.
 
-### **Storage Engines (Úložiště)** Úložiště spravují fyzická data a provádí SQL příkazy pro jejich načítání a ukládání.
-* **InnoDB:** Využívá transakce a pravidla ACID, poskytuje zamykání nízké úrovně (řádkové zamykání).
-* **NDB (Network Database):** Umožňuje spravovat data sdílená více MySQL servery.
-* **MyISAM:** Netransakční úložiště pro rychlé čtení, které se využívá jako úložiště pro data používaných indexů.
-* **Memory:** Netransakční úložiště s table-level zamykáním, které umožňuje pouze příkazy INSERT, SELECT a REPLACE.
-* **CSV:** Ukládá data ve formátu CSV.
+* **Query Cache:** Paměť uchovávající předchozí analyzované příkazy. Zkracuje čas zpracování tím, že funguje jako předpřipravená data, pokud se najde shoda pro příchozí požadavek.
 
----
+* **Key Cache:** Paměť určená pro indexy. U velkých indexů uchovává pouze B-strom, zatímco samotná data zůstávají na disku.
 
-## **2. Data Pipeline**
+### Jak vypadá fyzická struktura a co obsahují hlavní adresáře?
 
-### **Co jsou OLTP a OLAP, jaký je mezi nimi rozdíl a význam?**
+* **MySQL base directory:** Zahrnuje programové soubory, knihovny a spustitelné soubory jako `mysql`, `mysqld`, `mysqladmin` nebo `mysqldump`.
 
-* **OLTP (Online Transaction Processing):** Systém nad plně normalizovanou databází optimalizovaný pro časté transakce (INSERT, UPDATE, DELETE) a běžný provoz.
-* **OLAP (Online Analytical Processing):** Proces pro efektivní získávání dat z datového skladu pro pokročilé analýzy.
-* **Rozdíl:** OLTP zajišťuje operativní chod a konzistenci bez redundancí, zatímco OLAP data denormalizuje pro rychlé čtení rozsáhlých statistik.
+* **MySQL data directory:** Obsahuje systémová data jako server log file, status file, .ib log files a system tablespace. Dále se zde nachází podadresáře jednotlivých databází s uloženými indexy, daty a strukturami objektů ve formátu .frm.
 
-### **Jak fungují procesy ETL/ELT a proč se provádí čištění dat?**
+### Co je to systémový katalog?
 
-* **Definice:** Jsou to procesy zajišťující přechod dat z OLTP do analytického OLAP skladu. Rozdíl spočívá v pořadí operací: ETL znamená Extract, Transform, Load, zatímco ELT znamená Extract, Load, Transform. Přímý přechod z normalizované databáze do DIM tabulek se provádí pomocí pohledů (VIEWS).
-* **Čištění dat:** Provádí se k vyřešení chybějících údajů a navázání unikátních klíčů pro analytické potřeby.
-* **Klíče v OLAP:** Místo původních primárních klíčů se používají unikátní Surrogate Keys (SKs). Dále se využívají Natural Keys (NKs), což jsou přiřazená unikátní čísla jako například čip ID nebo rodné číslo.
+* Systémový katalog udržuje logickou strukturu objektů a metadata databázového schématu.
 
 ---
 
-## **3. Datový sklad (DWH)**
+## 2. Data Pipeline
 
-### **Jaký je rozdíl mezi DWH a normalizovanou databází a proč se DWH používá?**
+### Co jsou OLTP a OLAP, jaký je mezi nimi rozdíl a význam?
 
-* **Rozdíl:** DWH je centrální úložiště optimalizované pro reporting a Business Intelligence, zatímco normalizovaná DB slouží pro běžný provoz.
-* **Důvody použití:** DWH využívá denormalizaci a předpočítané agregace ke zrychlení složitých vyhledávání a minimalizaci počtu spojování tabulek (JOINů).
+* **OLTP (Online Transaction Processing):** Systém nasazený nad plně normalizovanou databází, který je optimalizovaný pro velké množství rychlých transakcí (INSERT, UPDATE, DELETE) v běžném provozu.
 
-### **Jaké jsou typy DWH schémat a jak se liší?**
+* **OLAP (Online Analytical Processing):** Systém pro efektivní získávání a čtení dat z datového skladu pro účely pokročilých analýz.
 
-Skládají se z **FACT tabulek** (měřitelné údaje) a **DIM tabulek** (číselníky).
+* **Rozdíl:** OLTP slouží k zajištění operativního chodu bez datových redundancí, naproti tomu OLAP cíleně pracuje s denormalizovanými daty (tabulky FACT a DIM) pro urychlení reportingu.
 
-* **Star Schema (Hvězda):** Jedna centrální FACT tabulka a okolní denormalizované DIM tabulky. Je nejjednodušší a nejrychlejší pro dotazování.
-* **Snowflake Schema (Vločka):** DIM tabulky jsou normalizované (rozvětvené). Odstraňuje redundanci, ale vede ke složitějším dotazům a pomalejšímu výkonu.
-* **Galaxy Schema (Galaxie):** Obsahuje více FACT tabulek sdílejících stejné DIM tabulky, kterým se říká Conformed Dimensions. Vhodné pro sledování více nezávislých procesů.
+### Jak fungují procesy ETL/ELT a proč se provádí čištění dat?
 
-![schema-comparison](dwh.png)
+* **Definice procesů:** Slouží k přechodu dat z normalizované OLTP databáze do analytického OLAP skladu. Zkratky určují pořadí operací - Extract, Transform, Load (ETL) nebo Extract, Load, Transform (ELT).
 
----
+* **Čištění dat:** Provádí se například kvůli chybějícím údajům. Nelze si vymýšlet povinné údaje, pokud tedy data přijdou nekompletní, musí se poslat zpět s chybovou hláškou.
 
-## **4. Vizualizace dat**
-
-### **Jaký je princip a důvod vizualizace dat?**
-
-* **Princip:** Grafické znázornění informací a dat pomocí vizuálních prvků jako jsou grafy nebo mapy.
-* **Důvod:** Transformace abstraktních dat do srozumitelné formy, čemuž se říká storytelling. Cílem je efektivnější rozhodování založené na faktech (Data-driven decision making) a schopnost rychle identifikovat klíčové identifikátory výkonnosti.
-
-### **Co představují datové modely ve vizualizaci?**
-
-* Zobrazují propojení DIM a FACT tabulek a tvorbu jejich vzájemných vazeb.
-
-### **Jaká je hlavní funkcionalita v Power BI?**
-
-* **Model View:** Pohled na schéma a vytváření vazeb mezi tabulkami.
-* **Power Query:** Nástroj pro editaci a transformaci tabulek (zajišťuje proces ELT).
-* **Dashboard:** Vizualizační plátno s grafy pro prezentaci výsledků.
-* **DAX (Data Analysis Expressions):** Jazyk, který se využívá pro tvorbu pokročilých výpočtů a měření.
-
-### **Jaké jsou způsoby importu dat?**
-
-* **Import:** Fyzické nahrání dat do paměti aplikace (např. z .csv nebo Excelu).
-* **Direct Query (Live connection):** Připojení naživo přímo ke zdrojovému serveru nebo cloudu.
+* V rámci procesů a tvorby DIM tabulek se místo původních primárních klíčů definují jedinečné Surrogate Keys (SKs) a využívají se i Natural Keys (NKs) jako reálná identifikační čísla.
 
 ---
 
-## **5. Zálohování a archivace**
+## 3. Datový sklad (DWH)
 
-### **Jaký je rozdíl mezi archivací a zálohou dat?**
+### Jaký je rozdíl mezi DWH a normalizovanou databází a proč se DWH používá?
 
-* **Archivace:** Dlouhodobé uložení dat (10+ let) v jednoduchém formátu (csv, json) pro audity. Přístup je málo častý.
-* **Záloha:** Krátkodobé uložení v plném formátu pro rychlou obnovu dat při ztrátě. Probíhá pravidelně.
+* **Rozdíl:** DWH představuje centrální úložiště stavěné primárně pro reporting a analýzy, zatímco běžná normalizovaná databáze je určena k zajištění plynulého provozu.
 
-### **Jaké existují typy záloh?**
+* **Důvod použití:** DWH využívá strukturu jedné faktové tabulky a více dimenzních tabulek pro OLAP procesy k rychlému čtení rozsáhlých objemů informací.
 
-* Lze zálohovat celou databázi, její část, pouze změny, nebo jednotlivé soubory včetně transakčního logu.
+### Jaké jsou typy DWH schémat a jak se liší?
 
-### **K čemu slouží obnova dat?**
+* **Star Schema (Hvězda):** Obsahuje centrální FACT tabulku a denormalizované DIM tabulky. Je strukturálně nejjednodušší a zajišťuje nejrychlejší dotazování.
 
-* Slouží k nápravě po selhání disku, uživatelských chybách (smazání tabulky) nebo pro administrativní přenosy mezi servery.
+* **Snowflake Schema (Vločka):** Její DIM tabulky jsou normalizované, tedy rozvětvené. Odstraňuje se tím sice redundance dat, ale vede to ke složitějším dotazům s více spojeními (JOINy) a ke zpomalení výkonu.
 
-### **Jaké existují typy záloh a k čemu slouží?**
+* **Galaxy Schema (Galaxie):** Zahrnuje více různých FACT tabulek, které navzájem sdílejí stejné DIM tabulky (tzv. Conformed Dimensions). Je vhodná ke sledování více procesů najednou.
 
-* Lze zálohovat celou databázi, část databáze, změny v databázi nebo jednotlivé soubory a transakční log.
-* Slouží k nápravě dat po chybách disku, chybách uživatele nebo výpadku systému.
-* Kromě záchrany dat slouží zálohy k administrativním důvodům, jako jsou účetní audity, úspora místa nebo přenos dat mezi různými servery.
+---
 
-!!!! DODAT INFO, nemám zdroj !!!!
+## 4. Vizualizace dat
 
-* MySQL využívá pro export vestavěný nástroj `mysqldump`.
-* Archivní soubory obecně nelze použít jako přímou zálohu kvůli absenci systémových souborů.
+### Jaký je princip, důvod a tvorba vizualizace dat?
+
+* **Princip:** Grafické zobrazení informací a dat prostřednictvím vizuálních prvků jako jsou mapy nebo grafy.
+
+* **Důvod:** Slouží k transformaci abstraktních dat do pochopitelné podoby neboli storytellingu pro sledování trendů a vzorů. Umožňuje efektivní rozhodování na základě faktů a odhalování klíčových indikátorů výkonnosti.
+
+* **Tvorba a modely:** Datové modely fyzicky zobrazují fact a dim tabulky a tvorbu spojení (vazeb) mezi nimi. Samotná tvorba vizualizací pak probíhá rozmisťováním grafů na dashboardu.
+
+### Jaká je hlavní funkcionalita v Power BI a možnosti importu?
+
+* **Model View:** Pohled sloužící k prohlížení tabulek a vytváření vazeb.
+
+* **Power Query:** Nástroj umožňující editaci a transformaci tabulek v rámci ELT procesu.
+
+* **Dashboard:** Plátno pro vizualizaci výsledků.
+
+* **DAX:** Jazyk pro měření a pokročilé výpočty.
+
+* **Import dat:** * **Import:** Fyzické nahrání celých dat do paměti aplikace, například z formátu CSV.
+
+* **Direct Query:** Živé připojení (Live connection) směřující rovnou ke cloudovému nebo serverovému zdroji.
+
+---
+
+## 5. Zálohování a archivace
+
+### Jaký je rozdíl mezi archivací a zálohou dat?
+
+* **Archivace:** Uchovává data dlouhodobě (10 a více let) v jednoduchých formátech typu CSV nebo JSON z důvodů historie a auditů. Předpokládá se velmi málo častý přístup k souborům.
+
+* **Záloha:** Znamená pravidelné uložení dat v plném formátu na krátkou dobu na aktivní server. Slouží k velmi rychlé obnově a archivní soubory k ní nelze použít, protože neobsahují systémové soubory.
+
+### Jaké existují typy záloh a k čemu slouží obnova?
+
+* **Typy záloh:** Zálohovat je možné celou databázi, vybranou část databáze, transakční logy, jednotlivé soubory nebo pouze samotné změny v datech.
+
+* **Obnova dat:** Slouží primárně k záchraně dat po výpadku systému, poškození disku nebo chybách uživatele (např. po smazání tabulky). Zálohy se používají také pro přesun dat mezi servery, úsporu místa nebo pro účetní audity.
+
+### Jaký je rozdíl mezi MSSQL a MySQL zálohováním?
+
+* V poznámkách je uvedeno pouze to, že systém MySQL používá pro export dat zabudovaný nástroj `mysqldump`.
