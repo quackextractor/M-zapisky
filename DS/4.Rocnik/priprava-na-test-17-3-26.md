@@ -16,11 +16,11 @@
 * **MySQL base directory:** Obsahuje programové soubory (knihovny, dokumenty) a spustitelné soubory jako `mysql`, `mysqld` nebo `mysqldump`.
 * **MySQL data directory:** Obsahuje systémová data (logy, status file) a podadresáře pro jednotlivé databáze s daty a strukturami objektů (.frm soubory).
 
+![MySQL_Logical_Architecture](https://media.geeksforgeeks.org/wp-content/uploads/20210211183907/MySQLArchi.png)
+
 ### **Co je to systémový katalog?**
 
 * Systémový katalog udržuje logickou strukturu objektů a metadata schématu, jako jsou názvy atributů a omezení.
-
-![MySQL_Logical_Architecture](https://media.geeksforgeeks.org/wp-content/uploads/20210211183907/MySQLArchi.png)
 
 ---
 
