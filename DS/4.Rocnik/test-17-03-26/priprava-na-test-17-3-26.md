@@ -26,6 +26,8 @@
 
 ![MySQL_Logical_Architecture](https://media.geeksforgeeks.org/wp-content/uploads/20210211183907/MySQLArchi.png)
 
+# DOPLNIT MySQL fyzické schema s adresářema a popis bloků
+
 ### Co je to systémový katalog?
 
 * Systémový katalog udržuje logickou strukturu objektů a metadata databázového schématu.
@@ -69,7 +71,7 @@
 * **Galaxy Schema (Galaxie):** Zahrnuje více různých FACT tabulek, které navzájem sdílejí stejné DIM tabulky (tzv. Conformed Dimensions). Je vhodná ke sledování více procesů najednou.
 
 * Co je to FACT, DIM?
-
+# DOPLNIT
 - FACT =~ činnost
 - DIM = číselníky
 
@@ -119,11 +121,13 @@
 * **Obnova dat:** Slouží primárně k záchraně dat po výpadku systému, poškození disku nebo chybách uživatele (např. po smazání tabulky). Zálohy se používají také pro přesun dat mezi servery, úsporu místa nebo pro účetní audity.
 
 * **Transakční log:**
+# DOPLNIT
 
 ### Jaký je rozdíl mezi MSSQL a MySQL zálohováním?
 
 * V poznámkách je uvedeno pouze to, že systém MySQL používá pro export dat zabudovaný nástroj `mysqldump`. 
 * = každá tabulka do zvláštního souboru, možná částečná obnova
 * Jinak MySQL nemá zálohování, dělá se export.
-* není to záloha, data se dají číst přímo ze zálohy, neproběhne serializace 
+* není to záloha, data se dají číst přímo ze zálohy, neproběhne serializace
+# DOPLNIT
 
