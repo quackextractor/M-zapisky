@@ -34,7 +34,7 @@
 
 **1. MySQL base directory (Základní adresář)**
 Adresář programu MySQL:
-* **Program files:** Obsahuje systémové knihovny, dokumenty a specifické soubory (např. pro systém UNIX) [1].
+* **Program files:** Obsahuje systémové knihovny, dokumenty a specifické soubory (např. pro systém UNIX).
 * **Executables (Spustitelné soubory):** Obsahuje důležité spouštěcí programy a nástroje, jako jsou 
 	* `mysql` (klient), 
 	* `mysqld` (hlavní proces neboli daemon běžící na pozadí), 
