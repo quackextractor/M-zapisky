@@ -63,6 +63,12 @@ Obsluhuje přímou komunikaci s fyzickým diskem.
 - Umožňuje (například u jádra InnoDB) **efektivní a rychlé transakční zpracování (ACID)**.
 - Je **kapacitně větší, ale mírně pomalejší** než cache.
 
+**Proč je paměť zásadní pro výkon?**
+* Výkon databáze je limitován rychlostí přístupu k datům, přičemž **čtení z disku je nejpomalejší operací**.
+* Optimalizátor se proto snaží **minimalizovat přístupy na disk** při sestavování prováděcího plánu.
+* Ukládání dotazů, struktury a indexů do rychlé paměti **drasticky snižuje zátěž disku a šetří procesorový čas**.
+* Výsledkem je **mnohonásobně rychlejší odbavování požadavků klientů**.
+
  #### 1.3 K čemu slouží **Systémový katalog** z pohledu administrátora a jaká metadata obsahuje?
 
 ## **2. Datové sklady (DWH)**
