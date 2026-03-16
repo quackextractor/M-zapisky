@@ -1,29 +1,101 @@
 # Test A
 
-## 1. Architektura MySQL
+Zde je vypracování zadaných otázek pro **Test A** přesně podle požadovaného formátu, struktury a hloubky, která odpovídá vypracování Testu B.
 
-* Popište **logickou strukturu** MySQL (jednotlivé bloky).
-* Vysvětlete, jak probíhá **zpracování dotazu**.
-* Co je to **Storage Engine** a jaký je hlavní rozdíl mezi **InnoDB** a **MyISAM**?
+### Test A
 
-## 2. Data Pipeline & DWH
+#### 1. Architektura MySQL
 
-* Vysvětlete rozdíl mezi systémy **OLTP a OLAP** a uveďte příklad použití pro každý z nich.
-* Jaký je rozdíl mezi **ETL a ELT** procesy? Stručně popište jednotlivé fáze.
-* Vysvětlete pojem **Surrogate Keys** (náhradní klíče) a proč se používají v DWH.
+##### 1.1 Popište logickou strukturu MySQL (jednotlivé bloky).
+Logické hledisko MySQL architektury představuje blokové schéma zpracování připojení a příkazů. Skládá se z těchto klíčových komponent:
+*   **Klient:** Aplikace (rozhraní), pomocí které se uživatel připojuje k serveru a odesílá požadavky.
+*   **Server (mysqld / daemon):** Hlavní vícevláknový proces na pozadí, který obsluhuje příchozí připojení (vytváří *session* s unikátním `thread_id`) a spravuje data.
+*   **Parser (Analyzátor):** Modul kontrolující SQL syntaxi a oprávnění. Každému příkazu přidělí jedinečné `sql_id`.
+*   **Cache a Buffery:** Paměťové bloky určené pro optimalizaci. Patří sem **Query Cache** (předpřipravené a již zkontrolované dotazy), **Metadata Cache** (struktury, názvy a omezení) a **Key Cache** (vyhledávací stromy a indexy).
+*   **Optimizer:** Modul zodpovědný za sestavení nejefektivnějšího prováděcího plánu (Execution plan) přístupu na fyzický disk pro každé úložiště zvlášť, čímž minimalizuje pomalou práci s diskem.
+*   **Storage Engine:** Různé softwarové nástavby spravující samotné fyzické ukládání, I/O operace a zabezpečení dat na disku.
 
-## 3. Zálohování a archivace
+![mysql-logical-architecture](mysql-logical-architecture.png)
 
-* Vysvětlete rozdíl mezi **zálohou (backup)** a **archivací dat** (uveďte příklad pro obojí).
-* Jaké základní **typy záloh** znáte a jaký je význam **transakčního logu**.
-* Popište proces **obnovy dat (recovery)** – co je jeho cílem?
 
-## 4. Vizualizace a Power BI
+##### 1.2 Vysvětlete, jak probíhá zpracování dotazu.
+Zpracování SQL dotazu probíhá v několika fázích pro zajištění maximální rychlosti a bezpečnosti:
+1.  **Příjem a syntaktická analýza:** Klient odešle SQL dotaz, který zachytí proces *mysqld*. Předá jej **Parseru**, který zkontroluje správnost syntaxe a oprávnění uživatele.
+2.  **Hledání v Query Cache:** Server se podívá do rychlé mezipaměti (Query Cache), zda se v ní již nachází výsledek shodného dotazu z předchozích volání. Pokud ano, Parser mu pouze přiřadí nové `sql_id` a systém ihned vrací hotová data bez další práce (využije předpřipravená data).
+3.  **Optimalizace:** Pokud dotaz v cache není, předá se **Optimizeru**, který s ohledem na velikost tabulek a dostupnost indexů z *Key Cache* navrhne optimální cestu (Execution plan) pro čtení z disku.
+4.  **Provedení ve Storage Engine:** Optimizer tento plán předá konkrétnímu úložišti (Storage Engine), které načte a zpracuje fyzická data z disku a vrátí je klientovi.
 
-* Popište hlavní komponenty **Power BI Desktop**.
-* Co jsou **relace** v datovém modelu a proč jsou nezbytné pro správnou vizualizaci?
-* K čemu se v Power BI používá jazyk **DAX**?
-* Vyjmenujte 3 základní **typy grafů** a uveďte, pro jaký účel se hodí.
+##### 1.3 Co je to Storage Engine a jaký je hlavní rozdíl mezi InnoDB a MyISAM?
+**Storage Engine** je specializovaný softwarový modul v MySQL, který má na starosti fyzický *file management* – tedy provádí vlastní SQL příkazy pro načítání, ukládání dat a obsluhu určité oblasti na pevném disku.
+
+**Hlavní rozdíly:**
+*   **InnoDB:** Je **transakční engine**, který plně podporuje principy ACID (spolehlivost transakcí) a pro zajištění bezpečnosti v multithreadovém provozu provádí přesné **zamykání na úrovni jednotlivých řádků** (low-level locking).
+*   **MyISAM:** Je **netransakční engine**, který poskytuje velmi **rychlé čtení velkých objemů dat** na úkor transakčního zabezpečení. Místo řádků zamyká při zápisech celé tabulky. Často se využívá jako rychlé úložiště pro Query cache nebo pro zpracování předpřipravených indexů.
+
+#### 2. Data Pipeline & DWH
+
+##### 2.1 Vysvětlete rozdíl mezi systémy OLTP a OLAP a uveďte příklad použití pro každý z nich.
+Rozdíl spočívá v cílovém zaměření a struktuře databáze:
+*   **OLTP (Online Transaction Processing):** Systém určený pro běžný každodenní chod aplikace. Je **plně normalizovaný (např. do 3. NF)**, zaměřuje se na bezpečnost a co nejrychlejší provádění ohromného množství jednoduchých transakcí (INSERT, UPDATE, DELETE).
+    *   *Příklad použití:* Provozní systém zvířecího útulku, kam operátor v reálném čase zadává informace o přijetí a adopci zvířat.
+*   **OLAP (Online Analytical Processing):** Systém optimalizovaný pro analýzu masivních historických dat a tvorbu reportů, tedy pro intenzivní operace čtení. Databáze je cíleně **denormalizovaná** (např. Star Schema) do podoby datového skladu, aby odpadlo zdržování složitým spojováním tabulek.
+    *   *Příklad použití:* Business Intelligence nástroj managementu útulku, který z datového skladu najednou analyzuje trendy zisků a průměrnou délku pobytu jednotlivých ras za posledních pět let.
+
+##### 2.2 Jaký je rozdíl mezi ETL a ELT procesy? Stručně popište jednotlivé fáze.
+Oba procesy zajišťují extrakci, transformaci a nahrání dat (typicky při přesunu dat z produkčních OLTP databází do datového skladu), liší se však pořadím operací.
+
+*   **ETL (Extract → Transform → Load):** Data se ze zdroje *extrahují*, následně se ihned *transformují* v mezikroku (např. pomocí dočasných staging tabulek, kde se data očistí od šumu a překalkulují), a až jako čistá normalizovaná data jsou *nahrána* do cílového systému.
+*   **ELT (Extract → Load → Transform):** Data jsou ze zdroje nejprve *extrahována a rovnou nahrána* v surovém stavu do cílového systému (např. datového skladu či nástroje Power Query v Power BI). K jejich *transformaci* dochází až na úrovni tohoto finálního cílového nástroje.
+
+##### 2.3 Vysvětlete pojem Surrogate Keys (náhradní klíče) a proč se používají v DWH.
+**Surrogate Keys (SKs)** jsou uměle vygenerované, zcela nové unikátní klíče vytvořené speciálně pro potřeby datového skladu (OLAP). Zcela nahrazují původní přirozené klíče, popř. primární klíče produkční databáze (Natural Keys, PKs). 
+
+**Důvody použití v DWH:**
+*   Chrání analytický systém před neočekávanými změnami klíčů v původní produkční databázi.
+*   Zjednodušují a sjednocují datový model, zejména pak tehdy, pokud datový sklad čerpá data z více nezávislých zdrojů, kde by mohlo docházet ke křížení různých formátů primárních klíčů.
+*   Zrychlují výkon celého datového skladu, protože generovaný celočíselný klíč se velmi rychle porovnává při spojování (JOIN) velkých faktových a dimenzních tabulek.
+
+#### 3. Zálohování a archivace
+
+##### 3.1 Vysvětlete rozdíl mezi zálohou (backup) a archivací dat (uveďte příklad pro obojí).
+*   **Záloha (Backup):** Znamená uchovávání plného databázového formátu a struktury za účelem rychlé obnovy dat po havárii. Jde typicky o krátkodobé zachování dat (1 minuta až 1 rok) na aktivním serveru a provádí se opakovaně v pravidelných frekvencích.
+    *   *Příklad:* Každonoční plná záloha kompletní provozní databáze pro případ neplánovaného pádu disku serveru během následujícího dne.
+*   **Archivace dat:** Jde o proces vyjmutí historických dat z databáze a jejich zmrazení do jednoduchého, univerzálního formátu (např. CSV, JSON v kódování UTF-8). Uchovává se dlouhodobě (10 a více let) na odlehlém, bezpečném serveru s předpokladem velmi zřídkavého přístupu.
+    *   *Příklad:* Extrakce prodejních faktur a jejich uložení do CSV souboru pro možný účetní audit starší než 5 let. Z databáze jsou z důvodu úspory místa odmazány.
+
+##### 3.2 Jaké základní typy záloh znáte a jaký je význam transakčního logu.
+**Základní typy záloh:**
+Zálohovat můžeme plně **celou databázi**, vybranou **část databáze**, zaznamenávat **změny v databázi** (tzv. diferenciální záloha), nebo pracovat s **jednotlivými soubory a transakčním logem**.
+
+**Význam transakčního logu:**
+Je kritickým prvkem při obnově do konzistentního stavu (např. po náhlém výpadku proudu). Eviduje veškeré operace, díky čemuž umožňuje záchranu potvrzených transakcí pomocí mechanismu **Redo** (vložení dat, co se nestihla propast na disk) a odvolání neúplných chybových dat pomocí **Undo** (návrat nekompletní transakce zpět).
+
+##### 3.3 Popište proces obnovy dat (recovery) – co je jeho cílem?
+Cílem obnovy dat (recovery) je **záchrana a návrat databáze ze zálohy do posledního známého bezchybného, a navíc konzistentního stavu** po různých krizových událostech. Obnova se typicky provádí za účelem záchrany provozních dat z těchto důvodů:
+*   Po selhání a chybě fyzického úložného média (havárie pevného disku).
+*   Po chybě ze strany uživatele (např. po omylném spuštění destrukčního příkazu jako smazání důležité tabulky).
+*   Při nečekaném výpadku operačního systému či pádu MySQL daemona.
+
+#### 4. Vizualizace a Power BI
+
+##### 4.1 Popište hlavní komponenty Power BI Desktop.
+Power BI Desktop obsahuje tři stěžejní moduly zajišťující proces od importu až po vizualizaci dat:
+*   **Model View:** Modul sloužící pro zobrazení, organizaci a spojování (Joiny) **faktových a dimenzních tabulek**. Sestavuje se zde relační podoba podobná ER modelu.
+*   **Power Query:** Nástroj určený pro přímou **transformaci a čištění dat** (tzv. ELT proces). Umožňuje z importovaných dat odstranit nepotřebné znaky, ošetřit chyby či vytvořit dodatečné atributy.
+*   **Dashboard (Zobrazení sestavy):** Finální vrstva sloužící pro interaktivní vizualizaci. Pomocí nejrůznějších vizuálních prvků (mapy, sloupcové grafy, koláče) se tvoří reporty usnadňující rozhodování.
+
+##### 4.2 Co jsou relace v datovém modelu a proč jsou nezbytné pro správnou vizualizaci?
+Relace jsou vazby tvořené pomocí primárních (PK) a cizích klíčů (FK), které propojují centrální analytické tabulky (Faktové) s příslušnými číselníky (Dimenze) typicky ve schématu hvězdy nebo vločky.
+
+Tyto propojení (Joiny) v **Model View** jsou naprosto nezbytné pro správnou vizualizaci, protože umožňují systému logicky pochopit kontext a provést správné křížové filtrování. Například aby systém dokázal posčítat agregovaná čísla jako *zisk* (z faktové tabulky) rozdělená podle popisků jako *jméno pobočky útulku* nebo *rasa zvířete* (z dimenzních tabulek).
+
+##### 4.3 K čemu se v Power BI používá jazyk DAX?
+**DAX (Data Analysis Expressions)** je specializovaný jazyk určený pro datové modelování. Využívá se k návrhu a sestavování **pokročilých výpočtů, logických pravidel a takzvaných měřítek (measures)** přímo nad existujícím modelem, které pouhé SQL a standardní agregační modely bez obtíží nedokážou obsáhnout.
+
+##### 4.4 Vyjmenujte 3 základní typy grafů a uveďte, pro jaký účel se hodí.
+*   **Karta (Card):** Ideální nástroj pro zvýraznění nejdůležitější **jediné agregované hodnoty**, například celkových tržeb či zisků, která funguje jako hlavní klíčový ukazatel výkonnosti (KPI) na vrchu Dashboardu.
+*   **Koláčový graf (Pie chart):** Vhodný pro vizualizaci **procentuálního podílu částí na celku**, kde chceme porovnat malý počet odlišných kategorií a zjistit, která z nich tvoří největší objem dat.
+*   **Sloupcový graf (Column chart):** Hodí se na přehledné **porovnávání konkrétních hodnot a metrik napříč různými kategoriemi** či na zobrazování jejich přesných trendů vyvíjejících se v čase (např. zobrazení fluktuace obratu napříč ročními obdobími).
 
 ---
 
