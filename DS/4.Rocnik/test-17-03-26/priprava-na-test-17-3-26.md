@@ -75,6 +75,8 @@
 - FACT =~ činnost
 - DIM = číselníky
 
+* Co je to Suro gate key DWH?
+# !! **DOPLNIT** !!
 
 ![schema-comparison](dwh.png)
 
