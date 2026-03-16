@@ -24,11 +24,6 @@
 
 * **MySQL data directory:** Obsahuje systémová data jako server log file, status file, .ib log files a system tablespace. Dále se zde nachází podadresáře jednotlivých databází s uloženými indexy, daty a strukturami objektů ve formátu .frm.
 
-* Co je to FACT, DIM?
-
-- FACT =~ činnost
-- DIM = číselníky
-
 ![MySQL_Logical_Architecture](https://media.geeksforgeeks.org/wp-content/uploads/20210211183907/MySQLArchi.png)
 
 ### Co je to systémový katalog?
@@ -72,6 +67,12 @@
 * **Snowflake Schema (Vločka):** Její DIM tabulky jsou normalizované, tedy rozvětvené. Odstraňuje se tím sice redundance dat, ale vede to ke složitějším dotazům s více spojeními (JOINy) a ke zpomalení výkonu.
 
 * **Galaxy Schema (Galaxie):** Zahrnuje více různých FACT tabulek, které navzájem sdílejí stejné DIM tabulky (tzv. Conformed Dimensions). Je vhodná ke sledování více procesů najednou.
+
+* Co je to FACT, DIM?
+
+- FACT =~ činnost
+- DIM = číselníky
+
 
 ![schema-comparison](dwh.png)
 
