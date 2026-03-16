@@ -28,47 +28,63 @@
 
 # **Test B**
 
-**1. Architektura MySQL**
+## **1. Architektura MySQL**
 
-* Popište **fyzickou strukturu** MySQL (význam datového adresáře a typy souborů).
+### 1.1 Popište **fyzickou strukturu** MySQL (význam datového adresáře a typy souborů).
 
-	**1) MySQL base directory (Základní adresář)**
-	Adresář programu MySQL:
-	* **Program files:** Obsahuje systémové knihovny, dokumenty a specifické soubory (např. pro systém UNIX).
-	* **Executables (Spustitelné soubory):** Obsahuje důležité spouštěcí programy a nástroje, jako jsou 
-		* `mysql` (klient), 
-		* `mysqld` (hlavní proces neboli daemon běžící na pozadí), 
-		* `mysqladmin`
-		* a `mysqldump`
+**1) MySQL base directory (Základní adresář)**
+Adresář programu MySQL:
+* **Program files:** Obsahuje systémové knihovny, dokumenty a specifické soubory (např. pro systém UNIX).
+* **Executables (Spustitelné soubory):** Obsahuje důležité spouštěcí programy a nástroje, jako jsou 
+	* `mysql` (klient), 
+	* `mysqld` (hlavní proces neboli daemon běžící na pozadí), 
+	* `mysqladmin`
+	* a `mysqldump`
 
-	**2) MySQL data directory (Datový adresář)**
-	* **Systémová data:** Obsahují soubory nezbytné pro globální správu a chod serveru. Patří sem 
-		* logovací soubory serveru (server log file)
-		* stavový soubor (status file)
-		* transakční `.ib` log 
-		* soubory
-		* systémový tablespace
-	* **Datové podadresáře (Data subdirectories):** Pro každou vytvořenou databázi existuje uvnitř datového adresáře samostatný podadresář. Tyto složky uvnitř ukrývají katalogy, indexy, samotná data a soubory definující strukturu databázových objektů (jako jsou například soubory s příponou `.frm`).
+**2) MySQL data directory (Datový adresář)**
+* **Systémová data:** Obsahují soubory nezbytné pro globální správu a chod serveru. Patří sem 
+	* logovací soubory serveru (server log file)
+	* stavový soubor (status file)
+	* transakční `.ib` log 
+	* soubory
+	* systémový tablespace
+* **Datové podadresáře (Data subdirectories):** Pro každou vytvořenou databázi existuje uvnitř datového adresáře samostatný podadresář. Tyto složky uvnitř ukrývají katalogy, indexy, samotná data a soubory definující strukturu databázových objektů (jako jsou například soubory s příponou `.frm`).
 
 
-* Jak MySQL pracuje s pamětí a proč je tato komponenta zásadní pro výkon?
-* K čemu slouží **Systémový katalog** z pohledu administrátora a jaká metadata obsahuje?
+### 1.2 Jak MySQL pracuje s pamětí a proč je tato komponenta zásadní pro výkon?
 
-**2. Datové sklady (DWH)**
+**MySQL využívá paměť primárně k minimalizaci pomalých operací na fyzickém disku.**
+	Paměť se dělí do dvou hlavních úrovní:
+	
+**1. Cache (Mezipaměť na úrovni serveru)**
+	Uchovává menší informace pro rychlou přípravu dotazů.
+- **Query Cache:** Ukládá **již provedené a zkontrolované SQL dotazy**.	
+- **Metadata Cache:** Uchovává **definice struktury databáze** (tabulky, práva), nikoliv uživatelská data.
+- **Key Cache:** Ukládá **indexy** k právě zpracovávaným tabulkám.
+	    
+**2. Buffer (Vyrovnávací paměť na úrovni Storage Engines)**
+Obsluhuje přímou komunikaci s fyzickým diskem.
+- Načítá a uchovává **větší objemy skutečných datových bloků**.
+- Umožňuje (například u jádra InnoDB) **efektivní a rychlé transakční zpracování (ACID)**.
+- Je **kapacitně větší, ale mírně pomalejší** než cache.
 
-* Definujte **datový sklad (DWH)**, popište jeho typickou strukturu a hlavní důvod použití.
-* Vysvětlete, proč se do vizualizací obvykle nepřenášejí data **přímo z provozních (OLTP)** databází.
-* Popište rozdíl mezi architekturou **Star Schema** (hvězda) a **Snowflake** (vločka).
-* Vysvětlete, co je to **faktová tabulka** a **dimenze**.
+ ### 1.3 K čemu slouží **Systémový katalog** z pohledu administrátora a jaká metadata obsahuje?
 
-**3. Zálohování a archivace**
+## **2. Datové sklady (DWH)**
 
-* Proč používáme **archivaci dat** a jaké typy souborových formátů jsou pro ni vhodné?
-* Co je to **diferenciální záloha** a v čem je její výhoda oproti plné záloze?
-* K čemu se v databázi používá **transakční log** při výpadku systému?
+### 2.1 Definujte **datový sklad (DWH)**, popište jeho typickou strukturu a hlavní důvod použití.
+### 2.2 Vysvětlete, proč se do vizualizací obvykle nepřenášejí data **přímo z provozních (OLTP)** databází.
+### 2.3 Popište rozdíl mezi architekturou **Star Schema** (hvězda) a **Snowflake** (vločka).
+### 2.4 Vysvětlete, co je to **faktová tabulka** a **dimenze**.
 
-**4. Vizualizace a Power BI**
+## **3. Zálohování a archivace**
 
-* Popište hlavní **funkcionalitu** Power BI.
-* Popište proces **čištění dat (Power Query)** a uveďte 3 příklady transformací.
-* Uveďte 3 základní **typy vizualizací** a vysvětlete, jaký typ dat/analýzy na nich zobrazujeme.
+### 3.1 Proč používáme **archivaci dat** a jaké typy souborových formátů jsou pro ni vhodné?
+### 3.2 Co je to **diferenciální záloha** a v čem je její výhoda oproti plné záloze?
+### 3.3 K čemu se v databázi používá **transakční log** při výpadku systému?
+
+## **4. Vizualizace a Power BI**
+
+### 4.1 Popište hlavní **funkcionalitu** Power BI.
+### 4.2 Popište proces **čištění dat (Power Query)** a uveďte 3 příklady transformací.
+### 4.3 Uveďte 3 základní **typy vizualizací** a vysvětlete, jaký typ dat/analýzy na nich zobrazujeme.
