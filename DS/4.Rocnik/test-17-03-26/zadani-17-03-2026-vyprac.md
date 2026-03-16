@@ -177,7 +177,9 @@ Pro archivaci jsou ideální **jednoduché souborové formáty** a standardizova
 
 #### 3.3 K čemu se v databázi používá **transakční log** při výpadku systému?
 
-Transakční log je soubor, který obsahuje provedené příkazy. Když nečekaně vypadne databáze, tak pomocí obsahu logu lze obnovit stav databáze při posledním commitu (rollback).
+Transakční log (Write-Ahead Log)  je soubor, který obsahuje provedené příkazy, slouží k **zajištění integrity dat** po výpadku systému pomocí dvou mechanismů:
+* **Redo (Znovudokončení):** Systém znovu aplikuje změny z **potvrzených transakcí (COMMIT)**, které se před pádem nestihly zapsat z paměti na disk.
+* **Undo (Vracení zpět):** Systém **odstraní změny z neukončených transakcí**, které v momentě výpadku nebyly potvrzeny, a vrátí databázi do konzistentního stavu.
 
 ## **4. Vizualizace a Power BI**
 
