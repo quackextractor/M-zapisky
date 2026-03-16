@@ -166,6 +166,15 @@ Pro archivaci jsou ideální **jednoduché souborové formáty** a standardizova
 * **UTF-8** (případně Windows-1250)
 
 #### 3.2 Co je to **diferenciální záloha** a v čem je její výhoda oproti plné záloze?
+
+### Diferenciální záloha
+**Diferenciální záloha** zálohuje pouze data změněná nebo přidaná **od poslední plné zálohy**.
+
+### Výhody oproti plné záloze
+* **Šetří místo na disku**: Neukládá se znovu celý objem dat, pouze přírůstky.
+* **Vyšší rychlost**: Proces zálohování trvá kratší dobu.
+* **Efektivní obnova**: K obnově dat stačí pouze **poslední plná záloha a nejaktuálnější diferenciální záloha**.
+
 #### 3.3 K čemu se v databázi používá **transakční log** při výpadku systému?
 
 ## **4. Vizualizace a Power BI**
