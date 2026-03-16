@@ -32,23 +32,23 @@
 
 * Popište **fyzickou strukturu** MySQL (význam datového adresáře a typy souborů).
 
-**1. MySQL base directory (Základní adresář)**
-Adresář programu MySQL:
-* **Program files:** Obsahuje systémové knihovny, dokumenty a specifické soubory (např. pro systém UNIX).
-* **Executables (Spustitelné soubory):** Obsahuje důležité spouštěcí programy a nástroje, jako jsou 
-	* `mysql` (klient), 
-	* `mysqld` (hlavní proces neboli daemon běžící na pozadí), 
-	* `mysqladmin`
-	* a `mysqldump`
+	**1) MySQL base directory (Základní adresář)**
+	Adresář programu MySQL:
+	* **Program files:** Obsahuje systémové knihovny, dokumenty a specifické soubory (např. pro systém UNIX).
+	* **Executables (Spustitelné soubory):** Obsahuje důležité spouštěcí programy a nástroje, jako jsou 
+		* `mysql` (klient), 
+		* `mysqld` (hlavní proces neboli daemon běžící na pozadí), 
+		* `mysqladmin`
+		* a `mysqldump`
 
-**2. MySQL data directory (Datový adresář)**
-* **Systémová data:** Obsahují soubory nezbytné pro globální správu a chod serveru. Patří sem 
-	* logovací soubory serveru (server log file)
-	* stavový soubor (status file)
-	* transakční `.ib` log 
-	* soubory
-	* systémový tablespace
-* **Datové podadresáře (Data subdirectories):** Pro každou vytvořenou databázi existuje uvnitř datového adresáře samostatný podadresář. Tyto složky uvnitř ukrývají katalogy, indexy, samotná data a soubory definující strukturu databázových objektů (jako jsou například soubory s příponou `.frm`).
+	**2) MySQL data directory (Datový adresář)**
+	* **Systémová data:** Obsahují soubory nezbytné pro globální správu a chod serveru. Patří sem 
+		* logovací soubory serveru (server log file)
+		* stavový soubor (status file)
+		* transakční `.ib` log 
+		* soubory
+		* systémový tablespace
+	* **Datové podadresáře (Data subdirectories):** Pro každou vytvořenou databázi existuje uvnitř datového adresáře samostatný podadresář. Tyto složky uvnitř ukrývají katalogy, indexy, samotná data a soubory definující strukturu databázových objektů (jako jsou například soubory s příponou `.frm`).
 
 
 * Jak MySQL pracuje s pamětí a proč je tato komponenta zásadní pro výkon?
