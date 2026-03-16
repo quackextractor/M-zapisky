@@ -1,5 +1,5 @@
 # Příprava na test z DS 17-03-26
-> Poznámka: Pod každé téma existují 3-4 podotázky
+> Rozdělený na skupiny A,B: Pro každé téma existují 3-4 podotázky
 
 ## 1. Architektura MySQL
 
