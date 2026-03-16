@@ -1,9 +1,5 @@
 # Test A
 
-Zde je vypracování zadaných otázek pro **Test A** přesně podle požadovaného formátu, struktury a hloubky, která odpovídá vypracování Testu B.
-
-### Test A
-
 #### 1. Architektura MySQL
 
 ##### 1.1 Popište logickou strukturu MySQL (jednotlivé bloky).
