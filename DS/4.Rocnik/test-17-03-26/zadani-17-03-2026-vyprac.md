@@ -175,7 +175,7 @@ Power BI slouží k **transformaci dat do srozumitelné formy (storytelling)** p
 * **DAX (Data Analysis Expressions):** Specializovaný jazyk pro tvorbu **pokročilých výpočtů a měření** v datových modelech.
 * **Import dat:** Podporuje buď **klasický import** (např. nahrání CSV), nebo **Direct Query (Live connection)** pro přímé živé napojení na cloudové servery.
 * **Dashboard:** Finální nástroj pro **vizualizaci dat** (grafy, mapy, tabulky), který pomáhá odhalovat trendy a vzory.
-![[dashboard.png]]
+![dashboard](dashboard.png)
 #### 4.2 Popište proces **čištění dat (Power Query)** a uveďte 3 příklady transformací.
 
 Hlavním účelem je **transformovat surová data do čisté, strukturované a normalizované podoby** pro analýzu.
