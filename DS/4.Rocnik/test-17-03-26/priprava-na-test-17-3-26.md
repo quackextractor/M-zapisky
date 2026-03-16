@@ -114,4 +114,8 @@
 
 ### Jaký je rozdíl mezi MSSQL a MySQL zálohováním?
 
-* V poznámkách je uvedeno pouze to, že systém MySQL používá pro export dat zabudovaný nástroj `mysqldump`.
+* V poznámkách je uvedeno pouze to, že systém MySQL používá pro export dat zabudovaný nástroj `mysqldump`. 
+* = každá tabulka do zvláštního souboru, možná částečná obnova
+* Jinak MySQL nemá zálohování, dělá se export.
+* není to záloha, data se dají číst přímo ze zálohy, neproběhne serializace 
+
