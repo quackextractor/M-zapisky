@@ -71,6 +71,18 @@ Obsluhuje přímou komunikaci s fyzickým diskem.
 
  #### 1.3 K čemu slouží **Systémový katalog** z pohledu administrátora a jaká metadata obsahuje?
 
+**Systémový katalog je centrální informační registr o celé databázi.** Fyzicky je uložen v datových podadresářích spolu s daty a indexy.
+Je nezbytný pro **správu, údržbu a zabezpečení**. Databázový systém z něj získává informace pro **kontrolu syntaxe, ověřování práv a tvorbu prováděcích plánů**.
+
+Katalog slouží jako **úložiště metadat (definice a data o datech)**, neobsahuje uživatelská data. Konkrétně uchovává:
+* **Definice struktury objektů:** Názvy tabulek, vlastnosti sloupců a celkové schéma.
+* **Integritní omezení:** Pravidla pro konzistenci a správnost dat (primární a cizí klíče).
+* **Programové objekty:** Definice uložených procedur a podobných objektů.
+* **Bezpečnostní nastavení:** Uživatelské účty, role a přístupová práva.
+* **Statistiky o objektech:** Informace pro optimalizaci a efektivní zpracování dotazů.
+
+Pro zrychlení systému se často využívaná metadata **načítají přímo do operační paměti do Metadata Cache**, aby se předešlo pomalému vyhledávání na pevném disku.
+
 ## **2. Datové sklady (DWH)**
 
 #### 2.1 Definujte **datový sklad (DWH)**, popište jeho typickou strukturu a hlavní důvod použití.
@@ -87,5 +99,9 @@ Obsluhuje přímou komunikaci s fyzickým diskem.
 ## **4. Vizualizace a Power BI**
 
 #### 4.1 Popište hlavní **funkcionalitu** Power BI.
+* Model view
+* Table view
+* Dashboard
+* Power Query
 #### 4.2 Popište proces **čištění dat (Power Query)** a uveďte 3 příklady transformací.
 #### 4.3 Uveďte 3 základní **typy vizualizací** a vysvětlete, jaký typ dat/analýzy na nich zobrazujeme.
