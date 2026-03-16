@@ -177,6 +177,8 @@ Pro archivaci jsou ideální **jednoduché souborové formáty** a standardizova
 
 #### 3.3 K čemu se v databázi používá **transakční log** při výpadku systému?
 
+Transakční log je soubor, který obsahuje provedené příkazy. Když nečekaně vypadne databáze, tak pomocí obsahu logu lze obnovit stav databáze při posledním commitu (rollback).
+
 ## **4. Vizualizace a Power BI**
 
 #### 4.1 Popište hlavní **funkcionalitu** Power BI.
