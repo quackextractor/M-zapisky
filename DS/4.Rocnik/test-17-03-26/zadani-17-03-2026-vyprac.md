@@ -102,7 +102,15 @@ Získávat komplexní byznysové informace a statistiky přímo z běžné provo
 
 Hlavním důvodem nasazení DWH je tedy **rychlé a efektivní čtení rozsáhlých historických dat pro tvorbu přehledů a statistik**. V datovém skladu se data předem transformují a spojují (pomocí procesů ETL/ELT), čímž se radikálně snižuje nutnost spojování tabulek při samotném dotazování a analytické dotazy nad jedinou faktovou tabulkou jsou tak mnohonásobně rychlejší.
 
-![schema-comparison](dwh.png)
+![star-generic](star-generic.png)
+
+![star-example](star-example.png)
+
+
+![snowflake-generic](snowflake-generic.png)
+
+![snowflake-example](snowflake-example.png)
+
 
 ![galaxy-generic](galaxy-generic.png)
 
