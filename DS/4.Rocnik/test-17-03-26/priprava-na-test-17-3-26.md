@@ -112,6 +112,8 @@
 
 * **Obnova dat:** Slouží primárně k záchraně dat po výpadku systému, poškození disku nebo chybách uživatele (např. po smazání tabulky). Zálohy se používají také pro přesun dat mezi servery, úsporu místa nebo pro účetní audity.
 
+* **Transakční log:**
+
 ### Jaký je rozdíl mezi MSSQL a MySQL zálohováním?
 
 * V poznámkách je uvedeno pouze to, že systém MySQL používá pro export dat zabudovaný nástroj `mysqldump`. 
