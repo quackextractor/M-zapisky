@@ -17,7 +17,6 @@ Logické hledisko MySQL architektury představuje blokové schéma zpracování 
 
 ![mysql-logical-architecture](mysql-logical-architecture.png)
 
-
 ##### 1.2 Vysvětlete, jak probíhá zpracování dotazu.
 Zpracování SQL dotazu probíhá v několika fázích pro zajištění maximální rychlosti a bezpečnosti:
 1.  **Příjem a syntaktická analýza:** Klient odešle SQL dotaz, který zachytí proces *mysqld*. Předá jej **Parseru**, který zkontroluje správnost syntaxe a oprávnění uživatele.
