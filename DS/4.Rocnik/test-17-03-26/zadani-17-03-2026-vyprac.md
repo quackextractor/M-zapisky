@@ -273,7 +273,15 @@ Hlavním účelem je **transformovat surová data do čisté, strukturované a n
 
 ### 4.3 Uveďte 3 základní typy vizualizací a vysvětlete, jaký typ dat/analýzy na nich zobrazujeme.
 
-* **Karta (Card)**: Zobrazuje **jedinou klíčovou hodnotu** (např. celkové tržby). Slouží pro okamžitý přehled o **hlavních ukazatelích výkonnosti (KPI)**.
-* **Průřez (Slicer)**: Funguje jako **interaktivní filtr** přímo na ploše reportu. Umožňuje **dynamicky omezit data** podle dimenzí, jako je čas nebo kategorie.
-* **Koláčový graf (Pie chart)**: Zobrazuje **procentuální podíl částí na celku**. Je vhodný pro vizualizaci **struktury a rozložení dat** u menšího počtu kategorií.
-* **Sloupcový graf (Column chart)**: Slouží k **porovnání hodnot napříč různými kategoriemi**. Je ideální pro zobrazení **změn v čase** (např. tržby po měsících) nebo pro **srovnání velikosti** jednotlivých položek mezi sebou.
+1. **Sloupcový / pruhový graf**
+* **Využití:** **Porovnávání kvantitativních hodnot napříč kategoriemi.**
+* **Příklad:** Srovnání příjmů podle typu hotelového pokoje.
+
+2. **Spojnicový graf**
+* **Využití:** **Zobrazení trendů, vzorů a vývoje hodnot v čase.**
+* **Příklad:** Analýza doplňkových výdajů hostů v závislosti na dnech v měsíci.
+
+3. **Koláčový graf / Geografická mapa**
+* **Využití (Koláč):** **Zobrazení proporcí, podílů a procentuálního rozložení celku.**
+* **Využití (Mapa):** **Prostorová a geografická analýza dat.**
+* **Příklad:** Podíl tuzemských vs. zahraničních hostů nebo útraty podle států.
