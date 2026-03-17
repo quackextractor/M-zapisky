@@ -8,7 +8,11 @@
 
 **Správná odpověď:** **a. Převádí výsledek výpočtu neuronu na jeho výstup.**
 
-**Zdůvodnění:** Umělý neuron nejprve sečte své vstupy vynásobené příslušnými vahami a přičte zkreslení (bias). Tento mezivýsledek se pak předá aktivační funkci. Aktivační funkce jej transformuje na konečnou hodnotu, kterou neuron pošle dál jako svůj výstup. Aktivační funkce zároveň do sítě typicky vnáší nelinearitu, díky čemuž se síť může učit složité vztahy v datech. Ostatní možnosti popisují architekturu sítě nebo předzpracování dat, což není úkolem aktivační funkce.
+**Zdůvodnění:** Umělý neuron nejprve sečte své vstupy vynásobené příslušnými vahami a přičte zkreslení (bias). 
+Tento mezivýsledek se pak předá aktivační funkci. 
+Aktivační funkce jej transformuje na konečnou hodnotu, kterou neuron pošle dál jako svůj výstup. 
+Aktivační funkce zároveň do sítě typicky vnáší nelinearitu, díky čemuž se síť může učit složité vztahy v datech. 
+Ostatní možnosti popisují architekturu sítě nebo předzpracování dat, což není úkolem aktivační funkce.
 
 ---
 
@@ -22,7 +26,9 @@
 
 **Správná odpověď:** **d. Přijímá vstupní data a předává je dalším vrstvám sítě.**
 
-**Zdůvodnění:** Vstupní vrstva slouží jako rozhraní mezi vnějšími daty a zbytkem neuronové sítě. Její uzly obvykle neprovádějí žádné matematické operace (nemají váhy ani aktivační funkce), pouze načtou surová data a beze změny je přepošlou do první skryté vrstvy k dalšímu zpracování.
+**Zdůvodnění:** Vstupní vrstva slouží jako rozhraní mezi vnějšími daty a zbytkem neuronové sítě. 
+Její uzly obvykle neprovádějí žádné matematické operace (nemají váhy ani aktivační funkce), 
+pouze načtou surová data a beze změny je přepošlou do první skryté vrstvy k dalšímu zpracování.
 
 ---
 
@@ -82,4 +88,8 @@ pes = 1, kočka = 2, králík = 3
 
 **Správná odpověď:** **b. Model může chybně interpretovat rozdíly mezi čísly jako vztah mezi kategoriemi.**
 
-**Zdůvodnění:** Pokud přiřadíme nezávislým kategoriím celá čísla, algoritmus strojového učení automaticky předpokládá matematické uspořádání a velikost. Model by z takových dat mohl vyvodit nepřesné závěry, například že králík má třikrát větší hodnotu než pes, případně že průměr ze psa a králíka je kočka. Abychom se tomuto problému vyhnuli, používá se u nezávislých kategorií technika zvaná "one-hot encoding".
+**Zdůvodnění:** Pokud přiřadíme nezávislým kategoriím celá čísla, 
+algoritmus strojového učení automaticky předpokládá matematické uspořádání a velikost. 
+Model by z takových dat mohl vyvodit nepřesné závěry, například že králík má třikrát větší hodnotu než pes,
+případně že průměr ze psa a králíka je kočka. Abychom se tomuto problému vyhnuli, 
+používá se u nezávislých kategorií technika zvaná "one-hot encoding".
