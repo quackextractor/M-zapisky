@@ -1,11 +1,8 @@
 # ČJ
 
-# Skupina 42
+## Jiří Kolář (Skupina 42)
 
-- Založena 1942
-
-## Jiří Kolář
-
+- Skupina 42 založena 1942
 - Básník a výtvarník
 - Kritika komunismu
 - **Dílo: Prometheova játra**
@@ -15,7 +12,7 @@
 
 - Brněnský básník
 - Melancholická poezie
-- Bilancování, vzpomínky na děství
+- Bilancování, vzpomínky na dětství
 - **Dílo: Smuténka**
 - **Dílo: Metličky**
 
@@ -28,7 +25,7 @@
 ## Ladislav Fuks
 
 - Psychologický horor
-- Psal o 2. světový, měl kamarády židy
+- Psal o 2. světové, měl kamarády židy
 - Homosexuál
 - **Dílo: Spalovač mrtvol**
     - Karl Kopfrkingl je zaměstnanec krematoria (spalovač mrtvol)
@@ -50,9 +47,9 @@
 
 - Žid, byl v koncentračních táborech
 - Utekl, schovával se, poté byla Evropa osvobozena
-- Na dovolené v Itálii slyšel na rozhlasu o pražském jaru, už se do ČSR nevracel, jel do USA, kde dělal profesora literatury
+- Na dovolené v Itálii slyšel z rozhlasu o pražském jaru, už se do ČSR nevracel, jel do USA, kde dělal profesora literatury
 - **Dílo: Modlitba pro Kateřinu Horovitzovou**
-    - Židé se chtějí dostat přes Itálii do USA, jsou zajati a předání nacistům
+    - Židé se chtějí dostat přes Itálii do USA, jsou zajati a předáni nacistům
     - Odehrává se ve vlaku, ve kterém mají jet do Hamburgu na loď
     - Jedou ale do koncentračního tábora
 - **Dílo: Nemilovaná**
@@ -75,7 +72,7 @@
     - Kniha je osobitým druhem autobiografie. Vznikla v posledních letech jeho života, který předčasně skončil roku 1973, a vyšla posmrtně následujícího roku. Je rozdělena na tři oddíly nazvané Dětství, Odvážný mladý muž a Návraty, které mají dohromady přes dvě desítky kapitol.
     - Většina děje se týká rybaření; vypovídá o autorově vztahu k rybám, řekám a přírodě.
 - **Dílo: Dukla mezi mrakodrapy**
-    - Fotbalový klub Dukla byl pozván na americké turné, kde hráli přáteláky
+    - Fotbalový klub Dukla byl pozván na americké turné, kde hrál přáteláky
     - Kniha je soubor reportáží
 
 ## Bohumil Hrabal
@@ -92,7 +89,7 @@
 - Důležitá místa pobytu: pražská Libeň, chata v Kersku (kde se staral o kočky), hospoda U Zlatého tygra
 - Filmové adaptace: dvorním režisérem byl Jiří Menzel (film Ostře sledované vlaky získal Oscara)
 - Zemřel na následky pádu z okna v pátém patře nemocnice na Bulovce
-- Styl: dlouhé souvětí, má to působit jako kdyby to vyprávěl někdo v hospodě, vymýšlel si slova
+- Styl: dlouhá souvětí, má to působit jako kdyby to vyprávěl někdo v hospodě, vymýšlel si slova
 
 - **Dílo: Ostře sledované vlaky**
     - **Prostředí:** Malé nádraží (předloha Kostomlaty nad Labem) v období protektorátu (1945).
@@ -109,11 +106,11 @@
 - **Dílo: Příliš hlučná samota**
     - **Hlavní postava:** Haňťa - vzdělaný balič starého papíru.
     - **Téma:** Svět kultury ničený lisem na odpad, střet starého vzdělaného světa s moderní neosobní dobou.
-    - **Děj:** Haňťa v lisu zachraňuje vzácné knihy, žije v "hlučné samotě" svých myšlenek, dokud není nahrazen efektivnějšími pracovníky. Pak je poslán na smetaní dvoru, on to bere ponižující, spáchá sebevraždu tím, že se nechá zlisovat
+    - **Děj:** Haňťa v lisu zachraňuje vzácné knihy, žije v "hlučné samotě" svých myšlenek, dokud není nahrazen efektivnějšími pracovníky. Pak je poslán na smetání dvora, on to bere jako ponižující, a ve své snové vizi spáchá sebevraždu tím, že se nechá zlisovat (v textu jde o představu).
 
 ## Milan Kundera
 
-- 1925 - 2023
+- 1929 - 2023
 - Prozaik, dramatik, vystudoval FAMU
 - 1968 zakázán komunisty, emigroval do Francie
 - Ztratil české občanství, v roce 2019 ho získal zpět
@@ -128,38 +125,38 @@
 - **Dílo: Nesnesitelná lehkost bytí**
     - Vydáno už ve Francii
     - Pár Tomáš a Tereza, Tomáš je chirurg a má často milenky
-    - Kvůli komunismu emigrujou do Švýcarska
+    - Kvůli komunismu emigrují do Švýcarska
     - Tereze se stýská po domově, vrací se do ČSR
     - Tomáš napíše článek do novin, který kritizuje komunismus, je vyhozen z práce a dělá jen umývače oken
     - Odstěhují se na venkov, vše se zlepší, ale potom zemřou v autonehodě
 - **Drama: Jakub a jeho pán**
-    - Nápad převzal od osvícenského autora
+    - Nápad převzal od osvícenského autora Denise Diderota (román Jakub fatalista a jeho pán)
     - Jakub je sluha a myslí si, že osud je neměnitelný, dohaduje se se svým pánem
 
 ## Josef Škvorecký
 
-- Založil v Torontu exilové nakladatelství 68' publishers, kde vydávali knihy zakázaní autoři v ČSR
+- Založil v Torontu exilové nakladatelství 68 Publishers, kde vydávali knihy zakázaní autoři v ČSR
 - **Dílo: Zbabělci**
     - Odehrává se v posledních týdnech 2. sv. války
     - Danny Smiřický je mladý kluk, na starší generaci se dívá kriticky
     - Lidé ví, že do města přijede osvobozenecká armáda
     - Do města chybně přijedou Němci, kteří utíkají
     - Danny se dostane do přestřelky
-    - Rusové přijedou, ale lidé jsou odrazeni díky chování ruských vojáků
+    - Rusové přijedou, ale lidé jsou odrazeni chováním ruských vojáků
 - **Dílo: Tankový prapor**
     - Danny je na vojně v polovině 50. let
     - Silná kritika politiky a vojny
     - Zápletky s ženami
-    - Kniha nejdřív vydávána po novinách, pak připravená na vydání v roce 1969, ale kvůli obsahu skartována
-    - Vydána v Torontu v roce 1971 jako první kniha v 68 publishers
+    - Kniha nejdřív vydávána na pokračování, pak připravená k vydání v roce 1969, ale celý náklad byl skartován
+    - Vydána v Torontu v roce 1971 jako první kniha v 68 Publishers
 
 ## Ludvík Vaculík
 
-- Spisovatel novinář, pracoval i pro rudé právo
+- Spisovatel novinář, pracoval i pro Rudé právo
 - Po 1968 zakázán, založil nakladatelství Petlice
 - **Dílo: Dva tisíce slov**
     - Manifest proti režimu
-    - Podepsáno milionem lidí
+    - Podepsáno statisíci lidí
     - Publikováno v Petlici
 - **Dílo: Morčata**
     - Hlavní postava koupí morčata dětem
@@ -180,17 +177,17 @@
 - Prezident ČSFR, ČR
 - Reprezentant absurdního dramatu
 - **Dílo: Audience**
-    - Odehrává se v Trutnovském pivovaře
+    - Odehrává se v trutnovském pivovaru
     - Vaněk je spisovatel, kterému zakázali publikovat, pracuje v pivovaru na nízké pozici
-    - Jeho nadřízený, Sládek, mu nabídne povýšení na skladníka, ale Sládek musí na Vaňka psát zprávy, aby strana věděla, že nedělá nic anti komunistického
+    - Jeho nadřízený, sládek, mu nabídne povýšení na skladníka, ale sládek musí na Vaňka psát zprávy, aby strana věděla, že nedělá nic antikomunistického
     - Povýšil by ho za podmínky, že si ty zprávy bude psát sám na sebe
-    - Sládek při práci pije, pokaždý když se vrátí ze záchodu Vaňkovi nabídne úplně to stejný, furt se opakuje
+    - Sládek při práci pije, pokaždý když se vrátí ze záchodu Vaňkovi nabídne úplně to stejné, furt se to opakuje
 - **Dílo: Zahradní slavnost**
     - Hugo Pludek je na pokraji dospělosti, neví co bude dělat
-    - Jeho rodiče chtějí aby měl pořádnou kariéru
-    - Dostane se na zahradní slavnost, kterou pořádá zahajovačská služba (fiktivní orgán komunistické strany)
+    - Jeho rodiče chtějí, aby udělal pořádnou kariéru
+    - Dostane se na zahradní slavnost, kterou pořádá zahajovačská služba (fiktivní orgán)
     - Na slavnosti mluví jazykem, který je úplně prázdný a je plný frází, které vlastně nic neznamenají
-    - Čím déle ním mluví, tím lépe je hodnocen, a Hugo se tím dostane do zahajovačské služby
+    - Čím déle jím mluví, tím lépe je hodnocen, a Hugo se tím dostane do zahajovačské služby
     - Poté se setká s rodiči, kteří jsou rádi, že má dobrou práci, ale Hugo se tak změnil, že si vůbec nerozumí
 
 ## Divadlo Járy Cimrmana
@@ -214,4 +211,4 @@
     - Sledují dění na zemi a diskutují o české historii a povaze českého národa.
     - Během hry si dělají slovní vtípky na účet Jana Husa (např. narážky na oheň - "hoří nám čas" apod.).
     - Řeší, kdo z významných osobností by měl být přijat do českého nebe.
-    - Nakonec se baví o vzniku samostatného státu a volí prvního československého prezidenta - Tomáš Garrigue Masaryk
+    - Nakonec se baví o vzniku samostatného státu a volí prvního československého prezidenta - Tomáše Garrigua Masaryka
