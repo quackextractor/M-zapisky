@@ -7,7 +7,7 @@
 * Byl v Terezíně, Osvětimi a Buchenwaldu
 * Utekl z koncentračního tábora roku 1945 díky bombardování transportního vlaku
 * V Česku byl novinář a redaktor
-* V roce 1965 se stal redaktorem české verze magazínu Playboy
+* V roce 1995 se stal redaktorem české verze magazínu Playboy
 * Po roce 1968 emigroval do USA po dovolené v Itálii, kde se dozvěděl o okupaci
 * Po roce 1989 se ještě často do ČR vracel
 * Zemřel roku 2011
@@ -166,7 +166,7 @@
 * Autoři her sami často ve hrách hráli
 * Vzniklo v polovině 60. let
 * Založeno Zdeňkem Svěrákem, Ladislavem Smoljakem a Jiřím Šebánkem
-* Ladislav Smoljak hry primárně režíroval, zatímco Jan Svěrák (syn Zdeňka) později často režíroval filmové adaptace
+* Ladislav Smoljak hry primárně režíroval a ujal se i režie jejich klasických filmových adaptací
 * Jára Cimrman - fiktivní postava vymyšlená pro účel divadla, spisovatel, cestovatel, vynálezce, dramatik. Nedoceněný génius, všechno, na co přišel, je připisováno ostatním.
 * Před díly jsou přednášky předávající různé výzkumy. Zdánlivě plně seriózní, přitom plné slovních hříček a humoru (přednášející si říkají cimrmanologové).
 
