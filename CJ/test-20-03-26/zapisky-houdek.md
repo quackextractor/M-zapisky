@@ -33,7 +33,9 @@
 - **Dílo: Spalovač mrtvol**
     - Karl Kopfrkingl je zaměstnanec krematoria (spalovač mrtvol)
     - Willi Reinke mu podsouvá nacistické myšlenky
-    - Kopfrkingl se rozhodne svoji ženu Marii (říkají jí Lakmé) zabít, zabije svoje děti Zinu a Milliho plynem
+    - Kopfrkingl oběsí svoji ženu Marii (říkají jí Lakmé) v koupelně
+    - Svého syna Miliho ubije železnou tyčí v krematoriu
+    - Pokusí se zabít i dceru Zinu stejnou tyčí, ale té se podaří utéct
     - Osvědčuje si to jako osvobození od těla, Koprfkingl jde do blázince
 - **Dílo: Pan Theodor Mundstock**
     - Pan Theodor je žid, pracuje jako úředník ve firmě před 2. světovou
@@ -54,9 +56,9 @@
     - Odehrává se ve vlaku, ve kterém mají jet do Hamburgu na loď
     - Jedou ale do koncentračního tábora
 - **Dílo: Nemilovaná**
-    - 20 letá prostitutka v Terezíně oddaluje čekání na smrt
+    - 17 letá prostitutka v Terezíně oddaluje čekání na smrt
 - **Dílo: Dita Saxová**
-    - 20 letá žena, přežila koncentrační tábor
+    - 18 letá žena, přežila koncentrační tábor
     - Má trauma z války, odjíždí do Švýcarska, spáchá sebevraždu
 
 ## Ota Pavel (Ota Popper)
@@ -163,11 +165,12 @@
     - Hlavní postava koupí morčata dětem
     - Pracuje v bance, kde je šikanován, tak začne týrat morčata
     - Z banky si hodně lidí vynáší peníze a pak s nimi mizí
-    - Jednoho z nich následuje a zabije
+    - Snaží se přijít na kloub záhadě mizejících peněz, ale nakonec sám záhadně zmizí nebo je zabit neznámými muži
 - **Dílo: Sekyra**
     - Jan je novinář v Praze, trochu autobiografické
     - Zemře mu otec, který byl pro něj velkým vzorem, vrací se na rodné Valašsko
-    - Zjistí, že jeho otec v mládí zabil někoho sekyrou, Jan přehodnocuje svůj vztah se svým otcem
+    - Sekyra je zde pouze symbolem otcovy tradiční venkovské tesařské minulosti a metaforou pro zpřetrhání rodinných kořenů kvůli fanatické oddanosti otce komunistické straně (otec nikoho nezabil)
+    - Román je autobiografickým zkoumáním ideologického odcizení mezi otcem a synem
 
 ## Václav Havel
 
@@ -204,7 +207,7 @@
     - Přijde ředitel, inspektor, školní rada, s každým dalším stupněm autority se ten předchozí bojí toho nového
 - **Hra: Dobytí severního pólu**
     - 4 otužilci podnikají výpravu na severní pól
-    - Karel Němec - Šéf, Varelan Fryštenský - takovej idiot, lékař, pomocný učitel
+    - Karel Němec - Šéf, Varel Frištenský - takovej idiot, lékař, pomocný učitel
 - **Hra: České nebe**
     - Odehrává se v českém nebi po skončení 1. světové války, kdy se rozhoduje o osudu českého národa po vzniku republiky
     - V nebeské komisi jsou významné osobnosti českých dějin: Jan Amos Komenský, Jan Hus, Svatý Václav, Karel IV. a Praotec Čech.
