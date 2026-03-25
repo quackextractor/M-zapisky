@@ -1,79 +1,27 @@
 ## Maturita questions as per [PDF](PV.pdf)
 
-### **I. Algoritmizace a datové struktury**
-
-1.  **Asymptotické složitosti**
-    * Časová a paměťová náročnost algoritmů.
-2.  **Typy datových struktur**
-    * Pole, spojový seznam, strom, fronta, zásobník, halda.
-3.  **Vlastnosti datových struktur**
-    * Seřazenost, opakování prvků, indexace, hashování a klíče.
-4.  **Pokročilá algoritmizace: Grafy a stavový prostor**
-    * Prohledávání stavového prostoru, řazení a grafové algoritmy.
-5.  **Strategie řešení problémů**
-    * Rekurze, Brute Force, Heuristiky, Nedeterministické algoritmy.
-
----
-
-### **II. Architektura a správa systémů**
-
-6.  **Programovací jazyky jako celek**
-    * Vlastnosti, srovnání, proces překladu, interpretace a běhu.
-7.  **Správa paměti a adresování**
-    * Struktura paměti programu, Garbage collecting, reference a ukazatele.
-8.  **Paralelismus a konkurence**
-    * Vlákna, paralelní programování, asynchronní metody, Concurrent patterns.
-9.  **Komunikace v síti**
-    * Tvorba síťových aplikací, Berkeley socket a jeho rozhraní.
-
----
-
-### **III. Objektově orientované programování (OOP)**
-
-10. **Základní principy OOP**
-    * Zapouzdření, abstrakce, agregace a kompozice objektů.
-11. **Dědičnost a polymorfismus**
-    * Method overriding, function overloading.
-12. **Datové typy a pokročilé konstrukce**
-    * Generika, výčtové typy (Enum), struktury, anotace, operátory.
-13. **Metody a delegáti**
-    * Anonymní metody (Lambda), magické metody, statické metody, delegáti.
-
----
-
-### **IV. Návrh a vývoj softwaru (Software Engineering)**
-
-14. **Životní cyklus a metodiky vývoje**
-    * Modely vývoje (Waterfall, Agile), procesy v SW inženýrství.
-15. **Architektonické vzory**
-    * MVC, Multitier, Monolithic, P2P, Client/Server.
-16. **Návrhové vzory (Design Patterns)**
-    * Creational, Structural a Behavioral patterns.
-17. **Testování a kvalita kódu**
-    * Unit testování, dokumentace zdrojového kódu.
-18. **Robustnost a bezpečnost**
-    * Integrita dat, kontrola vstupů, logování, zpracování chyb.
-19. **Ladění a ošetření chyb**
-    * Výjimky, aserce, techniky debugování.
-
----
-
-### **V. Práce s daty a textem**
-
-20. **Zpracování textových dat**
-    * Parsování, regulární výrazy, kódování a manipulace se stringy.
-21. **Soubory a serializace**
-    * Formáty souborů, ukládání a načítání datových struktur.
-22. **Databázové systémy**
-    * Připojení, komunikace, ukládání a mapování dat (ORM).
-
----
-
-### **VI. Strojové učení (Machine Learning)**
-
-23. **Teoretické základy ML**
-    * Příprava dat, chyby v datech (bias), korelace vs. kauzalita.
-24. **Klasické metody ML**
-    * Regresní analýza a klasifikační algoritmy.
-25. **Neuronové sítě**
-    * Architektury a využití umělých neuronových sítí.
+1. Adresování a správa paměti, Garbage collecting, Reference/ukazatele, Struktura paměti programu
+2. Algoritmizace, Grafy, prohledávání stavového prostoru, řazení
+3. Algoritmizace, Rekurze, Brute Force, Heuristiky, Nedeterministické algoritmy
+4. Anonymní metody (Lambda), speciální (magické) metody, statické metody, ukazatel na metodu (delegát)
+5. Architectural design patterns, MVC, multitier, monolithic, P2P, client / server
+6. Asymptotické paměťové a časové složitosti
+7. Datové typy, generika, výčtové datové typy, struktura, anotace, operátory
+8. Dědičnost, method overriding, function overloading
+9. Integrita dat, Kontrola vstupu, Zpracovani chyb, Logovani
+10. Komunikace s databázovým systémem
+11. Komunikace v síti, tvorba síťových aplikací, Berkley socket a jeho rozhraní
+12. Metodiky a životní cyklus vývoje softwaru
+13. Návrhové vzory, creational design patterns, structural design patterns, behavioral patterns
+14. Principy objektového programování, agregace a kompozice objektů
+15. Programovací jazyky, vlastnosti, srovnání, popis způsobů tvorby i běhu programů
+16. Soubory a serializace, Ukládání a načítání dat, formáty souborů
+17. Strojové učení, Příprava dat, chyby v datech a bias, korelace a kauzalita
+18. Strojové učení s využítím regrese a klasifikace
+19. Strojové učení s využitím umělých neuronových sítí
+20. Testování, unit testování a dokumentace zdrojového kódu
+21. Typy datových struktur, Pole, Spojový seznam, Strom, Fronta, Zásobník, Halda
+22. Vlákna, Paralelní programování, Asynchroní metody, Concurrent patterns
+23. Vlastnosti datových struktur, Seřazenost a opakování prvků, Indexace, hashování a klíče prvků
+24. Výjimky a aserce, debugování a zpracování chyb
+25. Zpracování a parsování textových dat, regulární výrazy, kódování a stringy
