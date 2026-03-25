@@ -1,0 +1,27 @@
+### Clean Topic Mapping ###
+
+Adresování a správa paměti = pages 1-7
+Algoritmizace - Grafy, Prohlédávání = pages 8-16
+Algoritmizace - Rekurze, Brute Force = pages 17-20
+Anonymní metody (Lambda) = pages 21-25
+Architectural design patterns = pages 26-29
+Asymptotické paměťové a časové = pages 30-33
+Datové typy, Generika = pages 34-37
+Dědičnost, method overriding = pages 38-41
+Integrita dat, Kontrola vstupu = page 42
+Programovací jazyky = page 43
+Komunikace s databázovým systémem = pages 44-60
+Komunikace v síti = pages 61-62
+Metodiky a životní cyklus = pages 63-64
+Návrhové vzory = pages 65-67
+Principy objektového programování = pages 68-75
+Soubory a serializace = pages 76-79
+Strojové učení - Příprava dat = pages 80-81
+Strojové učení s využitím regrese = pages 82-85
+Strojové učení s využitím umělých = page 86
+Testování, Unit testování = pages 87-89
+Typy datových struktur = pages 90-91
+Vlákna, Paralelní = pages 92-95
+Vlastnosti datových struktur = page 96
+Výjimky a aserce = page 97
+Zpracování a parsování = pages 98-100
