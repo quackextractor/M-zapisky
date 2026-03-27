@@ -1,7 +1,6 @@
-### **[PersonalCloud](https://github.com/Stevekk11/PersonalCloud) Project Testing Template**
+### **[PersonalCloud](https://github.com/Stevekk11/PersonalCloud) Project Testing Report**
 
 * **Tester Name:** Miro Slezák 
-* **Test Date:** Thursday, March 26, 2026
 * **Environment:** deployed production [website](https://veghtp.dev.spsejecna.net/)
 
 ---
