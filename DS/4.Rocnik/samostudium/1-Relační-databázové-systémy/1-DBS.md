@@ -1,6 +1,7 @@
 # Teoretický list: Relační databázové systémy
 
 ### 1. Relační databázové systémy a jejich základy
+Databázový systém je specializovaný software určený pro správu dat, což zahrnuje jejich bezpečné ukládání, rychlé vyhledávání a aktualizaci. Relační databáze je založena na tabulkách s definovanými vazbami. K datům a celému úložišti přistupujeme výhradně pomocí dotazovacího jazyka SQL. Zabezpečuje nezávislost dat (logickou i fyzickou nezávislost na aplikacích) a abstrakci dat. Databáze samotná je úložiště obsahující data (uživatelské hodnoty) a metadata (strukturovaná data jako atributy a omezení).
 
 ### 2. Architektura Klient-Server
 V současnosti se u relačních databázových systémů používá primárně architektura klient-server. Účelem této architektury je oddělení databázových služeb od klientských aplikací.
