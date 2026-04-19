@@ -209,4 +209,4 @@ Větné členy jsou slova ve větě, které mají určitou funkci. Určujeme je 
 7.  **zpíval** (Př), **ptáček** (Po), **Modrý** (Pks), **na větvi** (PUm), **melodii** (Pt), **krásnou** (Pks).
 8.  **se nelíbí** (Př), **Obraz** (Po), **na stěně** (Pkn), **mi** (Pt), **vůbec** (PUmí).
 9.  **poslal** (Př), **Karel** (Po), **Strýček** (Pks), **nám** (Pt), **dopis** (Pt), **dlouhý** (Pks), **z dovolené** (Pkn).
-10. **šustilo** (Př), **listí** (Po), **Spadané** (Pks), **lidem** (Pt), **pod nohama** (PUm).
+10. **šustilo** (Př), **listí** (Po), **Spadané** (Pks), **lidu** (Pt), **pod nohama** (PUm).
