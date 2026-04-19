@@ -147,10 +147,10 @@ Větné členy jsou slova ve větě, které mají určitou funkci. Určujeme je 
 
 ### Rozvíjející větné členy
 
-| Větný člen | Funkce | Otázka | Příklad |
+| Větný člen | Funkce | Otázka a značka | Příklad |
 | :--- | :--- | :--- | :--- |
 | **Předmět (Pt)** | Rozvíjí sloveso. | Pádové otázky kromě 1. a 5. pádu. | Koupil **auto**. |
-| **Příslovečné určení (PU)** | Rozvíjí sloveso, přídavné jméno nebo příslovce. | Kde (PUm), Kdy (PUč), Jak (PUz), Proč (PUp) | Šel **domů**. Přišel **včera**. |
+| **Příslovečné určení (PU)** | Rozvíjí sloveso, přídavné jméno nebo příslovce. | Kde/Kam/Odkud? (**PUm** - místa)<br>Kdy/Odkdy? (**PUč** - času)<br>Jak/Jakým způsobem? (**PUz** - způsobu)<br>Jak moc/Do jaké míry? (**PUmí** - míry)<br>Proč/Z jaké příčiny? (**PUpř** - příčiny)<br>Za jakým účelem? (**PUú** - účelu)<br>Za jaké podmínky? (**PUpod** - podmínky)<br>I přes co/Navzdory čemu? (**PUpříp** - přípustky) | Šel **domů**.<br>Přišel **včera**.<br>Mluvil **tiše**.<br>Byl **velmi** rád. |
 | **Přívlastek shodný (Pks)** | Rozvíjí podstatné jméno. Stojí většinou před ním a shoduje se s ním. | Jaký, který, čí? | **Mladý** chlapec. |
 | **Přívlastek neshodný (Pkn)** | Rozvíjí podstatné jméno. Většinou stojí za ním a neshoduje se. | Jaký, který, čí? | Cesta **lesem**. |
 | **Doplněk (Do)** | Rozvíjí sloveso a jméno (podmět/předmět) najednou. | Jak? Jaký? | Chlapec běžel **bosý**. |
@@ -160,48 +160,53 @@ Větné členy jsou slova ve větě, které mají určitou funkci. Určujeme je 
 ### Vyřešené příklady
 
 **Příklad 1:** Malý chlapec rychle čte novou knihu.
-* čte: Co dělá? Přísudek (Př)
-* chlapec: Kdo, co čte? Podmět (Po)
-* Malý: Jaký chlapec? Přívlastek shodný (Pks)
-* rychle: Jak čte? Příslovečné určení způsobu (PUz)
-* knihu: Koho, co čte? Předmět (Pt)
-* novou: Jakou knihu? Přívlastek shodný (Pks)
+
+  * čte: Co dělá? Přísudek (Př)
+  * chlapec: Kdo, co čte? Podmět (Po)
+  * Malý: Jaký chlapec? Přívlastek shodný (Pks)
+  * rychle: Jak čte? Příslovečné určení způsobu (PUz)
+  * knihu: Koho, co čte? Předmět (Pt)
+  * novou: Jakou knihu? Přívlastek shodný (Pks)
 
 **Příklad 2:** Včera jsme šli na dlouhou procházku lesem.
-* jsme šli: Přísudek (Př)
-* My: Podmět nevyjádřený (víme, že jsme to my)
-* Včera: Kdy jsme šli? Příslovečné určení času (PUč)
-* na procházku: Kam jsme šli? Příslovečné určení místa (PUm)
-* dlouhou: Na jakou procházku? Přívlastek shodný (Pks)
-* lesem: Jakou procházku? Přívlastek neshodný (Pkn stojí za slovem)
+
+  * jsme šli: Přísudek (Př)
+  * My: Podmět nevyjádřený (víme, že jsme to my)
+  * Včera: Kdy jsme šli? Příslovečné určení času (PUč)
+  * na procházku: Kam jsme šli? Příslovečné určení místa (PUm)
+  * dlouhou: Na jakou procházku? Přívlastek shodný (Pks)
+  * lesem: Jakou procházku? Přívlastek neshodný (Pkn stojí za slovem)
 
 **Příklad 3:** Otec se vrátil z práce velmi unavený.
-* se vrátil: Přísudek (Př)
-* Otec: Kdo se vrátil? Podmět (Po)
-* z práce: Odkud se vrátil? Příslovečné určení místa (PUm)
-* unavený: Jak se vrátil a jaký byl otec? Doplněk (Do)
-* velmi: Jak moc unavený? Příslovečné určení míry (PUz)
+
+  * se vrátil: Přísudek (Př)
+  * Otec: Kdo se vrátil? Podmět (Po)
+  * z práce: Odkud se vrátil? Příslovečné určení místa (PUm)
+  * unavený: Jak se vrátil a jaký byl otec? Doplněk (Do)
+  * velmi: Jak moc unavený? Příslovečné určení míry (PUmí)
 
 ### Příklady na procvičení
-1. Starý dědeček pomalu pije horký čaj.
-2. Náš pes našel na zahradě velkou kost.
-3. Cesta vlakem ubíhala velmi rychle.
-4. Učitel vysvětloval žákům novou látku.
-5. Včera večer hustě sněžilo.
-6. Bratr dorazil domů úplně vyčerpaný.
-7. Modrý ptáček zpíval na větvi krásnou melodii.
-8. Obraz na stěně se mi vůbec nelíbí.
-9. Strýček Karel nám poslal dlouhý dopis z dovolené.
+
+1.  Starý dědeček pomalu pije horký čaj.
+2.  Náš pes našel na zahradě velkou kost.
+3.  Cesta vlakem ubíhala velmi rychle.
+4.  Učitel vysvětloval žákům novou látku.
+5.  Včera večer hustě sněžilo.
+6.  Bratr dorazil domů úplně vyčerpaný.
+7.  Modrý ptáček zpíval na větvi krásnou melodii.
+8.  Obraz na stěně se mi vůbec nelíbí.
+9.  Strýček Karel nám poslal dlouhý dopis z dovolené.
 10. Spadané listí šustilo lidem pod nohama.
 
 ### Klíč k řešení (Téma 3)
-1. **pije** (Př), **dědeček** (Po), **Starý** (Pks), **pomalu** (PUz), **čaj** (Pt), **horký** (Pks).
-2. **našel** (Př), **pes** (Po), **Náš** (Pks), **na zahradě** (PUm), **kost** (Pt), **velkou** (Pks).
-3. **ubíhala** (Př), **Cesta** (Po), **vlakem** (Pkn), **velmi** (PU míry/PUz), **rychle** (PUz).
-4. **vysvětloval** (Př), **Učitel** (Po), **žákům** (Pt ve 3. pádě), **látku** (Pt ve 4. pádě), **novou** (Pks).
-5. **sněžilo** (Př), podmět je nevyjádřený, **Včera** (PUč), **večer** (PUč), **hustě** (PUz).
-6. **dorazil** (Př), **Bratr** (Po), **domů** (PUm), **úplně** (PU míry/PUz), **vyčerpaný** (Do).
-7. **zpíval** (Př), **ptáček** (Po), **Modrý** (Pks), **na větvi** (PUm), **melodii** (Pt), **krásnou** (Pks).
-8. **se nelíbí** (Př), **Obraz** (Po), **na stěně** (Pkn), **mi** (Pt), **vůbec** (PU míry/PUz).
-9. **poslal** (Př), **Karel** (Po), **Strýček** (Pks / přístavek), **nám** (Pt), **dopis** (Pt), **dlouhý** (Pks), **z dovolené** (Pkn).
+
+1.  **pije** (Př), **dědeček** (Po), **Starý** (Pks), **pomalu** (PUz), **čaj** (Pt), **horký** (Pks).
+2.  **našel** (Př), **pes** (Po), **Náš** (Pks), **na zahradě** (PUm), **kost** (Pt), **velkou** (Pks).
+3.  **ubíhala** (Př), **Cesta** (Po), **vlakem** (Pkn), **velmi** (PUmí), **rychle** (PUz).
+4.  **vysvětloval** (Př), **Učitel** (Po), **žákům** (Pt ve 3. pádě), **látku** (Pt ve 4. pádě), **novou** (Pks).
+5.  **sněžilo** (Př), podmět je nevyjádřený, **Včera** (PUč), **večer** (PUč), **hustě** (PUz).
+6.  **dorazil** (Př), **Bratr** (Po), **domů** (PUm), **úplně** (PUmí), **vyčerpaný** (Do).
+7.  **zpíval** (Př), **ptáček** (Po), **Modrý** (Pks), **na větvi** (PUm), **melodii** (Pt), **krásnou** (Pks).
+8.  **se nelíbí** (Př), **Obraz** (Po), **na stěně** (Pkn), **mi** (Pt), **vůbec** (PUmí).
+9.  **poslal** (Př), **Karel** (Po), **Strýček** (Pks), **nám** (Pt), **dopis** (Pt), **dlouhý** (Pks), **z dovolené** (Pkn).
 10. **šustilo** (Př), **listí** (Po), **Spadané** (Pks), **lidem** (Pt), **pod nohama** (PUm).
