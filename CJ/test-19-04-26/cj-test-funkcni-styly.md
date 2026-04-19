@@ -45,6 +45,7 @@ Jeden text má vždy jen jeden převažující funkční styl, ale slohových po
 6. Vážený pane řediteli, v příloze tohoto elektronického dopisu Vám podle naší včerejší dohody zasílám pečlivě vyplněný a mnou podepsaný vstupní dotazník, který je nezbytný pro úspěšné dokončení mého přijímacího řízení do Vaší firmy.
 7. Místnost, do které jsme právě vstoupili, byla překvapivě malá a stísněná, přičemž přímo uprostřed poškozené dřevěné podlahy stál masivní starý dubový stůl a v nejtmavším rohu pokoje se krčila zaprášená a polorozpadlá šatní skříň.
 8. Vláda České republiky včera ve večerních hodinách po mimořádně dlouhém a vyčerpávajícím celodenním jednání konečně schválila zbrusu nový a odbornou veřejností tolik diskutovaný návrh přísnějšího zákona o komplexní ochraně naší přírody a krajiny.
+9. Z jakého přesně důvodu tolik vzdělaných lidí v dnešní informační společnosti stále věří naprosto zjevným a snadno vyvratitelným dezinformacím na internetu? Možná je pro naši psychiku zkrátka mnohem pohodlnější a jednodušší bezmyšlenkovitě přijmout nějakou jednoduchou, lákavou lež než složitou, nejednoznačnou a často velmi nepříjemnou pravdu.
 10. Těsně poté, co laborant pomocí pipety opatrně přidal do připravené roztokové směsi silně koncentrovanou kyselinu sírovou, došlo uvnitř skleněné kádinky k velmi prudké a nebezpečné exotermické reakci, při níž se během několika málo sekund uvolnilo obrovské množství sálavého tepla.
 
 ### Klíč k řešení (Téma 1)
