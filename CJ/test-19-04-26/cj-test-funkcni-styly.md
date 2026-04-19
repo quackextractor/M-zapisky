@@ -136,7 +136,7 @@ Souvětí je spojení dvou a více vět. Každá věta v souvětí má většino
 
 ## Téma 3: Určení větných členů
 
-Větné členy jsou slova ve větě, které mají určitou funkci. Určujeme je pomocí otázek, na které si odpovídáme daným slovem z věty.
+Větné členy jsou slova ve větě, která mají určitou funkci. Určujeme je pomocí otázek, na které si odpovídáme daným slovem z věty.
 
 ### Základní větné členy
 
@@ -196,7 +196,7 @@ Větné členy jsou slova ve větě, které mají určitou funkci. Určujeme je 
 7.  Modrý ptáček zpíval na větvi krásnou melodii.
 8.  Obraz na stěně se mi vůbec nelíbí.
 9.  Strýček Karel nám poslal dlouhý dopis z dovolené.
-10. Spadané listí šustilo lidu pod nohama.
+10. Spadané listí šustilo lidem pod nohama.
 
 ### Klíč k řešení (Téma 3)
 
@@ -204,9 +204,9 @@ Větné členy jsou slova ve větě, které mají určitou funkci. Určujeme je 
 2.  **našel** (Př), **pes** (Po), **Náš** (Pks), **na zahradě** (PUm), **kost** (Pt), **velkou** (Pks).
 3.  **ubíhala** (Př), **Cesta** (Po), **vlakem** (Pkn), **velmi** (PUmí), **rychle** (PUz).
 4.  **vysvětloval** (Př), **Učitel** (Po), **žákům** (Pt ve 3. pádě), **látku** (Pt ve 4. pádě), **novou** (Pks).
-5.  **sněžilo** (Př), podmět je nevyjádřený, **Včera** (PUč), **večer** (PUč), **hustě** (PUz).
+5.  **sněžilo** (Př), podmět neexistuje, **Včera** (PUč), **večer** (PUč), **hustě** (PUz).
 6.  **dorazil** (Př), **Bratr** (Po), **domů** (PUm), **úplně** (PUmí), **vyčerpaný** (Do).
 7.  **zpíval** (Př), **ptáček** (Po), **Modrý** (Pks), **na větvi** (PUm), **melodii** (Pt), **krásnou** (Pks).
 8.  **se nelíbí** (Př), **Obraz** (Po), **na stěně** (Pkn), **mi** (Pt), **vůbec** (PUmí).
 9.  **poslal** (Př), **Karel** (Po), **Strýček** (Pks), **nám** (Pt), **dopis** (Pt), **dlouhý** (Pks), **z dovolené** (Pkn).
-10. **šustilo** (Př), **listí** (Po), **Spadané** (Pks), **lidu** (Pt), **pod nohama** (PUm).
+10. **šustilo** (Př), **listí** (Po), **Spadané** (Pks), **lidem** (Pt), **pod nohama** (PUm).
