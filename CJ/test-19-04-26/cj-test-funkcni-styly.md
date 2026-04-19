@@ -196,7 +196,7 @@ Větné členy jsou slova ve větě, které mají určitou funkci. Určujeme je 
 7.  Modrý ptáček zpíval na větvi krásnou melodii.
 8.  Obraz na stěně se mi vůbec nelíbí.
 9.  Strýček Karel nám poslal dlouhý dopis z dovolené.
-10. Spadané listí šustilo lidem pod nohama.
+10. Spadané listí šustilo lidu pod nohama.
 
 ### Klíč k řešení (Téma 3)
 
