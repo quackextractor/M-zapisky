@@ -26,26 +26,26 @@ Jeden text má vždy jen jeden převažující funkční styl, ale slohových po
 
 ### Vyřešené příklady
 
-**Příklad 1:** Zítra odpoledne se sejdeme v parku u laviček, vezmi prosím s sebou ten míč.
+**Příklad 1:** Ahoj, chtěl jsem ti jen v rychlosti připomenout, že se zítra odpoledne sejdeme v našem oblíbeném parku u dřevěných laviček, a moc tě prosím, abys nezapomněl vzít s sebou ten nový fotbalový míč, který jsme minule společně koupili.
 **Řešení:** Funkční styl je prostěsdělovací (běžná každodenní komunikace). Slohový postup je informační (jen předává základní fakta o schůzce).
 
-**Příklad 2:** Srdce je dutý svalový orgán, který svými pravidelnými stahy zajišťuje oběh krve tělem.
+**Příklad 2:** Lidské srdce je nezbytný dutý svalový orgán umístěný v hrudní dutině, který svými pravidelnými a rytmickými stahy funguje jako výkonná pumpa, čímž nepřetržitě zajišťuje oběh okysličené krve a živin celým tělem.
 **Řešení:** Funkční styl je odborný (obsahuje termíny, přesně definuje). Slohový postup je výkladový (vysvětluje, co to je a jak to funguje).
 
-**Příklad 3:** Slunce pomalu zapadalo za obzor a barvilo oblohu do krvavě rudých odstínů. Les utichl.
+**Příklad 3:** Unavené slunce velmi pomalu zapadalo za vzdálený horský obzor a svými posledními paprsky zbarvilo večerní oblohu do neuvěřitelně dramatických a krvavě rudých odstínů, zatímco celý hluboký les náhle utichl v posvátném očekávání nadcházející noci.
 **Řešení:** Funkční styl je umělecký (vyvolává obraz a atmosféru). Slohový postup je popisný (popisuje scénu).
 
 ### Příklady na procvičení
-1. Voda (H2O) se skládá ze dvou atomů vodíku a jednoho atomu kyslíku. Bod varu je 100 stupňů Celsia.
-2. Tímto žádám o uvolnění z výuky ve dnech 12. až 14. května z rodinných důvodů.
-3. Když dorazil na rozcestí, zničehonic se před ním objevila podivná postava v plášti a začala se k němu blížit.
-4. Zamysleme se nad tím, zda moderní technologie naši společnost spíše spojují, nebo naopak rozdělují.
-5. Koupím zánovní horské kolo, značka spěchá. Tel 123 456 789.
-6. Vážený pane řediteli, v příloze Vám zasílám vyplněný dotazník.
-7. Místnost byla malá. Uprostřed stál starý dubový stůl a v rohu se krčila zaprášená skříň.
-8. Vláda včera po dlouhém jednání schválila nový návrh zákona o ochraně přírody.
-9. Proč lidé stále věří dezinformacím? Možná je pro ně jednodušší přijmout jednoduchou lež než složitou pravdu.
-10. Poté, co přidal do směsi kyselinu sírovou, došlo k prudké exotermické reakci, při níž se uvolnilo velké množství tepla.
+
+1. Molekula vody, chemicky zapsaná vzorcem H2O, se skládá přesně ze dvou atomů vodíku a jednoho atomu kyslíku, přičemž za standardního atmosférického tlaku dosahuje její bod varu hodnoty sto stupňů Celsia.
+2. Vážený pane třídní učiteli, tímto Vás formálně žádám o mé úplné uvolnění z pravidelné školní výuky ve dnech od dvanáctého do čtrnáctého května tohoto roku, a to z velmi vážných a neodkladných rodinných důvodů.
+3. Přesně ve chvíli, kdy unavený poutník konečně dorazil na opuštěné lesní rozcestí, zničehonic se přímo před ním z husté mlhy vynořila podivná, temná postava zahalená v dlouhém potrhaném plášti a tichými kroky se začala pomalu blížit směrem k němu.
+4. Pojďme se na malou chvíli společně hluboce zamyslet nad velmi aktuální a palčivou otázkou dnešní doby, a sice zda moderní digitální technologie naši globální společnost ve výsledku spíše lidsky spojují, nebo naopak staví neviditelné bariéry a nenávratně nás od sebe rozdělují.
+5. Nutně a velmi rychle koupím kvalitní, nejlépe jen mírně ojeté a plně funkční zánovní horské kolo pro dospělého muže, přičemž tato nabídka opravdu hodně spěchá, proto mě prosím kontaktujte co nejdříve na telefonním čísle 123 456 789.
+6. Vážený pane řediteli, v příloze tohoto elektronického dopisu Vám podle naší včerejší dohody zasílám pečlivě vyplněný a mnou podepsaný vstupní dotazník, který je nezbytný pro úspěšné dokončení mého přijímacího řízení do Vaší firmy.
+7. Místnost, do které jsme právě vstoupili, byla překvapivě malá a stísněná, přičemž přímo uprostřed poškozené dřevěné podlahy stál masivní starý dubový stůl a v nejtmavším rohu pokoje se krčila zaprášená a polorozpadlá šatní skříň.
+8. Vláda České republiky včera ve večerních hodinách po mimořádně dlouhém a vyčerpávajícím celodenním jednání konečně schválila zbrusu nový a odbornou veřejností tolik diskutovaný návrh přísnějšího zákona o komplexní ochraně naší přírody a krajiny.
+10. Těsně poté, co laborant pomocí pipety opatrně přidal do připravené roztokové směsi silně koncentrovanou kyselinu sírovou, došlo uvnitř skleněné kádinky k velmi prudké a nebezpečné exotermické reakci, při níž se během několika málo sekund uvolnilo obrovské množství sálavého tepla.
 
 ### Klíč k řešení (Téma 1)
 1. **Odborný styl**, informační / popisný postup.
@@ -58,7 +58,6 @@ Jeden text má vždy jen jeden převažující funkční styl, ale slohových po
 8. **Publicistický styl** (zpravodajství), informační postup.
 9. **Publicistický styl**, úvahový postup.
 10. **Odborný styl**, výkladový postup.
-
 ---
 
 ## Téma 2: Rozbor souvětí a určování vět
