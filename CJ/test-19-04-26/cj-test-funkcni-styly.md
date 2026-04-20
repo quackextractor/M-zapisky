@@ -1,4 +1,3 @@
-Zde je kompletní, vylepšený text se zapracovanými chybějícími typy vedlejších vět:
 ## Téma 1: Funkční styly vs. Slohové postupy
 Základní rozdíl spočívá v tom, na co se zaměřujeme. **Funkční styl** je kabát textu, který volíme podle toho, komu a proč text píšeme. **Slohový postup** je naopak lešení textu, tedy způsob, jakým v textu řadíme informace a myšlenky.
 Jeden text má vždy jen jeden převažující funkční styl, ale slohových postupů se v něm může střídat více (například v románu se střídá vyprávěcí s popisným).
