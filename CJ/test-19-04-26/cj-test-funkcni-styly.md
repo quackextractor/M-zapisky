@@ -1,6 +1,7 @@
 ## Téma 1: Funkční styly vs. Slohové postupy
 Základní rozdíl spočívá v tom, na co se zaměřujeme. **Funkční styl** je kabát textu, který volíme podle toho, komu a proč text píšeme. **Slohový postup** je naopak lešení textu, tedy způsob, jakým v textu řadíme informace a myšlenky.
 Jeden text má vždy jen jeden převažující funkční styl, ale slohových postupů se v něm může střídat více (například v románu se střídá vyprávěcí s popisným).
+
 ### Funkční styly (K jakému účelu text slouží)
 | Styl | Využití | Hlavní cíl |
 |---|---|---|
@@ -19,15 +20,22 @@ Jeden text má vždy jen jeden převažující funkční styl, ale slohových po
 | **Popisný** | Zachycuje znaky a vlastnosti věci, osoby nebo místa (jak to vypadá). |
 | **Výkladový** | Vysvětluje vztahy, příčiny a následky (jak to funguje). |
 | **Úvahový** | Autor přemýšlí, hodnotí, klade si otázky a hledá na ně odpovědi. |
+
 ### Vyřešené příklady
 **Příklad 1:** Ahoj, chtěl jsem ti jen v rychlosti připomenout, že se zítra odpoledne sejdeme v našem oblíbeném parku u dřevěných laviček, a moc tě prosím, abys nezapomněl vzít s sebou ten nový fotbalový míč, který jsme minule společně koupili.
 **Řešení:** Funkční styl je prostěsdělovací (běžná každodenní komunikace). Slohový postup je informační (jen předává základní fakta o schůzce).
+
 **Příklad 2:** Lidské srdce je nezbytný dutý svalový orgán umístěný v hrudní dutině, který svými pravidelnými a rytmickými stahy funguje jako výkonná pumpa, čímž nepřetržitě zajišťuje oběh okysličené krve a živin celým tělem.
 **Řešení:** Funkční styl je odborný (obsahuje termíny, přesně definuje). Slohový postup je výkladový (vysvětluje, co to je a jak to funguje).
+
 **Příklad 3:** Unavené slunce velmi pomalu zapadalo za vzdálený horský obzor a svými posledními paprsky zbarvilo večerní oblohu do neuvěřitelně dramatických a krvavě rudých odstínů, zatímco celý hluboký les náhle utichl v posvátném očekávání nadcházející noci.
 **Řešení:** Funkční styl je umělecký (vyvolává obraz a atmosféru). Slohový postup je popisný (popisuje scénu).
+
 **Příklad 4:** Vážení spoluobčané, dámy a pánové, sešli jsme se zde dnes v tento slavnostní den proto, abychom uctili památku těch, kteří neváhali obětovat to nejcennější. Ptejme se sami sebe: jsme dnes hodni jejich odkazu?
 **Řešení:** Funkční styl je řečnický (přímé oslovení, snaha zapůsobit na publikum). Slohový postup je úvahový (klade si řečnickou otázku k zamyšlení).
+
+**Příklad 5:** Včera jsem šel normálně do obchodu, když vtom na mě zpoza rohu vyskočil sousedův pes a začal hrozně štěkat, tak jsem raději rychle utekl domů a nákup odložil na zítra.
+**Řešení:** Funkční styl je prostěsdělovací (běžná historka ze života). Slohový postup je vyprávěcí (má děj, zápletku a posouvá se v čase).
 
 ### Příklady na procvičení
  1. Molekula vody, chemicky zapsaná vzorcem H2O, se skládá přesně ze dvou atomů vodíku a jednoho atomu kyslíku, přičemž za standardního atmosférického tlaku dosahuje její bod varu hodnoty sto stupňů Celsia.
@@ -41,6 +49,8 @@ Jeden text má vždy jen jeden převažující funkční styl, ale slohových po
  9. Z jakého přesně důvodu tolik vzdělaných lidí v dnešní informační společnosti stále věří naprosto zjevným a snadno vyvratitelným dezinformacím na internetu? Možná je pro naši psychiku zkrátka mnohem pohodlnější a jednodušší bezmyšlenkovitě přijmout nějakou jednoduchou, lákavou lež než složitou, nejednoznačnou a často velmi nepříjemnou pravdu.
  10. Těsně poté, co laborant pomocí pipety opatrně přidal do připravené roztokové směsi silně koncentrovanou kyselinu sírovou, došlo uvnitř skleněné kádinky k velmi prudké a nebezpečné exotermické reakci, při níž se během několika málo sekund uvolnilo obrovské množství sálavého tepla.
  11. Milí absolventi, vážení rodiče, vzácní hosté. Stojíte dnes na prahu nové životní etapy a já vám všem chci z celého srdce popřát odvahu, sílu a vytrvalost do všech vašich budoucích rozhodnutí.
+ 12. Kyselina chlorovodíková je bezbarvá až nažloutlá těkavá kapalina se silným a štiplavým zápachem, která leptá pokožku.
+ 13. Milý deníčku, dneska to byl ve škole naprostý propadák, vůbec se mi nedařilo při psaní testu z matematiky a navíc jsem cestou domů ztratila klíče od skříňky.
 
 ### Klíč k řešení (Téma 1)
  1. **Odborný styl**, informační / popisný postup.
@@ -54,6 +64,8 @@ Jeden text má vždy jen jeden převažující funkční styl, ale slohových po
  9. **Publicistický styl**, úvahový postup.
  10. **Odborný styl**, výkladový postup.
  11. **Řečnický styl**, úvahový / informační postup.
+ 12. **Odborný styl**, popisný postup.
+ 13. **Prostěsdělovací styl**, vyprávěcí postup.
 
 ## Téma 2: Rozbor souvětí, určování vět a poměry mezi větami
 Souvětí je spojení dvou a více vět. Každá věta v souvětí má většinou jedno přísudkové sloveso (to, co určuje děj). Věty dělíme na hlavní a vedlejší.
@@ -104,24 +116,33 @@ Pokud jsou vedle sebe dvě věty hlavní, jsou v tzv. souřadném poměru. Nezá
  * **Rozbor:** "Myslím" je VH (nemá spojku). "že dnes bude pršet" je VV (začíná na že).
  * **Otázka:** Koho, co si myslím? Odpověď: že dnes bude pršet.
  * **Řešení:** 1. VH, 2. VV předmětná.
+
 **Příklad 2:** Kniha, kterou mi bratr včera půjčil, leží na stole.
  * **Slovesa:** půjčil, leží (2 věty).
  * **Rozbor:** Zde je věta hlavní roztržená. "Kniha leží na stole" je VH. "kterou mi bratr včera půjčil" je VV.
  * **Otázka:** Jaká kniha leží na stole? Odpověď: kterou mi bratr půjčil.
  * **Řešení:** 1a. VH, 2. VV přívlastková, 1b. VH.
+
 **Příklad 3:** Nemohli jsme jít ven, protože začala obrovská bouřka.
  * **Slovesa:** nemohli jsme jít, začala (2 věty).
  * **Rozbor:** "Nemohli jsme jít ven" je VH. "protože začala obrovská bouřka" je VV.
  * **Otázka:** Proč jsme nemohli jít ven? Odpověď: protože začala bouřka.
  * **Řešení:** 1. VH, 2. VV příslovečná příčinná.
+
 **Příklad 4:** Chvíli pršelo, ale brzy zase vysvitlo slunce.
  * **Slovesa:** pršelo, vysvitlo (2 věty).
  * **Rozbor:** Obě věty dávají samy smysl. Jsou to dvě věty hlavní.
  * **Poměr:** Spojka "ale" vyjadřuje odpor.
  * **Řešení:** 1. VH, 2. VH, poměr odporovací.
+
 **Příklad 5:** Obloha se náhle zatáhla černými mraky, a tak jsme raději rychle utíkali domů.
  * **Rozbor:** Dvě věty hlavní. Zatažení oblohy má za následek náš útěk.
  * **Řešení:** 1. VH, 2. VH, poměr důsledkový.
+
+**Příklad 6:** Sledoval jsem bratra, jak rychle běží po hřišti.
+ * **Rozbor:** "Sledoval jsem bratra" je VH. "jak rychle běží po hřišti" je VV.
+ * **Otázka:** Jak, jako co jsem ho sledoval? Odpověď: jak běží.
+ * **Řešení:** 1. VH, 2. VV doplňková.
 
 ### Příklady na procvičení
  1. Slíbil mi, že mi s tím úkolem zítra pomůže.
@@ -140,6 +161,8 @@ Pokud jsou vedle sebe dvě věty hlavní, jsou v tzv. souřadném poměru. Nezá
  14. Ten člověk mi vůbec neodpověděl na pozdrav, ba dokonce se na mě ani nepodíval.
  15. Museli jsme náš výlet zrušit, neboť celý víkend vytrvale pršelo.
  16. Zapomněl jsem si doma peněženku, a proto jsem si nemohl koupit oběd.
+ 17. Udělal to přesně tak, jak mu učitel předtím poradil.
+ 18. Koupil jsem si novou bundu, a dokonce mi k ní dali i zimní čepici.
 
 ### Klíč k řešení (Téma 2)
  1.    1. VH, 2. VV **předmětná** (Koho, co mi slíbil?).
@@ -158,6 +181,8 @@ Pokud jsou vedle sebe dvě věty hlavní, jsou v tzv. souřadném poměru. Nezá
  14.    1. VH, 2. VH. Poměr **stupňovací**.
  15.    1. VH, 2. VH. Poměr **příčinný**.
  16.    1. VH, 2. VH. Poměr **důsledkový**.
+ 17.    1. VH, 2. VV **příslovečná způsobová** (Jak to udělal?).
+ 18.    1. VH, 2. VH. Poměr **stupňovací**.
 
 ## Téma 3: Určení větných členů
 Větné členy jsou slova ve větě, která mají určitou funkci. Určujeme je pomocí otázek, na které si odpovídáme daným slovem z věty.
@@ -175,6 +200,7 @@ Větné členy jsou slova ve větě, která mají určitou funkci. Určujeme je 
 | **Příslovečné určení (PU)** | Rozvíjí sloveso, přídavné jméno nebo příslovce. | Viz detailní tabulka níže. | Šel **domů**. Přišel **včera**. |
 | **Přívlastek shodný (Pks)** | Rozvíjí podstatné jméno. Stojí většinou před ním a shoduje se s ním. | Jaký, který, čí? | **Mladý** chlapec. |
 | **Přívlastek neshodný (Pkn)** | Rozvíjí podstatné jméno. Většinou stojí za ním a neshoduje se. | Jaký, který, čí? | Cesta **lesem**. |
+| **Přístavek (Pvs)** | Volně připojený přívlastek, označuje stejnou skutečnost jinými slovy. Z obou stran se odděluje čárkami. | Kdo, co to přesně je? | Karel IV., **český král**, vládl. |
 | **Doplněk (Do)** | Rozvíjí sloveso a jméno (podmět/předmět) najednou. | Jak? Jaký? | Chlapec běžel **bosý**. |
 
 ### Detailní přehled: Příslovečné určení (PU)
@@ -189,7 +215,19 @@ Větné členy jsou slova ve větě, která mají určitou funkci. Určujeme je 
 | **Podmínky** | PUpod | Za jaké podmínky? | **V případě deště** zůstaneme doma. |
 | **Přípustky** | PUpříp | I přes co? Navzdory čemu? | **Přes únavu** pokračoval. Vyhrál **navzdory zranění**. |
 
-**Jak postupovat:** Vždy si nejprve najdi přísudek (sloveso) a zeptej se jím na podmět (Kdo, co). Pak se ptej podmětem a přísudkem na další slova ve větě.
+### Několikanásobné větné členy a poměry mezi nimi
+Pokud je ve větě více větných členů stejného druhu, které jsou na stejné úrovni (patří ke stejnému slovu), tvoří **několikanásobný větný člen** (například několikanásobný podmět, předmět, přívlastek). Mezi těmito členy určujeme stejné logické poměry jako mezi hlavními větami.
+
+| Typ poměru | Nejčastější spojky | Příklad |
+|---|---|---|
+| **Slučovací** | a, i, ani, nebo (ve smyslu a) | Koupil rohlíky **a** chleba. |
+| **Odporovací** | ale, avšak, však | Malý, **ale** šikovný chlapec. |
+| **Vylučovací** | nebo, anebo, buď - nebo | Dáš si čaj, **nebo** kávu? |
+| **Stupňovací** | ba, ba i, dokonce | Chytří, **ba dokonce** geniální vědci. |
+| **Příčinný** | totiž (u větných členů méně časté) | Nepřišel pro nemoc, **totiž** pro chřipku. |
+| **Důsledkový** | a proto, a tak | Náročný, **a proto** únavný úkol. |
+
+**Jak postupovat při určování větných členů:** Vždy si nejprve najdi přísudek (sloveso) a zeptej se jím na podmět (Kdo, co). Pak se ptej podmětem a přísudkem na další slova ve větě.
 
 ### Vyřešené příklady
 **Příklad 1:** Malý chlapec rychle čte novou knihu.
@@ -199,6 +237,7 @@ Větné členy jsou slova ve větě, která mají určitou funkci. Určujeme je 
  * rychle: Jak čte? Příslovečné určení způsobu (PUz)
  * knihu: Koho, co čte? Předmět (Pt)
  * novou: Jakou knihu? Přívlastek shodný (Pks)
+
 **Příklad 2:** Včera jsme šli na dlouhou procházku lesem.
  * jsme šli: Přísudek (Př)
  * My: Podmět nevyjádřený (víme, že jsme to my)
@@ -206,12 +245,14 @@ Větné členy jsou slova ve větě, která mají určitou funkci. Určujeme je 
  * na procházku: Kam jsme šli? Příslovečné určení místa (PUm)
  * dlouhou: Na jakou procházku? Přívlastek shodný (Pks)
  * lesem: Jakou procházku? Přívlastek neshodný (Pkn stojí za slovem)
+
 **Příklad 3:** Otec se vrátil z práce velmi unavený.
  * se vrátil: Přísudek (Př)
  * Otec: Kdo se vrátil? Podmět (Po)
  * z práce: Odkud se vrátil? Příslovečné určení místa (PUm)
  * unavený: Jak se vrátil a jaký byl otec? Doplněk (Do)
  * velmi: Jak moc unavený? Příslovečné určení míry (PUmí)
+
 **Příklad 4:** Navzdory silnému dešti došel závodník do cíle zcela vyčerpaný.
  * došel: Přísudek (Př)
  * závodník: Podmět (Po)
@@ -220,6 +261,7 @@ Větné členy jsou slova ve větě, která mají určitou funkci. Určujeme je 
  * do cíle: Kam došel? Příslovečné určení místa (PUm)
  * zcela: Jak moc vyčerpaný? Příslovečné určení míry (PUmí)
  * vyčerpaný: Jak došel a jaký byl závodník? Doplněk (Do)
+
 **Příklad 5:** Chlapec se třásl zimou a běžel domů pro teplou bundu.
  * se třásl, běžel: Přísudek (Př)
  * Chlapec: Podmět (Po)
@@ -227,6 +269,27 @@ Větné členy jsou slova ve větě, která mají určitou funkci. Určujeme je 
  * domů: Kam běžel? Příslovečné určení místa (PUm)
  * pro bundu: Za jakým účelem běžel? Příslovečné určení účelu (PUú)
  * teplou: Jakou bundu? Přívlastek shodný (Pks)
+
+**Příklad 6 (Přístavek):** Karel Čapek, slavný český spisovatel, napsal divadelní hru R.U.R.
+ * napsal: Přísudek (Př)
+ * Karel Čapek: Podmět (Po)
+ * slavný český spisovatel: Přístavek (Pvs). Vysvětluje jinak jméno Karel Čapek a je oddělený čárkami.
+ * hru: Předmět (Pt)
+ * divadelní: Přívlastek shodný (Pks)
+ * R.U.R.: Přívlastek neshodný (Pkn)
+
+**Příklad 7 (Poměry):** Do batohu si zabalte náhradní oblečení, pevnou obuv a pláštěnku.
+ * zabalte si: Přísudek (Př)
+ * Vy: Podmět nevyjádřený
+ * do batohu: Příslovečné určení místa (PUm)
+ * oblečení, obuv, pláštěnku: Několikanásobný předmět (Pt). Spojka "a" mezi nimi značí **slučovací poměr**.
+
+**Příklad 8 (Poměry):** Venku na nás čekal malý, ale velmi hlučný pes.
+ * čekal: Přísudek (Př)
+ * pes: Podmět (Po)
+ * venku: Příslovečné určení místa (PUm)
+ * na nás: Předmět (Pt)
+ * malý, hlučný: Několikanásobný přívlastek shodný (Pks). Spojka "ale" značí **odporovací poměr**.
 
 ### Příklady na procvičení
  1. Starý dědeček pomalu pije horký čaj.
@@ -244,6 +307,11 @@ Větné členy jsou slova ve větě, která mají určitou funkci. Určujeme je 
  13. Za příznivého počasí se vydáme na celodenní túru do hor. (Urči spojení "Za počasí")
  14. Přes zákaz lékaře šel tatínek druhý den do práce. (Urči spojení "Přes zákaz")
  15. Ten film se mi líbil opravdu hodně. (Urči slovo "hodně")
+ 16. Pan Novák, náš nový soused, si koupil červené nebo modré auto. (Urči spojení "náš nový soused" a poměr mezi "červené" a "modré")
+ 17. Na stole ležely připravené knihy, sešity i propisky. (Urči slova "knihy, sešity, propisky" a poměr mezi nimi)
+ 18. Brno, druhé největší město České republiky, pořádá mnoho veletrhů. (Urči spojení "druhé největší město České republiky")
+ 19. Je to nesmírně náročný, a proto vyčerpávající sport. (Urči poměr mezi přívlastky "náročný" a "vyčerpávající")
+ 20. K večeři si dám buď pizzu, nebo těstoviny. (Urči slova "pizzu, těstoviny" a poměr mezi nimi)
 
 ### Klíč k řešení (Téma 3)
  1. **pije** (Př), **dědeček** (Po), **Starý** (Pks), **pomalu** (PUz), **čaj** (Pt), **horký** (Pks).
@@ -261,3 +329,8 @@ Větné členy jsou slova ve větě, která mají určitou funkci. Určujeme je 
  13. **Za počasí** = Za jaké podmínky se vydáme? **PUpod** (podmínky).
  14. **Přes zákaz** = Navzdory čemu šel? **PUpříp** (přípustky).
  15. **hodně** = Jak moc se líbil? **PUmí** (míry).
+ 16. **náš nový soused** = **Přístavek (Pvs)**; poměr mezi "červené" a "modré" (několikanásobný Pks) je **vylučovací**.
+ 17. **knihy, sešity, propisky** = **Několikanásobný podmět (Po)**; poměr je **slučovací**.
+ 18. **druhé největší město České republiky** = **Přístavek (Pvs)**.
+ 19. **náročný, vyčerpávající** = Několikanásobný přívlastek shodný (Pks); poměr je **důsledkový** (spojka a proto).
+ 20. **pizzu, těstoviny** = **Několikanásobný předmět (Pt)**; poměr je **vylučovací** (spojka buď, nebo).
