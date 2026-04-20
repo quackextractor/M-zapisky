@@ -1,6 +1,7 @@
 # Teoretický list: Normalizace relační databáze
 
-## 1. Význam normalizace a datové anomálie Normalizace je proces úpravy struktury databáze (tabulek), aby nedocházelo k redundanci (nadbytečnosti) dat a aby byla zajištěna konzistence z hlediska jednoznačnosti při vyhledávání. Cílem tohoto procesu je snížit duplikaci dat, usnadnit celkovou údržbu systému a zabránit vzniku anomálií při úpravách, vkládání a mazání záznamů.
+## 1. Význam normalizace a datové anomálie 
+Normalizace je proces úpravy struktury databáze (tabulek), aby nedocházelo k redundanci (nadbytečnosti) dat a aby byla zajištěna konzistence z hlediska jednoznačnosti při vyhledávání. Cílem tohoto procesu je snížit duplikaci dat, usnadnit celkovou údržbu systému a zabránit vzniku anomálií při úpravách, vkládání a mazání záznamů.
 
 Chybně navržená nebo nenormalizovaná databáze trpí následujícími problémy:
  * **Redundance (Update anomálie):** Nadbytečné opakování stejných dat, které vede k problémům při aktualizaci. Změna jednoho údaje může vyžadovat úpravy na mnoha místech, což zvyšuje riziko chyb.
