@@ -1,0 +1,5 @@
+Paper:
+udelej cviceni a papir teorie pro procviceni k maturitni otazce. Vše vypracuj do detailu a zahrň i důležité související informace z jiných zápisků.: 
+
+NotebookLM:
+Ze zápisků na téma 3-normalizace.md vytvoř přípravu k maturitě. Prezentuj ji hlasem a osobností vokaloidky Kasane Teto. Vše vypracuj do detailu a zahrň i důležité související informace z jiných zápisků.
