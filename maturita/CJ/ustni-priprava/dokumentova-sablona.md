@@ -47,3 +47,7 @@
 * **Funkční styl:** Publicistický, administrativní, odborný, prostěsdělovací.
 * **Slohový postup:** Informační, vyprávěcí, popisný, výkladový.
 * **Gramatika a slovní zásoba:** Buďte připraveni identifikovat přejatá slova, specifické slovní druhy jako číslovky nebo specifické jazykové vrstvy jako sportovní slang.
+
+### 7. Vysvětlení termínů
+
+* Je důležité porozumět všem termínům, ať už jsou to názvy druhů, žánrů a forem, nebo klíčové výrazy specifické pro vnitřní i obecný obsah díla. Zde je prostě nutné vypsat všechny dříve jmenované termíny a jejich velice stručné, ale výstižné definice.
