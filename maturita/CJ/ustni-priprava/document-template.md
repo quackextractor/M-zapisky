@@ -1,49 +1,49 @@
-## Maturita Study Guide Template
+## Šablona studijního průvodce k maturitě
 
-### 1. Author and Literary Context
-*(Addresses: "Place the author in the context of world/Czech literature")*
+### 1. Autor a literární kontext
+*(Zahrnuje: "Zasazení autora do kontextu světové/české literatury")*
 
-* **Author's Name & Basic Biography:** Key life events that influenced their writing (e.g., wartime experience, political persecution).
-* **Literary Period / Movement:** Examples include Lost Generation, Realism, Czech prose of the 2nd half of the 20th century.
-* **Context of the Era:** Historical background (e.g., WWI, WWII, totalitarian regimes).
-* **Other Works by the Author:** List 2-3 significant works.
-* **Similar Authors / Works:** Identify similar books in Czech or world literature, noting similarities and differences.
+* **Jméno autora a základní životopis:** Klíčové životní události, které ovlivnily jeho tvorbu (např. válečná zkušenost, politické pronásledování).
+* **Literární období / směr:** Příklady zahrnují ztracenou generaci, realismus, českou prózu 2. poloviny 20. století.
+* **Kontext doby:** Historické pozadí (např. první světová válka, druhá světová válka, totalitní režimy).
+* **Další autorova díla:** Uveďte 2 až 3 významná díla.
+* **Podobní autoři / díla:** Určete podobné knihy v české nebo světové literatuře a zaznamenejte podobnosti a rozdíly.
 
-### 2. The Literary Work (General Information)
-*(Addresses: "Determine the literary type and genre")*
+### 2. Literární dílo (Obecné informace)
+*(Zahrnuje: "Určení literárního druhu a žánru")*
 
-* **Literary Type (Druh):** Epic, Lyric, or Drama.
-* **Literary Genre (Žánr):** Novel, Novella, Short story collection, Anti-utopian novel, etc.
-* **Literary Form (Forma):** Prose or Poetry.
+* **Literární druh:** Epika, lyrika nebo drama.
+* **Literární žánr:** Román, novela, povídková sbírka, antiutopický román atd.
+* **Literární forma:** Próza nebo poezie.
 
-### 3. Plot, Setting, and Themes
-*(Addresses: "Describe the atmosphere, the ending, and the meaning of the title")*
+### 3. Děj, prostředí a témata
+*(Zahrnuje: "Popis atmosféry, závěru a významu názvu")*
 
-* **Time and Space (Časoprostor):** When and where the story takes place.
-* **Plot Summary:** Brief overview of the main events and what is happening in specific famous excerpts.
-* **The Ending:** How does the book conclude? (Tragic, open, or resolved).
-* **Main Themes & Motifs:** The core message (e.g., absurdity of war, loss of illusions, family sacrifice).
-* **Explanation of the Title:** Symbolic meaning of the title.
-* **Atmosphere:** Depressive, humorous, nostalgic, etc.
+* **Časoprostor:** Kdy a kde se příběh odehrává.
+* **Shrnutí děje:** Stručný přehled hlavních událostí a toho, co se děje ve specifických známých ukázkách.
+* **Závěr:** Jak kniha končí? (Tragicky, otevřeně nebo uzavřeně).
+* **Hlavní témata a motivy:** Hlavní myšlenka (např. absurdita války, ztráta iluzí, obětování rodiny).
+* **Vysvětlení názvu:** Symbolický význam názvu.
+* **Atmosféra:** Depresivní, humorná, nostalgická atd.
 
-### 4. Character Analysis
-*(Addresses: "Characterize the main character and their development")*
+### 4. Analýza postav
+*(Zahrnuje: "Charakteristika hlavní postavy a jejího vývoje")*
 
-* **Main Character(s):** Name, personality traits, and how they evolve throughout the story.
-* **Supporting Characters:** Brief descriptions and their relationships to the main character.
+* **Hlavní postava (postavy):** Jméno, povahové rysy a jak se vyvíjejí v průběhu příběhu.
+* **Vedlejší postavy:** Stručné popisy a jejich vztahy k hlavní postavě.
 
-### 5. Language and Style
-*(Addresses: "Name interesting linguistic devices and layers of Czech used")*
+### 5. Jazyk a styl
+*(Zahrnuje: "Pojmenování zajímavých jazykových prostředků a použitých vrstev češtiny")*
 
-* **Type of Narrator:** Ich-forma or Er-forma.
-* **Language Layers:** Standard language (Spisovná čeština), Slang, Colloquialisms, Vulgarisms, Argot.
-* **Stylistic Devices & Tropes:** Use of metaphors, irony, satire, personification, etc.
-* **Composition:** Chronological, retrospective, or episodic structure.
+* **Typ vypravěče:** Ich-forma nebo er-forma.
+* **Jazykové vrstvy:** Spisovná čeština, slang, hovorová čeština, vulgarismy, argot.
+* **Stylistické prostředky a tropy:** Použití metafor, ironie, satiry, personifikace atd.
+* **Kompozice:** Chronologická, retrospektivní nebo epizodická struktura.
 
-### 6. Non-Literary Text Preparation (Text 2 Analysis)
-*(Addresses: Analyzing the second text)*
+### 6. Příprava neuměleckého textu (Analýza textu 2)
+*(Zahrnuje: Analýzu druhého textu)*
 
-* **Thematic Connection:** How Text 2 connects to the main book (e.g., a soldier's letter connecting to a war novel).
-* **Functional Style (Funkční styl):** Journalistic, Administrative, Scientific, Prostěsdělovací.
-* **Stylistic Procedure (Slohový postup):** Informational, Narrative, Descriptive, Expository.
-* **Grammar & Vocabulary:** Be prepared to identify loan words, specific parts of speech like numerals, or specific language layers like sports slang.
+* **Tematická souvislost:** Jak druhý text souvisí s hlavní knihou (např. dopis vojáka související s válečným románem).
+* **Funkční styl:** Publicistický, administrativní, odborný, prostěsdělovací.
+* **Slohový postup:** Informační, vyprávěcí, popisný, výkladový.
+* **Gramatika a slovní zásoba:** Buďte připraveni identifikovat přejatá slova, specifické slovní druhy jako číslovky nebo specifické jazykové vrstvy jako sportovní slang.
