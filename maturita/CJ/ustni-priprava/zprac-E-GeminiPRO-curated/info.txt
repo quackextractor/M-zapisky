@@ -1,3 +1,6 @@
+Info:
+NotebookLM will always only write info provided in the source documents. Unfortunately, not all info is always available. This is why we need to refine it.
+
 Model: Gemini PRO
 
 Files: 
