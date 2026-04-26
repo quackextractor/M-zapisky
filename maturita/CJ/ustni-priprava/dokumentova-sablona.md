@@ -7,7 +7,7 @@
 * **Literární období / směr:** Příklady zahrnují ztracenou generaci, realismus, českou prózu 2. poloviny 20. století.
 * **Kontext doby:** Historické pozadí (např. první světová válka, druhá světová válka, totalitní režimy).
 * **Další autorova díla:** Uveďte 2 až 3 významná díla.
-* **Podobní autoři / díla:** Určete podobné knihy **specificky v české** a ve světové literatuře a **zaznamenejte konkrétní podobnosti a rozdíly**.
+* **Podobní autoři / díla:** Určete podobné díla a autoři **specificky v české** a ve světové literatuře, které jsou zároveň alespoň v jednom ze seznamu vybranych knih a **zaznamenejte konkrétní podobnosti a rozdíly**.
 
 ### 2. Literární dílo (Obecné informace)
 *(Zahrnuje: "Určení literárního druhu a žánru")*
