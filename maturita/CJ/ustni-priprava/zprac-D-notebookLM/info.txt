@@ -1,4 +1,4 @@
-Info: Díla od jednoho autora je nutné seskupit do jednoho souboru
+Info: Díla od samého autora je nutné seskupit do jednoho souboru
 
 Notebook:
 https://notebooklm.google.com/notebook/7b33df3e-41d3-494d-a264-e0b788f3f9fa
