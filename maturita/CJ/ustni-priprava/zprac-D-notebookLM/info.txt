@@ -1,0 +1,5 @@
+Notebook:
+https://notebooklm.google.com/notebook/7b33df3e-41d3-494d-a264-e0b788f3f9fa
+
+Prompt:
+Na základě šablony dokumentu vytvoř dokument pro [JMENO AUTORA] a [NAZEV DILA 1] (+ [NAZEV DILA 2])

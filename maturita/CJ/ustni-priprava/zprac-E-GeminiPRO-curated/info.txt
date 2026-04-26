@@ -1,0 +1,8 @@
+Model: Gemini PRO
+
+Files: 
+- dokumentova-sablona.md
+- dokument z /zprac-D-notebookLM
+
+Prompt:
+Analyzuj dokument. Splňuje dokument zcela template pro pripravu? Pokud ne, uprav dokument, aby tam byly všechny potřebné odpovědi podle template. Vrať mi upravený dokument v celku.
