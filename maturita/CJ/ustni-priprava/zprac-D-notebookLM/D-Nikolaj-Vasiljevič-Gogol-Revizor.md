@@ -1,0 +1,60 @@
+#### Šablona studijního průvodce k maturitě: Nikolaj Vasiljevič Gogol – Revizor
+
+##### 1. Autor a literární kontext
+*   **Jméno autora a základní životopis:** Nikolaj Vasiljevič Gogol (1809–1852) se narodil do šlechtické rodiny na Ukrajině. Odešel do Petrohradu s úmyslem stát se úředníkem nebo spisovatelem. I když jako úředník krátce působil, nakonec se proslavil především svou literární činností. Často cestoval po Evropě (žil například v Římě a navštívil Jeruzalém) a většinu života trpěl silnými depresemi, trudomyslností a psychickými problémy, jež ho nakonec vedly k tomu, že před smrtí spálil některé své rukopisy (včetně druhého dílu Mrtvých duší). 
+*   **Literární období / směr:** Z hlediska světové literatury se řadí do 1. poloviny 19. století. Literárně vyšel z **romantismu** (např. ve využití nadpřirozena u dřívějších povídek), ale jeho vrcholná tvorba spadá k průkopníkům **realismu** (či tzv. kritického realismu), často obohaceného o typicky gogolovské prvky absurdity, satiry a grotesky.
+*   **Kontext doby:** Gogol psal během tvz. bachovského absolutismu za vlády cara Mikuláše I. v Rusku. Šlo o období, kdy státní aparát podléhal tuhé, přísné cenzuře, omezování svobody projevu a veškerou sféru společnosti svazovala těžkopádná, extrémně zkorumpovaná úřednická byrokracie. Námět na hru o falešném revizorovi mu údajně vnukl jeho přítel, slavný básník A. S. Puškin.
+*   **Další autorova díla:**
+    *   *Mrtvé duše* – vrcholný román, sžíravá kritika ruské společnosti, jehož hlavní hrdina kupuje jména zemřelých nevolníků ("mrtvých duší") pro osobní obohacení.
+    *   *Ženitba* – satirická divadelní komedie o starém mládenci, který z plánované svatby nakonec uteče.
+    *   *Večery na samotě u Dikaňky* – sbírka povídek obsahující romantické prvky a ukrajinský folklór.
+*   **Podobní autoři / díla (z maturitního seznamu):**
+    *   **Charles Dickens – *Oliver Twist***: Stejně jako Gogol patří Dickens k **realismu 19. století** a obě díla sdílejí **sociálně kritický přesah**, přičemž ostře ukazují na prohnilost oficiálních státních či úředních institucí (u Gogola jsou to korupční městští úředníci, u Dickense nelidští zástupci chudobince v čele s panem Bumblem). *Rozdíl:* Dickens píše v Anglii a využívá prvků tklivého sentimentu i temného společenského dramatu, zatímco Gogol se nespoléhá na sentiment ani smutek, nýbrž výhradně na absurdní grotesku a třeskutý smích.
+    *   **Viktor Dyk – *Krysař***: I když spadá Krysař do zcela jiné epochy a žánru (neoromantická a dekadentní novela 20. století), obě knihy spojuje výrazná **kritika chamtivého, vypočítavého a zkaženého chování místních představitelů obce/radních**, kteří myslí jen na svůj zisk. *Rozdíl:* Zatímco Krysař je temným příběhem vrcholícím skutečnou tragédií a smrtí, *Revizor* zůstává na rovině komedie nedorozumění a odhalení.
+    *   **Karel Havlíček Borovský – *Tyrolské elegie***: Autor je také řazen k počátkům realismu a kritizuje státní byrokracii (v tomto případě policii a úřady habsburské monarchie Rakouska). Havlíček i Gogol navíc pro svou kritiku volí **satiru, ironii a humor** jako svůj hlavní nástroj. *Rozdíl:* Havlíček Borovský kritizuje ze silně autobiografické, osobní pozice jakožto nespravedlivě stíhaný vyhnanec, Gogol se na svou smyšlenou zápletku v *Revizorovi* dívá z odstupem.
+
+##### 2. Literární dílo (Obecné informace)
+*   **Literární druh:** Drama (text je primárně určen k inscenaci a předvádění na divadelním jevišti).
+*   **Literární žánr:** Satirická komedie (vyznačuje se ostrou kritikou skrze výsměch).
+*   **Literární forma:** Próza (běžná větná forma, nejedná se o veršovanou hru).
+
+##### 3. Děj, prostředí a témata
+*   **Časoprostor:** Děj se odehrává v blíže nejmenovaném **malém ruském provinčním městečku** v 1. polovině 19. století (počátek 30. let). Celý sled událostí se seběhne v časovém rozmezí **pouhých 24 hodin**.
+*   **Shrnutí děje:** Hejtman a místní úředníci ve zkorumpovaném městečku zachytí zprávu, že k nim inkognito míří obávaný tajný státní kontrolor z hlavního města. Ve stejné chvíli trčí v místním hostinci zadlužený, bezvýznamný mladý úředníček Chlestakov se svým sluhou. Vystrašené představitelstvo si kvůli drbům domyslí, že právě on je oním revizorem, a ze strachu před odhalením zanedbávaných povinností jej začnou uctívat a podplácet. Chlestakov situace po chvíli obratně využije, začne úředníky tahat za nos, vypůjčí si spoustu peněz, přijme dary a začne se dokonce dvořit hejtmanově manželce a požádá o ruku jeho dceru. Poté, co mu bystrý sluha poradí, že hra hrozí brzkým prasknutím, Chlestakov včas pod záminkou město opustí. Teprve poté poštmistr zadrží a přečte Chlestakovův dopis, ve kterém se oklamaným úředníkům vysmívá. V momentě tohoto trapného odhalení přijíždí do města posel, který ohlašuje příchod skutečného, pravého revizora.
+*   **Závěr:** Závěr hry je v literárním smyslu slova **uzavřený-otevřený**. Není to tragický závěr ve smyslu obětí na životech (stále je to komedie), hra končí strnutím všech postav na jevišti v legendárním šokovaném "němém výjevu", načež spadne opona. K jakému konkrétnímu trestu pro zkorumpované úředníky dojde po příjezdu skutečného revizora, autor záměrně nezmiňuje a domyslet si ho musí divák či čtenář sám.
+*   **Hlavní témata a motivy:** Ústředním motivem díla je **ostrá kritika úplatkářství, korupce, byrokratismu, hlouposti, podlézavosti a celkové prohnilosti tehdejší společnosti**. Dále se zde objevují motivy **přetvářky**, záměny, strachu z vyšší moci a maloměšťáckého snobství.
+*   **Vysvětlení názvu:** Název "Revizor" nese jméno podle státního úředníka provádějícího kontrolu a revizi. Ústřední děj se odvíjí právě z neustálého strachu zkoumaných z moci a titulu této osoby (a ze záměny bezvýznamného člověka za tuto figuru).
+*   **Atmosféra:** Atmosféra se nese v duchu **groteskna, paniky, hysterie, omylů a satiry**. Z děje silně vyzařuje absurdita vzniklá z lidského chamtivého jednání.
+
+##### 4. Analýza postav
+*   **Hlavní postavy (Chlestakov a Hejtman):**
+    *   **Ivan Alexandrovič Chlestakov:** Mladý, velmi líný a povrchní petrohradský úředníček, který se ocitl bez peněz, o které navíc přišel v kartách. Není to žádný génius s velkým kriminálním plánem – jeho lži a podvody jsou z velké části spontánní reakcí na absurdní situaci, jež se mu sama nabízí. **Psychologický vývoj:** Zpočátku je ustrašený a obává se vězení pro dlužníky. Když však vycítí podlézavost městských mocipánů a pochopí jejich omyl, začne narůstat jeho drzost. Postupně naprosto propadne sebeklamu své vlastní důležitosti, užívá si svou novou roli a nestoudně požaduje výhody a úplatky, dokud ho z bujných oslav nevytrhne střízlivější sluha.
+    *   **Hejtman (Anton Antonovič Skvoznik-Dmuchanovskij):** Místní despotický zkorumpovaný starosta a úředník. K lidem pod ním se chová povýšeně, naopak k těm, kteří stojí společensky či funkčně nad ním (nebo si to aspoň myslí), projevuje trapnou úctu, podlézavost a otrockou poslušnost. Strach ze ztráty výhodného mocenského postavení zcela blokuje jeho schopnost úsudku.
+*   **Vedlejší postavy:**
+    *   **Osip:** Sluha Chlestakova. Oproti svému lehkomyslnému pánovi je mazanější, prozíravější a velmi racionální. Zvládne dřív a lépe situaci pochopit a právě on donutí Chlestakova, aby před nevyhnutelným odhalením včas odjeli z města.
+    *   **Anna Andrejevna (manželka hejtmana) a Marja Antonovna (jeho dcera):** Karikatury maloměstských, marnivých žen z „lepší“ společnosti. Snaží se Chlestakova okouzlit pro vlastní prestiž, jejichž vztahy k mužům se odvíjejí výlučně od vidiny vyššího společenského postavení.
+    *   **Úředníci (soudce, poštmistr, atd.):** Karikatury jednotlivých vládních prohřešků – například poštmistr Špekin bezostyšně otevírá a čte si z nudy cizí poštu, soudce otevřeně přijímá úplatky atd..
+
+##### 5. Jazyk a styl
+*   **Typ vypravěče:** Jakožto v divadelní hře se zde **tradiční vypravěč neobjevuje**. Informace o ději se divák/čtenář dozvídá čistě prostřednictvím dialogů jednotlivých postav. Roli případného tichého navádění či organizace jeviště zastávají strohé **scénické poznámky**.
+*   **Jazykové vrstvy:** Autor zvolil celkově převážně spisovnou vrstvu češtiny, která je ovšem cíleně protkaná celou řadou **hovorových, expresivních i zlidovělých výrazů**. Účelem tohoto mísení je docílit co největší **autentičnosti promluv** zkorumpovaných a hloupých úředníků a zvýraznit jazykovou komiku pramenící z kontrastu venkovské úředničiny, která se snaží napodobovat aristokratickou mluvu z velkoměsta.
+*   **Stylistické prostředky a tropy:** Text je typickou ukázkou **literární satiry a ironie**. Gogol velmi aktivně zapojuje obraty jako metafory (např. *„To je rána do čepice!“*), personifikace (krysy ve snu *„zavětřily, začuchaly“*), expresivní zvolání, hyperboly a elipsy k dokreslení hysterie a paniky probíhající na jevišti.
+*   **Kompozice:** Hra je tvořena v přísné **chronologické linii**; události jdou lineárně po sobě v průběhu jediného dne bez jakýchkoliv zpětných návratů. Formálně je text členěn na pět dějství.
+
+##### 6. Příprava neuměleckého textu (Analýza textu 2)
+*(Upozornění: Poskytnuté studijní materiály týkající se hry Revizor neobsahují žádný ilustrační neumělecký text č. 2 vhodný k rozboru. Níže uvádím pouze metodický postup pro případ, že bude u maturity předložen doplňkový text k tomuto dílu.)*
+*   **Tematická souvislost:** Hledejte společné prvky s knihou – v případě *Revizora* může druhým textem být úřední vyhláška, pokyny pro provádění daňové kontroly, novinový článek z rubriky o vyšetřování korupce na úřadech či kritická recenze samotného divadelního představení.
+*   **Funkční styl:** Pokud by šlo o novinovou reportáž o aktuálním případu úplatkářství, půjde o styl **publicistický**. Pokud dostanete ukázku oběžníku ministerstva o revizi, půjde o styl **administrativní**.
+*   **Slohový postup:** Vyhláška bude vykazovat zejména postup **informační** či popisný; novinový komentář rozebírající příčiny a dopady korupce bude postupem **úvahovým**.
+*   **Gramatika a slovní zásoba:** V administrátních či reportážních textech o korupci musíte odhalit *terminologii* ze státní správy (např. audit, orgán činný v trestním řízení, úplatek, trestní stíhání), a rozpoznat tak *odbornou nebo publicistickou* vrstvu slovní zásoby.
+
+##### 7. Vysvětlení termínů
+*   **Drama:** Jeden ze tří hlavních literárních druhů (vedle epiky a lyriky), jehož text je členěn do dialogů a primárně zamýšlen pro předvádění herci na scéně divadla.
+*   **Komedie:** Dramatický žánr s humorným prvkem. Na rozdíl od tragédie klade důraz na veselé vyznění situace nebo alespoň nedojde k fatální smrti hlavních hrdinů.
+*   **Satira:** Umělecká literární forma využívající humoru, ironie, nadsázky a výsměchu za účelem zesměšnit a poukázat na společenské nedostatky a lidské záporné vlastnosti (zde například na korupci a byrokracii).
+*   **Realismus:** Literární a umělecký proud, jehož stoupenci se snažili věrně a objektivně popsat a zkoumat skutečnou a často nelichotivou podobu společnosti bez příkras a zbytečného snového sentimentu (kombinovaný u Gogola s humorem tvoří *kritický realismus*).
+*   **Groteska / Groteskno:** Literární a umělecký postup, který záměrně zveličuje a deformuje skutečnost až na hranici bizarnosti, často k zesílení absurdní komiky díla.
+*   **Scénická poznámka:** Drobný naváděcí text uvnitř scénáře, který se nečte nahlas, avšak radí hercům, jakou mají projevit emoci, nebo režisérům radí, jak nastavit prostředí a kde postavy stojí. 
+*   **Chronologická kompozice:** Struktura vyprávění děje příběhu bez časových posunů, kde po sobě následující scény přímo časově odpovídají.
+*   **Ironie:** Týká se cíleného použití slov v jejich naprosto opačném významu pro zjevení neupřímnosti stavu (např. u Gogola v Revizorovi, když úředníci předstírají obrovskou pohostinnost ze sobeckého strachu).
+*   **Metafora:** Obrazné přenesení jména (pojmenování) k jevu z vnější strany (podle vnější podobnosti). Viz např. pojem *"rána do čepice"* obsažený v ukázce pro pocit překvapení z příchodu revizora.
