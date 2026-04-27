@@ -1,6 +1,6 @@
-## Šablona studijního průvodce k maturitě: Edgar Allan Poe
+# Šablona studijního průvodce k maturitě
 
-### 1. Autor a literární kontext
+## 1. Autor a literární kontext
 * **Jméno autora a základní životopis:** Edgar Allan Poe (1809–1849) byl americký romantický básník, prozaik a esejista. Život měl poznamenán sirotčím osudem, finančními problémy a bojem s depresemi. Zemřel za nevyjasněných okolností v Baltimoru.
 * **Literární období / směr:** Americký romantismus (1. polovina 19. století).
 * **Kontext doby:** Formování americké národní identity; literatura se odklání od racionalismu k emocím, individualismu a fascinaci temnotou.
@@ -12,12 +12,12 @@
 
 ### ČÁST A: Havran (1845)
 
-### 2. Literární dílo (Obecné informace)
+## 2. Literární dílo (Obecné informace)
 * **Literární druh:** Lyricko-epická skladba.
 * **Literární žánr:** Balada.
 * **Literární forma:** Poezie.
 
-### 3. Děj, prostředí a témata
+## 3. Děj, prostředí a témata
 * **Časoprostor:** Půlnoc, mrazivý prosinec/leden, pokoj osamělého muže.
 * **Shrnutí děje:** Básník truchlí pro Lenoru. Havran vletí do pokoje a na každou otázku o naději či setkání v záhrobí odpovídá „Nevermore“.
 * **Závěr:** **Tragický a uzavřený.** Lyrický subjekt propadá definitivnímu zoufalství; havranův stín symbolicky navždy pokrývá jeho duši.
@@ -25,11 +25,11 @@
 * **Vysvětlení názvu:** Havran je poslem zla a smrti, symbolizuje mluvícího proroka zmaru.
 * **Atmosféra:** Temná, mystická, tísnivá.
 
-### 4. Analýza postav
+## 4. Analýza postav
 * **Hlavní postava:** Básník (lyrický subjekt). **Psychologický vývoj:** Od únavy a smutku přes zvědavost a racionální vysvětlování až po hysterii, šílenství a totální rezignaci.
 * **Vedlejší postavy:** Havran (statický, symbolický prvek, mluvící pták).
 
-### 5. Jazyk a styl
+## 5. Jazyk a styl
 * **Typ vypravěče:** Ich-forma (lyrický mluvčí).
 * **Jazykové vrstvy:** Spisovná čeština, archaismy, knižní výrazy.
 * **Stylistické prostředky a tropy:** Refrén („Nevermore“), personifikace, zvukomalebnost (aliterace, vnitřní rým), metafory.
@@ -39,12 +39,12 @@
 
 ### ČÁST B: Vraždy v ulici Morgue (1841)
 
-### 2. Literární dílo (Obecné informace)
+## 2. Literární dílo (Obecné informace)
 * **Literární druh:** Epika.
 * **Literární žánr:** Detektivní povídka.
 * **Literární forma:** Próza.
 
-### 3. Děj, prostředí a témata
+## 3. Děj, prostředí a témata
 * **Časoprostor:** Paříž, 19. století.
 * **Shrnutí děje:** Vyšetřování brutální vraždy dvou žen v uzamčeném bytě. Policie tápe, dokud Dupin logickou analýzou neodhalí, že vrahem byl orangutan.
 * **Závěr:** **Uzavřený.** Záhada je racionálně vysvětlena, nevinný propuštěn, zvíře odchyceno.
@@ -52,11 +52,11 @@
 * **Vysvětlení názvu:** Označuje místo a předmět činu.
 * **Atmosféra:** Hororový úvod (naturalismus), chladně analytický závěr.
 
-### 4. Analýza postav
+## 4. Analýza postav
 * **Hlavní postava:** C. Auguste Dupin. Excentrický génius. **Psychologický vývoj:** Žádný (statická postava), představuje neměnný ideál čistého rozumu.
 * **Vedlejší postavy:** Vypravěč (obdivný přítel), námořník (majitel zvířete).
 
-### 5. Jazyk a styl
+## 5. Jazyk a styl
 * **Typ vypravěče:** Ich-forma (přítel hlavního hrdiny – tzv. „Watsonovský typ“).
 * **Jazykové vrstvy:** Spisovná čeština, odborné termíny (v rámci dedukce), archaismy.
 * **Stylistické prostředky a tropy:** Detailní popis místa činu, odborná terminologie, deduktivní monology.
@@ -64,7 +64,7 @@
 
 ---
 
-### 6. Příprava neuměleckého textu (Modelová analýza)
+## 6. Příprava neuměleckého textu (Modelová analýza)
 * **Tematická souvislost:** Novinová zpráva o nálezu neidentifikovatelného zvířete v přístavu (souvisí s tématem orangutana v povídce).
 * **Funkční styl:** Publicistický (informuje širokou veřejnost).
 * **Slohový postup:** Informační (stručná fakta: kdo, co, kde, kdy).
@@ -72,7 +72,7 @@
 
 ---
 
-### 7. Vysvětlení termínů
+## 7. Vysvětlení termínů
 * **Epika:** Literární druh založený na ději a vyprávění o událostech.
 * **Lyrika:** Literární druh vyjadřující pocity, nálady a dojmy (nemá děj).
 * **Lyricko-epická skladba:** Útvar kombinující děj s lyrickými prvky.

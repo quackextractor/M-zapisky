@@ -1,6 +1,6 @@
-## Šablona studijního průvodce k maturitě
+# Šablona studijního průvodce k maturitě
 
-### 1. Autor a literární kontext
+## 1. Autor a literární kontext
 * **Jméno autora a základní životopis:** Karel Čapek (1890-1938) byl významný český spisovatel, novinář, prozaik, dramatik a překladatel. Vystudoval filozofii a estetiku a působil v Lidových novinách. Velmi úzce se přátelil s prezidentem T. G. Masarykem, se kterým sepsal Hovory s T. G. Masarykem. Často spolupracoval se svým bratrem, malířem a spisovatelem Josefem Čapkem. Trpěl bolestivou Bechtěrevovou nemocí. Celý život otevřeně podporoval demokratické a humanistické hodnoty a ostře vystupoval proti totalitním režimům. Zemřel na zápal plic o Vánocích roku 1938. Čímž unikl plánovanému zatčení gestapem, které hrozilo po obsazení Československa.
 * **Literární období / směr:** Čapek je představitelem české prózy 1. poloviny 20. století a meziválečné literatury. Patří do demokratického proudu a tvoří v duchu moderního realismu a humanismu. Jeho tvorba je také silně ovlivněna filozofií pragmatismu.
 * **Kontext doby:** Díla odráží dobu po první světové válce, která ukázala, že technický pokrok může být zneužit. Zároveň zachycují napjatou atmosféru 30. let 20. století, kdy v Evropě narůstala hrozba fašismu a druhé světové války.
@@ -12,12 +12,12 @@
 
 ### ČÁST A: Bílá nemoc
 
-### 2. Literární dílo (Obecné informace)
+## 2. Literární dílo (Obecné informace)
 * **Literární druh:** Jde o sociálně-politické drama.
 * **Literární žánr:** Tragédie.
 * **Literární forma:** Próza.
 
-### 3. Děj, prostředí a témata
+## 3. Děj, prostředí a témata
 * **Časoprostor:** Děj se odehrává ve fiktivní zemi ve 30. letech 20. století.
 * **Shrnutí děje:** Ve společnosti propuká smrtelná epidemie bílé nemoci. Idealistický lékař Dr. Galén vynalezne lék, ale dává ho jen chudým. Mocným politikům lék vydá, jen pokud ukončí zbrojení a zavážou se k míru. Válečný diktátor Maršál odmítá, dokud sám neonemocní a tváří v tvář smrti neustoupí. Dr. Galén se ho vydá zachránit, ale je ubit zfanatizovaným davem.
 * **Závěr:** Závěr je tragický a naprosto uzavřený. Hlavní hrdina umírá, lahvičky s lékem jsou zničeny a válka pokračuje dál.
@@ -25,14 +25,14 @@
 * **Vysvětlení názvu:** Bílá nemoc symbolizuje rozšiřující se nacismus a zkaženou mysl fanatické společnosti.
 * **Atmosféra:** Dílo je prostoupeno vážnou a napjatou atmosférou, která ústí v beznaděj a absurditu.
 
-### 4. Analýza postav
+## 4. Analýza postav
 * **Hlavní postava Doktor Galén:** Původně pacifistický, skromný a soucitný lékař. Psychologicky se vyvíjí tak, že se stává čím dál tvrdohlavějším, pro mír obětuje kompromisy a je ochoten nechat bohaté zemřít. Jeho zásadovost vede k jeho násilné smrti.
 * **Hlavní postava Maršál:** Ambiciózní diktátor a tvrdý vojenský vůdce. Psychologicky se vyvíjí zprvu jako chladnokrevný pragmatik, ale po zjištění nemoci prožívá děs ze smrti a své vojenské cíle zavrhne.
 * **Vedlejší postava Baron Krüg:** Maršálův nejlepší přítel a majitel zbrojovky, který se ze zoufalství z nemoci raději zastřelí.
 * **Vedlejší postava Profesor Sigelius:** Ředitel kliniky představující vědeckou ješitnost a podlézavost moci.
 * **Vedlejší postavy Anetta a Pavel:** Zastupují mladou generaci s nadějí na mír.
 
-### 5. Jazyk a styl
+## 5. Jazyk a styl
 * **Typ vypravěče:** Dílo nemá klasického vypravěče, protože jde o drama.
 * **Jazykové vrstvy:** Jazyk je přísně spisovný a formální. U lékařů je doplněný o odbornou terminologii.
 * **Stylistické prostředky a tropy:** Autor užívá rétorické otázky, kontrasty, epiteton a silné metafory přirovnávající válku k nemoci.
@@ -42,12 +42,12 @@
 
 ### ČÁST B: R.U.R.
 
-### 2. Literární dílo (Obecné informace)
+## 2. Literární dílo (Obecné informace)
 * **Literární druh:** Alegorické drama s filozofickým přesahem.
 * **Literární žánr:** Fantasticko-utopická hra a antiutopie.
 * **Literární forma:** Próza.
 
-### 3. Děj, prostředí a témata
+## 3. Děj, prostředí a témata
 * **Časoprostor:** Blíže neurčená budoucnost na Rossumově ostrově v továrně na výrobu robotů.
 * **Shrnutí děje:** Helena Gloryová přijíždí do továrny bránit práva robotů a provdá se za ředitele Domina. Lidé zleniví a přestanou se rozmnožovat. Helena spálí recept na výrobu robotů. Roboti obohacení o city se vzbouří a vyvraždí lidstvo s výjimkou stavitele Alquista.
 * **Závěr:** Závěr je pro staré lidstvo tragický, ale celkově nadějný a uzavřený. Alquist zjišťuje, že roboti Primus a Helena v sobě objevili lidský cit a lásku, a požehná jim jako novému Adamovi a Evě.
@@ -55,7 +55,7 @@
 * **Vysvětlení názvu:** R.U.R. je zkratka pro Rossum's Universal Robots. Slovo robot pochází od slova robota.
 * **Atmosféra:** Zpočátku je chladně racionální a utopistická, poté se mění v temnou a apokalyptickou. Na konci je katarzní, poetická a nadějeplná.
 
-### 4. Analýza postav
+## 4. Analýza postav
 * **Hlavní postava Harry Domin:** Centrální ředitel R.U.R.. Psychologicky se vyvíjí jako sebevědomý vizionář zaslepený svým snem osvobodit člověka od těžké práce, a až do tragického konce si neuvědomuje svou chybu.
 * **Hlavní postava Helena Gloryová:** Manželka Domina reprezentující cit. Psychologicky se mění z naivní humanistky v zoufalou ženu, jež se bojí o existenci lidí, což ji vede ke zničení plánů.
 * **Hlavní postava Stavitel Alquist:** Symbol obyčejného, poctivého člověka. Psychologicky se vyvíjí z pracujícího muže na zlomeného přeživšího, který na konci nachází smíření díky objevení lásky mezi roboty.
@@ -63,7 +63,7 @@
 * **Vedlejší postava Radius:** Robot a vůdce vzpoury, který pohrdá lidskou slabostí.
 * **Vedlejší postavy Primus a Helena:** Umělé bytosti (roboti), u nichž se nečekaně vyvine lidskost a láska.
 
-### 5. Jazyk a styl
+## 5. Jazyk a styl
 * **Typ vypravěče:** Vypravěč chybí, děj je tvořen přímou řečí a scénickými poznámkami.
 * **Jazykové vrstvy:** Jazyk je striktně spisovný a snadno srozumitelný. Výjimkou je chůva Nána mluvící prostým jazykem.
 * **Stylistické prostředky a tropy:** Autor využívá alegorie, symboliky jmen a neologismů. Dialogy jsou rychlé a úderné.
@@ -71,7 +71,7 @@
 
 ---
 
-### 6. Příprava neuměleckého textu (Analýza textu 2)
+## 6. Příprava neuměleckého textu (Analýza textu 2)
 * **Tematická souvislost:** Druhý text může reflektovat motivy diktatury, zbrojení a epidemiologie v případě Bílé nemoci. U R.U.R. by text analyzoval etiku umělé inteligence, rizika plné automatizace nebo technické specifikace robotů.
 * **Funkční styl:** Texty mohou využívat publicistický styl, odborný styl nebo administrativní styl.
 * **Slohový postup:** Bude převažovat informační, výkladový nebo popisný postup, případně i úvahový a vyprávěcí u řečnických textů.
@@ -79,7 +79,7 @@
 
 ---
 
-### 7. Vysvětlení termínů
+## 7. Vysvětlení termínů
 * **Drama:** Literární druh určený k předvádění na jevišti, kde se děj odvíjí výhradně skrze promluvy postav bez uceleného vyprávění autorem.
 * **Tragédie:** Dramatický žánr prolezlý vážností, kde události vedou k nešťastnému konci a hrdina bojuje s nerovnými podmínkami.
 * **Próza:** Literární forma psaná jako běžný text v odstavcích, nevázaná rýmy nebo verši.
