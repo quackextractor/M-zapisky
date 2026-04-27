@@ -5,6 +5,7 @@ Model: Gemini PRO
 
 Files: 
 - dokumentova-sablona.md
+- dokumentova-sablona-2-knihy.md
 - dokument z /zprac-D-notebookLM
 - seznam-all.md
 
