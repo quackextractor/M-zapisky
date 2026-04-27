@@ -5,3 +5,6 @@ https://notebooklm.google.com/notebook/7b33df3e-41d3-494d-a264-e0b788f3f9fa
 
 Prompt:
 Na základě šablony dokumentu vytvoř dokument pro [JMENO AUTORA] a [NAZEV DILA 1] (+ [NAZEV DILA 2])
+
+Grouping prompt:
+Change the document structure to ensure one has all the info about one book in one section, uninterrupted by info of the other book for better readability. Return the whole document.
