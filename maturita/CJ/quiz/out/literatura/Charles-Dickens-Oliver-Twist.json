@@ -1,0 +1,104 @@
+[
+  {
+    "id": "rozbor_textu_oliver_twist_dej",
+    "type": "sorting",
+    "tags": [
+      "rozbor_textu",
+      "dilo_obsah",
+      "seznam_all",
+      "seznam_vu"
+    ],
+    "question": "Seřaďte zásadní události ze života Olivera Twista tak, jak po sobě chronologicky následují v ději románu.",
+    "options": [
+      "Záchrana Olivera zlodějkou Nancy před intrikami a její následná vražda Billem Sikesem.",
+      "Zatčení při krádeži a dočasná záchrana laskavým panem Brownlowem.",
+      "Postřelení při vloupání do domu rodiny Maylieových a láskyplné ošetřování Rózou.",
+      "Odhalení příbuzenského vztahu s Rózou Maylieovou a definitivní adopce panem Brownlowem.",
+      "Vyhnání z chudobince za prosbu o větší porci jídla a služba u hrobníka Sowerberryho.",
+      "Útěk do Londýna a zapojení do zločinecké party starého Žida Fagina."
+    ],
+    "correctAnswer": [
+      "Vyhnání z chudobince za prosbu o větší porci jídla a služba u hrobníka Sowerberryho.",
+      "Útěk do Londýna a zapojení do zločinecké party starého Žida Fagina.",
+      "Zatčení při krádeži a dočasná záchrana laskavým panem Brownlowem.",
+      "Postřelení při vloupání do domu rodiny Maylieových a láskyplné ošetřování Rózou.",
+      "Záchrana Olivera zlodějkou Nancy před intrikami a její následná vražda Billem Sikesem.",
+      "Odhalení příbuzenského vztahu s Rózou Maylieovou a definitivní adopce panem Brownlowem."
+    ],
+    "explanation": "Příběh postupuje chronologicky od útrap v chudobinci k setkání s podsvětím v Londýně, přes neúspěšné pokusy o únik a nucené zločiny, až po finální záchranu Nancy a šťastný konec s odhalením Oliverovy rodiny."
+  },
+  {
+    "id": "autor_zivot_charles_dickens_detstvi",
+    "type": "multiple_choice",
+    "tags": [
+      "literarni_teorie",
+      "autor_zivot",
+      "seznam_all",
+      "seznam_vu"
+    ],
+    "question": "Jaká formativní osobní zkušenost z dětství Charlese Dickense hluboce ovlivnila jeho literární tvorbu a pochopení pro chudé vrstvy?",
+    "options": [
+      "Pobyt ve vyhnanství kvůli sepisování útočných politických elegií proti institucím.",
+      "Dětství strávené v rodině bohatého šlechtice, které v něm vyvolalo pocit viny.",
+      "Traumatizující nutnost pracovat od deseti let v továrně na výrobu leštidel na obuv, zatímco byl otec vězněn pro dluhy.",
+      "Absolvování prestižní internátní školy, kde byl šikanován pro svůj původ."
+    ],
+    "correctAnswer": "Traumatizující nutnost pracovat od deseti let v továrně na výrobu leštidel na obuv, zatímco byl otec vězněn pro dluhy.",
+    "explanation": "Dickens prožil neradostné dětství. Kvůli otcovým dluhům a jeho uvěznění musel již od deseti let pracovat v továrně, což se výrazně odrazilo v jeho sociálních románech sledujících osudy dětí."
+  },
+  {
+    "id": "rozbor_textu_postavy_oliver_twist",
+    "type": "matching",
+    "tags": [
+      "rozbor_textu",
+      "dilo_postavy",
+      "seznam_all",
+      "seznam_vu"
+    ],
+    "question": "Spojte postavy z Dickensova románu Oliver Twist s jejich správnou charakteristikou.",
+    "options": [
+      "Fagin",
+      "Bill Sikes",
+      "Monks",
+      "Bumble"
+    ],
+    "correctAnswer": [
+      "Fagin == Vůdce gangu zlodějů, starý Žid zneužívající opuštěné děti a učící je zločinu.",
+      "Bill Sikes == Brutální a surový zloděj a vrah představující nejhorší zlo, který zavraždí Nancy.",
+      "Monks == Záštiplný nevlastní bratr Olivera, toužící chlapce zničit kvůli bohatství a dědictví.",
+      "Bumble == Zbabělý a vypočítavý vedoucí chudobince s falešnou morálkou."
+    ],
+    "explanation": "Fagin vede zlodějský gang dětí, Bill Sikes je násilnický vrah, Monks usiluje o dědictví jako nevlastní bratr a pan Bumble zosobňuje pokrytectví instituce chudobince."
+  },
+  {
+    "id": "literarni_teorie_definice_argotu",
+    "type": "flashcard",
+    "tags": [
+      "literarni_teorie",
+      "definice"
+    ],
+    "question": "Jaký literární termín označuje vrstvu nespisovného jazyka užívanou lidmi na okraji společnosti (např. zloději v Oliveru Twistovi), jejímž hlavním účelem je utajení informací před okolím?",
+    "options": [],
+    "correctAnswer": "Argot",
+    "explanation": "Argot je specifická hantýrka (např. židů a zlodějů) používaná k utajení. Dickens jej v románu využívá například u slov jako 'blikna' (svítilna) nebo 'frak' (doživotní trest)."
+  },
+  {
+    "id": "rozbor_textu_srovnani_gogol",
+    "type": "multiple_choice",
+    "tags": [
+      "rozbor_textu",
+      "dilo_obsah",
+      "seznam_all",
+      "seznam_vu"
+    ],
+    "question": "V čem podle textu spočívá hlavní rozdíl v přístupu ke kritice společnosti mezi Dickensovým Oliverem Twistem a Gogolovým Revizorem?",
+    "options": [
+      "Dickens využívá výhradně chronologickou kompozici formou deníku, zatímco Gogol zapojuje retrospektivu v lyrických básních.",
+      "Gogolův Revizor postrádá vyloženě kladného hrdinu a je čistou satirou, zatímco Dickensův román se zaměřuje na dojemné osudy s velkou dávkou sentimentu a věří v mravní čistotu dobra.",
+      "Oliver Twist kritizuje společnost pomocí útočných veršů, zatímco Revizor je klasickým sociálním románem s prvky argotu.",
+      "Gogol zachycuje v Revizorovi bezvýchodnost dětské práce v továrnách, zatímco Dickens se vysmívá byrokracii a korupci dospělých bez využití dětských hrdinů."
+    ],
+    "correctAnswer": "Gogolův Revizor postrádá vyloženě kladného hrdinu a je čistou satirou, zatímco Dickensův román se zaměřuje na dojemné osudy s velkou dávkou sentimentu a věří v mravní čistotu dobra.",
+    "explanation": "Zatímco Gogolova komedie karikuje hloupost a korupci bez přítomnosti skutečně kladné postavy, Dickens sází na zidealizované dobro ztělesněné v čisté a nezkažené duši dětského hrdiny."
+  }
+]

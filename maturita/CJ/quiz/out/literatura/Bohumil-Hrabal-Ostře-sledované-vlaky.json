@@ -1,0 +1,97 @@
+[
+  {
+    "id": "autor_zivot_hrabal_smer",
+    "type": "multiple_choice",
+    "tags": [
+      "literarni_teorie",
+      "autor_zivot",
+      "seznam_all",
+      "seznam_marian"
+    ],
+    "question": "Do jakého literárního směru bývá obvykle řazen spisovatel Bohumil Hrabal?",
+    "options": [
+      "k postmodernismu",
+      "k psychologickému hororu",
+      "k poetismu",
+      "k naturalismu"
+    ],
+    "correctAnswer": "k postmodernismu",
+    "explanation": "Bohumil Hrabal bývá řazen k postmodernismu, pro který je charakteristické prolínání vysoké a nízké kultury, absurdita a ironie."
+  },
+  {
+    "id": "dilo_postavy_vlaky_charakteristika",
+    "type": "matching",
+    "tags": [
+      "rozbor_textu",
+      "dilo_postavy",
+      "seznam_all",
+      "seznam_marian"
+    ],
+    "question": "Přiřaďte postavy z novely Ostře sledované vlaky k jejich správné charakteristice.",
+    "options": [
+      "Miloš Hrma",
+      "Výpravčí Hubička",
+      "Přednosta stanice",
+      "Viktoria Freie"
+    ],
+    "correctAnswer": [
+      "Miloš Hrma == citlivý a naivní železniční elév",
+      "Výpravčí Hubička == zkušený sukničkář a záletník",
+      "Přednosta stanice == přísný nadřízený, který vášnivě chová holuby",
+      "Viktoria Freie == půvabná a tajemná odbojářka"
+    ],
+    "explanation": "Z textu vyplývá, že Miloš je naivní elév, Hubička je záletník způsobující skandály, přednosta je přísný chovatel holubů a Viktoria je partyzánka."
+  },
+  {
+    "id": "dilo_obsah_vlaky_chronologie",
+    "type": "sorting",
+    "tags": [
+      "rozbor_textu",
+      "dilo_obsah",
+      "seznam_all",
+      "seznam_marian"
+    ],
+    "question": "Seřaďte klíčové události z děje novely Ostře sledované vlaky chronologicky od nejstarší po nejnovější.",
+    "options": [
+      "Viktoria Freie pomůže Milošovi překonat intimní blok.",
+      "Výpravčí Hubička způsobí skandál s razítky.",
+      "Miloš se vrací do služby po neúspěšném pokusu o sebevraždu.",
+      "Miloš úspěšně vhodí výbušninu do německého vlaku a umírá."
+    ],
+    "correctAnswer": [
+      "Miloš se vrací do služby po neúspěšném pokusu o sebevraždu.",
+      "Výpravčí Hubička způsobí skandál s razítky.",
+      "Viktoria Freie pomůže Milošovi překonat intimní blok.",
+      "Miloš úspěšně vhodí výbušninu do německého vlaku a umírá."
+    ],
+    "explanation": "Příběh začíná návratem Miloše po pokusu o sebevraždu, pokračuje aférou s razítky, následně jej Viktoria zbaví panictví a v závěru Miloš provede hrdinskou sabotáž."
+  },
+  {
+    "id": "literarni_teorie_epika",
+    "type": "flashcard",
+    "tags": [
+      "literarni_teorie",
+      "definice"
+    ],
+    "question": "Definujte literární druh zvaný epika.",
+    "options": [],
+    "correctAnswer": "Literární druh založený na dějovosti a vyprávění příběhu s určitou časovou a příčinnou posloupností.",
+    "explanation": "Epika je definována jako literární druh založený na dějovosti a vyprávění příběhu s určitou časovou a příčinnou posloupností."
+  },
+  {
+    "id": "rozbor_textu_odborny_styl",
+    "type": "text_analysis",
+    "tags": [
+      "rozbor_textu"
+    ],
+    "question": "Jaký funkční styl by byl použit v odborném článku z učebnice dějepisu o sabotážích na železnici za Protektorátu?",
+    "options": [
+      "odborný styl",
+      "prostěsdělovací styl",
+      "umělecký styl",
+      "řečnický styl"
+    ],
+    "correctAnswer": "odborný styl",
+    "explanation": "Text o historických faktech z učebnice dějepisu využívá odborný styl, jehož cílem je objektivně informovat a vzdělávat s využitím terminologie."
+  }
+]

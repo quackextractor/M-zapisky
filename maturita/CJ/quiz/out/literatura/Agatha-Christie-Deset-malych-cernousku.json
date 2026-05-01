@@ -1,0 +1,103 @@
+[
+  {
+    "id": "literarni_teorie_porovnani_poe",
+    "type": "multiple_choice",
+    "tags": [
+      "literarni_teorie",
+      "autor_zivot",
+      "seznam_all",
+      "seznam_marian"
+    ],
+    "question": "V čem se primárně liší dílo Deset malých černoušků od povídky Vraždy v ulici Morgue od E. A. Poea, ačkoliv obě těží z tradice hádanky a uzavřeného prostoru?",
+    "options": [
+      "V díle Agathy Christie zcela chybí klasický detektiv, vrahem je jeden z obviněných na ostrově.",
+      "U Poea trestá společnost za minulé hříchy skrytý vrah, zatímco u Christie úřaduje zvíře.",
+      "Agatha Christie využívá magické a symbolické prvky trestu, na rozdíl od Poeovy logiky.",
+      "Poeovo dílo se odehrává v USA ve 20. letech v rámci drsné školy, zatímco Christie píše britskou detektivku."
+    ],
+    "correctAnswer": "V díle Agathy Christie zcela chybí klasický detektiv, vrahem je jeden z obviněných na ostrově.",
+    "explanation": "Zatímco u Poea případ rozplétá amatérský detektiv Dupin, u Agathy Christie klasický detektiv zcela chybí a vrahem je jeden z obviněných přímo na ostrově."
+  },
+  {
+    "id": "rozbor_textu_postavy_proviněni",
+    "type": "matching",
+    "tags": [
+      "rozbor_textu",
+      "dilo_postavy",
+      "seznam_all",
+      "seznam_marian"
+    ],
+    "question": "Přiřaďte k postavám z knihy Deset malých černoušků jejich provinění z minulosti.",
+    "options": [
+      "Vera Claythornová",
+      "Kapitán Philip Lombard",
+      "Dr. Edward Armstrong",
+      "Emily Brentová"
+    ],
+    "correctAnswer": [
+      "Vera Claythornová == Záměrně neuhlídala topícího se chlapce kvůli dědictví pro svého milence.",
+      "Kapitán Philip Lombard == Chladnokrevně zanechal africký kmen umřít na Sahaře.",
+      "Dr. Edward Armstrong == V opilosti operoval ženu a zabil ji.",
+      "Emily Brentová == Neústupně vyhnala těhotnou služebnou, která pak spáchala sebevraždu."
+    ],
+    "explanation": "Hosté jsou na ostrov vylákáni a obviněni ze starých vražd, za které nebyli nikdy potrestáni, přičemž každá z postav nese specifickou vinu odpovídající těmto tvrzením."
+  },
+  {
+    "id": "rozbor_textu_chronologie_deje",
+    "type": "sorting",
+    "tags": [
+      "rozbor_textu",
+      "dilo_obsah",
+      "seznam_all",
+      "seznam_marian"
+    ],
+    "question": "Seřaďte události z příběhu Deset malých černoušků tak, jak jdou chronologicky a kompozičně za sebou.",
+    "options": [
+      "Hosté postupně umírají podle dětské říkanky, přičemž ze stolu mizí porcelánové figurky.",
+      "Rybář nalezne láhev s doznáním, která případ retrospektivně vysvětluje a definitivně uzavírá.",
+      "Na ostrov připlouvá loď a nachází deset mrtvých těl bez zjevného přeživšího pachatele.",
+      "První večer po večeři jsou všichni obviněni ze staré vraždy tajným hlasem.",
+      "Skupina deseti lidí se sjíždí na odříznutý Černochův ostrov na základě pozvání tajemného hostitele."
+    ],
+    "correctAnswer": [
+      "Skupina deseti lidí se sjíždí na odříznutý Černochův ostrov na základě pozvání tajemného hostitele.",
+      "První večer po večeři jsou všichni obviněni ze staré vraždy tajným hlasem.",
+      "Hosté postupně umírají podle dětské říkanky, přičemž ze stolu mizí porcelánové figurky.",
+      "Na ostrov připlouvá loď a nachází deset mrtvých těl bez zjevného přeživšího pachatele.",
+      "Rybář nalezne láhev s doznáním, která případ retrospektivně vysvětluje a definitivně uzavírá."
+    ],
+    "explanation": "Děj knihy je chronologický, buduje napětí od příjezdu přes postupné vymírání až po objev mrtvých těl, načež je ukončen retrospektivním vysvětlením vraha v láhvi."
+  },
+  {
+    "id": "literarni_teorie_retrospektiva",
+    "type": "flashcard",
+    "tags": [
+      "literarni_teorie",
+      "definice",
+      "seznam_all",
+      "seznam_marian"
+    ],
+    "question": "Jak se označuje kompoziční postup, při kterém se děj ohlíží a vrací do minulosti, aby vysvětlil příčiny současných událostí (v románu je takto psáno závěrečné doznání)?",
+    "options": [],
+    "correctAnswer": "Retrospektivní kompozice",
+    "explanation": "Závěrečné vysvětlení v láhvi (doznání) využívá retrospektivní kompozici, protože se zpětně vrací k událostem na ostrově a vysvětluje, jak přesně se odehrály."
+  },
+  {
+    "id": "rozbor_textu_pozvanka",
+    "type": "text_analysis",
+    "tags": [
+      "rozbor_textu",
+      "seznam_all",
+      "seznam_marian"
+    ],
+    "question": "Jaký funkční styl a slohový postup by charakterizoval neumělecký text formálního pozvání na ostrov (např. dopis od U. N. Owena), které stručně odpovídá na to, kdo, kdy, jak a kam má dorazit?",
+    "options": [
+      "Administrativní styl a informační slohový postup",
+      "Prostěsdělovací styl a vyprávěcí slohový postup",
+      "Publicistický styl a úvahový slohový postup",
+      "Odborný styl a popisný slohový postup"
+    ],
+    "correctAnswer": "Administrativní styl a informační slohový postup",
+    "explanation": "Dopis udávající přesné místo, čas srazu a pokyny patří do administrativního stylu a využívá informační slohový postup, neboť jeho cílem je úředně, věcně a stručně předat nezbytná fakta."
+  }
+]

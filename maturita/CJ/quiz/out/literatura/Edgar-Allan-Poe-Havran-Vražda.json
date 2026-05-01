@@ -1,0 +1,118 @@
+[
+  {
+    "id": "rozbor_textu_havran_vyvoj",
+    "type": "sorting",
+    "tags": [
+      "rozbor_textu",
+      "dilo_postavy",
+      "seznam_all",
+      "seznam_marian",
+      "seznam_vu"
+    ],
+    "question": "Seřaďte chronologicky fáze psychologického vývoje lyrického subjektu (básníka) v díle Havran podle studijního textu.",
+    "options": [
+      "Hysterie a šílenství",
+      "Zvědavost a racionální vysvětlování",
+      "Totální rezignace",
+      "Únava a smutek"
+    ],
+    "correctAnswer": [
+      "Únava a smutek",
+      "Zvědavost a racionální vysvětlování",
+      "Hysterie a šílenství",
+      "Totální rezignace"
+    ],
+    "explanation": "Podle textu je psychologický vývoj hlavní postavy postupně řazen od únavy a smutku přes zvědavost a racionální vysvětlování až po hysterii, šílenství a nakonec totální rezignaci."
+  },
+  {
+    "id": "dilo_obsah_vrazdy_morgue",
+    "type": "multiple_choice",
+    "tags": [
+      "rozbor_textu",
+      "dilo_obsah",
+      "seznam_all",
+      "seznam_marian"
+    ],
+    "question": "Kdo je podle textu skutečným pachatelem brutální vraždy dvou žen v povídce Vraždy v ulici Morgue?",
+    "options": [
+      "C. Auguste Dupin",
+      "Námořník",
+      "Orangutan",
+      "Policie"
+    ],
+    "correctAnswer": "Orangutan",
+    "explanation": "Záhada je racionálně vysvětlena v analytickém závěru, kdy Dupin odhalí, že skutečným vrahem byl orangutan, kterého vlastnil námořník."
+  },
+  {
+    "id": "literarni_teorie_pojmy_prirazeni",
+    "type": "matching",
+    "tags": [
+      "literarni_teorie",
+      "definice"
+    ],
+    "question": "Přiřaďte literární pojmy k jejich správným definicím přesně podle poskytnutého textu.",
+    "options": [
+      "Balada",
+      "Dedukce",
+      "Personifikace",
+      "Metafora"
+    ],
+    "correctAnswer": [
+      "Balada == Báseň s pochmurným dějem, často tragickým koncem a nadpřirozenými jevy.",
+      "Dedukce == Myšlenkový postup vyvozující závěry z obecných faktů (základ detektivek).",
+      "Personifikace == Přisuzování lidských vlastností neživým věcem.",
+      "Metafora == Přenesení významu na základě podobnosti."
+    ],
+    "explanation": "Tyto definice přesně odpovídají výkladu pojmů ve slovníčku literárních termínů uvedeném na konci studijního materiálu."
+  },
+  {
+    "id": "literarni_teorie_dedukce_definice",
+    "type": "flashcard",
+    "tags": [
+      "literarni_teorie",
+      "definice"
+    ],
+    "question": "Jak se nazývá myšlenkový postup vyvozující závěry z obecných faktů, který tvoří základ detektivek?",
+    "options": [],
+    "correctAnswer": "Dedukce",
+    "explanation": "Dedukce je v textu výslovně definována jako myšlenkový postup vyvozující závěry z obecných faktů a je ústřední metodou postavy C. Augusta Dupina."
+  },
+  {
+    "id": "rozbor_textu_novinova_zprava",
+    "type": "text_analysis",
+    "tags": [
+      "rozbor_textu"
+    ],
+    "question": "Jaký funkční styl je podle studijní opory charakteristický pro novinovou zprávu o nálezu neidentifikovatelného zvířete v přístavu?",
+    "options": [
+      "Odborný",
+      "Publicistický",
+      "Umělecký",
+      "Lyrický"
+    ],
+    "correctAnswer": "Publicistický",
+    "explanation": "Text v části o neuměleckém textu uvádí, že modelová novinová zpráva využívá publicistický funkční styl, jehož účelem je informovat širokou veřejnost."
+  },
+  {
+    "id": "literarni_teorie_srovnani_poe_erben",
+    "type": "multiple_choice",
+    "tags": [
+      "literarni_teorie",
+      "autor_zivot",
+      "seznam_all",
+      "seznam_common",
+      "seznam_marian",
+      "seznam_miro",
+      "seznam_vu"
+    ],
+    "question": "V čem spočívá hlavní rozdíl mezi tvorbou K. J. Erbena a E. A. Poea podle studijního materiálu?",
+    "options": [
+      "Erben čerpá z lidové slovesnosti a morálky, zatímco Poe z individuální psychologie a děsu.",
+      "Poe využívá k navození hrůzy vědu a monstra, zatímco Erben spoléhá na dedukci.",
+      "Erben odmítá žánr balady, zatímco Poe jej považuje za vrchol americké literatury.",
+      "Poe se soustředí výhradně na racionální úvahy, zatímco Erben na chronologickou kompozici."
+    ],
+    "correctAnswer": "Erben čerpá z lidové slovesnosti a morálky, zatímco Poe z individuální psychologie a děsu.",
+    "explanation": "Materiál v části srovnání přímo uvádí, že zatímco Karel Jaromír Erben čerpá ve své tvorbě (Kytice) z lidové slovesnosti a morálky, Poe se zaměřuje na individuální psychologii a děs."
+  }
+]
