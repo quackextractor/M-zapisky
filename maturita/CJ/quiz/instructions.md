@@ -10,7 +10,9 @@ You may ONLY use the exact strings from this list in the "tags" array. Never inv
 * Seznam Tags (Apply ALL that match): "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"
 
 **2. CROSS-REFERENCING RULE**
-If a question pertains to a specific author or book, you MUST check the READING LIST MAPPINGS section. If that author or book appears in a specific list, you MUST append that list's tag. You must do this for every single list the author/book appears in.
+* If a question is derived from a specific author's study guide or pertains to a specific book, you MUST check the READING LIST MAPPINGS section. 
+* You MUST append all associated "seznam_..." tags for that author/book to EVERY question in that batch, including general definitions or theory terms found within that author's text.
+* If the source text is a general "Jazykový přehled" (Grammar/Language) not tied to an author, do not apply "seznam_..." tags.
 
 **3. STRICT JSON SCHEMA**
 Every object in the JSON array must possess exactly these keys, formatted precisely according to the rules below:
