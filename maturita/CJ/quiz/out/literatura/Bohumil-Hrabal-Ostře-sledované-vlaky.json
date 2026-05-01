@@ -71,7 +71,9 @@
     "type": "flashcard",
     "tags": [
       "literarni_teorie",
-      "definice"
+      "definice",
+      "seznam_all",
+      "seznam_marian"
     ],
     "question": "Definujte literární druh zvaný epika.",
     "options": [],
@@ -82,7 +84,9 @@
     "id": "rozbor_textu_odborny_styl",
     "type": "text_analysis",
     "tags": [
-      "rozbor_textu"
+      "rozbor_textu",
+      "seznam_all",
+      "seznam_marian"
     ],
     "question": "Jaký funkční styl by byl použit v odborném článku z učebnice dějepisu o sabotážích na železnici za Protektorátu?",
     "options": [
