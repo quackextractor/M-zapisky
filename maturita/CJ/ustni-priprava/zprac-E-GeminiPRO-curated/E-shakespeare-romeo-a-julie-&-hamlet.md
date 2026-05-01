@@ -71,6 +71,7 @@
 * **Renesance:** Kulturní hnutí 14. až 17. století, které se inspirovalo antikou, odvratem od boha a příklonem k pozemskému životu, rozumu a kráse lidské individuality.
 * **Humanismus:** Myšlenkový a historický směr zdůrazňující lidský rozum, vzdělání a odklon od církevních dogmat směrem k vědeckému poznání.
 * **Balada:** Lyricko-epický žánr, který se vyznačuje ponurým dějem a většinou tragickým koncem.
+ * **Sonet:** Lyrická báseň o 14 verších s pevnou strukturou. Shakespearovský typ se skládá ze tří čtyřverší a závěrečného dvojverší s pointou.
 * **Poezie:** Literární forma psaná ve verších, rytmicky a melodicky organizovaná.
 * **Próza:** Literární forma psaná volně v běžných větách a odstavcích (nevázaná rytmem a rýmem).
 * **Chronologická kompozice:** Způsob uspořádání děje, ve kterém události plynou v přímé časové následnosti za sebou, od začátku do konce.
