@@ -31,7 +31,8 @@
       "rozbor_textu",
       "dilo_obsah",
       "seznam_all",
-      "seznam_marian"
+      "seznam_marian",
+      "seznam_vu"
     ],
     "question": "Kdo je podle textu skutečným pachatelem brutální vraždy dvou žen v povídce Vraždy v ulici Morgue?",
     "options": [
@@ -48,7 +49,10 @@
     "type": "matching",
     "tags": [
       "literarni_teorie",
-      "definice"
+      "definice",
+      "seznam_all",
+      "seznam_marian",
+      "seznam_vu"
     ],
     "question": "Přiřaďte literární pojmy k jejich správným definicím přesně podle poskytnutého textu.",
     "options": [
@@ -70,7 +74,10 @@
     "type": "flashcard",
     "tags": [
       "literarni_teorie",
-      "definice"
+      "definice",
+      "seznam_all",
+      "seznam_marian",
+      "seznam_vu"
     ],
     "question": "Jak se nazývá myšlenkový postup vyvozující závěry z obecných faktů, který tvoří základ detektivek?",
     "options": [],
@@ -81,7 +88,10 @@
     "id": "rozbor_textu_novinova_zprava",
     "type": "text_analysis",
     "tags": [
-      "rozbor_textu"
+      "rozbor_textu",
+      "seznam_all",
+      "seznam_marian",
+      "seznam_vu"
     ],
     "question": "Jaký funkční styl je podle studijní opory charakteristický pro novinovou zprávu o nálezu neidentifikovatelného zvířete v přístavu?",
     "options": [
