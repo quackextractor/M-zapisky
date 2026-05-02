@@ -1,0 +1,1216 @@
+[
+  {
+    "id": "autor_zivot_orwell_jmeno",
+    "type": "flashcard",
+    "tags": ["autor_zivot", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "question": "Jaké bylo vlastní (občanské) jméno George Orwella?",
+    "options": [],
+    "correctAnswer": "Eric Arthur Blair",
+    "explanation": "George Orwell se vlastním jménem jmenoval Eric Arthur Blair."
+  },
+  {
+    "id": "autor_zivot_orwell_narozeni",
+    "type": "multiple_choice",
+    "tags": ["autor_zivot", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "question": "Kde se narodil George Orwell?",
+    "options": [
+      "V Indii",
+      "V Barmě",
+      "V Londýně",
+      "V Paříži"
+    ],
+    "correctAnswer": "V Indii",
+    "explanation": "Orwell se narodil v Indii, kde jeho otec pracoval v britské koloniální správě."
+  },
+  {
+    "id": "autor_zivot_orwell_otec_povolani",
+    "type": "multiple_choice",
+    "tags": ["autor_zivot", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "question": "Jaké bylo povolání otce George Orwella?",
+    "options": [
+      "Pracoval v britské koloniální správě.",
+      "Sloužil u imperiální policie v Barmě.",
+      "Byl úředníkem na Ministerstvu pravdy.",
+      "Bojoval jako voják ve španělské občanské válce."
+    ],
+    "correctAnswer": "Pracoval v britské koloniální správě.",
+    "explanation": "Text uvádí, že jeho otec pracoval v britské koloniální správě v Indii."
+  },
+  {
+    "id": "autor_zivot_orwell_vzdelani",
+    "type": "flashcard",
+    "tags": ["autor_zivot", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "question": "Na jaké prestižní britské škole získal Orwell stipendium?",
+    "options": [],
+    "correctAnswer": "Eton College",
+    "explanation": "Orwell získal stipendium na prestižní Eton College."
+  },
+  {
+    "id": "autor_zivot_orwell_barma",
+    "type": "multiple_choice",
+    "tags": ["autor_zivot", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "question": "Kam odešel Orwell sloužit po ukončení studií?",
+    "options": [
+      "K imperiální policii do Barmy.",
+      "K republikánským silám do Španělska.",
+      "Do Paříže a Londýna žít mezi chudinou.",
+      "Na frontu první světové války."
+    ],
+    "correctAnswer": "K imperiální policii do Barmy.",
+    "explanation": "Po studiích na Eton College odešel sloužit k imperiální policii do Barmy."
+  },
+  {
+    "id": "autor_zivot_orwell_imperialismus",
+    "type": "multiple_choice",
+    "tags": ["autor_zivot", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "question": "Co v Orwellovi vzbudily jeho zkušenosti z Barmy?",
+    "options": [
+      "Odpor k imperialismu.",
+      "Lásku k totalitním režimům.",
+      "Touhu stát se stalinistou.",
+      "Víru v kapitalismus."
+    ],
+    "correctAnswer": "Odpor k imperialismu.",
+    "explanation": "Zkušenosti s koloniálním útlakem v něm vzbudily odpor k imperialismu."
+  },
+  {
+    "id": "autor_zivot_orwell_chudina",
+    "type": "multiple_choice",
+    "tags": ["autor_zivot", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "question": "Co Orwell záměrně udělal po návratu z Barmy do Evropy?",
+    "options": [
+      "Ponořil se do života chudiny v Paříži a Londýně.",
+      "Stal se zaměstnancem státní propagandy.",
+      "Nechal se zaměstnat jako cenzor v tisku.",
+      "Založil v Anglii vlastní panský statek."
+    ],
+    "correctAnswer": "Ponořil se do života chudiny v Paříži a Londýně.",
+    "explanation": "Po návratu do Evropy se záměrně ponořil do života chudiny v Paříži a Londýně."
+  },
+  {
+    "id": "autor_zivot_orwell_spanelsko",
+    "type": "multiple_choice",
+    "tags": ["autor_zivot", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "question": "Na jaké straně bojoval Orwell ve španělské občanské válce?",
+    "options": [
+      "Na straně republikánů.",
+      "Na straně stalinistů.",
+      "Na straně fašistů.",
+      "Na straně britské koloniální armády."
+    ],
+    "correctAnswer": "Na straně republikánů.",
+    "explanation": "Ve španělské občanské válce bojoval na straně republikánů."
+  },
+  {
+    "id": "autor_zivot_orwell_zraneni",
+    "type": "flashcard",
+    "tags": ["autor_zivot", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "question": "Jaké fyzické zranění utrpěl George Orwell ve španělské občanské válce?",
+    "options": [],
+    "correctAnswer": "Průstřel krku",
+    "explanation": "Ve španělské občanské válce utrpěl průstřel krku."
+  },
+  {
+    "id": "autor_zivot_orwell_zklamani_komunismus",
+    "type": "multiple_choice",
+    "tags": ["autor_zivot", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "question": "Která událost ze španělské občanské války Orwella hluboce zklamala a odradila od komunismu?",
+    "options": [
+      "Byl přímým svědkem stalinistických čistek.",
+      "Viděl neschopnost francouzské armády.",
+      "Přečetl si zakázaný deník O'Briena.",
+      "Zažil drastické mučení v Místnosti 101."
+    ],
+    "correctAnswer": "Byl přímým svědkem stalinistických čistek.",
+    "explanation": "Ve španělské občanské válce byl přímým svědkem stalinistických čistek, což ho hluboce zklamalo v komunismu."
+  },
+  {
+    "id": "autor_zivot_orwell_smrt_pricina",
+    "type": "multiple_choice",
+    "tags": ["autor_zivot", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "question": "Na jakou nemoc George Orwell celý život trpěl a nakonec na ni zemřel?",
+    "options": [
+      "Na tuberkulózu.",
+      "Na neznámou nákazu známou jako bílá nemoc.",
+      "Na těžké žaludeční vředy.",
+      "Na následky průstřelu krku."
+    ],
+    "correctAnswer": "Na tuberkulózu.",
+    "explanation": "Celý život bojoval s chudobou a tuberkulózou, na kterou zemřel."
+  },
+  {
+    "id": "autor_zivot_orwell_smrt_rok",
+    "type": "flashcard",
+    "tags": ["autor_zivot", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "question": "Ve kterém roce zemřel George Orwell?",
+    "options": [],
+    "correctAnswer": "1950",
+    "explanation": "George Orwell zemřel roku 1950."
+  },
+  {
+    "id": "literarni_teorie_orwell_obdobi",
+    "type": "multiple_choice",
+    "tags": ["literarni_teorie", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "question": "Do jakého literárního období primárně řadíme tvorbu George Orwella?",
+    "options": [
+      "Světová literatura 1. poloviny 20. století.",
+      "Světová literatura 19. století.",
+      "Světová literatura do konce 18. století.",
+      "Česká literatura 20. a 21. století."
+    ],
+    "correctAnswer": "Světová literatura 1. poloviny 20. století.",
+    "explanation": "Jeho tvorba spadá do světové literatury 1. poloviny 20. století (realismus 20. století)."
+  },
+  {
+    "id": "literarni_teorie_orwell_zanry",
+    "type": "multiple_choice",
+    "tags": ["literarni_teorie", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "question": "Na jaké žánry se Orwell ve své literární tvorbě zaměřoval?",
+    "options": [
+      "Dystopickou literaturu, antiutopii a politicky kritickou prózu.",
+      "Romantickou poezii a historické romány.",
+      "Psychologická dramata a milostné tragédie.",
+      "Vědeckofantastickou literaturu oslavující technický pokrok."
+    ],
+    "correctAnswer": "Dystopickou literaturu, antiutopii a politicky kritickou prózu.",
+    "explanation": "Zaměřoval se na dystopickou literaturu, antiutopii a politickou a sociálně kritickou prózu."
+  },
+  {
+    "id": "literarni_teorie_orwell_kontext_doby",
+    "type": "multiple_choice",
+    "tags": ["literarni_teorie", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "question": "Na jaké historické události reaguje Orwellova tvorba?",
+    "options": [
+      "Na vzestup totalitních režimů, 2. světovou válku a počátky studené války.",
+      "Na průmyslovou revoluci a úpadek šlechty v 19. století.",
+      "Na třicetiletou válku a počátky osvícenství.",
+      "Na první světovou válku a život vojáků v zákopech západní fronty."
+    ],
+    "correctAnswer": "Na vzestup totalitních režimů, 2. světovou válku a počátky studené války.",
+    "explanation": "Orwellowa tvorba reaguje na vzestup totalitních režimů (stalinismu a fašismu), 2. světovou válku a počátky studené války."
+  },
+  {
+    "id": "autor_zivot_dalsi_dila_barma",
+    "type": "multiple_choice",
+    "tags": ["autor_zivot", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "question": "Jak se jmenuje román George Orwella zabývající se tématem kolonialismu?",
+    "options": [
+      "Barmské dny",
+      "Hold Katalánsku",
+      "Na dně v Paříži a Londýně",
+      "Spalovač mrtvol"
+    ],
+    "correctAnswer": "Barmské dny",
+    "explanation": "Mezi jeho další díla patří román o kolonialismu Barmské dny."
+  },
+  {
+    "id": "autor_zivot_dalsi_dila_spanelsko",
+    "type": "multiple_choice",
+    "tags": ["autor_zivot", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "question": "Jak se jmenuje Orwellova reportáž ze španělské občanské války?",
+    "options": [
+      "Hold Katalánsku",
+      "Barmské dny",
+      "Na dně v Paříži a Londýně",
+      "Na západní frontě klid"
+    ],
+    "correctAnswer": "Hold Katalánsku",
+    "explanation": "Jeho reportáž ze španělské války nese název Hold Katalánsku."
+  },
+  {
+    "id": "autor_zivot_dalsi_dila_autobiografie",
+    "type": "multiple_choice",
+    "tags": ["autor_zivot", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "question": "Které dílo George Orwella je autobiografické a popisuje život chudiny?",
+    "options": [
+      "Na dně v Paříži a Londýně",
+      "Hold Katalánsku",
+      "Farma zvířat",
+      "Velký Gatsby"
+    ],
+    "correctAnswer": "Na dně v Paříži a Londýně",
+    "explanation": "Autobiografická kniha zachycující život chudiny se jmenuje Na dně v Paříži a Londýně."
+  },
+  {
+    "id": "rozbor_textu_orwell_vs_bradbury_shoda",
+    "type": "multiple_choice",
+    "tags": ["rozbor_textu", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "question": "V čem se shoduje tvorba George Orwella s Rayem Bradburym (autorem 451 stupňů Fahrenheita)?",
+    "options": [
+      "Oba spojuje vize totalitní dystopické budoucnosti a manipulace s myšlením obyvatel.",
+      "Oba zasazují své děje výhradně na anglický venkov mezi zvířata.",
+      "Oba autoři se ve svých dílech spoléhají na fiktivní vědecké prvky jako jsou roboti.",
+      "Oba píší autobiografické reportáže z prostředí londýnské chudiny."
+    ],
+    "correctAnswer": "Oba spojuje vize totalitní dystopické budoucnosti a manipulace s myšlením obyvatel.",
+    "explanation": "Orwella a Bradburyho spojuje vize totalitní dystopické budoucnosti a manipulace s myšlením obyvatel."
+  },
+  {
+    "id": "rozbor_textu_orwell_vs_bradbury_rozdil",
+    "type": "multiple_choice",
+    "tags": ["rozbor_textu", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "question": "V čem spočívá hlavní rozdíl mezi dystopiemi G. Orwella a R. Bradburyho?",
+    "options": [
+      "Bradbury klade důraz na vliv médií a zánik literatury, Orwell na politický teror a fyzické mučení.",
+      "Bradbury popisuje drsnou politickou alegorii, Orwell se věnuje klasickému sci-fi o robotech.",
+      "Bradbury svá díla ukončuje vždy zábleskem naděje, zatímco Orwell popisuje absolutní vítězství zvířat.",
+      "Bradbury kritizuje stalinismus pomocí zvířecí bajky, Orwell se zaměřuje na potlačení knih."
+    ],
+    "correctAnswer": "Bradbury klade důraz na vliv médií a zánik literatury, Orwell na politický teror a fyzické mučení.",
+    "explanation": "Rozdílem je, že Bradbury klade důraz na vliv masových médií a odlidštěnou kulturu, zatímco Orwell vykresluje politickou alegorii zaměřenou na teror a mučení."
+  },
+  {
+    "id": "rozbor_textu_orwell_vs_capek_shoda",
+    "type": "multiple_choice",
+    "tags": ["rozbor_textu", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "question": "Co spojuje tvorbu George Orwella a Karla Čapka (např. R.U.R., Bílá nemoc)?",
+    "options": [
+      "Shodují se v antiutopickém a varovném tónu před ztrátou lidskosti a nebezpečím pro společnost.",
+      "Oba autoři svěřují vyprávění vševědoucímu vypravěči v ich-formě.",
+      "Shodují se v obdivu k technickému pokroku a utopickým vizím budoucnosti.",
+      "Oba pro své texty vytvořili umělý jazyk newspeak."
+    ],
+    "correctAnswer": "Shodují se v antiutopickém a varovném tónu před ztrátou lidskosti a nebezpečím pro společnost.",
+    "explanation": "S Karlem Čapkem se shodují v antiutopickém a varovném tónu před ztrátou lidskosti, násilím a nebezpečím pro společnost."
+  },
+  {
+    "id": "rozbor_textu_orwell_vs_capek_rozdil",
+    "type": "multiple_choice",
+    "tags": ["rozbor_textu", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "question": "Jaký je zásadní rozdíl v závěrech a prvcích děl G. Orwella a K. Čapka?",
+    "options": [
+      "Čapek nechává záblesk naděje a využívá fiktivní vědu, Orwellovy závěry jsou naprosto tragické a deprimující.",
+      "Čapek končí svá díla naprostým zlomením jednotlivce, zatímco Orwell dává naději na lásku jako v R.U.R.",
+      "Čapek využívá výhradně zvířecí personifikace, Orwell se soustředí na neznámé nemoci.",
+      "Čapek svá díla koncipuje jako reportáže ze Španělska, Orwell píše o vědeckých laboratořích."
+    ],
+    "correctAnswer": "Čapek nechává záblesk naděje a využívá fiktivní vědu, Orwellovy závěry jsou naprosto tragické a deprimující.",
+    "explanation": "Čapek více pracuje s fiktivními vědeckými prvky a nechává záblesk naděje, naopak Orwellovy závěry jsou absolutně tragické a deprimující."
+  },
+  {
+    "id": "literarni_teorie_farma_druh",
+    "type": "multiple_choice",
+    "tags": ["literarni_teorie", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "question": "Do jakého literárního druhu řadíme Farmu zvířat?",
+    "options": [
+      "Epika",
+      "Lyrika",
+      "Drama",
+      "Poezie"
+    ],
+    "correctAnswer": "Epika",
+    "explanation": "Farma zvířat je epika (příběh s dějem a časoprostorem)."
+  },
+  {
+    "id": "literarni_teorie_farma_zanr",
+    "type": "multiple_choice",
+    "tags": ["literarni_teorie", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "question": "Jaký je literární žánr Farmy zvířat?",
+    "options": [
+      "Satirická alegorická povídka / bajka pro dospělé.",
+      "Historický román.",
+      "Vědeckofantastický román.",
+      "Tragédie o pěti dějstvích."
+    ],
+    "correctAnswer": "Satirická alegorická povídka / bajka pro dospělé.",
+    "explanation": "Dílo je satirická alegorická povídka (případně novela) či bajka pro dospělé."
+  },
+  {
+    "id": "literarni_teorie_farma_forma",
+    "type": "multiple_choice",
+    "tags": ["literarni_teorie", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "question": "V jaké literární formě je napsána Farma zvířat?",
+    "options": [
+      "Próza",
+      "Poezie",
+      "Veršované drama",
+      "Sylabotónický verš"
+    ],
+    "correctAnswer": "Próza",
+    "explanation": "Literární formou Farmy zvířat je próza."
+  },
+  {
+    "id": "dilo_obsah_farma_casoprostor_misto",
+    "type": "multiple_choice",
+    "tags": ["dilo_obsah", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "question": "Kde se odehrává děj Farmy zvířat?",
+    "options": [
+      "Na blíže neurčeném anglickém venkovském statku.",
+      "V superstátu Oceánie ve fiktivním Londýně.",
+      "V carském Rusku na počátku 20. století.",
+      "Na bitevním poli západní fronty."
+    ],
+    "correctAnswer": "Na blíže neurčeném anglickém venkovském statku.",
+    "explanation": "Děj se odehrává na blíže neurčeném anglickém venkovském statku (Panský statek / Farma zvířat)."
+  },
+  {
+    "id": "dilo_obsah_farma_casoprostor_cas",
+    "type": "multiple_choice",
+    "tags": ["dilo_obsah", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "question": "V jaké době se odehrává děj Farmy zvířat?",
+    "options": [
+      "V nespecifikované době.",
+      "V dubnu roku 1984.",
+      "Během první světové války.",
+      "V 15. století."
+    ],
+    "correctAnswer": "V nespecifikované době.",
+    "explanation": "Děj se odehrává v nespecifikované době."
+  },
+  {
+    "id": "dilo_postavy_farma_jones",
+    "type": "flashcard",
+    "tags": ["dilo_postavy", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "question": "Jak se jmenuje původní krutý majitel statku ve Farmě zvířat?",
+    "options": [],
+    "correctAnswer": "pan Jones",
+    "explanation": "Původním majitelem statku je pan Jones."
+  },
+  {
+    "id": "dilo_obsah_farma_kulis_vypovezeni",
+    "type": "multiple_choice",
+    "tags": ["dilo_obsah", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "question": "Kdo vyžene Kuliše z Farmy zvířat?",
+    "options": [
+      "Diktátorské prase Napoleon.",
+      "Původní majitel pan Jones.",
+      "Kůň Boxer na pokyn pracující třídy.",
+      "Osel Benjamin svými cynickými poznámkami."
+    ],
+    "correctAnswer": "Diktátorské prase Napoleon.",
+    "explanation": "Postupně se moci chopí diktátorské prase Napoleon, které vyžene svého protivníka Kuliše."
+  },
+  {
+    "id": "dilo_obsah_farma_nastroj_moci",
+    "type": "multiple_choice",
+    "tags": ["dilo_obsah", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "question": "Pomocí čeho zavede Napoleon na farmě hrůzovládu?",
+    "options": [
+      "Pomocí věrné psí smečky.",
+      "Pomocí všudypřítomných telestěn.",
+      "Pomocí krys z Místnosti 101.",
+      "Pomocí neznámé bílé nemoci."
+    ],
+    "correctAnswer": "Pomocí věrné psí smečky.",
+    "explanation": "Napoleon zavede hrůzovládu pomocí psí smečky."
+  },
+  {
+    "id": "dilo_obsah_farma_osud_boxera",
+    "type": "multiple_choice",
+    "tags": ["dilo_obsah", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "question": "Jak skončí kůň Boxer ve Farmě zvířat?",
+    "options": [
+      "Dře až k smrti a skončí na jatkách.",
+      "Uteče zpět k panu Jonesovi.",
+      "Je povýšen do vedení po bok Napoleona.",
+      "Vede druhou vzpouru zvířat."
+    ],
+    "correctAnswer": "Dře až k smrti a skončí na jatkách.",
+    "explanation": "Kůň Boxer dře až k smrti a nakonec skončí na jatkách."
+  },
+  {
+    "id": "dilo_obsah_farma_zaver_vizual",
+    "type": "multiple_choice",
+    "tags": ["dilo_obsah", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "question": "Jak se prasata chovají a vypadají v úplném závěru Farmy zvířat?",
+    "options": [
+      "Chodí po dvou, oblékají se a baví s lidmi.",
+      "Zřeknou se moci a vrátí se k původním ideálům rovnosti.",
+      "Jsou napadena a sežrána psí smečkou.",
+      "Promění se v roboty, kteří za ně vykonávají práci."
+    ],
+    "correctAnswer": "Chodí po dvou, oblékají se a baví s lidmi.",
+    "explanation": "V závěru prasata chodí po dvou, oblékají se a baví s lidmi."
+  },
+  {
+    "id": "dilo_obsah_farma_zaver_pointa",
+    "type": "multiple_choice",
+    "tags": ["dilo_obsah", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "question": "Co si uvědomí ostatní zvířata při pohledu do oken v závěru Farmy zvířat?",
+    "options": [
+      "Nejsou schopna rozeznat, kdo je prase a kdo člověk.",
+      "Uvědomí si, že musí zahájit další revoluci.",
+      "Zjišťují, že Napoleon byl celou dobu převlečený Kuliš.",
+      "Všimnou si, že prasata zavedla nový přísný newspeak."
+    ],
+    "correctAnswer": "Nejsou schopna rozeznat, kdo je prase a kdo člověk.",
+    "explanation": "Ostatní zvířata, která je pozorují, už nejsou schopna rozeznat, kdo je prase a kdo člověk."
+  },
+  {
+    "id": "dilo_obsah_farma_temata",
+    "type": "multiple_choice",
+    "tags": ["dilo_obsah", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "question": "Jaká jsou hlavní témata a motivy Farmy zvířat?",
+    "options": [
+      "Zrada ideálů revoluce, nebezpečí násilí, hloupost slepého davu a politická manipulace.",
+      "Dopady první světové války na psychiku mladých vojáků.",
+      "Láska k technickému pokroku a stvoření umělého člověka.",
+      "Odhalení vraha v uzavřené skupině lidí."
+    ],
+    "correctAnswer": "Zrada ideálů revoluce, nebezpečí násilí, hloupost slepého davu a politická manipulace.",
+    "explanation": "Hlavní témata zahrnují zradu a destrukci ideálů revoluce, nebezpečí násilí, hloupost slepého davu, politickou manipulaci a nastolení totality."
+  },
+  {
+    "id": "dilo_titul_farma_vyznam",
+    "type": "multiple_choice",
+    "tags": ["dilo_titul", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "question": "Jaké je vysvětlení názvu knihy Farma zvířat podle studijního materiálu?",
+    "options": [
+      "Odkazuje na místo děje, které představuje alegorický mikrokosmos a parodii na stalinistické Rusko.",
+      "Symbolizuje touhu hlavního hrdiny uprchnout z velkoměsta do přírody.",
+      "Odkazuje na jedinou nezasaženou oblast v antiutopické budoucnosti ovládané Velkým bratrem.",
+      "Je to jméno korporace, která vyrábí zvířata umělou cestou podobně jako v R.U.R."
+    ],
+    "correctAnswer": "Odkazuje na místo děje, které představuje alegorický mikrokosmos a parodii na stalinistické Rusko.",
+    "explanation": "Název odkazuje na místo děje, které představuje alegorický mikrokosmos a parodii na stalinistické Rusko."
+  },
+  {
+    "id": "jazyk_a_styl_farma_atmosfera",
+    "type": "multiple_choice",
+    "tags": ["jazyk_a_styl", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "question": "Jak je ve Farmě zvířat pracováno s atmosférou textu?",
+    "options": [
+      "Je ostře kontrastní - forma připomíná dětskou pohádku, ale obsah má temné poselství.",
+      "Je od počátku až do konce čistě humoristická a odlehčená, podobně jako u Švejka.",
+      "Využívá gotické prvky a hororové motivy k vyvolání strachu z nadpřirozena.",
+      "Snaží se evokovat šedivou, byrokratickou nudu londýnských úřadů."
+    ],
+    "correctAnswer": "Je ostře kontrastní - forma připomíná dětskou pohádku, ale obsah má temné poselství.",
+    "explanation": "Atmosféra je ostře kontrastní - forma připomíná dětskou pohádku, ale obsah má temné a hrozivé poselství."
+  },
+  {
+    "id": "dilo_postavy_farma_napoleon",
+    "type": "multiple_choice",
+    "tags": ["dilo_postavy", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "question": "Koho alegoricky představuje postava kance Napoleona?",
+    "options": [
+      "Stalina",
+      "Trockého",
+      "Velkého bratra",
+      "Pana Jonese"
+    ],
+    "correctAnswer": "Stalina",
+    "explanation": "Napoleon je alegorií Stalina."
+  },
+  {
+    "id": "dilo_postavy_farma_napoleon_charakter",
+    "type": "multiple_choice",
+    "tags": ["dilo_postavy", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "question": "Jaký je charakterový vývoj kance Napoleona?",
+    "options": [
+      "Prospěchářský a lstivý kanec, který se vyvíjí z účastníka revoluce ve fanatického diktátora.",
+      "Čestný vizionář, který nakonec podlehne nátlaku ostatních a uteče.",
+      "Pasivní pozorovatel, který mlčí, ačkoliv vidí celou pravdu.",
+      "Naivní dříč, který věří v dobro statku, dokud neskončí na jatkách."
+    ],
+    "correctAnswer": "Prospěchářský a lstivý kanec, který se vyvíjí z účastníka revoluce ve fanatického diktátora.",
+    "explanation": "Napoleon je prospěchářský, lstivý a krutý kanec, který se vyvíjí z účastníka revoluce ve fanatického diktátora."
+  },
+  {
+    "id": "dilo_postavy_farma_kulis",
+    "type": "multiple_choice",
+    "tags": ["dilo_postavy", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "question": "Koho alegoricky představuje prase Kuliš?",
+    "options": [
+      "Trockého",
+      "Stalina",
+      "Winstona Smithe",
+      "Cara Mikuláše II."
+    ],
+    "correctAnswer": "Trockého",
+    "explanation": "Kuliš je alegorií Trockého."
+  },
+  {
+    "id": "dilo_postavy_farma_kulis_charakter",
+    "type": "multiple_choice",
+    "tags": ["dilo_postavy", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "question": "Jak je ve Farmě zvířat charakterizován Kuliš?",
+    "options": [
+      "Inteligentní a čestnější vizionář, kterého Napoleon vyžene a označí za nepřítele.",
+      "Krutý diktátor zneužívající moc a vládnoucí pomocí psí smečky.",
+      "Osel, který jediný vidí pravdu, ale mlčí.",
+      "Prase, které funguje pouze jako hlásná trouba státní propagandy."
+    ],
+    "correctAnswer": "Inteligentní a čestnější vizionář, kterého Napoleon vyžene a označí za nepřítele.",
+    "explanation": "Kuliš je inteligentní a čestnější vizionář, kterého Napoleon brzy vyžene a označí za nepřítele."
+  },
+  {
+    "id": "dilo_postavy_farma_pistik",
+    "type": "multiple_choice",
+    "tags": ["dilo_postavy", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "question": "Co ztělesňuje postava prasete Pištíka?",
+    "options": [
+      "Státní propagandu; neustále obelhává a manipuluje s davem.",
+      "Pracující třídu, která vše odedře.",
+      "Zahraniční kapitalisty a nepřátele revoluce.",
+      "Tajnou policii zastoupenou psí smečkou."
+    ],
+    "correctAnswer": "Státní propagandu; neustále obelhává a manipuluje s davem.",
+    "explanation": "Pištík je ztělesněním propagandy, neustále obelhává a manipuluje s davem."
+  },
+  {
+    "id": "dilo_postavy_farma_boxer",
+    "type": "multiple_choice",
+    "tags": ["dilo_postavy", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "question": "Jakou společenskou skupinu alegoricky představuje kůň Boxer?",
+    "options": [
+      "Naivní pracující třídu.",
+      "Inteligenci a vizionáře.",
+      "Vládnoucí stranický aparát.",
+      "Církev a náboženské instituce."
+    ],
+    "correctAnswer": "Naivní pracující třídu.",
+    "explanation": "Boxer je prostý tažný kůň ztělesňující naivní pracující třídu."
+  },
+  {
+    "id": "dilo_postavy_farma_benjamin",
+    "type": "multiple_choice",
+    "tags": ["dilo_postavy", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "question": "Jakou roli má v příběhu osel Benjamin?",
+    "options": [
+      "Je to cynik, který jediný vidí celou krutou pravdu, ale je zcela pasivní a mlčí.",
+      "Vede revoluci proti Napoleonovi, ale je zabit psy.",
+      "Neustále obelhává ostatní zvířata a přepisuje pravidla na zdi.",
+      "Uteče ze statku hned na začátku a už se nikdy nevrátí."
+    ],
+    "correctAnswer": "Je to cynik, který jediný vidí celou krutou pravdu, ale je zcela pasivní a mlčí.",
+    "explanation": "Cynický osel Benjamin jediný vidí celou krutou pravdu, ale je zcela pasivní a mlčí."
+  },
+  {
+    "id": "jazyk_a_styl_farma_vypravec",
+    "type": "multiple_choice",
+    "tags": ["jazyk_a_styl", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "question": "Jaký typ vypravěče je použit ve Farmě zvířat?",
+    "options": [
+      "Er-forma (vševědoucí, ale drží si odstup).",
+      "Ich-forma z pohledu kance Napoleona.",
+      "Ich-forma z pohledu osla Benjamina.",
+      "Er-forma s hlubokým náhledem výhradně do myšlenek Kuliše."
+    ],
+    "correctAnswer": "Er-forma (vševědoucí, ale drží si odstup).",
+    "explanation": "Typ vypravěče je Er-forma (vševědoucí, ale drží si odstup)."
+  },
+  {
+    "id": "jazyk_a_styl_farma_vrstvy",
+    "type": "multiple_choice",
+    "tags": ["jazyk_a_styl", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "question": "Co tvoří jazykový kontrast k pohádkové formě Farmy zvířat?",
+    "options": [
+      "Výskyt politických a odborných termínů.",
+      "Nadměrné používání sprostých slov a argotu.",
+      "Byrokratický newspeak plný novotvarů.",
+      "Výhradní používání nespisovné řeči a slangových výrazů zvířat."
+    ],
+    "correctAnswer": "Výskyt politických a odborných termínů.",
+    "explanation": "Spisovný jazyk se prolíná s politickými a odbornými termíny pro kontrast s pohádkovou formou."
+  },
+  {
+    "id": "jazyk_a_styl_farma_prostredky",
+    "type": "multiple_choice",
+    "tags": ["jazyk_a_styl", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "question": "Na jakých stylistických prostředcích a tropech je Farma zvířat především založena?",
+    "options": [
+      "Na ostré ironii, satiře a zvířecí personifikaci.",
+      "Na složitých metaforách a bohatém lyrizmu.",
+      "Na vědeckých popisech a objektivním reportážním stylu.",
+      "Na využití symbolů křesťanské mystiky a gotické hrůzy."
+    ],
+    "correctAnswer": "Na ostré ironii, satiře a zvířecí personifikaci.",
+    "explanation": "Kniha je založena na ostré ironii, satiře a zvířecí personifikaci."
+  },
+  {
+    "id": "jazyk_a_styl_farma_kapitoly",
+    "type": "flashcard",
+    "tags": ["jazyk_a_styl", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "question": "Do kolika kapitol (bez názvu) je kompozičně členěna Farma zvířat?",
+    "options": [],
+    "correctAnswer": "Do 10 kapitol.",
+    "explanation": "Kompozice je členěna do 10 kapitol bez názvu."
+  },
+  {
+    "id": "rozbor_textu_farma_dej_razeni",
+    "type": "sorting",
+    "tags": ["rozbor_textu", "dilo_obsah", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "question": "Seřaďte klíčové události děje Farmy zvířat chronologicky tak, jak po sobě následují:",
+    "options": [
+      "Zvířata převezmou moc a zavedou přikázání rovnosti.",
+      "Napoleon vyžene svého protivníka Kuliše.",
+      "Zvířata se vzbouří proti krutému majiteli (pan Jones).",
+      "Prasata začnou chodit po dvou a baví se s lidmi.",
+      "Kůň Boxer dře až k smrti a skončí na jatkách."
+    ],
+    "correctAnswer": [
+      "Zvířata se vzbouří proti krutému majiteli (pan Jones).",
+      "Zvířata převezmou moc a zavedou přikázání rovnosti.",
+      "Napoleon vyžene svého protivníka Kuliše.",
+      "Kůň Boxer dře až k smrti a skončí na jatkách.",
+      "Prasata začnou chodit po dvou a baví se s lidmi."
+    ],
+    "explanation": "Vzpoura proti Jonesovi je na začátku, následuje zavedení rovnosti, poté diktatura Napoleona (vyhnání Kuliše), zneužití pracujících (smrt Boxera) a konečná přeměna prasat v lidi."
+  },
+  {
+    "id": "literarni_teorie_1984_druh",
+    "type": "multiple_choice",
+    "tags": ["literarni_teorie", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "question": "Do jakého literárního druhu spadá román 1984?",
+    "options": [
+      "Epika",
+      "Lyrika",
+      "Drama",
+      "Epicko-lyrická báseň"
+    ],
+    "correctAnswer": "Epika",
+    "explanation": "Stejně jako Farma zvířat, i 1984 je literární druh epika."
+  },
+  {
+    "id": "literarni_teorie_1984_zanr",
+    "type": "multiple_choice",
+    "tags": ["literarni_teorie", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "question": "Jaký je žánr románu 1984?",
+    "options": [
+      "Dystopický, politický a sociálně-kritický román (antiutopie).",
+      "Pikareskní román o putování hlavního hrdiny.",
+      "Pohádková alegorie a zvířecí bajka.",
+      "Historický román o druhé světové válce."
+    ],
+    "correctAnswer": "Dystopický, politický a sociálně-kritický román (antiutopie).",
+    "explanation": "Literární žánr je dystopický, politický a sociálně-kritický román (antiutopie)."
+  },
+  {
+    "id": "dilo_obsah_1984_misto",
+    "type": "multiple_choice",
+    "tags": ["dilo_obsah", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "question": "Kde přesně se odehrává děj románu 1984?",
+    "options": [
+      "V Londýně, který je součástí superstátu Oceánie.",
+      "V Paříži, kde hrdina žije na dně jako chudina.",
+      "V Rusku, těsně před vypuknutím stalinistických čistek.",
+      "Na Panském statku v Anglii."
+    ],
+    "correctAnswer": "V Londýně, který je součástí superstátu Oceánie.",
+    "explanation": "Časoprostor: Londýn (součást superstátu Oceánie)."
+  },
+  {
+    "id": "dilo_obsah_1984_cas",
+    "type": "flashcard",
+    "tags": ["dilo_obsah", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "question": "V jakém měsíci a roce se odehrává děj románu 1984?",
+    "options": [],
+    "correctAnswer": "V dubnu roku 1984",
+    "explanation": "Děj se odehrává v dubnu roku 1984."
+  },
+  {
+    "id": "dilo_obsah_1984_prace_winston",
+    "type": "multiple_choice",
+    "tags": ["dilo_obsah", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "question": "Co je pracovní náplní Winstona Smithe v románu 1984?",
+    "options": [
+      "Denně přepisuje historická fakta na Ministerstvu pravdy.",
+      "Vyhledává a zatýká ideozločince pro Ideopolicii.",
+      "Vytváří slovníky umělého jazyka newspeak.",
+      "Dře na polích Oceánie jako zástupce pracující třídy."
+    ],
+    "correctAnswer": "Denně přepisuje historická fakta na Ministerstvu pravdy.",
+    "explanation": "Winston je úředník, který denně přepisuje historická fakta na Ministerstvu pravdy."
+  },
+  {
+    "id": "dilo_obsah_1984_vzpoura_pocatek",
+    "type": "multiple_choice",
+    "tags": ["dilo_obsah", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "question": "Jak začíná Winstonova osobní vzpoura proti Velkému bratrovi?",
+    "options": [
+      "Začne si psát zakázaný deník.",
+      "Zavolá do redakce televizní show Big Brother.",
+      "Zastřelí člena Ideopolicie.",
+      "Uprchne z Londýna na venkovský statek."
+    ],
+    "correctAnswer": "Začne si psát zakázaný deník.",
+    "explanation": "Winston se vnitřně bouří proti všudypřítomné kontrole Velkého bratra a začne si psát zakázaný deník."
+  },
+  {
+    "id": "dilo_postavy_1984_laska",
+    "type": "flashcard",
+    "tags": ["dilo_postavy", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "question": "Jak se jmenuje žena, do které se Winston Smith zamiluje?",
+    "options": [],
+    "correctAnswer": "Julie",
+    "explanation": "Zamiluje se do Julie."
+  },
+  {
+    "id": "dilo_obsah_1984_obrien_past",
+    "type": "multiple_choice",
+    "tags": ["dilo_obsah", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "question": "Jakou roli sehraje mocný straník O'Brien ve Winstonově odboji?",
+    "options": [
+      "Předstírá, že je součástí odboje, ale ve skutečnosti je to past a on Winstona nakonec mučí.",
+      "Je to tajný vůdce odboje, který pomůže Winstonovi a Julii uprchnout.",
+      "Je to Winstonův kolega na Ministerstvu pravdy, který ho udá Ideopolicii.",
+      "Je to jen vymyšlená postava, kterou Winston vidí v halucinacích během mučení."
+    ],
+    "correctAnswer": "Předstírá, že je součástí odboje, ale ve skutečnosti je to past a on Winstona nakonec mučí.",
+    "explanation": "Winston uvěří, že přes O'Briena našel cestu k odboji, ale vše je past a O'Brien ho nakonec drasticky mučí."
+  },
+  {
+    "id": "dilo_obsah_1984_muceni_mistnost",
+    "type": "flashcard",
+    "tags": ["dilo_obsah", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "question": "Jaké číslo nese obávaná místnost, kde je Winston mučen O'Brienem?",
+    "options": [],
+    "correctAnswer": "101",
+    "explanation": "Winston je drasticky mučen v Místnosti 101."
+  },
+  {
+    "id": "dilo_obsah_1984_strach_krysy",
+    "type": "multiple_choice",
+    "tags": ["dilo_obsah", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "question": "Čemu musí Winston čelit v Místnosti 101, což ho donutí Julii naprosto zradit?",
+    "options": [
+      "Svému největšímu strachu - krysám.",
+      "Setkání se samotným Velkým bratrem tváří v tvář.",
+      "Smečce krvežíznivých psů.",
+      "Pohledu na mučení samotné Julie."
+    ],
+    "correctAnswer": "Svému největšímu strachu - krysám.",
+    "explanation": "Je mučen až do chvíle, kdy čelí svému největšímu strachu (krysám) a Julii naprosto zradí."
+  },
+  {
+    "id": "dilo_obsah_1984_zaver_stav",
+    "type": "multiple_choice",
+    "tags": ["dilo_obsah", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "question": "Jaký je Winstonův psychický stav na samém konci románu 1984?",
+    "options": [
+      "Je psychicky i fyzicky dokonale zlomen a uvědomuje si, že Velkého bratra vlastně miluje.",
+      "Podařilo se mu utéct, ale žije v neustálém strachu ze sledování.",
+      "Zůstal nezlomený a těsně před popravou proklíná Velkého bratra.",
+      "Ztratil paměť a nepamatuje si vůbec nic ze svého dřívějšího života."
+    ],
+    "correctAnswer": "Je psychicky i fyzicky dokonale zlomen a uvědomuje si, že Velkého bratra vlastně miluje.",
+    "explanation": "Hlavní hrdina je psychicky i fyzicky dokonale zlomen; zradil lásku a uvědomuje si, že Velkého bratra vlastně miluje."
+  },
+  {
+    "id": "dilo_obsah_1984_temata",
+    "type": "multiple_choice",
+    "tags": ["dilo_obsah", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "question": "Mezi hlavní témata románu 1984 patří kontrola, úprava historie a destrukce čeho dalšího?",
+    "options": [
+      "Destrukce jazyka (newspeak) za účelem omezení myšlení.",
+      "Destrukce technologií, aby se lidé nemohli vzbouřit.",
+      "Destrukce všech knih pomocí speciálních hasičů, jak to popsal Bradbury.",
+      "Destrukce rodinných vazeb přesunem dětí na venkovské farmy."
+    ],
+    "correctAnswer": "Destrukce jazyka (newspeak) za účelem omezení myšlení.",
+    "explanation": "Mezi hlavní témata patří i destrukce jazyka (newspeak) za účelem omezení myšlení."
+  },
+  {
+    "id": "dilo_titul_1984_vyznam",
+    "type": "multiple_choice",
+    "tags": ["dilo_titul", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "question": "Jak podle studijního materiálu vznikl název románu 1984?",
+    "options": [
+      "Přehozením číslic roku napsání (1948), jako varování, že se vize může stát blízkou realitou.",
+      "Je to přesný rok, kdy Orwell očekával třetí světovou válku.",
+      "Odkazuje na počet členů Vnitřní strany v Oceánii.",
+      "Jde o číslo pokoje na Ministerstvu pravdy, kde Winston pracoval."
+    ],
+    "correctAnswer": "Přehozením číslic roku napsání (1948), jako varování, že se vize může stát blízkou realitou.",
+    "explanation": "Rok děje vznikl pouhým přehozením číslic roku napsání (1948), autor tím varuje před blízkou realitou."
+  },
+  {
+    "id": "jazyk_a_styl_1984_atmosfera",
+    "type": "multiple_choice",
+    "tags": ["jazyk_a_styl", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "question": "Jaká je atmosféra románu 1984?",
+    "options": [
+      "Depresivní, beznadějná a šedivá realita plná strachu, zmaru a chladu.",
+      "Melancholická a romantická, plná nesplněných snů jako ve Velkém Gatsbym.",
+      "Dobrodružná a napínavá, s rychlým střídáním děje.",
+      "Absurdně komická a ironická, odlehčující tíhu války."
+    ],
+    "correctAnswer": "Depresivní, beznadějná a šedivá realita plná strachu, zmaru a chladu.",
+    "explanation": "Atmosféra je depresivní, beznadějná a šedivá realita plná strachu, zmaru a chladu."
+  },
+  {
+    "id": "dilo_postavy_1984_winston_telo",
+    "type": "multiple_choice",
+    "tags": ["dilo_postavy", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "question": "Jaké fyzické znaky charakterizují Winstona Smithe na počátku románu?",
+    "options": [
+      "Má křehkou tělesnou konstituci, trpí vředy a kašlem.",
+      "Je to mladý, silný a zdravý voják po vzoru Paula Bäumera.",
+      "Je neustále opilý a nemocný bílou nemocí.",
+      "Vypadá jako statný pracující kůň Boxer."
+    ],
+    "correctAnswer": "Má křehkou tělesnou konstituci, trpí vředy a kašlem.",
+    "explanation": "Winston je charakterizován křehkou tělesnou konstitucí (vředy, kašel)."
+  },
+  {
+    "id": "dilo_postavy_1984_winston_vyvoj",
+    "type": "multiple_choice",
+    "tags": ["dilo_postavy", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "question": "Jaký je psychologický vývoj Winstona Smithe?",
+    "options": [
+      "Od skryté nenávisti a vzpoury přes naději k naprostému mrazivému zlomení a odevzdání se Straně.",
+      "Od fanatického straníka k odbojáři, který nakonec obětuje život za svobodu ostatních.",
+      "Od naivního pozorovatele k cynickému zrádci, který nahradí O'Briena.",
+      "Celou knihu si drží stejný morální odstup a nikdy nikoho nezradí."
+    ],
+    "correctAnswer": "Od skryté nenávisti a vzpoury přes naději k naprostému mrazivému zlomení a odevzdání se Straně.",
+    "explanation": "Psychologicky přechází od skryté nenávisti přes chvilkovou naději k naprostému zlomení a vnucenému odevzdání se Straně."
+  },
+  {
+    "id": "dilo_postavy_1984_julie",
+    "type": "multiple_choice",
+    "tags": ["dilo_postavy", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "question": "Proč se Julie bouří proti režimu v Oceánii?",
+    "options": [
+      "Je to pragmatická rebelka, která se bouří pouze v osobní rovině pro své vlastní potěšení, nikoli ideologicky.",
+      "Chce svrhnout Velkého bratra a nastolit demokratický kapitalismus.",
+      "Byla najata Ideopolicií, aby testovala loajalitu straníků od samého začátku.",
+      "Chce pomstít smrt své rodiny, kterou zabil O'Brien."
+    ],
+    "correctAnswer": "Je to pragmatická rebelka, která se bouří pouze v osobní rovině pro své vlastní potěšení, nikoli ideologicky.",
+    "explanation": "Julie je pragmatická rebelka, která se proti režimu bouří pouze v osobní rovině pro své vlastní potěšení, nikoli ideologicky."
+  },
+  {
+    "id": "dilo_postavy_1984_obrien_charakter",
+    "type": "multiple_choice",
+    "tags": ["dilo_postavy", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "question": "Jak je charakterizován O'Brien?",
+    "options": [
+      "Vysoce postavený straník; inteligentní, kultivovaný, a přesto hrůzný sadistický mučitel.",
+      "Prostý a hloupý člen vnější strany, který bezmyšlenkovitě plní rozkazy.",
+      "Tajemná postava na plakátech, u níž není jisté, zda vůbec žije.",
+      "Cynický pozorovatel, který mlčí, podobně jako osel Benjamin."
+    ],
+    "correctAnswer": "Vysoce postavený straník; inteligentní, kultivovaný, a přesto hrůzný sadistický mučitel.",
+    "explanation": "O'Brien je vysoce postavený straník; inteligentní, kultivovaný, a přesto hrůzný sadistický mučitel."
+  },
+  {
+    "id": "dilo_postavy_1984_velky_bratr",
+    "type": "multiple_choice",
+    "tags": ["dilo_postavy", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "question": "Kdo je Velký bratr?",
+    "options": [
+      "Tvář tyranie a symbol moci z plakátů; možná jako živá osoba ani neexistuje.",
+      "Winstonův skutečný bratr, který ho udal Ideopolicii.",
+      "Vůdce podzemního odboje a autor zakázané knihy.",
+      "Skutečné jméno O'Briena, než vstoupil do Vnitřní strany."
+    ],
+    "correctAnswer": "Tvář tyranie a symbol moci z plakátů; možná jako živá osoba ani neexistuje.",
+    "explanation": "Velký bratr je tvář tyranie a symbol nekonečné moci z plakátů; možná jako živá osoba ani neexistuje."
+  },
+  {
+    "id": "jazyk_a_styl_1984_vypravec",
+    "type": "multiple_choice",
+    "tags": ["jazyk_a_styl", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "question": "Jaký typ vypravěče je zvolen v románu 1984?",
+    "options": [
+      "Er-forma s hlubokým náhledem do vnitřního světa a myšlenek hlavní postavy (Winstona).",
+      "Ich-forma z pohledu mučitele O'Briena.",
+      "Objektivní er-forma bez znalosti pocitů postav, jako novinová reportáž.",
+      "Střídání ich-formy mezi Winstonem a Julií po kapitolách."
+    ],
+    "correctAnswer": "Er-forma s hlubokým náhledem do vnitřního světa a myšlenek hlavní postavy (Winstona).",
+    "explanation": "Typ vypravěče je Er-forma, avšak s hlubokým náhledem do vnitřního světa Winstona."
+  },
+  {
+    "id": "jazyk_a_styl_1984_newspeak_slova",
+    "type": "multiple_choice",
+    "tags": ["jazyk_a_styl", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "question": "Jaká dvě konkrétní slova z Newspeaku uvádí studijní materiál jako příklad?",
+    "options": [
+      "dvojmysl a ideozločin",
+      "pravdomluva a klamozvěst",
+      "robot a telestěna",
+      "dobromysl a zlomyšlenka"
+    ],
+    "correctAnswer": "dvojmysl a ideozločin",
+    "explanation": "Materiál zmiňuje novotvary z tzv. Newspeaku (např. dvojmysl, ideozločin)."
+  },
+  {
+    "id": "jazyk_a_styl_1984_symbol_tezitko",
+    "type": "multiple_choice",
+    "tags": ["jazyk_a_styl", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "question": "Co v románu 1984 symbolizuje skleněné těžítko?",
+    "options": [
+      "Představuje minulost.",
+      "Představuje vševidoucí oko Velkého bratra.",
+      "Je to skrytý nahrávací přístroj Ideopolicie.",
+      "Symbolizuje Winstonovu křehkou fyzickou konstituci."
+    ],
+    "correctAnswer": "Představuje minulost.",
+    "explanation": "Užití jasných symbolů - skleněné těžítko představující minulost."
+  },
+  {
+    "id": "jazyk_a_styl_1984_symbol_krysy",
+    "type": "multiple_choice",
+    "tags": ["jazyk_a_styl", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "question": "Co symbolizují krysy v závěru románu 1984?",
+    "options": [
+      "Paralyzující strach.",
+      "Zrádce v řadách Strany.",
+      "Nemoci a úpadek chudých vrstev londýnské společnosti.",
+      "O'Brienovu lstivost."
+    ],
+    "correctAnswer": "Paralyzující strach.",
+    "explanation": "Krysy představují paralyzující strach."
+  },
+  {
+    "id": "jazyk_a_styl_1984_kompozice",
+    "type": "multiple_choice",
+    "tags": ["jazyk_a_styl", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "question": "Na kolik logických částí je rozdělen román 1984 a jak jdou po sobě?",
+    "options": [
+      "Na 3 části: Vzpoura - Láska a odboj - Mučení a zlomení.",
+      "Na 2 části: Práce na Ministerstvu pravdy - Útěk a smrt.",
+      "Na 4 části odpovídající ročním obdobím, začínající a končící dubnem.",
+      "Je to volný tok myšlenek bez jasného kompozičního rozdělení."
+    ],
+    "correctAnswer": "Na 3 části: Vzpoura - Láska a odboj - Mučení a zlomení.",
+    "explanation": "Kompozice je rozdělená na 3 logické části (Vzpoura - Láska a odboj - Mučení a zlomení)."
+  },
+  {
+    "id": "rozbor_textu_1984_dej_razeni",
+    "type": "sorting",
+    "tags": ["rozbor_textu", "dilo_obsah", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "question": "Seřaďte události Winstonova příběhu v románu 1984 chronologicky:",
+    "options": [
+      "Winston a Julie jsou zatčeni.",
+      "Winston je mučen krysami v Místnosti 101.",
+      "Winston si začne psát zakázaný deník.",
+      "Winston si uvědomuje, že miluje Velkého bratra.",
+      "Winston uvěří, že přes O'Briena našel cestu k odboji."
+    ],
+    "correctAnswer": [
+      "Winston si začne psát zakázaný deník.",
+      "Winston uvěří, že přes O'Briena našel cestu k odboji.",
+      "Winston a Julie jsou zatčeni.",
+      "Winston je mučen krysami v Místnosti 101.",
+      "Winston si uvědomuje, že miluje Velkého bratra."
+    ],
+    "explanation": "Příběh začíná deníkem (Vzpoura), pak naděje s O'Brienem (Láska a odboj), následně zatčení, mučení v Místnosti 101 a končí zlomením a láskou k Velkému bratrovi."
+  },
+  {
+    "id": "rozbor_textu_neumel_souvislost",
+    "type": "multiple_choice",
+    "tags": ["rozbor_textu", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "question": "Jaká je tematická souvislost mezi románem 1984 a neuměleckým textem o reality show Big Brother?",
+    "options": [
+      "Odkazuje na technologii neustálého sledování (telestěny) a vševidoucí postavu; z nástroje teroru se stal zábavní formát.",
+      "Oba texty popisují historické přepisování novinových článků v redakcích.",
+      "Text o reality show je doslovným přepisem třetí kapitoly románu 1984 do newspeaku.",
+      "Odkazuje na chov prasat na anglickém venkově, který inspiroval obě díla."
+    ],
+    "correctAnswer": "Odkazuje na technologii neustálého sledování (telestěny) a vševidoucí postavu; z nástroje teroru se stal zábavní formát.",
+    "explanation": "Text přímo tematicky odkazuje na technologii neustálého sledování a vševidoucí postavu z Orwellova díla; z dystopického motivu se stal zábavní formát."
+  },
+  {
+    "id": "rozbor_textu_neumel_funkcni_styl",
+    "type": "text_analysis",
+    "tags": ["rozbor_textu", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "question": "Jaký funkční styl je zastoupen v ukázce neuměleckého textu (upoutávka na Big Brother)?",
+    "options": [
+      "Publicistický styl",
+      "Odborný styl",
+      "Administrativní styl",
+      "Umělecký styl"
+    ],
+    "correctAnswer": "Publicistický styl",
+    "explanation": "Text je napsán publicistickým stylem (informační upoutávka či zpráva pro veřejnost)."
+  },
+  {
+    "id": "rozbor_textu_neumel_slohovy_postup",
+    "type": "text_analysis",
+    "tags": ["rozbor_textu", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "question": "Jaký slohový postup převažuje v ukázce neuměleckého textu (upoutávka na Big Brother)?",
+    "options": [
+      "Informační postup",
+      "Vyprávěcí postup",
+      "Výkladový postup",
+      "Úvahový postup"
+    ],
+    "correctAnswer": "Informační postup",
+    "explanation": "Převažuje informační postup (suše a věcně podává holá fakta: kdo, kde, co a kdy)."
+  },
+  {
+    "id": "gramatika_neumel_anglicismy",
+    "type": "multiple_choice",
+    "tags": ["gramatika", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "question": "Jaký typ přejatých slov (lexikální vrstva) se v ukázce o reality show často vyskytuje?",
+    "options": [
+      "Anglicismy (např. reality show, aplikace).",
+      "Archaismy a historismy.",
+      "Zastaralé básnické neologismy.",
+      "Vulgarismy a argot podsvětí."
+    ],
+    "correctAnswer": "Anglicismy (např. reality show, aplikace).",
+    "explanation": "Text obsahuje přejatá slova z angličtiny (anglicismy) jako reality show či aplikace."
+  },
+  {
+    "id": "gramatika_neumel_cislovky",
+    "type": "multiple_choice",
+    "tags": ["gramatika", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "question": "Z jakého důvodu autor neuměleckého textu (upoutávky) hojně využívá základní a řadové číslovky (např. 13., šestnáct, 2023)?",
+    "options": [
+      "Aby určil přesný časový a početní rámec a dodal textu informační hodnotu.",
+      "Aby zmatl čtenáře podobně jako dvojmysl v newspeaku.",
+      "Aby ukázal svoji literární kreativitu a vytvořil rým.",
+      "Číslovky jsou v textu náhodně generované jako v dystopické loterii."
+    ],
+    "correctAnswer": "Aby určil přesný časový a početní rámec a dodal textu informační hodnotu.",
+    "explanation": "Základní a řadové číslovky určují přesný časový a početní rámec a dodávají informační hodnotu."
+  },
+  {
+    "id": "literarni_teorie_definice_epika",
+    "type": "flashcard",
+    "tags": ["literarni_teorie", "definice", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "question": "Jak zní definice epiky ze sekce Vysvětlení termínů?",
+    "options": [],
+    "correctAnswer": "Literární druh založený na vyprávění příběhu s dějem a časovými i prostorovými souvislostmi.",
+    "explanation": "Epika je literární druh založený na vyprávění příběhu s dějem a časovými i prostorovými souvislostmi."
+  },
+  {
+    "id": "literarni_teorie_definice_proza",
+    "type": "flashcard",
+    "tags": ["literarni_teorie", "definice", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "question": "Definujte pojem próza podle studijního materiálu.",
+    "options": [],
+    "correctAnswer": "Přirozená forma literárního textu, která na rozdíl od poezie není psána ve verších, ale člení se do vět a odstavců.",
+    "explanation": "Próza je literární forma členěná do vět a odstavců, nikoliv ve verších."
+  },
+  {
+    "id": "literarni_teorie_definice_roman",
+    "type": "flashcard",
+    "tags": ["literarni_teorie", "definice", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "question": "Co je to román?",
+    "options": [],
+    "correctAnswer": "Rozsáhlé epické prozaické dílo, které zachycuje mnoho událostí, rozvětvené dějové linie a hluboký psychologický vývoj mnoha postav.",
+    "explanation": "Román je rozsáhlé epické prozaické dílo s rozvětveným dějem a vývojem postav."
+  },
+  {
+    "id": "literarni_teorie_definice_novela",
+    "type": "flashcard",
+    "tags": ["literarni_teorie", "definice", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "question": "Jaký literární termín označuje epický žánr středního rozsahu s jasným dějem a zpravidla nečekanou pointou?",
+    "options": [],
+    "correctAnswer": "Novela",
+    "explanation": "Novela je epický žánr středního rozsahu s jasným dějem a nečekanou pointou."
+  },
+  {
+    "id": "literarni_teorie_definice_povidka",
+    "type": "flashcard",
+    "tags": ["literarni_teorie", "definice", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "question": "Definujte pojem povídka.",
+    "options": [],
+    "correctAnswer": "Kratší epický žánr, který má obvykle jednodušší dějovou linii a méně postav než román či novela.",
+    "explanation": "Povídka je kratší epický žánr s jednodušší dějovou linií a méně postavami."
+  },
+  {
+    "id": "literarni_teorie_definice_bajka",
+    "type": "flashcard",
+    "tags": ["literarni_teorie", "definice", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "question": "Co je to bajka?",
+    "options": [],
+    "correctAnswer": "Krátký alegorický příběh, ve kterém zvířata mluví a jednají jako lidé, z čehož na konci plyne mravní ponaučení.",
+    "explanation": "Bajka využívá zvířata s lidskými vlastnostmi pro mravní ponaučení."
+  },
+  {
+    "id": "literarni_teorie_definice_alegorie",
+    "type": "flashcard",
+    "tags": ["literarni_teorie", "definice", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "question": "Co znamená termín alegorie (jinotaj)?",
+    "options": [],
+    "correctAnswer": "Literární prostředek, ve kterém text skrývá hlubší význam; autor zatajuje svůj skutečný záměr pod obrazné pojmenování dějů či postav.",
+    "explanation": "Alegorie (jinotaj) skrývá hlubší význam pod obrazným pojmenováním."
+  },
+  {
+    "id": "literarni_teorie_definice_dystopie",
+    "type": "flashcard",
+    "tags": ["literarni_teorie", "definice", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "question": "Jak je ve slovníčku definována dystopie / antiutopie?",
+    "options": [],
+    "correctAnswer": "Myšlenka a žánr fiktivní společnosti, jež se vyvinula nejhorším možným směrem. Stát drasticky omezuje osobní svobodu a utlačuje své občany pomocí totalitního útlaku, sledování či teroru.",
+    "explanation": "Dystopie popisuje fiktivní společnost, která se vyvinula nejhorším možným směrem."
+  },
+  {
+    "id": "literarni_teorie_definice_er_forma",
+    "type": "flashcard",
+    "tags": ["literarni_teorie", "definice", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "question": "Co znamená vypravěčská er-forma?",
+    "options": [],
+    "correctAnswer": "Vyprávění z pohledu nezávislého pozorovatele, který stojí mimo děj (vypravěč mluví o hrdinovi ve 3. osobě - „on dělal“).",
+    "explanation": "Er-forma je vyprávění ve 3. osobě pozorovatelem mimo děj."
+  },
+  {
+    "id": "literarni_teorie_definice_chronologicka_kompozice",
+    "type": "flashcard",
+    "tags": ["literarni_teorie", "definice", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "question": "Definujte chronologickou kompozici.",
+    "options": [],
+    "correctAnswer": "Způsob řazení děje, kdy události plynou v přirozené časové posloupnosti za sebou (od začátku do konce).",
+    "explanation": "Události plynou v přirozené časové posloupnosti."
+  },
+  {
+    "id": "literarni_teorie_definice_metafora",
+    "type": "flashcard",
+    "tags": ["literarni_teorie", "definice", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "question": "Co je to metafora?",
+    "options": [],
+    "correctAnswer": "Obrazné pojmenování vzniklé na základě vnější podobnosti (přenesení významu).",
+    "explanation": "Metafora je pojmenování na základě vnější podobnosti."
+  },
+  {
+    "id": "literarni_teorie_definice_personifikace",
+    "type": "flashcard",
+    "tags": ["literarni_teorie", "definice", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "question": "Co je to personifikace (zosobnění)?",
+    "options": [],
+    "correctAnswer": "Přisuzování lidských vlastností a chování zvířatům, rostlinám nebo neživým věcem.",
+    "explanation": "Personifikace je přisuzování lidských vlastností neživým věcem či zvířatům."
+  },
+  {
+    "id": "literarni_teorie_definice_ironie",
+    "type": "flashcard",
+    "tags": ["literarni_teorie", "definice", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "question": "Jak je definována ironie?",
+    "options": [],
+    "correctAnswer": "Skrytý výsměch spočívající v záměrném užití slov v opačném významu.",
+    "explanation": "Ironie spočívá v záměrném užití slov v opačném významu."
+  },
+  {
+    "id": "literarni_teorie_definice_satira",
+    "type": "flashcard",
+    "tags": ["literarni_teorie", "definice", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "question": "Co dělá satira?",
+    "options": [],
+    "correctAnswer": "Využívá ironii, komičnost nebo nadsázku k ostré a útočné kritice společenských neduhů či lidských chyb.",
+    "explanation": "Satira využívá výsměch ke kritice společenských neduhů."
+  },
+  {
+    "id": "literarni_teorie_definice_newspeak",
+    "type": "flashcard",
+    "tags": ["literarni_teorie", "definice", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "question": "Jak je ve slovníčku definován Newspeak v kontextu románu 1984?",
+    "options": [],
+    "correctAnswer": "Uměle vytvořený jazyk, jehož účelem je zúžit slovní zásobu a tím znemožnit svobodné myšlení (tzv. ideozločin).",
+    "explanation": "Newspeak má omezit slovní zásobu a zabránit tak ideozločinu."
+  },
+  {
+    "id": "literarni_teorie_definice_publicisticky_styl",
+    "type": "flashcard",
+    "tags": ["literarni_teorie", "definice", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "question": "Co je cílem publicistického stylu?",
+    "options": [],
+    "correctAnswer": "Je to styl sdělovacích prostředků a novin, jehož cílem je srozumitelně, aktuálně a přesně informovat širokou veřejnost, případně ji zaujmout a přesvědčit.",
+    "explanation": "Publicistický styl informuje, zaujímá a přesvědčuje veřejnost v médiích."
+  },
+  {
+    "id": "literarni_teorie_definice_informacni_postup",
+    "type": "flashcard",
+    "tags": ["literarni_teorie", "definice", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "question": "Definujte informační slohový postup.",
+    "options": [],
+    "correctAnswer": "Nejjednodušší slohový postup, který jen věcně a stručně předkládá nezbytná fakta odpovídající na otázky Kdo, co, kdy, kde a jak.",
+    "explanation": "Informační postup stručně předkládá základní fakta."
+  }
+]
