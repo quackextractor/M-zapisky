@@ -1,0 +1,943 @@
+[
+    {
+        "id": "autor_zivot_poe_obdobi",
+        "type": "multiple_choice",
+        "tags": [
+            "autor_zivot",
+            "literarni_teorie",
+            "seznam_all",
+            "seznam_marian",
+            "seznam_vu"
+        ],
+        "importance": 9,
+        "question": "Do jakého literárního období a směru se řadí Edgar Allan Poe?",
+        "options": [
+            "Americký romantismus",
+            "Český realismus",
+            "Anglická renesance",
+            "Světový naturalismus"
+        ],
+        "correctAnswer": "Americký romantismus",
+        "explanation": "Edgar Allan Poe spadá do amerického romantismu v 1. polovině 19. století."
+    },
+    {
+        "id": "autor_zivot_poe_osud",
+        "type": "multiple_choice",
+        "tags": [
+            "autor_zivot",
+            "seznam_all",
+            "seznam_marian",
+            "seznam_vu"
+        ],
+        "importance": 5,
+        "question": "Čím byl poznamenán život Edgara Allana Poea?",
+        "options": [
+            "Sirotčím osudem, finančními problémy a bojem s depresemi.",
+            "Poklidným životem na venkově a velkým bohatstvím.",
+            "Službou v britské armádě a válkou ve Španělsku.",
+            "Dlouholetým vězením za politické názory."
+        ],
+        "correctAnswer": "Sirotčím osudem, finančními problémy a bojem s depresemi.",
+        "explanation": "Text výslovně uvádí, že jeho život byl poznamenán sirotčím osudem, finančními problémy a bojem s depresemi."
+    },
+    {
+        "id": "autor_zivot_poe_umrti",
+        "type": "flashcard",
+        "tags": [
+            "autor_zivot",
+            "seznam_all",
+            "seznam_marian",
+            "seznam_vu"
+        ],
+        "importance": 4,
+        "question": "Ve kterém městě zemřel Edgar Allan Poe za nevyjasněných okolností?",
+        "options": [],
+        "correctAnswer": "V Baltimoru.",
+        "explanation": "Podle základního životopisu zemřel E. A. Poe za nevyjasněných okolností v Baltimoru."
+    },
+    {
+        "id": "literarni_teorie_poe_kontext",
+        "type": "multiple_choice",
+        "tags": [
+            "literarni_teorie",
+            "seznam_all",
+            "seznam_marian",
+            "seznam_vu"
+        ],
+        "importance": 8,
+        "question": "Co bylo charakteristické pro kontext doby, ve které Poe tvořil?",
+        "options": [
+            "Formování americké národní identity a odklon od racionalismu k emocím.",
+            "Nástup průmyslové revoluce a oslava vědeckého pokroku.",
+            "Kritika totalitních režimů a varování před ztrátou soukromí.",
+            "Návrat k antickým ideálům a striktní dodržování formy."
+        ],
+        "correctAnswer": "Formování americké národní identity a odklon od racionalismu k emocím.",
+        "explanation": "V 1. polovině 19. století docházelo k formování americké národní identity a odklonu od racionalismu k emocím a individualismu."
+    },
+    {
+        "id": "dilo_obsah_poe_dila",
+        "type": "multiple_choice",
+        "tags": [
+            "dilo_obsah",
+            "seznam_all",
+            "seznam_marian",
+            "seznam_vu"
+        ],
+        "importance": 6,
+        "question": "Která z následujících děl napsal také Edgar Allan Poe?",
+        "options": [
+            "Zánik domu Usherů a Jáma a kyvadlo",
+            "1984 a Farma zvířat",
+            "Spalovač mrtvol a Bílá nemoc",
+            "Revizor a Kytice"
+        ],
+        "correctAnswer": "Zánik domu Usherů a Jáma a kyvadlo",
+        "explanation": "Mezi další autorova díla zmíněná v textu patří Zánik domu Usherů, Jáma a kyvadlo a Annabel Lee."
+    },
+    {
+        "id": "literarni_teorie_poe_shelleyova_rozdil",
+        "type": "multiple_choice",
+        "tags": [
+            "literarni_teorie",
+            "rozbor_textu",
+            "seznam_all",
+            "seznam_marian",
+            "seznam_vu"
+        ],
+        "importance": 8,
+        "question": "V čem spočívá hlavní rozdíl mezi díly E. A. Poea a Mary Shelleyové (autorky Frankensteina)?",
+        "options": [
+            "U Shelleyové je zdrojem hrůzy věda a monstrum, u Poea psychický rozklad a symbolismus.",
+            "Shelleyová píše poezii, zatímco Poe píše výhradně detektivní prózu.",
+            "Shelleyová čerpá z lidové slovesnosti, Poe se zaměřuje na sci-fi a dystopie.",
+            "U Poea je zdrojem hrůzy věda a monstrum, u Shelleyové psychický rozklad."
+        ],
+        "correctAnswer": "U Shelleyové je zdrojem hrůzy věda a monstrum, u Poea psychický rozklad a symbolismus.",
+        "explanation": "Zatímco obě díla pracují s děsem a samotou, u Shelleyové děsí věda a monstrum, kdežto u Poea psychický rozklad a symbolismus."
+    },
+    {
+        "id": "literarni_teorie_poe_doyle",
+        "type": "flashcard",
+        "tags": [
+            "literarni_teorie",
+            "dilo_postavy",
+            "seznam_all",
+            "seznam_marian",
+            "seznam_vu"
+        ],
+        "importance": 7,
+        "question": "Pro jakou slavnou postavu Arthura Conana Doyla byla inspirací postava Dupina?",
+        "options": [],
+        "correctAnswer": "Pro Sherlocka Holmese.",
+        "explanation": "Arthur Conan Doyle se inspiroval postavou C. Augusta Dupina při tvorbě Sherlocka Holmese."
+    },
+    {
+        "id": "literarni_teorie_poe_erben_rozdil",
+        "type": "multiple_choice",
+        "tags": [
+            "literarni_teorie",
+            "rozbor_textu",
+            "seznam_all",
+            "seznam_marian",
+            "seznam_vu"
+        ],
+        "importance": 8,
+        "question": "Jaký je zásadní rozdíl mezi tvorbou E. A. Poea a K. J. Erbena?",
+        "options": [
+            "Erben čerpá z lidové slovesnosti a morálky, Poe z individuální psychologie a děsu.",
+            "Poe píše komedie, zatímco Erben tragédie.",
+            "Erben využíval detektivní postupy, zatímco Poe se soustředil na nadpřirozeno a mýty.",
+            "Poe řeší vinu a trest, zatímco Erben čistě logickou analýzu."
+        ],
+        "correctAnswer": "Erben čerpá z lidové slovesnosti a morálky, Poe z individuální psychologie a děsu.",
+        "explanation": "Karel Jaromír Erben vychází z lidové slovesnosti a morálky, zatímco Edgar Allan Poe se soustředí na individuální psychologii a děs."
+    },
+    {
+        "id": "literarni_teorie_poe_macha",
+        "type": "flashcard",
+        "tags": [
+            "literarni_teorie",
+            "seznam_all",
+            "seznam_marian",
+            "seznam_vu"
+        ],
+        "importance": 7,
+        "question": "Který český autor sdílí s Poem podobnou melancholii a téma smrti, ačkoliv není na seznamu maturitní četby?",
+        "options": [],
+        "correctAnswer": "Karel Hynek Mácha.",
+        "explanation": "Karel Hynek Mácha je v textu uveden jako autor podobný Poeovi díky melancholii a tématu smrti."
+    },
+    {
+        "id": "rozbor_textu_havran_druh",
+        "type": "flashcard",
+        "tags": [
+            "rozbor_textu",
+            "literarni_teorie",
+            "seznam_all",
+            "seznam_marian",
+            "seznam_vu"
+        ],
+        "importance": 9,
+        "question": "Jaký je literární druh díla Havran?",
+        "options": [],
+        "correctAnswer": "Lyricko-epická skladba.",
+        "explanation": "Havran kombinuje děj s lyrickými prvky, jedná se tedy o lyricko-epickou skladbu."
+    },
+    {
+        "id": "rozbor_textu_havran_zanr",
+        "type": "flashcard",
+        "tags": [
+            "rozbor_textu",
+            "literarni_teorie",
+            "seznam_all",
+            "seznam_marian",
+            "seznam_vu"
+        ],
+        "importance": 9,
+        "question": "Jaký je literární žánr díla Havran?",
+        "options": [],
+        "correctAnswer": "Balada.",
+        "explanation": "Literárním žánrem Havrana je balada."
+    },
+    {
+        "id": "rozbor_textu_havran_casoprostor",
+        "type": "multiple_choice",
+        "tags": [
+            "dilo_obsah",
+            "rozbor_textu",
+            "seznam_all",
+            "seznam_marian",
+            "seznam_vu"
+        ],
+        "importance": 6,
+        "question": "Kde a kdy se odehrává děj Havrana?",
+        "options": [
+            "O půlnoci, v mrazivém prosinci či lednu, v pokoji osamělého muže.",
+            "Za slunného letního odpoledne na anglickém venkově.",
+            "V Paříži 19. století, v uzamčeném bytě.",
+            "Během první světové války v zákopech západní fronty."
+        ],
+        "correctAnswer": "O půlnoci, v mrazivém prosinci či lednu, v pokoji osamělého muže.",
+        "explanation": "Časoprostorem Havrana je pokoj osamělého muže o půlnoci v mrazivém prosinci či lednu."
+    },
+    {
+        "id": "dilo_obsah_havran_dej",
+        "type": "flashcard",
+        "tags": [
+            "dilo_obsah",
+            "seznam_all",
+            "seznam_marian",
+            "seznam_vu"
+        ],
+        "importance": 9,
+        "question": "Pro koho truchlí básník v díle Havran?",
+        "options": [],
+        "correctAnswer": "Pro Lenoru.",
+        "explanation": "Shrnutí děje uvádí, že básník truchlí pro milovanou Lenoru."
+    },
+    {
+        "id": "jazyk_a_styl_havran_refren",
+        "type": "flashcard",
+        "tags": [
+            "jazyk_a_styl",
+            "seznam_all",
+            "seznam_marian",
+            "seznam_vu"
+        ],
+        "importance": 9,
+        "question": "Jak zní ikonický refrén, kterým havran odpovídá na každou otázku básníka?",
+        "options": [],
+        "correctAnswer": "Nevermore (Nikdy víc).",
+        "explanation": "Havran jako odpověď na otázky o naději či setkání opakuje slovo Nevermore."
+    },
+    {
+        "id": "dilo_obsah_havran_zaver",
+        "type": "multiple_choice",
+        "tags": [
+            "dilo_obsah",
+            "seznam_all",
+            "seznam_marian",
+            "seznam_vu"
+        ],
+        "importance": 8,
+        "question": "Jaký je závěr básně Havran?",
+        "options": [
+            "Tragický a uzavřený, lyrický subjekt propadá definitivnímu zoufalství.",
+            "Otevřený, čtenář neví, zda se básník zbláznil, nebo byl zachráněn.",
+            "Šťastný a uzavřený, básník nachází novou naději.",
+            "Záhada je racionálně vysvětlena a havran odletí."
+        ],
+        "correctAnswer": "Tragický a uzavřený, lyrický subjekt propadá definitivnímu zoufalství.",
+        "explanation": "Závěr je tragický a uzavřený, lyrický subjekt propadá zoufalství a havranův stín navždy pokrývá jeho duši."
+    },
+    {
+        "id": "dilo_titul_havran_vyznam",
+        "type": "flashcard",
+        "tags": [
+            "dilo_titul",
+            "rozbor_textu",
+            "seznam_all",
+            "seznam_marian",
+            "seznam_vu"
+        ],
+        "importance": 8,
+        "question": "Co symbolizuje havran a proč je po něm dílo pojmenováno?",
+        "options": [],
+        "correctAnswer": "Havran je poslem zla a smrti, symbolizuje mluvícího proroka zmaru.",
+        "explanation": "Havran v názvu díla představuje posla zla a smrti a symbolizuje mluvícího proroka zmaru."
+    },
+    {
+        "id": "jazyk_a_styl_havran_atmosfera",
+        "type": "multiple_choice",
+        "tags": [
+            "jazyk_a_styl",
+            "rozbor_textu",
+            "seznam_all",
+            "seznam_marian",
+            "seznam_vu"
+        ],
+        "importance": 7,
+        "question": "Jaká je atmosféra básně Havran?",
+        "options": [
+            "Temná, mystická a tísnivá.",
+            "Veselá, hravá a optimistická.",
+            "Chladně analytická a racionální.",
+            "Sarkastická a ironická."
+        ],
+        "correctAnswer": "Temná, mystická a tísnivá.",
+        "explanation": "V rozboru díla se uvádí, že atmosféra Havrana je temná, mystická a tísnivá."
+    },
+    {
+        "id": "dilo_postavy_havran_vyvoj",
+        "type": "sorting",
+        "tags": [
+            "dilo_postavy",
+            "seznam_all",
+            "seznam_marian",
+            "seznam_vu"
+        ],
+        "importance": 8,
+        "question": "Seřaďte fáze psychologického vývoje básníka v Havranovi tak, jak po sobě chronologicky následují:",
+        "options": [
+            "Hysterie a šílenství",
+            "Zvědavost a racionální vysvětlování",
+            "Únava a smutek",
+            "Totální rezignace"
+        ],
+        "correctAnswer": [
+            "Únava a smutek",
+            "Zvědavost a racionální vysvětlování",
+            "Hysterie a šílenství",
+            "Totální rezignace"
+        ],
+        "explanation": "Básník prochází vývojem od únavy přes zvědavost a hysterii až k totální rezignaci."
+    },
+    {
+        "id": "jazyk_a_styl_havran_vypravec",
+        "type": "flashcard",
+        "tags": [
+            "jazyk_a_styl",
+            "rozbor_textu",
+            "seznam_all",
+            "seznam_marian",
+            "seznam_vu"
+        ],
+        "importance": 8,
+        "question": "Jaký typ vypravěče je použit v básni Havran?",
+        "options": [],
+        "correctAnswer": "Ich-forma (lyrický mluvčí).",
+        "explanation": "Příběh je podáván z pohledu první osoby, tedy v ich-formě."
+    },
+    {
+        "id": "jazyk_a_styl_havran_prostredky",
+        "type": "multiple_choice",
+        "tags": [
+            "jazyk_a_styl",
+            "literarni_teorie",
+            "seznam_all",
+            "seznam_marian",
+            "seznam_vu"
+        ],
+        "importance": 7,
+        "question": "Které stylistické prostředky a tropy jsou charakteristické pro Havrana?",
+        "options": [
+            "Refrén, personifikace, zvukomalebnost (aliterace, vnitřní rým) a metafory.",
+            "Odborná terminologie, deduktivní monology a přísně logická struktura.",
+            "Slang, vulgarismy a hovorová čeština.",
+            "Využití pasivních konstrukcí a publicistických klišé."
+        ],
+        "correctAnswer": "Refrén, personifikace, zvukomalebnost (aliterace, vnitřní rým) a metafory.",
+        "explanation": "Mezi charakteristické prostředky Havrana patří refrén, personifikace, zvukomalebnost a metafory."
+    },
+    {
+        "id": "rozbor_textu_havran_kompozice",
+        "type": "flashcard",
+        "tags": [
+            "rozbor_textu",
+            "seznam_all",
+            "seznam_marian",
+            "seznam_vu"
+        ],
+        "importance": 7,
+        "question": "Jaká kompozice je použita v díle Havran?",
+        "options": [],
+        "correctAnswer": "Chronologická (postupné stupňování napětí a beznaděje).",
+        "explanation": "Báseň je vystavěna chronologicky a graduje v ní napětí a beznaděj."
+    },
+    {
+        "id": "rozbor_textu_morgue_zanr",
+        "type": "flashcard",
+        "tags": [
+            "rozbor_textu",
+            "literarni_teorie",
+            "seznam_all",
+            "seznam_marian",
+            "seznam_vu"
+        ],
+        "importance": 9,
+        "question": "Jaký je literární žánr povídky Vraždy v ulici Morgue?",
+        "options": [],
+        "correctAnswer": "Detektivní povídka.",
+        "explanation": "Dílo Vraždy v ulici Morgue je zakládajícím textem žánru detektivní povídky."
+    },
+    {
+        "id": "rozbor_textu_morgue_casoprostor",
+        "type": "flashcard",
+        "tags": [
+            "dilo_obsah",
+            "rozbor_textu",
+            "seznam_all",
+            "seznam_marian",
+            "seznam_vu"
+        ],
+        "importance": 6,
+        "question": "Jaký je časoprostor Vražd v ulici Morgue?",
+        "options": [],
+        "correctAnswer": "Paříž, 19. století.",
+        "explanation": "Děj se odehrává v Paříži v 19. století."
+    },
+    {
+        "id": "dilo_obsah_morgue_vrah",
+        "type": "multiple_choice",
+        "tags": [
+            "dilo_obsah",
+            "seznam_all",
+            "seznam_marian",
+            "seznam_vu"
+        ],
+        "importance": 9,
+        "question": "Kdo je odhalen jako vrah v povídce Vraždy v ulici Morgue?",
+        "options": [
+            "Orangutan.",
+            "Francouzský námořník.",
+            "C. Auguste Dupin.",
+            "Přítel hlavního hrdiny."
+        ],
+        "correctAnswer": "Orangutan.",
+        "explanation": "Dupin logickou analýzou odhalí, že brutální vraždu spáchal orangutan."
+    },
+    {
+        "id": "dilo_obsah_morgue_temata",
+        "type": "multiple_choice",
+        "tags": [
+            "dilo_obsah",
+            "rozbor_textu",
+            "seznam_all",
+            "seznam_marian",
+            "seznam_vu"
+        ],
+        "importance": 9,
+        "question": "Jaká jsou hlavní témata povídky Vraždy v ulici Morgue?",
+        "options": [
+            "Síla lidské logiky (dedukce), neschopnost úřadů a kontrast mezi rozumem a zvířecí brutalitou.",
+            "Ztráta milované osoby, beznaděj a strach ze smrti.",
+            "Rozklad osobnosti, drogová závislost a melancholie.",
+            "Kritika totalitních režimů a manipulace s jazykem."
+        ],
+        "correctAnswer": "Síla lidské logiky (dedukce), neschopnost úřadů a kontrast mezi rozumem a zvířecí brutalitou.",
+        "explanation": "Mezi hlavní témata patří lidská dedukce, neschopná policie a kontrast chladného rozumu se zvířecí brutalitou."
+    },
+    {
+        "id": "dilo_titul_morgue_vyznam",
+        "type": "flashcard",
+        "tags": [
+            "dilo_titul",
+            "seznam_all",
+            "seznam_marian",
+            "seznam_vu"
+        ],
+        "importance": 8,
+        "question": "Co označuje název Vraždy v ulici Morgue?",
+        "options": [],
+        "correctAnswer": "Označuje místo a předmět činu.",
+        "explanation": "Název přímo odkazuje na místo, kde k vraždám došlo, a na samotný čin."
+    },
+    {
+        "id": "jazyk_a_styl_morgue_atmosfera",
+        "type": "multiple_choice",
+        "tags": [
+            "jazyk_a_styl",
+            "rozbor_textu",
+            "seznam_all",
+            "seznam_marian",
+            "seznam_vu"
+        ],
+        "importance": 7,
+        "question": "Jaký kontrast panuje v atmosféře Vražd v ulici Morgue?",
+        "options": [
+            "Hororový úvod plný naturalismu střídá chladně analytický závěr.",
+            "Romantický úvod plný lásky střídá krvavý a brutální konec.",
+            "Veselý začátek na tržišti končí tragickou nehodou.",
+            "Příběh začíná i končí naprostou beznadějí a šílenstvím."
+        ],
+        "correctAnswer": "Hororový úvod plný naturalismu střídá chladně analytický závěr.",
+        "explanation": "Dílo začíná jako naturalistický horor, ale postupně přechází do chladně analytického deduktivního řešení."
+    },
+    {
+        "id": "dilo_postavy_morgue_dupin",
+        "type": "flashcard",
+        "tags": [
+            "dilo_postavy",
+            "seznam_all",
+            "seznam_marian",
+            "seznam_vu"
+        ],
+        "importance": 9,
+        "question": "Jak se jmenuje hlavní hrdina, excentrický génius z Vražd v ulici Morgue?",
+        "options": [],
+        "correctAnswer": "C. Auguste Dupin.",
+        "explanation": "Hlavní postavou, která představuje ideál čistého rozumu, je C. Auguste Dupin."
+    },
+    {
+        "id": "dilo_postavy_morgue_vyvoj",
+        "type": "flashcard",
+        "tags": [
+            "dilo_postavy",
+            "seznam_all",
+            "seznam_marian",
+            "seznam_vu"
+        ],
+        "importance": 8,
+        "question": "Jakým psychologickým vývojem prochází C. Auguste Dupin?",
+        "options": [],
+        "correctAnswer": "Žádným, je to statická postava.",
+        "explanation": "Dupin neprochází žádným vývojem, je statický a představuje neměnný ideál rozumu."
+    },
+    {
+        "id": "jazyk_a_styl_morgue_vypravec",
+        "type": "multiple_choice",
+        "tags": [
+            "jazyk_a_styl",
+            "literarni_teorie",
+            "seznam_all",
+            "seznam_marian",
+            "seznam_vu"
+        ],
+        "importance": 8,
+        "question": "Kdo plní roli vypravěče ve Vraždách v ulici Morgue?",
+        "options": [
+            "Ich-forma, vypráví obdivný přítel hlavního hrdiny (tzv. Watsonovský typ).",
+            "Er-forma, vševědoucí vypravěč shlíží na události z nadhledu.",
+            "Vypráví sám C. Auguste Dupin v ich-formě.",
+            "Vypráví samotný vrah těsně před dopadením."
+        ],
+        "correctAnswer": "Ich-forma, vypráví obdivný přítel hlavního hrdiny (tzv. Watsonovský typ).",
+        "explanation": "Příběh zprostředkovává nepojmenovaný přítel detektiva, jde o tzv. Watsonovský typ vypravěče v ich-formě."
+    },
+    {
+        "id": "jazyk_a_styl_morgue_terminy",
+        "type": "multiple_choice",
+        "tags": [
+            "jazyk_a_styl",
+            "seznam_all",
+            "seznam_marian",
+            "seznam_vu"
+        ],
+        "importance": 7,
+        "question": "Jaké jazykové vrstvy a prostředky se objevují ve Vraždách v ulici Morgue?",
+        "options": [
+            "Spisovná čeština, odborné termíny (při dedukci), archaismy a detailní popisy místa činu.",
+            "Hovorová čeština, slang ulice a časté vulgarismy.",
+            "Výhradně zvukomalba, refrén a básnické příměry.",
+            "Nespisovný jazyk, nářečí a zkomoleniny francouzštiny."
+        ],
+        "correctAnswer": "Spisovná čeština, odborné termíny (při dedukci), archaismy a detailní popisy místa činu.",
+        "explanation": "Pro text je typický spisovný jazyk doplněný o odborné termíny, archaismy a přesné deduktivní popisy."
+    },
+    {
+        "id": "rozbor_textu_morgue_kompozice",
+        "type": "flashcard",
+        "tags": [
+            "rozbor_textu",
+            "seznam_all",
+            "seznam_marian",
+            "seznam_vu"
+        ],
+        "importance": 8,
+        "question": "Jaká kompozice je typická pro Vraždy v ulici Morgue?",
+        "options": [],
+        "correctAnswer": "Chronologická s retrospektivním vložením výpovědi námořníka.",
+        "explanation": "Děj postupuje chronologicky, ale v závěru obsahuje retrospektivní pohled do minulosti při výpovědi námořníka."
+    },
+    {
+        "id": "rozbor_textu_neumel_styl",
+        "type": "text_analysis",
+        "tags": [
+            "rozbor_textu",
+            "jazyk_a_styl",
+            "seznam_all",
+            "seznam_marian",
+            "seznam_vu"
+        ],
+        "importance": 6,
+        "question": "Do jakého funkčního stylu spadá modelový neumělecký text (novinová zpráva o nálezu zvířete)?",
+        "options": [
+            "Publicistický",
+            "Odborný",
+            "Umělecký",
+            "Prostě sdělovací"
+        ],
+        "correctAnswer": "Publicistický",
+        "explanation": "Jedná se o novinovou zprávu určenou široké veřejnosti, tedy o funkční styl publicistický."
+    },
+    {
+        "id": "rozbor_textu_neumel_postup",
+        "type": "text_analysis",
+        "tags": [
+            "rozbor_textu",
+            "jazyk_a_styl",
+            "seznam_all",
+            "seznam_marian",
+            "seznam_vu"
+        ],
+        "importance": 6,
+        "question": "Jaký slohový postup je aplikován v modelové novinové zprávě o nálezu neidentifikovatelného zvířete?",
+        "options": [
+            "Informační",
+            "Vyprávěcí",
+            "Popisný",
+            "Výkladový"
+        ],
+        "correctAnswer": "Informační",
+        "explanation": "Text předkládá stručná fakta (kdo, co, kde, kdy), jde tedy o informační slohový postup."
+    },
+    {
+        "id": "jazyk_a_styl_neumel_gramatika",
+        "type": "multiple_choice",
+        "tags": [
+            "gramatika",
+            "jazyk_a_styl",
+            "seznam_all",
+            "seznam_marian",
+            "seznam_vu"
+        ],
+        "importance": 5,
+        "question": "Jaké gramatické a lexikální jevy se objevují ve vzorové publicistické zprávě?",
+        "options": [
+            "Pasivní konstrukce, odborné názvy, číslovky a publicistická klišé.",
+            "Básnické metafory, personifikace a vnitřní rýmy.",
+            "Přímá řeč postav, archaismy a historismy.",
+            "Vulgární výrazy, slang a hovorová koncovka přídavných jmen."
+        ],
+        "correctAnswer": "Pasivní konstrukce, odborné názvy, číslovky a publicistická klišé.",
+        "explanation": "Text zprávy se vyznačuje pasivními konstrukcemi ('bylo nalezeno'), číslovkami a klišé."
+    },
+    {
+        "id": "definice_epika",
+        "type": "flashcard",
+        "tags": [
+            "definice",
+            "literarni_teorie",
+            "seznam_all",
+            "seznam_marian",
+            "seznam_vu"
+        ],
+        "importance": 10,
+        "question": "Jak zní definice literárního termínu: Epika?",
+        "options": [],
+        "correctAnswer": "Literární druh založený na ději a vyprávění o událostech.",
+        "explanation": "Epika je definována jako literární druh založený na ději a vyprávění."
+    },
+    {
+        "id": "definice_lyrika",
+        "type": "flashcard",
+        "tags": [
+            "definice",
+            "literarni_teorie",
+            "seznam_all",
+            "seznam_marian",
+            "seznam_vu"
+        ],
+        "importance": 10,
+        "question": "Jak zní definice literárního termínu: Lyrika?",
+        "options": [],
+        "correctAnswer": "Literární druh vyjadřující pocity, nálady a dojmy (nemá děj).",
+        "explanation": "Lyrika je literární druh, který postrádá děj a soustředí se na pocity a nálady."
+    },
+    {
+        "id": "definice_lyricko_epicka",
+        "type": "flashcard",
+        "tags": [
+            "definice",
+            "literarni_teorie",
+            "seznam_all",
+            "seznam_marian",
+            "seznam_vu"
+        ],
+        "importance": 10,
+        "question": "Jak zní definice literárního termínu: Lyricko-epická skladba?",
+        "options": [],
+        "correctAnswer": "Útvar kombinující děj s lyrickými prvky.",
+        "explanation": "Tento útvar spojuje epický děj s lyrickými pocity."
+    },
+    {
+        "id": "definice_balada",
+        "type": "flashcard",
+        "tags": [
+            "definice",
+            "literarni_teorie",
+            "seznam_all",
+            "seznam_marian",
+            "seznam_vu"
+        ],
+        "importance": 10,
+        "question": "Jak zní definice literárního termínu: Balada?",
+        "options": [],
+        "correctAnswer": "Báseň s pochmurným dějem, často tragickým koncem a nadpřirozenými jevy.",
+        "explanation": "Balada má pochmurný děj, tragický konec a objevují se v ní nadpřirozené jevy."
+    },
+    {
+        "id": "definice_proza",
+        "type": "flashcard",
+        "tags": [
+            "definice",
+            "literarni_teorie",
+            "seznam_all",
+            "seznam_marian",
+            "seznam_vu"
+        ],
+        "importance": 10,
+        "question": "Jak zní definice literárního termínu: Próza?",
+        "options": [],
+        "correctAnswer": "Přirozená forma řeči, text členěný do vět a odstavců (ne veršů).",
+        "explanation": "Próza je protikladem poezie, jde o text ve větách a odstavcích."
+    },
+    {
+        "id": "definice_poezie",
+        "type": "flashcard",
+        "tags": [
+            "definice",
+            "literarni_teorie",
+            "seznam_all",
+            "seznam_marian",
+            "seznam_vu"
+        ],
+        "importance": 10,
+        "question": "Jak zní definice literárního termínu: Poezie?",
+        "options": [],
+        "correctAnswer": "Řeč vázaná rytmem a často rýmem (psaná ve verších).",
+        "explanation": "Poezie se vyznačuje vázanou řečí, verši a často rýmem."
+    },
+    {
+        "id": "definice_romantismus",
+        "type": "flashcard",
+        "tags": [
+            "definice",
+            "literarni_teorie",
+            "seznam_all",
+            "seznam_marian",
+            "seznam_vu"
+        ],
+        "importance": 10,
+        "question": "Jak zní definice literárního termínu: Romantismus?",
+        "options": [],
+        "correctAnswer": "Umělecký směr zdůrazňující cit, fantazii a hrdinu v konfliktu se světem.",
+        "explanation": "Romantismus klade důraz na emoce a hrdinu rozpolceného se společností."
+    },
+    {
+        "id": "definice_ich_forma",
+        "type": "flashcard",
+        "tags": [
+            "definice",
+            "literarni_teorie",
+            "seznam_all",
+            "seznam_marian",
+            "seznam_vu"
+        ],
+        "importance": 10,
+        "question": "Jak zní definice literárního termínu: Ich-forma?",
+        "options": [],
+        "correctAnswer": "Vyprávění v 1. osobě (já).",
+        "explanation": "Ich-forma představuje osobní pohled vypravěče."
+    },
+    {
+        "id": "definice_er_forma",
+        "type": "flashcard",
+        "tags": [
+            "definice",
+            "literarni_teorie",
+            "seznam_all",
+            "seznam_marian",
+            "seznam_vu"
+        ],
+        "importance": 10,
+        "question": "Jak zní definice literárního termínu: Er-forma?",
+        "options": [],
+        "correctAnswer": "Vyprávění ve 3. osobě (on/ona).",
+        "explanation": "Er-forma se používá pro vyprávění ve třetí osobě."
+    },
+    {
+        "id": "definice_chronologicka_kompozice",
+        "type": "flashcard",
+        "tags": [
+            "definice",
+            "literarni_teorie",
+            "seznam_all",
+            "seznam_marian",
+            "seznam_vu"
+        ],
+        "importance": 10,
+        "question": "Jak zní definice literárního termínu: Chronologická kompozice?",
+        "options": [],
+        "correctAnswer": "Události jsou řazeny v čase tak, jak se staly za sebou.",
+        "explanation": "Jde o přímou časovou linii příběhu."
+    },
+    {
+        "id": "definice_retrospektivni_kompozice",
+        "type": "flashcard",
+        "tags": [
+            "definice",
+            "literarni_teorie",
+            "seznam_all",
+            "seznam_marian",
+            "seznam_vu"
+        ],
+        "importance": 10,
+        "question": "Jak zní definice literárního termínu: Retrospektivní kompozice?",
+        "options": [],
+        "correctAnswer": "Pohled zpět do minulosti (vypravěč vzpomíná).",
+        "explanation": "Děj se vrací do událostí, které se staly v minulosti."
+    },
+    {
+        "id": "definice_metafora",
+        "type": "flashcard",
+        "tags": [
+            "definice",
+            "literarni_teorie",
+            "seznam_all",
+            "seznam_marian",
+            "seznam_vu"
+        ],
+        "importance": 10,
+        "question": "Jak zní definice literárního termínu: Metafora?",
+        "options": [],
+        "correctAnswer": "Přenesení významu na základě podobnosti (např. perly rosy).",
+        "explanation": "Metafora je obrazné pojmenování fungující na vnější podobnosti."
+    },
+    {
+        "id": "definice_personifikace",
+        "type": "flashcard",
+        "tags": [
+            "definice",
+            "literarni_teorie",
+            "seznam_all",
+            "seznam_marian",
+            "seznam_vu"
+        ],
+        "importance": 10,
+        "question": "Jak zní definice literárního termínu: Personifikace?",
+        "options": [],
+        "correctAnswer": "Přisuzování lidských vlastností neživým věcem (např. stromy šeptaly).",
+        "explanation": "Personifikace oživuje neživé předměty či abstraktní pojmy."
+    },
+    {
+        "id": "definice_symbolismus",
+        "type": "flashcard",
+        "tags": [
+            "definice",
+            "literarni_teorie",
+            "seznam_all",
+            "seznam_marian",
+            "seznam_vu"
+        ],
+        "importance": 10,
+        "question": "Jak zní definice literárního termínu: Symbolismus?",
+        "options": [],
+        "correctAnswer": "Umělecký směr vyjadřující skutečnost pomocí symbolů (náznaků).",
+        "explanation": "Symbolismus místo přímého pojmenování používá náznaky a symboly."
+    },
+    {
+        "id": "definice_slang",
+        "type": "flashcard",
+        "tags": [
+            "definice",
+            "literarni_teorie",
+            "seznam_all",
+            "seznam_marian",
+            "seznam_vu"
+        ],
+        "importance": 10,
+        "question": "Jak zní definice literárního termínu: Slang?",
+        "options": [],
+        "correctAnswer": "Nespisovná mluva skupiny lidí se stejným zájmem/povoláním.",
+        "explanation": "Jde o slovní zásobu specifickou pro určitou zájmovou či profesní skupinu."
+    },
+    {
+        "id": "definice_archaismus",
+        "type": "flashcard",
+        "tags": [
+            "definice",
+            "literarni_teorie",
+            "seznam_all",
+            "seznam_marian",
+            "seznam_vu"
+        ],
+        "importance": 10,
+        "question": "Jak zní definice literárního termínu: Archaismus?",
+        "options": [],
+        "correctAnswer": "Zastaralé slovo, které se již běžně nepoužívá.",
+        "explanation": "Archaismus je historicky zastaralý výraz."
+    },
+    {
+        "id": "definice_dedukce",
+        "type": "flashcard",
+        "tags": [
+            "definice",
+            "literarni_teorie",
+            "seznam_all",
+            "seznam_marian",
+            "seznam_vu"
+        ],
+        "importance": 10,
+        "question": "Jak zní definice literárního termínu: Dedukce?",
+        "options": [],
+        "correctAnswer": "Myšlenkový postup vyvozující závěry z obecných faktů (základ detektivek).",
+        "explanation": "Dedukce, typická např. pro Dupina, vyvozuje z obecných tvrzení a stop konkrétní závěry."
+    },
+    {
+        "id": "literarni_teorie_autori_shody",
+        "type": "matching",
+        "tags": [
+            "literarni_teorie",
+            "seznam_all",
+            "seznam_marian",
+            "seznam_vu"
+        ],
+        "importance": 8,
+        "question": "Přiřaďte k autorovi, se kterým je Poe v textu srovnáván, jeho správné specifikum či podobnost:",
+        "options": [
+            "Mary Shelleyová",
+            "Karel Jaromír Erben",
+            "Karel Hynek Mácha",
+            "Arthur Conan Doyle"
+        ],
+        "correctAnswer": [
+            "Mary Shelleyová == Zdrojem hrůzy je u ní věda a monstrum.",
+            "Karel Jaromír Erben == Podobné téma viny, trestu a osudu, ale čerpá z lidové slovesnosti.",
+            "Karel Hynek Mácha == Sdílí s Poem podobnou melancholii a téma smrti.",
+            "Arthur Conan Doyle == Inspiroval se postavou detektiva pro svého Sherlocka Holmese."
+        ],
+        "explanation": "Tato srovnání ukazují kontext Poeova díla a vliv na další světové i české autory."
+    }
+]

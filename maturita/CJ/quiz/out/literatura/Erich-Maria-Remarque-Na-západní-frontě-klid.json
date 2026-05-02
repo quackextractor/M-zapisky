@@ -1,0 +1,1259 @@
+[
+    {
+        "id": "autor_zivot_remarque_vlastni_jmeno",
+        "type": "flashcard",
+        "tags": [
+            "autor_zivot",
+            "seznam_all",
+            "seznam_common",
+            "seznam_marian",
+            "seznam_miro",
+            "seznam_vu"
+        ],
+        "importance": 4,
+        "question": "Jaké bylo vlastní (rodné) jméno Ericha Marii Remarqua?",
+        "options": [],
+        "correctAnswer": "Erich Paul Remark",
+        "explanation": "Erich Maria Remarque se narodil jako Erich Paul Remark. Změnu jména přijal později."
+    },
+    {
+        "id": "autor_zivot_roky_zivota",
+        "type": "multiple_choice",
+        "tags": [
+            "autor_zivot",
+            "seznam_all",
+            "seznam_common",
+            "seznam_marian",
+            "seznam_miro",
+            "seznam_vu"
+        ],
+        "importance": 1,
+        "question": "V jakých letech žil Erich Maria Remarque?",
+        "options": [
+            "1898–1970",
+            "1903–1950",
+            "1883–1924",
+            "1899–1961"
+        ],
+        "correctAnswer": "1898–1970",
+        "explanation": "Erich Maria Remarque žil v letech 1898–1970."
+    },
+    {
+        "id": "autor_zivot_vek_odvodu",
+        "type": "flashcard",
+        "tags": [
+            "autor_zivot",
+            "seznam_all",
+            "seznam_common",
+            "seznam_marian",
+            "seznam_miro",
+            "seznam_vu"
+        ],
+        "importance": 5,
+        "question": "V kolika letech byl Remarque odveden na frontu 1. světové války?",
+        "options": [],
+        "correctAnswer": "V 18 letech",
+        "explanation": "Remarque byl na frontu odveden ve svých 18 letech jako dobrovolník."
+    },
+    {
+        "id": "autor_zivot_nacisticke_nemecko",
+        "type": "multiple_choice",
+        "tags": [
+            "autor_zivot",
+            "seznam_all",
+            "seznam_common",
+            "seznam_marian",
+            "seznam_miro",
+            "seznam_vu"
+        ],
+        "importance": 6,
+        "question": "Jaký postoj zaujalo nacistické Německo k dílu E. M. Remarqua?",
+        "options": [
+            "Jeho knihy byly prohlášeny za „zvrhlé umění“ a veřejně páleny.",
+            "Jeho knihy byly využívány k nacistické propagandě o hrdinství vojáků.",
+            "Jeho dílo bylo cenzurováno, ale on směl dále publikovat pod pseudonymem.",
+            "Získal státní vyznamenání za věrné zachycení zákopové války."
+        ],
+        "correctAnswer": "Jeho knihy byly prohlášeny za „zvrhlé umění“ a veřejně páleny.",
+        "explanation": "V nacistickém Německu byly jeho knihy prohlášeny za „zvrhlé umění“, páleny a Remarque byl zbaven občanství."
+    },
+    {
+        "id": "autor_zivot_emigrace_zeme",
+        "type": "multiple_choice",
+        "tags": [
+            "autor_zivot",
+            "seznam_all",
+            "seznam_common",
+            "seznam_marian",
+            "seznam_miro",
+            "seznam_vu"
+        ],
+        "importance": 4,
+        "question": "Do jakých zemí E. M. Remarque emigroval po zbavení německého občanství?",
+        "options": [
+            "Do Švýcarska a posléze do USA.",
+            "Do Francie a následně do Velké Británie.",
+            "Přímo do USA, kde se trvale usadil.",
+            "Do Rakouska a posléze do Austrálie."
+        ],
+        "correctAnswer": "Do Švýcarska a posléze do USA.",
+        "explanation": "Z Německa emigroval nejprve do Švýcarska a následně do USA."
+    },
+    {
+        "id": "autor_zivot_politicke_postoje",
+        "type": "flashcard",
+        "tags": [
+            "autor_zivot",
+            "seznam_all",
+            "seznam_common",
+            "seznam_marian",
+            "seznam_miro",
+            "seznam_vu"
+        ],
+        "importance": 7,
+        "question": "Jaké osobní politické a morální postoje Remarque silně zastával?",
+        "options": [],
+        "correctAnswer": "Antimilitaristické a antifašistické",
+        "explanation": "Remarque zastával silně antimilitaristické a antifašistické postoje."
+    },
+    {
+        "id": "literarni_teorie_smer",
+        "type": "multiple_choice",
+        "tags": [
+            "literarni_teorie",
+            "seznam_all",
+            "seznam_common",
+            "seznam_marian",
+            "seznam_miro",
+            "seznam_vu"
+        ],
+        "importance": 9,
+        "question": "Do jakého literárního směru je Remarque primárně řazen?",
+        "options": [
+            "Realismus",
+            "Romantismus",
+            "Expresionismus",
+            "Magický realismus"
+        ],
+        "correctAnswer": "Realismus",
+        "explanation": "Remarque patří do období světové literatury 1. poloviny 20. století a píše ve směru realismu."
+    },
+    {
+        "id": "literarni_teorie_ztracena_generace",
+        "type": "flashcard",
+        "tags": [
+            "literarni_teorie",
+            "seznam_all",
+            "seznam_common",
+            "seznam_marian",
+            "seznam_miro",
+            "seznam_vu"
+        ],
+        "importance": 10,
+        "question": "Jak se nazývá generační skupina spisovatelů, jíž je Remarque výrazným představitelem?",
+        "options": [],
+        "correctAnswer": "Ztracená generace",
+        "explanation": "Remarque je jedním z nejvýraznějších představitelů tzv. ztracené generace."
+    },
+    {
+        "id": "literarni_teorie_doba_kontext",
+        "type": "multiple_choice",
+        "tags": [
+            "literarni_teorie",
+            "seznam_all",
+            "seznam_common",
+            "seznam_marian",
+            "seznam_miro",
+            "seznam_vu"
+        ],
+        "importance": 8,
+        "question": "Co je hlavním tématem dobového kontextu díla Na západní frontě klid?",
+        "options": [
+            "Reakce na tragické události 1. světové války a ztráta lidských iluzí.",
+            "Kritika rozdělení Evropy po druhé světové válce.",
+            "Zobrazení hrdinství britských vojáků při obraně vlasti.",
+            "Reakce na počátek studené války a vznik atomových zbraní."
+        ],
+        "correctAnswer": "Reakce na tragické události 1. světové války a ztráta lidských iluzí.",
+        "explanation": "Dílo zachycuje dobu před nástupem Hitlera, reaguje na 1. světovou válku a odráží obrovskou ztrátu lidských iluzí."
+    },
+    {
+        "id": "dilo_obsah_cesta_zpatky",
+        "type": "flashcard",
+        "tags": [
+            "dilo_obsah",
+            "seznam_all",
+            "seznam_common",
+            "seznam_marian",
+            "seznam_miro",
+            "seznam_vu"
+        ],
+        "importance": 6,
+        "question": "Jak se jmenuje kniha, která je volným pokračováním románu Na západní frontě klid?",
+        "options": [],
+        "correctAnswer": "Cesta zpátky",
+        "explanation": "Cesta zpátky je volné pokračování románu Na západní frontě klid."
+    },
+    {
+        "id": "literarni_teorie_dalsi_dila",
+        "type": "multiple_choice",
+        "tags": [
+            "literarni_teorie",
+            "seznam_all",
+            "seznam_common",
+            "seznam_marian",
+            "seznam_miro",
+            "seznam_vu"
+        ],
+        "importance": 5,
+        "question": "Které z následujících děl NENAPSAL Erich Maria Remarque?",
+        "options": [
+            "Spalovač mrtvol",
+            "Tři kamarádi",
+            "Vítězný oblouk",
+            "Čas žít, čas umírat"
+        ],
+        "correctAnswer": "Spalovač mrtvol",
+        "explanation": "Spalovač mrtvol je dílem Ladislava Fukse. Ostatní díla napsal Remarque."
+    },
+    {
+        "id": "literarni_teorie_srovnani_hemingway",
+        "type": "multiple_choice",
+        "tags": [
+            "literarni_teorie",
+            "rozbor_textu",
+            "seznam_all",
+            "seznam_common",
+            "seznam_marian",
+            "seznam_miro",
+            "seznam_vu"
+        ],
+        "importance": 8,
+        "question": "Jak se liší pojetí člověka v Remarquově díle a ve Starci a moři od Ernesta Hemingwaye?",
+        "options": [
+            "Remarque ukazuje destrukci jednotlivce válečnou mašinérií, Hemingway zdůrazňuje nezlomnost lidského ducha.",
+            "Remarque zdůrazňuje hrdost vojáka v boji, Hemingway ukazuje naprosté zničení rybáře přírodou.",
+            "Oba autoři se shodují v tom, že člověka lze snadno zlomit, ale nelze ho zabít.",
+            "Remarque volí k obžalobě války satiru, zatímco Hemingway využívá čistý realismus."
+        ],
+        "correctAnswer": "Remarque ukazuje destrukci jednotlivce válečnou mašinérií, Hemingway zdůrazňuje nezlomnost lidského ducha.",
+        "explanation": "Zatímco Remarque předvádí destrukci jednotlivce i hodnot válkou, Hemingway (ač také ztracená generace) zdůrazňuje hrdost a nezlomnost lidského ducha v boji s přírodou."
+    },
+    {
+        "id": "literarni_teorie_srovnani_ryan",
+        "type": "multiple_choice",
+        "tags": [
+            "literarni_teorie",
+            "rozbor_textu",
+            "seznam_all",
+            "seznam_common",
+            "seznam_marian",
+            "seznam_miro",
+            "seznam_vu"
+        ],
+        "importance": 8,
+        "question": "Jaký je hlavní rozdíl ve zpracování protiválečné tematiky u Remarqua a Patricka Ryana (Jak jsem vyhrál válku)?",
+        "options": [
+            "Remarque píše tragický realistický román, Ryan používá nadsázku, satiru a černý humor.",
+            "Remarque píše humoristický román, Ryan se soustředí na objektivní dokumentární reportáž.",
+            "Oba autoři používají satiru, ale Remarque děj zasadil do 1. světové války a Ryan do vietnamské.",
+            "Remarque se zaměřuje na důstojníky, zatímco Ryan popisuje utrpení prostých vojínů z pohledu er-formy."
+        ],
+        "correctAnswer": "Remarque píše tragický realistický román, Ryan používá nadsázku, satiru a černý humor.",
+        "explanation": "Remarque používá drsný realismus a tragédii, kdežto Ryan přistupuje k protiválečnému tématu pomocí nadsázky, satiry a černého humoru."
+    },
+    {
+        "id": "literarni_teorie_srovnani_hasek",
+        "type": "multiple_choice",
+        "tags": [
+            "literarni_teorie",
+            "rozbor_textu",
+            "seznam_all",
+            "seznam_common",
+            "seznam_marian",
+            "seznam_miro",
+            "seznam_vu"
+        ],
+        "importance": 8,
+        "question": "Které tvrzení nejlépe srovnává román Na západní frontě klid a Haškova Švejka?",
+        "options": [
+            "Obě díla se odehrávají v 1. světové válce, ale Hašek poukazuje na absurditu války humorem, zatímco Remarque tragickým realismem.",
+            "Remarque kritizuje válku, zatímco Haškův Švejk je propagandistické dílo oslavující byrokracii.",
+            "Oba autoři zobrazují psychické zničení vojáků v zákopech pomocí detailních, naturalistických popisů.",
+            "Hašek i Remarque píší o ztracené generaci amerických vojáků v Evropě."
+        ],
+        "correctAnswer": "Obě díla se odehrávají v 1. světové válce, ale Hašek poukazuje na absurditu války humorem, zatímco Remarque tragickým realismem.",
+        "explanation": "Spojuje je téma 1. sv. války. Remarque volí tragický realismus a ničení vojáků, Hašek absurditu, vojenskou byrokracii a humor."
+    },
+    {
+        "id": "rozbor_textu_literarni_druh",
+        "type": "flashcard",
+        "tags": [
+            "rozbor_textu",
+            "seznam_all",
+            "seznam_common",
+            "seznam_marian",
+            "seznam_miro",
+            "seznam_vu"
+        ],
+        "importance": 9,
+        "question": "Jaký je literární druh románu Na západní frontě klid?",
+        "options": [],
+        "correctAnswer": "Epika",
+        "explanation": "Dílo je svou podstatou vyprávěním děje, patří tedy do epiky."
+    },
+    {
+        "id": "rozbor_textu_literarni_zanr",
+        "type": "flashcard",
+        "tags": [
+            "rozbor_textu",
+            "seznam_all",
+            "seznam_common",
+            "seznam_marian",
+            "seznam_miro",
+            "seznam_vu"
+        ],
+        "importance": 9,
+        "question": "Do jakého literárního žánru spadá Na západní frontě klid?",
+        "options": [],
+        "correctAnswer": "Protiválečný román",
+        "explanation": "Žánrově se jedná o protiválečný román."
+    },
+    {
+        "id": "rozbor_textu_literarni_forma",
+        "type": "flashcard",
+        "tags": [
+            "rozbor_textu",
+            "seznam_all",
+            "seznam_common",
+            "seznam_marian",
+            "seznam_miro",
+            "seznam_vu"
+        ],
+        "importance": 9,
+        "question": "Jakou literární formou je dílo Na západní frontě klid napsáno?",
+        "options": [],
+        "correctAnswer": "Próza",
+        "explanation": "Dílo je psáno formou prózy."
+    },
+    {
+        "id": "dilo_obsah_casoprostor",
+        "type": "flashcard",
+        "tags": [
+            "dilo_obsah",
+            "seznam_all",
+            "seznam_common",
+            "seznam_marian",
+            "seznam_miro",
+            "seznam_vu"
+        ],
+        "importance": 9,
+        "question": "Kde a kdy se odehrává děj románu Na západní frontě klid?",
+        "options": [],
+        "correctAnswer": "Na válečných bojištích západní fronty během 1. světové války.",
+        "explanation": "Časoprostorem díla jsou bojiště západní fronty za 1. světové války."
+    },
+    {
+        "id": "dilo_obsah_kdo_verboval",
+        "type": "flashcard",
+        "tags": [
+            "dilo_obsah",
+            "seznam_all",
+            "seznam_common",
+            "seznam_marian",
+            "seznam_miro",
+            "seznam_vu"
+        ],
+        "importance": 7,
+        "question": "Kdo vyburcoval mladé spolužáky, aby se dobrovolně přihlásili do války?",
+        "options": [],
+        "correctAnswer": "Jejich třídní učitel (Kantorek)",
+        "explanation": "Skupinu německých spolužáků vyburcoval k dobrovolnému nástupu do války jejich třídní učitel Kantorek."
+    },
+    {
+        "id": "dilo_obsah_jistota_vojaku",
+        "type": "multiple_choice",
+        "tags": [
+            "dilo_obsah",
+            "seznam_all",
+            "seznam_common",
+            "seznam_marian",
+            "seznam_miro",
+            "seznam_vu"
+        ],
+        "importance": 7,
+        "question": "Co se stává jedinou jistotou mladých vojáků po zjištění, že předchozí výchova byla k ničemu?",
+        "options": [
+            "Vzájemné nezištné kamarádství.",
+            "Naděje na brzké vítězství Německa.",
+            "Víra v Boha a posmrtný život.",
+            "Poslušnost k vojenským řádům a velitelům."
+        ],
+        "correctAnswer": "Vzájemné nezištné kamarádství.",
+        "explanation": "Jejich jedinou jistotou zůstává vzájemné nezištné kamarádství, jelikož veškerá dřívější kultura a výchova ztratily v zákopech smysl."
+    },
+    {
+        "id": "dilo_obsah_razeni_deje",
+        "type": "sorting",
+        "tags": [
+            "dilo_obsah",
+            "seznam_all",
+            "seznam_common",
+            "seznam_marian",
+            "seznam_miro",
+            "seznam_vu"
+        ],
+        "importance": 5,
+        "question": "Seřaďte události a zkušenosti vojáků tak, jak chronologicky a logicky následují podle dějové linie popsané v textu:",
+        "options": [
+            "Vyburcování k dobrovolnému narukování do války.",
+            "Šikanózní vojenský výcvik v zázemí.",
+            "Krvavé boje v zákopech a smrt kamarádů.",
+            "Smrt samotného vypravěče na tiché frontě."
+        ],
+        "correctAnswer": [
+            "Vyburcování k dobrovolnému narukování do války.",
+            "Šikanózní vojenský výcvik v zázemí.",
+            "Krvavé boje v zákopech a smrt kamarádů.",
+            "Smrt samotného vypravěče na tiché frontě."
+        ],
+        "explanation": "Děj logicky postupuje od školních let a narukování, přes drsný výcvik a nasazení na frontě, až po samotnou smrt hlavního hrdiny."
+    },
+    {
+        "id": "dilo_obsah_zaver_knihy",
+        "type": "multiple_choice",
+        "tags": [
+            "dilo_obsah",
+            "seznam_all",
+            "seznam_common",
+            "seznam_marian",
+            "seznam_miro",
+            "seznam_vu"
+        ],
+        "importance": 10,
+        "question": "Jak končí román Na západní frontě klid?",
+        "options": [
+            "Závěr je naprosto uzavřený a tragický; vypravěč Pavel Bäumer padne.",
+            "Závěr je otevřený; Pavel přežije válku, ale neví, co bude dál dělat.",
+            "Pavel je těžce zraněn, ale v nemocnici se šťastně setkává s rodinou.",
+            "Německo kapituluje a vojáci se radostně vrací do svých domovů."
+        ],
+        "correctAnswer": "Závěr je naprosto uzavřený a tragický; vypravěč Pavel Bäumer padne.",
+        "explanation": "Závěr románu je uzavřený a tragický, hlavní hrdina Pavel padne v září 1918."
+    },
+    {
+        "id": "dilo_obsah_mesic_smrti",
+        "type": "flashcard",
+        "tags": [
+            "dilo_obsah",
+            "seznam_all",
+            "seznam_common",
+            "seznam_marian",
+            "seznam_miro",
+            "seznam_vu"
+        ],
+        "importance": 2,
+        "question": "Ve kterém měsíci a roce padne hlavní hrdina Pavel Bäumer?",
+        "options": [],
+        "correctAnswer": "V září 1918",
+        "explanation": "Pavel Bäumer padne v září roku 1918."
+    },
+    {
+        "id": "dilo_titul_vyznam_nazvu",
+        "type": "multiple_choice",
+        "tags": [
+            "dilo_titul",
+            "rozbor_textu",
+            "seznam_all",
+            "seznam_common",
+            "seznam_marian",
+            "seznam_miro",
+            "seznam_vu"
+        ],
+        "importance": 8,
+        "question": "Co symbolizuje název knihy „Na západní frontě klid“?",
+        "options": [
+            "Ironii a obrovskou lhostejnost vojenské mašinérie vůči ztrátě lidského života.",
+            "Dobu příměří a krátkodobý odpočinek vojáků před velkou bitvou.",
+            "Označení mírové smlouvy, kterou Německo podepsalo na západní frontě.",
+            "Klid, který vojáci cítili po vítězství nad nepřátelskými silami."
+        ],
+        "correctAnswer": "Ironii a obrovskou lhostejnost vojenské mašinérie vůči ztrátě lidského života.",
+        "explanation": "Název je ironií. V den Pavlovy smrti se oficiálně nic neděje, hlášení zní jen 'Na západní frontě klid', což ukazuje absolutní lhostejnost vojenské mašinérie k utrpení jedince."
+    },
+    {
+        "id": "rozbor_textu_atmosfera",
+        "type": "multiple_choice",
+        "tags": [
+            "rozbor_textu",
+            "jazyk_a_styl",
+            "seznam_all",
+            "seznam_common",
+            "seznam_marian",
+            "seznam_miro",
+            "seznam_vu"
+        ],
+        "importance": 8,
+        "question": "Jak lze popsat celkovou atmosféru románu?",
+        "options": [
+            "Krutá, depresivní, plná deziluze zničení mladé generace, avšak lidská v obětavosti kamarádů.",
+            "Optimistická a hrdinská, oslavující vítězství morálky nad fyzickým utrpením.",
+            "Mysteriózní a fantastická, mísící realitu zákopů se snovými vizemi vojáků.",
+            "Neutrální a chladně objektivní, bez jakýchkoliv emočních projevů postav."
+        ],
+        "correctAnswer": "Krutá, depresivní, plná deziluze zničení mladé generace, avšak lidská v obětavosti kamarádů.",
+        "explanation": "Atmosféra je krutá, plná beznaděje a deziluze ze zničení mladé generace, ale obsahuje i silně lidské momenty pramenící ze solidarity mezi kamarády."
+    },
+    {
+        "id": "dilo_postavy_hlavni_hrdina",
+        "type": "flashcard",
+        "tags": [
+            "dilo_postavy",
+            "seznam_all",
+            "seznam_common",
+            "seznam_marian",
+            "seznam_miro",
+            "seznam_vu"
+        ],
+        "importance": 10,
+        "question": "Jak se jmenuje hlavní postava a zároveň vypravěč románu Na západní frontě klid?",
+        "options": [],
+        "correctAnswer": "Pavel Bäumer",
+        "explanation": "Hlavní postavou a vypravěčem je Pavel Bäumer."
+    },
+    {
+        "id": "dilo_postavy_pavel_vyvoj",
+        "type": "multiple_choice",
+        "tags": [
+            "dilo_postavy",
+            "seznam_all",
+            "seznam_common",
+            "seznam_marian",
+            "seznam_miro",
+            "seznam_vu"
+        ],
+        "importance": 9,
+        "question": "Jakým psychologickým vývojem projde Pavel Bäumer v průběhu války?",
+        "options": [
+            "Z nadšeného chlapce se stává tvrdý voják, který je duševně zničen a odcizen od vlastní rodiny.",
+            "Z naivního studenta se stává cynický velitel, který bez okolků posílá ostatní na smrt.",
+            "Ze zbabělce se stává válečný hrdina, který po válce touží po kariéře v armádě.",
+            "Jeho psychika se nemění; po celou dobu si zachovává veselou povahu a optimismus."
+        ],
+        "correctAnswer": "Z nadšeného chlapce se stává tvrdý voják, který je duševně zničen a odcizen od vlastní rodiny.",
+        "explanation": "Pavel se z nadšeného chlapce mění v tvrdého vojáka zničeného válkou. Cítí se odcizený rodině a normální společnosti."
+    },
+    {
+        "id": "dilo_postavy_pavel_vyraz_smrt",
+        "type": "flashcard",
+        "tags": [
+            "dilo_postavy",
+            "seznam_all",
+            "seznam_common",
+            "seznam_marian",
+            "seznam_miro",
+            "seznam_vu"
+        ],
+        "importance": 7,
+        "question": "Jaký výraz má obličej Pavla Bäumera bezprostředně po jeho smrti?",
+        "options": [],
+        "correctAnswer": "Klidný a smířený",
+        "explanation": "Pavlova tvář má po smrti klidný výraz, smířený s tím, že utrpení skončilo."
+    },
+    {
+        "id": "dilo_postavy_katczinsky",
+        "type": "multiple_choice",
+        "tags": [
+            "dilo_postavy",
+            "seznam_all",
+            "seznam_common",
+            "seznam_marian",
+            "seznam_miro",
+            "seznam_vu"
+        ],
+        "importance": 8,
+        "question": "Kdo je v románu Stanislav Katczinsky (Katza)?",
+        "options": [
+            "40letý velitel roty, který slouží pro mladé vojáky jako opora a vždy umí sehnat jídlo.",
+            "Bývalý třídní učitel Pavla, který studenty zaslepeně verboval do války.",
+            "Zbabělý desátník, který v zázemí surově šikanuje nováčky.",
+            "Nejmladší ze spolužáků, který jako první tragicky umírá při plynovém útoku."
+        ],
+        "correctAnswer": "40letý velitel roty, který slouží pro mladé vojáky jako opora a vždy umí sehnat jídlo.",
+        "explanation": "Stanislav Katczinsky (Katza) je 40letý velitel roty, náhradní otec pro mladíky, schopný vždy obstarat nocleh a potraviny."
+    },
+    {
+        "id": "dilo_postavy_kantorek",
+        "type": "flashcard",
+        "tags": [
+            "dilo_postavy",
+            "seznam_all",
+            "seznam_common",
+            "seznam_marian",
+            "seznam_miro",
+            "seznam_vu"
+        ],
+        "importance": 8,
+        "question": "Kdo je Kantorek a co vyčítá Pavel této postavě?",
+        "options": [],
+        "correctAnswer": "Je to bývalý třídní učitel, Pavel ho viní z jejich zničených životů (zaslepeně je zverboval).",
+        "explanation": "Kantorek je učitel, který mladé studenty vyburcoval k odvodu. Pavel ho viní z toho, že jim zničil životy."
+    },
+    {
+        "id": "dilo_postavy_himmelstoss_civil",
+        "type": "flashcard",
+        "tags": [
+            "dilo_postavy",
+            "seznam_all",
+            "seznam_common",
+            "seznam_marian",
+            "seznam_miro",
+            "seznam_vu"
+        ],
+        "importance": 4,
+        "question": "Jaké bylo civilní povolání primitivního a surového desátníka Himmelstosse?",
+        "options": [],
+        "correctAnswer": "Listonoš",
+        "explanation": "V civilu byl Himmelstoss obyčejný listonoš."
+    },
+    {
+        "id": "dilo_postavy_himmelstoss_charakter",
+        "type": "multiple_choice",
+        "tags": [
+            "dilo_postavy",
+            "seznam_all",
+            "seznam_common",
+            "seznam_marian",
+            "seznam_miro",
+            "seznam_vu"
+        ],
+        "importance": 7,
+        "question": "Jak se projevuje postava desátníka Himmelstosse v zázemí?",
+        "options": [
+            "Léčí si své komplexy hrubým šikanováním vojáků.",
+            "Využívá svých konexí z pošty a krade vojákům jídlo z balíčků.",
+            "Je tajným příznivcem nepřítele a pokouší se dezerovat.",
+            "Jako jediný velitel projevuje vojákům soucit a zprošťuje je těžkých prací."
+        ],
+        "correctAnswer": "Léčí si své komplexy hrubým šikanováním vojáků.",
+        "explanation": "Himmelstoss je zbabělec a primitiv, který si své komplexy na nováčcích léčí surovým šikanováním během výcviku."
+    },
+    {
+        "id": "dilo_postavy_spoluzaci_jmena",
+        "type": "matching",
+        "tags": [
+            "dilo_postavy",
+            "seznam_all",
+            "seznam_common",
+            "seznam_marian",
+            "seznam_miro",
+            "seznam_vu"
+        ],
+        "importance": 6,
+        "question": "Spojte jména postav s jejich popisem nebo funkcí v díle Na západní frontě klid:",
+        "options": [
+            "Pavel Bäumer",
+            "Stanislav Katczinsky",
+            "Kantorek",
+            "Kropp a Tjaden"
+        ],
+        "correctAnswer": [
+            "Pavel Bäumer == Vypravěč a hlavní postava románu",
+            "Stanislav Katczinsky == 40letý zkušený velitel roty a opora",
+            "Kantorek == Třídní učitel verbující do války",
+            "Kropp a Tjaden == Pavlovi spolužáci a spolubojovníci"
+        ],
+        "explanation": "Pavel je vypravěč, Katczinsky je starší opora roty, Kantorek učitel-agitátor a Kropp, Müller či Tjaden jsou Pavlovi vrstevníci z lavic."
+    },
+    {
+        "id": "jazyk_a_styl_vypravec_hlavni",
+        "type": "flashcard",
+        "tags": [
+            "jazyk_a_styl",
+            "seznam_all",
+            "seznam_common",
+            "seznam_marian",
+            "seznam_miro",
+            "seznam_vu"
+        ],
+        "importance": 10,
+        "question": "V jaké formě (z hlediska vypravěče) je psána téměř celá kniha Na západní frontě klid?",
+        "options": [],
+        "correctAnswer": "V ich-formě (z pohledu Pavla Bäumera).",
+        "explanation": "Téměř celý román je osobní výpovědí a vzpomínkami Pavla, psanými v ich-formě."
+    },
+    {
+        "id": "jazyk_a_styl_vypravec_zaver",
+        "type": "flashcard",
+        "tags": [
+            "jazyk_a_styl",
+            "seznam_all",
+            "seznam_common",
+            "seznam_marian",
+            "seznam_miro",
+            "seznam_vu"
+        ],
+        "importance": 10,
+        "question": "Jak se změní typ vypravěče v samotném závěru knihy (při informování o Pavlově smrti)?",
+        "options": [],
+        "correctAnswer": "Přechází do objektivní er-formy.",
+        "explanation": "Samotný závěr je napsán z objektivního pohledu, tedy ve 3. osobě (er-forma)."
+    },
+    {
+        "id": "jazyk_a_styl_jazykove_vrstvy",
+        "type": "multiple_choice",
+        "tags": [
+            "jazyk_a_styl",
+            "seznam_all",
+            "seznam_common",
+            "seznam_marian",
+            "seznam_miro",
+            "seznam_vu"
+        ],
+        "importance": 7,
+        "question": "Jaké jazykové vrstvy, kromě spisovného jazyka, Remarque v dialozích hojně využívá k dosažení autenticity?",
+        "options": [
+            "Hovorové a slangové výrazy i vulgarismy.",
+            "Pouze knižní a archaické výrazy z 19. století.",
+            "Výhradně vojenský newspeak a zkratky generálního štábu.",
+            "Převážně poetismy a složité latinské fráze."
+        ],
+        "correctAnswer": "Hovorové a slangové výrazy i vulgarismy.",
+        "explanation": "Pro podtržení surovosti a autenticity využívá hovorový jazyk, slang a vulgarismy."
+    },
+    {
+        "id": "jazyk_a_styl_styl_psani",
+        "type": "multiple_choice",
+        "tags": [
+            "jazyk_a_styl",
+            "seznam_all",
+            "seznam_common",
+            "seznam_marian",
+            "seznam_miro",
+            "seznam_vu"
+        ],
+        "importance": 7,
+        "question": "Jakým stylem (z hlediska čtenářského dojmu) je kniha Na západní frontě klid napsána?",
+        "options": [
+            "Má styl očitého svědectví a reportážní dokumentárnosti.",
+            "Je psána ve formě divadelního dramatu (replik a scénických poznámek).",
+            "Má styl detektivního vyšetřování s prvky fantasy.",
+            "Jedná se o lyricko-epickou báseň s pravidelným rýmem."
+        ],
+        "correctAnswer": "Má styl očitého svědectví a reportážní dokumentárnosti.",
+        "explanation": "Styl působí jako očitá výpověď a díky realistickým popisům má až reportážní dokumentárnost."
+    },
+    {
+        "id": "jazyk_a_styl_kapitoly_pocet",
+        "type": "flashcard",
+        "tags": [
+            "jazyk_a_styl",
+            "seznam_all",
+            "seznam_common",
+            "seznam_marian",
+            "seznam_miro",
+            "seznam_vu"
+        ],
+        "importance": 3,
+        "question": "Z kolika kapitol se kniha Na západní frontě klid skládá?",
+        "options": [],
+        "correctAnswer": "Z 12 kapitol.",
+        "explanation": "Kniha se formálně skládá ze 12 kapitol."
+    },
+    {
+        "id": "jazyk_a_styl_kompozice",
+        "type": "multiple_choice",
+        "tags": [
+            "jazyk_a_styl",
+            "seznam_all",
+            "seznam_common",
+            "seznam_marian",
+            "seznam_miro",
+            "seznam_vu"
+        ],
+        "importance": 8,
+        "question": "Jaká je kompozice románu Na západní frontě klid?",
+        "options": [
+            "Hlavní linie je chronologická, ale je silně prokládána retrospektivami (vzpomínkami).",
+            "Děj je vyprávěn zcela pozpátku od Pavlovy smrti až k narukování.",
+            "Kniha má rámcovou kompozici, kde jeden starý voják vypráví příběh skupině dětí.",
+            "Příběh je zacyklený a konec plynule navazuje na první stránku knihy."
+        ],
+        "correctAnswer": "Hlavní linie je chronologická, ale je silně prokládána retrospektivami (vzpomínkami).",
+        "explanation": "Příběh jde chronologicky, avšak hlavní hrdina se často vrací do minulosti (výcvik, škola) prostřednictvím retrospektiv."
+    },
+    {
+        "id": "rozbor_textu_neumelecky_dopis_cas",
+        "type": "flashcard",
+        "tags": [
+            "rozbor_textu",
+            "seznam_all",
+            "seznam_common",
+            "seznam_marian",
+            "seznam_miro",
+            "seznam_vu"
+        ],
+        "importance": 2,
+        "question": "Ze kterého přesného data pochází autentický dopis francouzského vojáka z Nice zmíněný v neuměleckém textu?",
+        "options": [],
+        "correctAnswer": "9. 11. 1917",
+        "explanation": "Dopis je datován k 9. listopadu 1917."
+    },
+    {
+        "id": "rozbor_textu_neumelecky_dopis_tema",
+        "type": "multiple_choice",
+        "tags": [
+            "rozbor_textu",
+            "seznam_all",
+            "seznam_common",
+            "seznam_marian",
+            "seznam_miro",
+            "seznam_vu"
+        ],
+        "importance": 6,
+        "question": "Co tvoří tematickou souvislost mezi románem a dopisem francouzského vojáka (neumělecký text)?",
+        "options": [
+            "Oba texty sdílejí téma ohromné deziluze, utrpení řadových vojáků a kritiku hanebnosti mocných v 1. světové válce.",
+            "Oba texty glorifikují vojenskou službu a nabádají k co nejdelšímu setrvání v zákopech.",
+            "Román popisuje 1. sv. válku, zatímco dopis se zaměřuje výhradně na události 2. světové války.",
+            "Oba texty řeší převážně milostné vztahy vojáků na dovolené ve Francii."
+        ],
+        "correctAnswer": "Oba texty sdílejí téma ohromné deziluze, utrpení řadových vojáků a kritiku hanebnosti mocných v 1. světové válce.",
+        "explanation": "Pisatel dopisu i vypravěč románu zažívají deziluzi, utrpení a kritizují lhostejnost nebo špinavé obchody politiků."
+    },
+    {
+        "id": "rozbor_textu_neumelecky_funkcni_styl",
+        "type": "text_analysis",
+        "tags": [
+            "rozbor_textu",
+            "seznam_all",
+            "seznam_common",
+            "seznam_marian",
+            "seznam_miro",
+            "seznam_vu"
+        ],
+        "importance": 6,
+        "question": "Určete funkční styl autentického dopisu vojáka rodičům:",
+        "options": [
+            "Prostěsdělovací styl",
+            "Odborný styl",
+            "Administrativní styl",
+            "Publicistický styl"
+        ],
+        "correctAnswer": "Prostěsdělovací styl",
+        "explanation": "Jedná se o soukromý osobní dopis rodičům, což spadá do prostěsdělovacího stylu."
+    },
+    {
+        "id": "rozbor_textu_neumelecky_slohove_postupy",
+        "type": "text_analysis",
+        "tags": [
+            "rozbor_textu",
+            "seznam_all",
+            "seznam_common",
+            "seznam_marian",
+            "seznam_miro",
+            "seznam_vu"
+        ],
+        "importance": 6,
+        "question": "Které dva slohové postupy se mísí v autentickém dopise vojáka z Nice?",
+        "options": [
+            "Informační a úvahový postup",
+            "Popisný a výkladový postup",
+            "Vyprávěcí a popisný postup",
+            "Úvahový a výkladový postup"
+        ],
+        "correctAnswer": "Informační a úvahový postup",
+        "explanation": "Mísí se zde informační postup (podávání zpráv o kamarádovi) a úvahový postup (voják se zamýšlí nad válkou a politiky)."
+    },
+    {
+        "id": "rozbor_textu_neumelecky_slovni_zasoba",
+        "type": "multiple_choice",
+        "tags": [
+            "rozbor_textu",
+            "seznam_all",
+            "seznam_common",
+            "seznam_marian",
+            "seznam_miro",
+            "seznam_vu"
+        ],
+        "importance": 5,
+        "question": "Z hlediska slovní zásoby a gramatiky je dopis vojáka charakteristický tím, že:",
+        "options": [
+            "Je silně subjektivně zabarvený a využívá expresivní, hodnotící výrazy a zájmena 1. a 2. osoby.",
+            "Využívá přísně objektivní slovní zásobu typickou pro vojenská hlášení velení.",
+            "Se vyhýbá použití jakýchkoli cizích slov nebo zájmen osobního charakteru.",
+            "Je psán výhradně v er-formě bez vyjádření vlastního názoru."
+        ],
+        "correctAnswer": "Je silně subjektivně zabarvený a využívá expresivní, hodnotící výrazy a zájmena 1. a 2. osoby.",
+        "explanation": "Text obsahuje expresivní výrazy (hanebné, špinavé obchody) vyjadřující rozčarování a typická zájmena osobní komunikace."
+    },
+    {
+        "id": "rozbor_textu_neumelecky_cizi_slovo",
+        "type": "flashcard",
+        "tags": [
+            "rozbor_textu",
+            "seznam_all",
+            "seznam_common",
+            "seznam_marian",
+            "seznam_miro",
+            "seznam_vu"
+        ],
+        "importance": 3,
+        "question": "Jaké slovo cizího původu je výslovně zmíněno jako příklad z neuměleckého textu (dopisu vojáka)?",
+        "options": [],
+        "correctAnswer": "Administrativa",
+        "explanation": "Jako příklad cizího slova z dopisu je v textu uvedeno slovo „administrativa“."
+    },
+    {
+        "id": "definice_epika",
+        "type": "flashcard",
+        "tags": [
+            "definice",
+            "literarni_teorie",
+            "seznam_all",
+            "seznam_common",
+            "seznam_marian",
+            "seznam_miro",
+            "seznam_vu"
+        ],
+        "importance": 10,
+        "question": "Definujte termín: Epika",
+        "options": [],
+        "correctAnswer": "Literární druh, jehož základem je vyprávění děje.",
+        "explanation": "Epika je podle textu literární druh, jehož základem je vyprávění děje."
+    },
+    {
+        "id": "definice_roman",
+        "type": "flashcard",
+        "tags": [
+            "definice",
+            "literarni_teorie",
+            "seznam_all",
+            "seznam_common",
+            "seznam_marian",
+            "seznam_miro",
+            "seznam_vu"
+        ],
+        "importance": 10,
+        "question": "Definujte termín: Román",
+        "options": [],
+        "correctAnswer": "Rozsáhlejší epický žánr, který se vyznačuje složitějším dějem a větším množstvím postav procházejících vývojem.",
+        "explanation": "Román je rozsáhlejší epický žánr se složitějším dějem a množstvím postav procházejících vývojem."
+    },
+    {
+        "id": "definice_protivalecny_roman",
+        "type": "flashcard",
+        "tags": [
+            "definice",
+            "literarni_teorie",
+            "seznam_all",
+            "seznam_common",
+            "seznam_marian",
+            "seznam_miro",
+            "seznam_vu"
+        ],
+        "importance": 10,
+        "question": "Definujte termín: Protiválečný román",
+        "options": [],
+        "correctAnswer": "Žánr románu, který se zaměřuje na zobrazení hrůz, absurdity a ničivých dopadů války, často jako silný apel proti jejímu vedení.",
+        "explanation": "Protiválečný román zobrazuje hrůzy a absurditu války jako apel proti jejímu vedení."
+    },
+    {
+        "id": "definice_proza",
+        "type": "flashcard",
+        "tags": [
+            "definice",
+            "literarni_teorie",
+            "seznam_all",
+            "seznam_common",
+            "seznam_marian",
+            "seznam_miro",
+            "seznam_vu"
+        ],
+        "importance": 10,
+        "question": "Definujte termín: Próza",
+        "options": [],
+        "correctAnswer": "Text, který je psán přirozenou formou jazyka v souvislých odstavcích (není členěn do veršů).",
+        "explanation": "Próza je text psaný v souvislých odstavcích, bez dělení do veršů."
+    },
+    {
+        "id": "definice_realismus",
+        "type": "flashcard",
+        "tags": [
+            "definice",
+            "literarni_teorie",
+            "seznam_all",
+            "seznam_common",
+            "seznam_marian",
+            "seznam_miro",
+            "seznam_vu"
+        ],
+        "importance": 10,
+        "question": "Definujte termín: Realismus",
+        "options": [],
+        "correctAnswer": "Umělecký směr, který usiluje o maximálně objektivní, věrné a pravdivé zachycení skutečnosti.",
+        "explanation": "Realismus je literární směr, jehož cílem je objektivní a pravdivé zachycení skutečnosti."
+    },
+    {
+        "id": "definice_ztracena_generace",
+        "type": "flashcard",
+        "tags": [
+            "definice",
+            "literarni_teorie",
+            "seznam_all",
+            "seznam_common",
+            "seznam_marian",
+            "seznam_miro",
+            "seznam_vu"
+        ],
+        "importance": 10,
+        "question": "Definujte termín: Ztracená generace",
+        "options": [],
+        "correctAnswer": "Generační skupina spisovatelů ovlivněných 1. sv. válkou, v dílech vyjadřují vykořenění a neschopnost návratu do normálního života.",
+        "explanation": "Ztracená generace je definována pocitem vykořenění a prázdnoty u spisovatelů zasažených 1. světovou válkou."
+    },
+    {
+        "id": "definice_ich_forma",
+        "type": "flashcard",
+        "tags": [
+            "definice",
+            "literarni_teorie",
+            "seznam_all",
+            "seznam_common",
+            "seznam_marian",
+            "seznam_miro",
+            "seznam_vu"
+        ],
+        "importance": 10,
+        "question": "Definujte termín: Ich-forma",
+        "options": [],
+        "correctAnswer": "Vyprávěcí postup v první osobě jednotného čísla, vypravěč je přímým účastníkem příběhu.",
+        "explanation": "Ich-forma znamená vyprávění v 1. osobě, vypravěč účastnící se děje."
+    },
+    {
+        "id": "definice_er_forma",
+        "type": "flashcard",
+        "tags": [
+            "definice",
+            "literarni_teorie",
+            "seznam_all",
+            "seznam_common",
+            "seznam_marian",
+            "seznam_miro",
+            "seznam_vu"
+        ],
+        "importance": 10,
+        "question": "Definujte termín: Er-forma",
+        "options": [],
+        "correctAnswer": "Způsob vyprávění ve 3. osobě; vypravěč stojí mimo příběh jako pozorovatel.",
+        "explanation": "Er-forma označuje vyprávění ve 3. osobě, kde vypravěč děj pouze pozoruje."
+    },
+    {
+        "id": "definice_chronologicka_kompozice",
+        "type": "flashcard",
+        "tags": [
+            "definice",
+            "rozbor_textu",
+            "seznam_all",
+            "seznam_common",
+            "seznam_marian",
+            "seznam_miro",
+            "seznam_vu"
+        ],
+        "importance": 9,
+        "question": "Definujte termín: Chronologická kompozice",
+        "options": [],
+        "correctAnswer": "Děj se odvíjí postupně v čase tak, jak za sebou logicky následují události.",
+        "explanation": "Chronologická kompozice znamená postupné časové plynutí událostí."
+    },
+    {
+        "id": "definice_retrospektiva",
+        "type": "flashcard",
+        "tags": [
+            "definice",
+            "rozbor_textu",
+            "seznam_all",
+            "seznam_common",
+            "seznam_marian",
+            "seznam_miro",
+            "seznam_vu"
+        ],
+        "importance": 9,
+        "question": "Definujte termín: Retrospektiva",
+        "options": [],
+        "correctAnswer": "Zpětné ohlédnutí, v němž se příběh nebo postavy vracejí k událostem, které se již staly v minulosti.",
+        "explanation": "Retrospektiva je návrat do minulosti, k již proběhlým událostem."
+    },
+    {
+        "id": "definice_ironie",
+        "type": "flashcard",
+        "tags": [
+            "definice",
+            "jazyk_a_styl",
+            "seznam_all",
+            "seznam_common",
+            "seznam_marian",
+            "seznam_miro",
+            "seznam_vu"
+        ],
+        "importance": 9,
+        "question": "Definujte termín: Ironie",
+        "options": [],
+        "correctAnswer": "Posměšné vyjádření užitím slov v jejich opačném (či silně kontrastním) významu.",
+        "explanation": "Ironie je tropus vyjadřující posměch prostřednictvím slov v opačném významu, než je skutečnost."
+    },
+    {
+        "id": "definice_personifikace",
+        "type": "flashcard",
+        "tags": [
+            "definice",
+            "jazyk_a_styl",
+            "seznam_all",
+            "seznam_common",
+            "seznam_marian",
+            "seznam_miro",
+            "seznam_vu"
+        ],
+        "importance": 9,
+        "question": "Definujte termín: Personifikace",
+        "options": [],
+        "correctAnswer": "Básnický prostředek přenášející lidské vlastnosti nebo jednání na neživé předměty nebo abstraktní jevy.",
+        "explanation": "Personifikace oživuje neživé objekty lidskými vlastnostmi nebo jednáním."
+    },
+    {
+        "id": "definice_prirovnani",
+        "type": "flashcard",
+        "tags": [
+            "definice",
+            "jazyk_a_styl",
+            "seznam_all",
+            "seznam_common",
+            "seznam_marian",
+            "seznam_miro",
+            "seznam_vu"
+        ],
+        "importance": 9,
+        "question": "Definujte termín: Přirovnání",
+        "options": [],
+        "correctAnswer": "Pojmenování, v němž se porovnává jedna vlastnost nebo předmět s jiným na základě podobnosti (typicky se spojkou „jako“).",
+        "explanation": "Přirovnání ukazuje podobnost dvou věcí, často pomocí spojky „jako“."
+    },
+    {
+        "id": "definice_slang",
+        "type": "flashcard",
+        "tags": [
+            "definice",
+            "gramatika",
+            "seznam_all",
+            "seznam_common",
+            "seznam_marian",
+            "seznam_miro",
+            "seznam_vu"
+        ],
+        "importance": 9,
+        "question": "Definujte termín: Slang",
+        "options": [],
+        "correctAnswer": "Nespisovná vrstva jazyka typická pro určitou zájmovou či profesní skupinu (např. vojenský slang).",
+        "explanation": "Slang je nespisovná vrstva jazyka používaná specifickými skupinami, jako jsou vojáci."
+    },
+    {
+        "id": "definice_vulgarismus",
+        "type": "flashcard",
+        "tags": [
+            "definice",
+            "gramatika",
+            "seznam_all",
+            "seznam_common",
+            "seznam_marian",
+            "seznam_miro",
+            "seznam_vu"
+        ],
+        "importance": 9,
+        "question": "Definujte termín: Vulgarismus",
+        "options": [],
+        "correctAnswer": "Hrubý, neslušný výraz, který často vyjadřuje silnou emoci.",
+        "explanation": "Vulgarismus je neslušný výraz sloužící často k expresivnímu vyjádření emoce."
+    },
+    {
+        "id": "definice_prostesdelovaci_styl",
+        "type": "flashcard",
+        "tags": [
+            "definice",
+            "rozbor_textu",
+            "seznam_all",
+            "seznam_common",
+            "seznam_marian",
+            "seznam_miro",
+            "seznam_vu"
+        ],
+        "importance": 9,
+        "question": "Definujte termín: Prostěsdělovací styl",
+        "options": [],
+        "correctAnswer": "Styl využívaný primárně k rychlé výměně informací a v běžné, neformální denní komunikaci.",
+        "explanation": "Prostěsdělovací styl se používá k jednoduché a neformální běžné komunikaci."
+    },
+    {
+        "id": "definice_informacni_postup",
+        "type": "flashcard",
+        "tags": [
+            "definice",
+            "rozbor_textu",
+            "seznam_all",
+            "seznam_common",
+            "seznam_marian",
+            "seznam_miro",
+            "seznam_vu"
+        ],
+        "importance": 9,
+        "question": "Definujte termín: Informační postup",
+        "options": [],
+        "correctAnswer": "Slohový postup sloužící pouze k suchému předání základních faktů o tom, co, kdy a komu se stalo.",
+        "explanation": "Informační postup slouží k předání základních faktů a zpráv."
+    },
+    {
+        "id": "definice_uvahovy_postup",
+        "type": "flashcard",
+        "tags": [
+            "definice",
+            "rozbor_textu",
+            "seznam_all",
+            "seznam_common",
+            "seznam_marian",
+            "seznam_miro",
+            "seznam_vu"
+        ],
+        "importance": 9,
+        "question": "Definujte termín: Úvahový postup",
+        "options": [],
+        "correctAnswer": "Typ postupu, kde autor přemýšlí nad tématem, vyjadřuje a logicky obhajuje své postoje či se táže na příčiny jevů.",
+        "explanation": "Úvahový postup je založen na zamyšlení, hodnocení a vyjadřování vlastních postojů."
+    },
+    {
+        "id": "terminy_matching_tropy",
+        "type": "matching",
+        "tags": [
+            "definice",
+            "jazyk_a_styl",
+            "seznam_all",
+            "seznam_common",
+            "seznam_marian",
+            "seznam_miro",
+            "seznam_vu"
+        ],
+        "importance": 9,
+        "question": "Spojte literární prostředky z ukázek s jejich správnými termíny:",
+        "options": [
+            "„krev tryská jako fontána“",
+            "„slunce vychází, noc přichází“",
+            "Užití slov v posměšném či opačném významu",
+            "Nespisovná vrstva jazyka profese (např. vojáků)"
+        ],
+        "correctAnswer": [
+            "„krev tryská jako fontána“ == Přirovnání",
+            "„slunce vychází, noc přichází“ == Personifikace",
+            "Užití slov v posměšném či opačném významu == Ironie",
+            "Nespisovná vrstva jazyka profese (např. vojáků) == Slang"
+        ],
+        "explanation": "Text přímo uvádí 'jako fontána' jako přirovnání a 'slunce vychází' jako personifikaci. Ironie je opačný význam a slang je profesní mluva."
+    }
+]

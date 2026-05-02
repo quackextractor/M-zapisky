@@ -1,0 +1,1021 @@
+[
+    {
+        "id": "autor_zivot_christie_pseudonym",
+        "type": "multiple_choice",
+        "tags": [
+            "autor_zivot",
+            "seznam_all",
+            "seznam_marian"
+        ],
+        "importance": 3,
+        "question": "Pod jakým pseudonymem psala Agatha Christie některá svá díla?",
+        "options": [
+            "Mary Westmacott",
+            "Mary Shelleyová",
+            "George Eliot",
+            "Virginia Woolf"
+        ],
+        "correctAnswer": "Mary Westmacott",
+        "explanation": "Agatha Christie psala kromě svého jména i pod pseudonymem Mary Westmacott."
+    },
+    {
+        "id": "autor_zivot_christie_zdravotnictvi",
+        "type": "multiple_choice",
+        "tags": [
+            "autor_zivot",
+            "seznam_all",
+            "seznam_marian"
+        ],
+        "importance": 6,
+        "question": "Kde získala Agatha Christie hluboké znalosti o lécích a jedech, které později využila ve svém psaní?",
+        "options": [
+            "Jako dobrovolná sestra a pracovnice ve výdejně léků během světových válek.",
+            "Při studiu chemie a toxikologie na univerzitě v Oxfordu.",
+            "Jako policejní vyšetřovatelka ve 20. letech.",
+            "Jako farmaceutická asistentka před svým odchodem do USA."
+        ],
+        "correctAnswer": "Jako dobrovolná sestra a pracovnice ve výdejně léků během světových válek.",
+        "explanation": "Během první i druhé světové války působila jako dobrovolná sestra a pracovnice ve výdejně léků, kde získala znalosti o jedech."
+    },
+    {
+        "id": "autor_zivot_christie_zmizeni",
+        "type": "multiple_choice",
+        "tags": [
+            "autor_zivot",
+            "seznam_all",
+            "seznam_marian"
+        ],
+        "importance": 3,
+        "question": "Co se stalo Agathě Christie v roce 1926 po nervovém zhroucení?",
+        "options": [
+            "Na 11 dnů záhadně zmizela.",
+            "Přestěhovala se na pět let do Jižní Ameriky.",
+            "Přestala navždy psát detektivní literaturu.",
+            "Byla hospitalizována na celý jeden rok."
+        ],
+        "correctAnswer": "Na 11 dnů záhadně zmizela.",
+        "explanation": "V roce 1926 prodělala nervové zhroucení a na 11 dnů záhadně zmizela."
+    },
+    {
+        "id": "autor_zivot_christie_titul",
+        "type": "multiple_choice",
+        "tags": [
+            "autor_zivot",
+            "seznam_all",
+            "seznam_marian"
+        ],
+        "importance": 2,
+        "question": "Jaký titul byl Agathě Christie udělen britskou královnou v roce 1971?",
+        "options": [
+            "Dáma britského impéria",
+            "Královská spisovatelka",
+            "Vévodkyně z Devonshiru",
+            "Rytíř britského impéria"
+        ],
+        "correctAnswer": "Dáma britského impéria",
+        "explanation": "V roce 1971 jí byl britskou královnou udělen titul „Dáma britského impéria“."
+    },
+    {
+        "id": "literarni_teorie_obdobi_christie",
+        "type": "multiple_choice",
+        "tags": [
+            "literarni_teorie",
+            "seznam_all",
+            "seznam_marian"
+        ],
+        "importance": 10,
+        "question": "Do jakého literárního období spadá tvorba Agathy Christie?",
+        "options": [
+            "Současná světová literatura od poloviny 20. století",
+            "Světová a česká literatura do konce 18. století",
+            "Světová a česká literatura 19. století",
+            "Meziválečná avantgarda"
+        ],
+        "correctAnswer": "Současná světová literatura od poloviny 20. století",
+        "explanation": "Její tvorba spadá do současné světové literatury od poloviny 20. století, s důrazem na detektivní prózu."
+    },
+    {
+        "id": "literarni_teorie_zanrovy_kontext",
+        "type": "multiple_choice",
+        "tags": [
+            "literarni_teorie",
+            "seznam_all",
+            "seznam_marian"
+        ],
+        "importance": 7,
+        "question": "Jak se styl detektivek Agathy Christie lišil od tzv. 'drsné školy', která vznikala ve 20. letech v USA?",
+        "options": [
+            "Christie zachovala styl britské klasické detektivky s ústředním logickým řešením.",
+            "Christie zavedla do děje tvrdé policejní profesionály a krvavé popisy.",
+            "Christie opustila detektivní žánr a přešla k psaní historických románů.",
+            "Christie se soustředila na sociální kritiku pracující třídy bez záhady."
+        ],
+        "correctAnswer": "Christie zachovala styl britské klasické detektivky s ústředním logickým řešením.",
+        "explanation": "Zatímco v USA vznikala drsná škola a policejní procedurálky, Christie zachovala styl britské klasické detektivky založené na logické hádance."
+    },
+    {
+        "id": "autor_zivot_dalsi_dila",
+        "type": "multiple_choice",
+        "tags": [
+            "autor_zivot",
+            "seznam_all",
+            "seznam_marian"
+        ],
+        "importance": 6,
+        "question": "Které z následujících děl také napsala Agatha Christie?",
+        "options": [
+            "Vražda v Orient-expresu a Smrt na Nilu",
+            "R.U.R. a Bílá nemoc",
+            "Farma zvířat a 1984",
+            "Spalovač mrtvol a Občanský průkaz"
+        ],
+        "correctAnswer": "Vražda v Orient-expresu a Smrt na Nilu",
+        "explanation": "Mezi její nejznámější díla patří Vražda v Orient-expresu, Vražda Rogera Ackroyda, Smrt na Nilu nebo Past na myši."
+    },
+    {
+        "id": "rozbor_textu_porovnani_poe_podobnost",
+        "type": "multiple_choice",
+        "tags": [
+            "rozbor_textu",
+            "seznam_all",
+            "seznam_marian"
+        ],
+        "importance": 8,
+        "question": "V čem spočívá literární podobnost mezi Deseti malými černoušky a povídkou Vraždy v ulici Morgue od E. A. Poea?",
+        "options": [
+            "Obě díla využívají tradici logické hádanky a prvek 'záhady zamčeného pokoje'.",
+            "V obou dílech vystupuje zvíře, které spáchalo všechny vraždy.",
+            "V obou příbězích je vrah amatérský detektiv, který skrývá svou identitu.",
+            "Obe díla se odehrávají na opuštěném ostrově."
+        ],
+        "correctAnswer": "Obě díla využívají tradici logické hádanky a prvek 'záhady zamčeného pokoje'.",
+        "explanation": "Agatha Christie těží z Poeovy tradice logické hádanky a vytváří scénu izolovaného, uzavřeného prostoru, z něhož nelze uniknout (záhada zamčeného pokoje)."
+    },
+    {
+        "id": "rozbor_textu_porovnani_poe_rozdil",
+        "type": "multiple_choice",
+        "tags": [
+            "rozbor_textu",
+            "seznam_all",
+            "seznam_marian"
+        ],
+        "importance": 8,
+        "question": "V čem je naopak zásadní rozdíl mezi Poeovým případem Vraždy v ulici Morgue a knihou Deset malých černoušků?",
+        "options": [
+            "U Christie chybí klasický detektiv odhalující pravdu, vrahem je jeden z obviněných přímo na místě.",
+            "U Christie vždy přežije nevinná oběť, zatímco Poe zabije všechny zúčastněné.",
+            "Christie používá výhradně ich-formu, Poe využívá pouze er-formu vševědoucího vypravěče.",
+            "U Christie se vrah vždy přizná policii, u Poea pachatel uprchne."
+        ],
+        "correctAnswer": "U Christie chybí klasický detektiv odhalující pravdu, vrahem je jeden z obviněných přímo na místě.",
+        "explanation": "Zatímco Dupin v Poeově díle přijde zvenčí případ vyřešit, u Christie detektiv chybí a vrahem je jeden ze samotných obviněných na ostrově."
+    },
+    {
+        "id": "rozbor_textu_porovnani_dyk_podobnost",
+        "type": "multiple_choice",
+        "tags": [
+            "rozbor_textu",
+            "seznam_all",
+            "seznam_marian"
+        ],
+        "importance": 7,
+        "question": "Jaký společný motiv sdílí Deset malých černoušků s novelou Krysař od Viktora Dyka?",
+        "options": [
+            "Motiv odplaty a trestu za minulé hříchy, na které jsou běžné zákony krátké, končící hromadnou smrtí.",
+            "Motiv cesty do minulosti a záchrany lidstva před technologickou hrozbou.",
+            "Motiv války a dopadu ztracené generace na mezilidské vztahy.",
+            "Motiv magické píšťaly, která zhypnotizuje všechny obyvatele ostrova."
+        ],
+        "correctAnswer": "Motiv odplaty a trestu za minulé hříchy, na které jsou běžné zákony krátké, končící hromadnou smrtí.",
+        "explanation": "Obě díla pracují s odplatou a tím, že jedinec bere spravedlnost do vlastních rukou, což vede k hromadné smrti."
+    },
+    {
+        "id": "rozbor_textu_porovnani_dyk_rozdil",
+        "type": "multiple_choice",
+        "tags": [
+            "rozbor_textu",
+            "seznam_all",
+            "seznam_marian"
+        ],
+        "importance": 7,
+        "question": "V čem se literárně odlišuje Dykův Krysař od Christieho Deseti malých černoušků?",
+        "options": [
+            "Krysař je novoromantická novela s prvky symbolismu a mýtů, Christie píše přísně racionální detektivní román.",
+            "Krysař se odehrává v Anglii, zatímco Christie umístila děj na německé hranice.",
+            "Krysař vždy spoléhá na přesné psychologické profily postav, Christie se opírá o magii.",
+            "Krysař je divadelní hra, zatímco Deset malých černoušků je lyrická poezie."
+        ],
+        "correctAnswer": "Krysař je novoromantická novela s prvky symbolismu a mýtů, Christie píše přísně racionální detektivní román.",
+        "explanation": "Dyk píše s prvky novoromantismu a mýtu (magická píšťala), zatímco Christie buduje racionální a technicky promyšlenou záhadu."
+    },
+    {
+        "id": "literarni_teorie_druh",
+        "type": "flashcard",
+        "tags": [
+            "literarni_teorie",
+            "seznam_all",
+            "seznam_marian"
+        ],
+        "importance": 9,
+        "question": "Jaký literární druh je dílo Deset malých černoušků?",
+        "options": [],
+        "correctAnswer": "Epika",
+        "explanation": "Dílo patří do epiky (vypráví dějový příběh)."
+    },
+    {
+        "id": "literarni_teorie_zanr",
+        "type": "flashcard",
+        "tags": [
+            "literarni_teorie",
+            "seznam_all",
+            "seznam_marian"
+        ],
+        "importance": 9,
+        "question": "Jaký literární žánr je dílo Deset malých černoušků?",
+        "options": [],
+        "correctAnswer": "Detektivní román",
+        "explanation": "Kniha je klasifikována jako detektivní román."
+    },
+    {
+        "id": "literarni_teorie_forma",
+        "type": "flashcard",
+        "tags": [
+            "literarni_teorie",
+            "seznam_all",
+            "seznam_marian"
+        ],
+        "importance": 9,
+        "question": "V jaké literární formě je kniha Deset malých černoušků napsána?",
+        "options": [],
+        "correctAnswer": "Próza",
+        "explanation": "Dílo je psáno ve formě prózy (nevázaná řeč)."
+    },
+    {
+        "id": "dilo_obsah_casoprostor",
+        "type": "multiple_choice",
+        "tags": [
+            "dilo_obsah",
+            "seznam_all",
+            "seznam_marian"
+        ],
+        "importance": 9,
+        "question": "Kde a kdy se převážně odehrává děj Deseti malých černoušků?",
+        "options": [
+            "Na přelomu 30. let 20. století na odříznutém Černochově ostrově v Anglii.",
+            "Během první světové války na pobřeží Francie.",
+            "V 19. století ve venkovském sídle na severu Skotska.",
+            "Během druhé světové války v Londýně."
+        ],
+        "correctAnswer": "Na přelomu 30. let 20. století na odříznutém Černochově ostrově v Anglii.",
+        "explanation": "Děj se odehrává na přelomu 30. let 20. století na Černochově ostrově, který je zcela odříznut od pevniny."
+    },
+    {
+        "id": "dilo_obsah_jmeno_hostitele",
+        "type": "multiple_choice",
+        "tags": [
+            "dilo_obsah",
+            "seznam_all",
+            "seznam_marian"
+        ],
+        "importance": 8,
+        "question": "Jakým jménem (nebo iniciálami) se podepisoval tajemný hostitel, který pozval deset hostů na ostrov?",
+        "options": [
+            "U. N. Owen / N. Z. Namy",
+            "Velký bratr",
+            "Krysař",
+            "O'Brien"
+        ],
+        "correctAnswer": "U. N. Owen / N. Z. Namy",
+        "explanation": "Hostitel se v angličtině podepisoval jako U. N. Owen (Unknown) a v češtině N. Z. Namy (Neznámý)."
+    },
+    {
+        "id": "dilo_obsah_prvni_vecer",
+        "type": "multiple_choice",
+        "tags": [
+            "dilo_obsah",
+            "seznam_all",
+            "seznam_marian"
+        ],
+        "importance": 9,
+        "question": "Co se stane první večer po večeři v domě na ostrově?",
+        "options": [
+            "Tajný hlas obviní každého z přítomných ze staré vraždy, za kterou nikdy nebyli potrestáni.",
+            "Všichni najdou ve svých pokojích mrtvého majitele domu a dopis s přiznáním.",
+            "Ostrov zasáhne obrovská bouře a odřízne jim přívod pitné vody.",
+            "Na stole chybí deset porcelánových figurek a někdo zapálí dům."
+        ],
+        "correctAnswer": "Tajný hlas obviní každého z přítomných ze staré vraždy, za kterou nikdy nebyli potrestáni.",
+        "explanation": "První večer se ozve nahrávka (hlas), která jmenovitě obviní všech deset lidí ze zločinů, za které unikli spravedlnosti."
+    },
+    {
+        "id": "dilo_obsah_rikanka_umirani",
+        "type": "multiple_choice",
+        "tags": [
+            "dilo_obsah",
+            "seznam_all",
+            "seznam_marian"
+        ],
+        "importance": 9,
+        "question": "Jakým způsobem začínají postavy na ostrově postupně umírat?",
+        "options": [
+            "Postupně umírají přesně podle dětské říkanky, která visí v každém pokoji.",
+            "Umírají jeden po druhém pouze střelou do hlavy z neznámé zbraně.",
+            "Umírají abecedně podle počátečních písmen svých příjmení.",
+            "Jsou postupně otráveni jedem z výdejny léků, kterou spravoval Dr. Armstrong."
+        ],
+        "correctAnswer": "Postupně umírají přesně podle dětské říkanky, která visí v každém pokoji.",
+        "explanation": "Vrah precizně inscenuje vraždy tak, aby přesně kopírovaly verše dětské básně o deseti černoušcích."
+    },
+    {
+        "id": "dilo_obsah_mizeni_figurek",
+        "type": "multiple_choice",
+        "tags": [
+            "dilo_obsah",
+            "seznam_all",
+            "seznam_marian"
+        ],
+        "importance": 8,
+        "question": "Co symbolického se stane v domě vždy ve stejnou chvíli, kdy zemře jeden z hostů?",
+        "options": [
+            "Ze stolu zmizí jedna porcelánová figurka malého černouška.",
+            "Hodiny v přijímacím salonu hlasitě odbijí půlnoc.",
+            "Na okno pokoje narazí černý havran.",
+            "V domě zhasne přesně jedno plynové světlo."
+        ],
+        "correctAnswer": "Ze stolu zmizí jedna porcelánová figurka malého černouška.",
+        "explanation": "Souběžně s každým úmrtím mizí ze stolu v jídelně jedna z deseti porcelánových figurek."
+    },
+    {
+        "id": "dilo_obsah_zaver_knihy",
+        "type": "multiple_choice",
+        "tags": [
+            "dilo_obsah",
+            "seznam_all",
+            "seznam_marian"
+        ],
+        "importance": 9,
+        "question": "Jaký charakter má závěr tohoto románu?",
+        "options": [
+            "Závěr je tragický a uzavřený. Všech deset lidí umírá a případ se na konci logicky vysvětlí.",
+            "Závěr je otevřený, čtenář se nikdy nedozví jméno vraha.",
+            "Závěr je šťastný, hlavní hrdinka uteče na lodi před bláznivým soudcem.",
+            "Závěr je cyklický, po odjezdu všech hostů přijíždí další skupina obětí."
+        ],
+        "correctAnswer": "Závěr je tragický a uzavřený. Všech deset lidí umírá a případ se na konci logicky vysvětlí.",
+        "explanation": "Jedná se o uzavřený konec, všichni na ostrově skutečně zemřou, ale čtenář se dozví celou logickou pravdu prostřednictvím doznání."
+    },
+    {
+        "id": "dilo_obsah_kdo_najde_tela",
+        "type": "multiple_choice",
+        "tags": [
+            "dilo_obsah",
+            "seznam_all",
+            "seznam_marian"
+        ],
+        "importance": 5,
+        "question": "Kdo jako první po událostech objeví těla na ostrově?",
+        "options": [
+            "Po několika dnech připlouvá loď a její posádka nachází mrtvá těla.",
+            "Místní amatérský detektiv, který dům pozoroval dalekohledem z pevniny.",
+            "Rybář, který nalezl doznání v láhvi a ihned zalarmoval policii.",
+            "Soudce Wargrave, který jako jediný přežil pod falešnou identitou."
+        ],
+        "correctAnswer": "Po několika dnech připlouvá loď a její posádka nachází mrtvá těla.",
+        "explanation": "Až po několika dnech, kdy se počasí zlepší, připluje loď z pevniny a najde dům plný mrtvých těl."
+    },
+    {
+        "id": "dilo_obsah_nalezeni_pravdy",
+        "type": "multiple_choice",
+        "tags": [
+            "dilo_obsah",
+            "seznam_all",
+            "seznam_marian"
+        ],
+        "importance": 9,
+        "question": "Díky čemu se čtenář v epilogu knihy dozvídá celou pravdu o tom, jak se události odehrály?",
+        "options": [
+            "Díky rybáři, který v moři nalezne láhev se sepsaným doznáním vraha.",
+            "Díky nalezenému deníku Very Claythornové v jejím pokoji.",
+            "Díky policejnímu vyšetřování Scotland Yardu, které objeví tajnou místnost.",
+            "Díky oživlé nahrávce gramofonu, která přehraje vrahovo doznání."
+        ],
+        "correctAnswer": "Díky rybáři, který v moři nalezne láhev se sepsaným doznáním vraha.",
+        "explanation": "Pravda vyjde najevo díky doznání, které vrah sepsal, vložil do láhve a hodil do moře."
+    },
+    {
+        "id": "dilo_obsah_hlavni_temata",
+        "type": "multiple_choice",
+        "tags": [
+            "dilo_obsah",
+            "seznam_all",
+            "seznam_marian"
+        ],
+        "importance": 9,
+        "question": "Jaké je hlavní ústřední téma románu Deset malých černoušků?",
+        "options": [
+            "Téma dokonalé vraždy a spravedlnosti, kterou člověk bere do vlastních rukou.",
+            "Téma hrůz první světové války a ztracené generace mladých mužů.",
+            "Téma dystopické totality, kde stát kontroluje myšlení lidí pomocí newspeaku.",
+            "Téma boje člověka proti nekonečné a ničivé síle přírody."
+        ],
+        "correctAnswer": "Téma dokonalé vraždy a spravedlnosti, kterou člověk bere do vlastních rukou.",
+        "explanation": "Hlavním tématem je vytvoření absolutně dokonalého zločinu jakožto formy vyšší spravedlnosti za minulé hříchy postav."
+    },
+    {
+        "id": "dilo_titul_puvodni_nazev",
+        "type": "multiple_choice",
+        "tags": [
+            "dilo_titul",
+            "seznam_all",
+            "seznam_marian"
+        ],
+        "importance": 7,
+        "question": "K čemu přímo odkazuje původní název knihy 'Ten Little Niggers' (Deset malých černoušků)?",
+        "options": [
+            "K dětské básničce a k deseti figurkám na stole, podle kterých hosté umírají.",
+            "K africkému kmeni, který kapitán Lombard nechal umřít hlady na Sahaře.",
+            "K pracovníkům, kteří dům na ostrově dříve postavili.",
+            "K označení deseti policejních vyšetřovatelů pátrajících po vrahovi."
+        ],
+        "correctAnswer": "K dětské básničce a k deseti figurkám na stole, podle kterých hosté umírají.",
+        "explanation": "Název přímo koresponduje s ústřední dětskou básničkou řídící způsob vražd a porcelánovými figurkami mizejícími ze stolu."
+    },
+    {
+        "id": "dilo_titul_atmosfera",
+        "type": "multiple_choice",
+        "tags": [
+            "jazyk_a_styl",
+            "seznam_all",
+            "seznam_marian"
+        ],
+        "importance": 8,
+        "question": "Jak lze nejlépe charakterizovat atmosféru, která panuje na ostrově mezi zúčastněnými?",
+        "options": [
+            "Je plná narůstajícího děsu, vzájemné podezřívavosti, schizofrenie a klaustrofobie.",
+            "Je uvolněná a humorná, s prvky lehké ironie a britského sarkasmu.",
+            "Je hrdinská a odhodlaná, všichni se spojí do fungujícího týmu proti hrozbě.",
+            "Je naprosto apatická, všechny postavy brzy rezignují na svůj osud."
+        ],
+        "correctAnswer": "Je plná narůstajícího děsu, vzájemné podezřívavosti, schizofrenie a klaustrofobie.",
+        "explanation": "Postavy si s přibývajícími smrtmi přestanou důvěřovat, roste paranoia, strach a pocit absolutního odříznutí (klaustrofobie)."
+    },
+    {
+        "id": "dilo_postavy_soudce_wargrave_charakter",
+        "type": "multiple_choice",
+        "tags": [
+            "dilo_postavy",
+            "seznam_all",
+            "seznam_marian"
+        ],
+        "importance": 9,
+        "question": "Jaký zásadní povahový rozpor se ukrýval v osobnosti soudce Lawrence Wargravea?",
+        "options": [
+            "Měl obrovský smysl pro spravedlnost, ale zároveň trpěl chorobným, sadistickým potěšením z toho, když někdo trpěl.",
+            "Byl hluboce nábožensky založený, ale nedokázal odpustit cizoložství ve své rodině.",
+            "Působil jako klidný lékař, ale ve skutečnosti trpěl těžkým alkoholismem a neléčenou schizofrenií.",
+            "Byl bývalý policista, ale tajně sympatizoval se zločinci a zakrýval jejich stopy."
+        ],
+        "correctAnswer": "Měl obrovský smysl pro spravedlnost, ale zároveň trpěl chorobným, sadistickým potěšením z toho, když někdo trpěl.",
+        "explanation": "Wargrave v doznání vysvětluje své potlačované sadistické sklony a touhu zabíjet, které maskoval svou striktní oddaností spravedlnosti a soudcovským povoláním."
+    },
+    {
+        "id": "dilo_postavy_soudce_wargrave_osud",
+        "type": "multiple_choice",
+        "tags": [
+            "dilo_postavy",
+            "seznam_all",
+            "seznam_marian"
+        ],
+        "importance": 9,
+        "question": "Jaký je konečný osud soudce Lawrence Wargravea v příběhu?",
+        "options": [
+            "Dovede svůj plán do konce, zanechá doznání v láhvi a jako poslední se na ostrově zastřelí.",
+            "Je zatčen Scotland Yardem, když se pokusí opustit ostrov v ukrytém člunu.",
+            "Je první zavražděnou obětí na ostrově, otráven kyanidem ve sklenici.",
+            "Podlehne paranoie a v záchvatu šílenství se sám oběsí ve svém pokoji."
+        ],
+        "correctAnswer": "Dovede svůj plán do konce, zanechá doznání v láhvi a jako poslední se na ostrově zastřelí.",
+        "explanation": "Wargrave nejprve fingoval svou vlastní smrt a po dokončení všech vražd se v závěru skutečně zastřelil tak, aby případ působil jako neřešitelná záhada."
+    },
+    {
+        "id": "dilo_postavy_vera_claythornova_prohresek",
+        "type": "multiple_choice",
+        "tags": [
+            "dilo_postavy",
+            "seznam_all",
+            "seznam_marian"
+        ],
+        "importance": 8,
+        "question": "Z jakého hříchu je obviněna Vera Claythornová?",
+        "options": [
+            "Záměrně neuhlídala topícího se chlapce, aby umožnila svému milenci získat dědictví.",
+            "Zabila svou babičku tím, že jí úmyslně odepřela léky na srdce.",
+            "Poslala milence své sestry do války na jasnou smrt, aby se s ním mohla vzít.",
+            "Křivě svědčila u soudu a odsoudila k smrti nevinného muže."
+        ],
+        "correctAnswer": "Záměrně neuhlídala topícího se chlapce, aby umožnila svému milenci získat dědictví.",
+        "explanation": "Vera pracovala jako chůva/učitelka a nechala malého Cyrila utopit, aby dědictví připadlo Hugovi, kterého milovala."
+    },
+    {
+        "id": "dilo_postavy_vera_claythornova_psychologie",
+        "type": "multiple_choice",
+        "tags": [
+            "dilo_postavy",
+            "seznam_all",
+            "seznam_marian"
+        ],
+        "importance": 8,
+        "question": "Jaký psychologický vývoj zažívá Vera Claythornová v průběhu děje?",
+        "options": [
+            "Z vyrovnané ženy se vlivem strachu a výčitek zhroutí, trpí hysterií, halucinacemi a nakonec se oběsí.",
+            "Z bázlivé a tiché dívky se stane chladnokrevný zabiják a převezme roli vůdce skupiny.",
+            "S přibývajícími mrtvými u ní nastupuje silná náboženská víra a smíří se klidně se svou smrtí.",
+            "Až do samého konce zůstává zcela klidná a racionální, nakonec je zastřelena ve spánku."
+        ],
+        "correctAnswer": "Z vyrovnané ženy se vlivem strachu a výčitek zhroutí, trpí hysterií, halucinacemi a nakonec se oběsí.",
+        "explanation": "Ježí osobnost prochází nejviditelnějším rozkladem. Strach a pocit viny za utopené dítě ji doženou k paranoie a v samotném závěru spáchá sebevraždu."
+    },
+    {
+        "id": "dilo_postavy_philip_lombard_prohresek",
+        "type": "multiple_choice",
+        "tags": [
+            "dilo_postavy",
+            "seznam_all",
+            "seznam_marian"
+        ],
+        "importance": 7,
+        "question": "Proč byl na ostrov pozván kapitán Philip Lombard?",
+        "options": [
+            "V minulosti chladnokrevně opustil africký kmen na Sahaře a nechal je zemřít, aby sám přežil.",
+            "V návalu vzteku a arogance přejel autem dvě malé děti a z místa ujel.",
+            "Křivým svědectvím poslal nevinného muže na šibenici.",
+            "Jako ošetřovatel v opilosti podal špatný lék umírající ženě."
+        ],
+        "correctAnswer": "V minulosti chladnokrevně opustil africký kmen na Sahaře a nechal je zemřít, aby sám přežil.",
+        "explanation": "Lombard jedná instinktivně k vlastnímu přežití a za to, že nechal africký kmen zemřít, necítí žádné výčitky svědomí."
+    },
+    {
+        "id": "dilo_postavy_dr_armstrong_prohresek",
+        "type": "multiple_choice",
+        "tags": [
+            "dilo_postavy",
+            "seznam_all",
+            "seznam_marian"
+        ],
+        "importance": 7,
+        "question": "Za jaký čin je Dr. Edward Armstrong obviněn 'Neznámým'?",
+        "options": [
+            "Operoval ženu pod vlivem alkoholu a svou chybou ji zabil.",
+            "Úmyslně odepřel podat pacientovi lék na srdce, aby získal jeho majetek.",
+            "Při pitvě záměrně zfalšoval lékařskou zprávu, aby kryl vraha.",
+            "Experimentoval na svých pacientech s jedy získanými ve válečné výdejně léků."
+        ],
+        "correctAnswer": "Operoval ženu pod vlivem alkoholu a svou chybou ji zabil.",
+        "explanation": "Dr. Armstrong kdysi operoval pod vlivem alkoholu, což vedlo ke smrti pacientky. Jeho povahovou slabinou v knize je, že příliš věří autoritám."
+    },
+    {
+        "id": "dilo_postavy_emily_brentova",
+        "type": "multiple_choice",
+        "tags": [
+            "dilo_postavy",
+            "seznam_all",
+            "seznam_marian"
+        ],
+        "importance": 7,
+        "question": "Která z postav je charakterizována jako náboženská fanatička postrádající jakékoliv výčitky svědomí za to, že vyhnala svou těhotnou služebnou?",
+        "options": [
+            "Emily Brentová",
+            "Vera Claythornová",
+            "Ethel Rogersová",
+            "Mary Westmacottová"
+        ],
+        "correctAnswer": "Emily Brentová",
+        "explanation": "Emily Brentová je starší puritánská žena, jejíž tvrdost a morální fanatismus dohnaly mladou služebnou k sebevraždě."
+    },
+    {
+        "id": "dilo_postavy_gen_macarthur",
+        "type": "multiple_choice",
+        "tags": [
+            "dilo_postavy",
+            "seznam_all",
+            "seznam_marian"
+        ],
+        "importance": 7,
+        "question": "Za co má být potrestán generál John Macarthur?",
+        "options": [
+            "Úmyslně poslal milence své ženy do bitevní vřavy na jistou smrt.",
+            "Vydal rozkaz k vyhlazení neozbrojené vesnice v Africe.",
+            "Dezertoval z boje a zavinil smrt celé své jednotky.",
+            "Zastřelil zajatého vojáka během výslechu v první světové válce."
+        ],
+        "correctAnswer": "Úmyslně poslal milence své ženy do bitevní vřavy na jistou smrt.",
+        "explanation": "Generál zjistil nevěru své ženy a jejího milence se zbavil tím, že ho poslal na sebevražednou válečnou misi."
+    },
+    {
+        "id": "dilo_postavy_tony_marston",
+        "type": "multiple_choice",
+        "tags": [
+            "dilo_postavy",
+            "seznam_all",
+            "seznam_marian"
+        ],
+        "importance": 7,
+        "question": "Jaký zločin spáchal okouzlující, avšak arogantní mladík Tony Marston?",
+        "options": [
+            "Svou bezohlednou a nebezpečnou jízdou autem srazil a usmrtil dvě děti.",
+            "Během rvačky v baru surově ubil jiného muže.",
+            "Při lovu úmyslně zastřelil svého přítele, aby to vypadalo jako nehoda.",
+            "Zneužil peníze dětského sirotčince k nákupu luxusního auta."
+        ],
+        "correctAnswer": "Svou bezohlednou a nebezpečnou jízdou autem srazil a usmrtil dvě děti.",
+        "explanation": "Tony Marston zcela postrádá pocit viny za smrt dvou dětí, kterou způsobil rychlou jízdou v autě."
+    },
+    {
+        "id": "dilo_postavy_william_blore",
+        "type": "multiple_choice",
+        "tags": [
+            "dilo_postavy",
+            "seznam_all",
+            "seznam_marian"
+        ],
+        "importance": 7,
+        "question": "Kdo je v příběhu William Blore a jaké je jeho tajemství?",
+        "options": [
+            "Bývalý detektiv, který svým křivým svědectvím odsoudil k smrti nevinného muže.",
+            "Právník, jenž pomáhal skrývat majetek mafie a okradl své klienty.",
+            "Lékař, který zfalšoval pitevní zprávu zavražděné oběti.",
+            "Sluha, který otrávil jídlo svému předchozímu pánovi."
+        ],
+        "correctAnswer": "Bývalý detektiv, který svým křivým svědectvím odsoudil k smrti nevinného muže.",
+        "explanation": "William Blore je bývalý profesionální policista/detektiv, jenž lhal u soudu, čímž zapříčinil smrt nevinného člověka."
+    },
+    {
+        "id": "dilo_postavy_rogersovi",
+        "type": "multiple_choice",
+        "tags": [
+            "dilo_postavy",
+            "seznam_all",
+            "seznam_marian"
+        ],
+        "importance": 7,
+        "question": "Proč jsou obviněni sluhové, manželé Rogersovi?",
+        "options": [
+            "Úmyslně odepřeli léky staré paní v době záchvatu, aby získali peníze z dědictví.",
+            "Okradli dům svých zaměstnavatelů a podpálili ho, aby zakryli stopy.",
+            "Dávali svým zaměstnavatelům do jídla malé dávky jedu.",
+            "Pomáhali Wargraveovi s výstavbou falešného popraviště na ostrově."
+        ],
+        "correctAnswer": "Úmyslně odepřeli léky staré paní v době záchvatu, aby získali peníze z dědictví.",
+        "explanation": "Sluhové Ethel a Thomas Rogersovi nechali záměrně zemřít starou paní, o kterou pečovali, aby získali odkázaný majetek."
+    },
+    {
+        "id": "jazyk_a_styl_vypravec",
+        "type": "multiple_choice",
+        "tags": [
+            "jazyk_a_styl",
+            "seznam_all",
+            "seznam_marian"
+        ],
+        "importance": 8,
+        "question": "Jaký typ vypravěče používá Agatha Christie v tomto románu?",
+        "options": [
+            "Er-formu (vševědoucí vypravěč), který však čtenáři záměrně zatajuje přesné myšlenky a identitu vraha.",
+            "Ich-formu z pohledu Very Claythornové, která líčí své pocity a hrůzu z ostrova.",
+            "Střídání ich-formy všech deseti postav, kde každá kapitola patří někomu jinému.",
+            "Objektivní er-formu, která popisuje pouze fyzické akce postav bez vhledu do psychiky kohokoliv."
+        ],
+        "correctAnswer": "Er-formu (vševědoucí vypravěč), který však čtenáři záměrně zatajuje přesné myšlenky a identitu vraha.",
+        "explanation": "Příběh je vyprávěn v er-formě, vypravěč vidí do hlav postav, ale mistrně cenzuruje a zatajuje myšlenkové pochody samotného vraha, aby uchoval napětí."
+    },
+    {
+        "id": "jazyk_a_styl_vlozena_basen",
+        "type": "multiple_choice",
+        "tags": [
+            "jazyk_a_styl",
+            "seznam_all",
+            "seznam_marian"
+        ],
+        "importance": 7,
+        "question": "Jaký netradiční vložený text slouží jako zásadní stylistický prvek a osa děje knihy?",
+        "options": [
+            "Dětská Báseň o černoušcích (říkanka).",
+            "Zákoník Spojeného království a citace paragrafů.",
+            "Série tajných kódovaných depeší námořnictva.",
+            "Falešný deník plný vymyšlených událostí Wargravea."
+        ],
+        "correctAnswer": "Dětská Báseň o černoušcích (říkanka).",
+        "explanation": "Autorka vkládá celou dětskou básničku, která strukturuje děj, protože podle jejích veršů postavy umírají."
+    },
+    {
+        "id": "jazyk_a_styl_ironie_wargrave",
+        "type": "multiple_choice",
+        "tags": [
+            "jazyk_a_styl",
+            "seznam_all",
+            "seznam_marian"
+        ],
+        "importance": 8,
+        "question": "V čem spočívá silná ironie, která prostupuje celým motivem Deseti malých černoušků?",
+        "options": [
+            "Zločinci unikli běžným soudům, ale nakonec na ně 'spravedlnost' vykoná soudce prostřednictvím série surových vražd.",
+            "Vera záchrání chlapce před utopením na začátku, aby se sama oběsila v koupelně.",
+            "Lékař Armstrong objeví lék na smrtelnou nemoc, ale sám na ni na ostrově zemře.",
+            "Bývalý detektiv Blore je na ostrově jako jediný zatčen skutečnou policií za své činy."
+        ],
+        "correctAnswer": "Zločinci unikli běžným soudům, ale nakonec na ně 'spravedlnost' vykoná soudce prostřednictvím série surových vražd.",
+        "explanation": "Ironie spočívá v paradoxu, že ochránce práva (soudce) bere zákon do svých rukou a spravedlnost aplikuje skrze zločin (masovou vraždu)."
+    },
+    {
+        "id": "jazyk_a_styl_kompozice_dej",
+        "type": "multiple_choice",
+        "tags": [
+            "jazyk_a_styl",
+            "seznam_all",
+            "seznam_marian"
+        ],
+        "importance": 8,
+        "question": "Jakou primární kompozici má samotný děj knihy (ubývání přeživších na ostrově)?",
+        "options": [
+            "Chronologickou – děj plyne logicky kupředu v čase, události následují po sobě.",
+            "Retrospektivní – celý děj je vyprávěn jako jedna velká vzpomínka z minulosti.",
+            "Rámcovou – hlavní příběh je vložen do úst vypravěče v londýnském klubu.",
+            "Asociační – děj skáče mezi časy pouze na základě nahodilých myšlenek postav."
+        ],
+        "correctAnswer": "Chronologickou – děj plyne logicky kupředu v čase, události následují po sobě.",
+        "explanation": "Napětí se buduje chronologickým ubýváním přeživších krok za krokem."
+    },
+    {
+        "id": "jazyk_a_styl_kompozice_doznani",
+        "type": "multiple_choice",
+        "tags": [
+            "jazyk_a_styl",
+            "seznam_all",
+            "seznam_marian"
+        ],
+        "importance": 8,
+        "question": "Jakou kompozici má epilog románu (vysvětlení / doznání v láhvi)?",
+        "options": [
+            "Retrospektivní – vrací se zpětně k předchozím událostem a vysvětluje, jak se staly.",
+            "Chronologickou – pokračuje přímo tam, kde zemřel poslední člověk.",
+            "Paralelní – vypráví jiný příběh ze stejné doby v jiném městě.",
+            "Tříštivou – je složena jen z náhodných útržků bez spojitosti."
+        ],
+        "correctAnswer": "Retrospektivní – vrací se zpětně k předchozím událostem a vysvětluje, jak se staly.",
+        "explanation": "Závěrečné vysvětlení (doznání) má kompozici retrospektivní, protože zpětně osvětluje mechanismus jednotlivých vražd v minulosti."
+    },
+    {
+        "id": "dilo_obsah_chronologie_sorting",
+        "type": "sorting",
+        "tags": [
+            "dilo_obsah",
+            "seznam_all",
+            "seznam_marian"
+        ],
+        "importance": 6,
+        "question": "Seřaďte události z knihy chronologicky tak, jak po sobě následovaly.",
+        "options": [
+            "Příjezd deseti hostů na Černochův ostrov.",
+            "Přehrání tajné nahrávky s obviněním ze starých vražd.",
+            "Postupné ubývání porcelánových figurek ze stolu a umírání hostů.",
+            "Závěrečná sebevražda Very Claythornové.",
+            "Připlutí lodi a nález mrtvých těl na ostrově.",
+            "Nález láhve s doznáním vraha v moři."
+        ],
+        "correctAnswer": [
+            "Příjezd deseti hostů na Černochův ostrov.",
+            "Přehrání tajné nahrávky s obviněním ze starých vražd.",
+            "Postupné ubývání porcelánových figurek ze stolu a umírání hostů.",
+            "Závěrečná sebevražda Very Claythornové.",
+            "Připlutí lodi a nález mrtvých těl na ostrově.",
+            "Nález láhve s doznáním vraha v moři."
+        ],
+        "explanation": "Hosté nejprve přijedou, večer vyslechnou obvinění. Poté začnou postupně umírat, dokud se Vera neoběsí. Nakonec se najdou těla a mnohem později je nalezena láhev."
+    },
+    {
+        "id": "rozbor_textu_funkcni_styl_dopisu",
+        "type": "text_analysis",
+        "tags": [
+            "rozbor_textu",
+            "seznam_all",
+            "seznam_marian"
+        ],
+        "importance": 5,
+        "question": "Představte si formální dopis s pozvánkou na ostrov od 'Neznámého'. Jakým funkčním stylem by byl tento dopis s přesnými pokyny psán?",
+        "options": [
+            "Administrativním stylem (případně prostěsdělovacím)",
+            "Odborným stylem",
+            "Uměleckým stylem",
+            "Publicistickým stylem"
+        ],
+        "correctAnswer": "Administrativním stylem (případně prostěsdělovacím)",
+        "explanation": "Účelem dopisu či telegramu je formálně, věcně a jednoznačně sdělit údaje o čase a místě srazu, což odpovídá administrativnímu stylu."
+    },
+    {
+        "id": "rozbor_textu_slohovy_postup_dopisu",
+        "type": "text_analysis",
+        "tags": [
+            "rozbor_textu",
+            "seznam_all",
+            "seznam_marian"
+        ],
+        "importance": 5,
+        "question": "Jaký slohový postup je primárně využit v pozvánce / telegramu sdělujícím čas a místo odjezdu lodě na ostrov?",
+        "options": [
+            "Informační slohový postup",
+            "Vyprávěcí slohový postup",
+            "Popisný slohový postup",
+            "Úvahový slohový postup"
+        ],
+        "correctAnswer": "Informační slohový postup",
+        "explanation": "Telegram či pozvánka musí stručně odpovědět na základní otázky: kdo, kdy, jak a kam má dorazit. Jedná se o prosté sdělení faktů, tedy informační postup."
+    },
+    {
+        "id": "dilo_postavy_matching_prohresky",
+        "type": "matching",
+        "tags": [
+            "dilo_postavy",
+            "seznam_all",
+            "seznam_marian"
+        ],
+        "importance": 8,
+        "question": "Přiřaďte k postavám zločiny (prohřešky), za které byly obviněny na ostrově.",
+        "options": [
+            "Vera Claythornová",
+            "Generál Macarthur",
+            "Kapitán Lombard",
+            "Tony Marston"
+        ],
+        "correctAnswer": [
+            "Vera Claythornová == Záměrně neuhlídala topícího se chlapce kvůli dědictví.",
+            "Generál Macarthur == Úmyslně poslal milence své ženy do bitvy na smrt.",
+            "Kapitán Lombard == Nechal africký kmen umřít na Sahaře.",
+            "Tony Marston == Srazil autem dvě děti."
+        ],
+        "explanation": "Každý pozvaný host spáchal v minulosti zločin: Vera neuhlídala dítě, Macarthur se zbavil milence ve válce, Lombard nechal na holičkách africký kmen a Marston usmrtil autem dvě děti."
+    },
+    {
+        "id": "definice_epika",
+        "type": "flashcard",
+        "tags": [
+            "definice",
+            "literarni_teorie",
+            "seznam_all",
+            "seznam_marian"
+        ],
+        "importance": 10,
+        "question": "Definujte literární termín podle přiloženého textu: Epika",
+        "options": [],
+        "correctAnswer": "Literární druh zaměřující se na ztvárnění událostí a vyprávění děje; obsahuje příběh.",
+        "explanation": "Termín přímo vychází z glosáře ve studijním textu."
+    },
+    {
+        "id": "definice_roman",
+        "type": "flashcard",
+        "tags": [
+            "definice",
+            "literarni_teorie",
+            "seznam_all",
+            "seznam_marian"
+        ],
+        "importance": 10,
+        "question": "Definujte literární termín podle přiloženého textu: Román",
+        "options": [],
+        "correctAnswer": "Rozsáhlý prozaický epický žánr s promyšleným, často komplikovaným dějem, který se věnuje více postavám.",
+        "explanation": "Termín přímo vychází z glosáře ve studijním textu."
+    },
+    {
+        "id": "definice_detektivka",
+        "type": "flashcard",
+        "tags": [
+            "definice",
+            "literarni_teorie",
+            "seznam_all",
+            "seznam_marian"
+        ],
+        "importance": 10,
+        "question": "Definujte literární termín podle přiloženého textu: Detektivka",
+        "options": [],
+        "correctAnswer": "Žánr, jehož obsahem je luštění záhady a objasňování zločinu (od slova detegere - odkrývat), typicky spojený s postavou detektiva či vyšetřovatele.",
+        "explanation": "Termín přímo vychází z glosáře ve studijním textu."
+    },
+    {
+        "id": "definice_proza",
+        "type": "flashcard",
+        "tags": [
+            "definice",
+            "literarni_teorie",
+            "seznam_all",
+            "seznam_marian"
+        ],
+        "importance": 10,
+        "question": "Definujte literární termín podle přiloženého textu: Próza",
+        "options": [],
+        "correctAnswer": "Literární forma psaná volnou, přirozenou řečí (nevázaná rytmem a rýmy jako poezie).",
+        "explanation": "Termín přímo vychází z glosáře ve studijním textu."
+    },
+    {
+        "id": "definice_er_forma",
+        "type": "flashcard",
+        "tags": [
+            "definice",
+            "literarni_teorie",
+            "seznam_all",
+            "seznam_marian"
+        ],
+        "importance": 10,
+        "question": "Definujte literární termín podle přiloženého textu: Er-forma",
+        "options": [],
+        "correctAnswer": "Způsob vyprávění, kdy je děj líčen ve třetí osobě (on/ona), často vševědoucím vypravěčem.",
+        "explanation": "Termín přímo vychází z glosáře ve studijním textu."
+    },
+    {
+        "id": "definice_chronologicka_kompozice",
+        "type": "flashcard",
+        "tags": [
+            "definice",
+            "literarni_teorie",
+            "seznam_all",
+            "seznam_marian"
+        ],
+        "importance": 10,
+        "question": "Definujte literární termín podle přiloženého textu: Chronologická kompozice",
+        "options": [],
+        "correctAnswer": "Děj plyne přirozeně a logicky kupředu v čase tak, jak po sobě události časově následovaly.",
+        "explanation": "Termín přímo vychází z glosáře ve studijním textu."
+    },
+    {
+        "id": "definice_retrospektivni_kompozice",
+        "type": "flashcard",
+        "tags": [
+            "definice",
+            "literarni_teorie",
+            "seznam_all",
+            "seznam_marian"
+        ],
+        "importance": 10,
+        "question": "Definujte literární termín podle přiloženého textu: Retrospektivní kompozice",
+        "options": [],
+        "correctAnswer": "Zpětné ohlédnutí; postup, kdy se děj vrací do minulosti, aby vysvětlil příčiny současných událostí.",
+        "explanation": "Termín přímo vychází z glosáře ve studijním textu."
+    },
+    {
+        "id": "definice_symbol",
+        "type": "flashcard",
+        "tags": [
+            "definice",
+            "literarni_teorie",
+            "seznam_all",
+            "seznam_marian"
+        ],
+        "importance": 10,
+        "question": "Definujte literární termín podle přiloženého textu: Symbol",
+        "options": [],
+        "correctAnswer": "Znak zastupující abstraktní či jinou skutečnost; v tomto případě figurky zastupují životy lidí.",
+        "explanation": "Termín přímo vychází z glosáře ve studijním textu."
+    },
+    {
+        "id": "definice_ironie",
+        "type": "flashcard",
+        "tags": [
+            "definice",
+            "literarni_teorie",
+            "seznam_all",
+            "seznam_marian"
+        ],
+        "importance": 10,
+        "question": "Definujte literární termín podle přiloženého textu: Ironie",
+        "options": [],
+        "correctAnswer": "Obrazné pojmenování (tropus) spočívající v záměrném užití slov v opačném smyslu, často slouží jako výsměch.",
+        "explanation": "Termín přímo vychází z glosáře ve studijním textu."
+    },
+    {
+        "id": "definice_administrativni_styl",
+        "type": "flashcard",
+        "tags": [
+            "definice",
+            "rozbor_textu",
+            "seznam_all",
+            "seznam_marian"
+        ],
+        "importance": 10,
+        "question": "Definujte literární termín podle přiloženého textu: Administrativní styl",
+        "options": [],
+        "correctAnswer": "Funkční styl zaměřený na úřední styk, věcnost, stručnost a jednoznačnost (např. dopisy, formuláře).",
+        "explanation": "Termín přímo vychází z glosáře ve studijním textu."
+    },
+    {
+        "id": "definice_informacni_postup",
+        "type": "flashcard",
+        "tags": [
+            "definice",
+            "rozbor_textu",
+            "seznam_all",
+            "seznam_marian"
+        ],
+        "importance": 10,
+        "question": "Definujte literární termín podle přiloženého textu: Informační slohový postup",
+        "options": [],
+        "correctAnswer": "Postup zaměřený na prosté sdělení faktů a základních údajů (co, kdy, kde, jak).",
+        "explanation": "Termín přímo vychází z glosáře ve studijním textu."
+    }
+]

@@ -1,0 +1,1046 @@
+[
+    {
+        "id": "autor_zivot_narozeni",
+        "type": "multiple_choice",
+        "tags": [
+            "autor_zivot",
+            "seznam_all",
+            "seznam_common",
+            "seznam_marian",
+            "seznam_miro",
+            "seznam_vu"
+        ],
+        "importance": 4,
+        "question": "Kdy žil americký spisovatel Francis Scott Fitzgerald?",
+        "options": [
+            "1896–1940",
+            "1850–1893",
+            "1903–1950",
+            "1890–1938"
+        ],
+        "correctAnswer": "1896–1940",
+        "explanation": "Francis Scott Fitzgerald se narodil v roce 1896 a zemřel předčasně v roce 1940 ve svých 44 letech."
+    },
+    {
+        "id": "autor_zivot_puvod",
+        "type": "multiple_choice",
+        "tags": [
+            "autor_zivot",
+            "seznam_all",
+            "seznam_common",
+            "seznam_marian",
+            "seznam_miro",
+            "seznam_vu"
+        ],
+        "importance": 3,
+        "question": "Z jakého prostředí či rodiny pocházel F. S. Fitzgerald?",
+        "options": [
+            "Z rodiny irských přistěhovalců.",
+            "Z rodiny anglických aristokratů.",
+            "Z bohaté newyorské smetánky.",
+            "Z rodiny chudých ruských emigrantů."
+        ],
+        "correctAnswer": "Z rodiny irských přistěhovalců.",
+        "explanation": "Text výslovně uvádí, že Fitzgerald pocházel z rodiny irských přistěhovalců."
+    },
+    {
+        "id": "autor_zivot_studium",
+        "type": "multiple_choice",
+        "tags": [
+            "autor_zivot",
+            "seznam_all",
+            "seznam_common",
+            "seznam_marian",
+            "seznam_miro",
+            "seznam_vu"
+        ],
+        "importance": 4,
+        "question": "Kterou prestižní univerzitu F. S. Fitzgerald studoval, ale nedokončil?",
+        "options": [
+            "Princeton",
+            "Harvard",
+            "Oxford",
+            "Cambridge"
+        ],
+        "correctAnswer": "Princeton",
+        "explanation": "Fitzgerald studoval na univerzitě v Princetonu, kterou však nedokončil a narukoval do armády."
+    },
+    {
+        "id": "autor_zivot_manzelka",
+        "type": "multiple_choice",
+        "tags": [
+            "autor_zivot",
+            "dilo_postavy",
+            "seznam_all",
+            "seznam_common",
+            "seznam_marian",
+            "seznam_miro",
+            "seznam_vu"
+        ],
+        "importance": 7,
+        "question": "Jak se jmenovala Fitzgeraldova manželka, která se stala předlohou pro postavu Daisy Buchananové?",
+        "options": [
+            "Zelda Sayrová",
+            "Mary Shelleyová",
+            "Agatha Christie",
+            "Myrtle Wilsonová"
+        ],
+        "correctAnswer": "Zelda Sayrová",
+        "explanation": "Fitzgeraldovou manželkou byla excentrická Zelda Sayrová, která později trpěla schizofrenií a stala se literární předlohou pro Daisy."
+    },
+    {
+        "id": "autor_zivot_hollywood",
+        "type": "multiple_choice",
+        "tags": [
+            "autor_zivot",
+            "seznam_all",
+            "seznam_common",
+            "seznam_marian",
+            "seznam_miro",
+            "seznam_vu"
+        ],
+        "importance": 4,
+        "question": "Jakou profesí se F. S. Fitzgerald živil v roce 1937 v závěru svého života?",
+        "options": [
+            "Pracoval jako hollywoodský scenárista.",
+            "Pracoval jako mechanik v Údolí popela.",
+            "Pracoval jako redaktor newyorských novin.",
+            "Pracoval jako profesionální golfista."
+        ],
+        "correctAnswer": "Pracoval jako hollywoodský scenárista.",
+        "explanation": "Z důvodu velkých dluhů a finančních potíží pracoval Fitzgerald v roce 1937 jako scenárista v Hollywoodu."
+    },
+    {
+        "id": "autor_zivot_smrt",
+        "type": "multiple_choice",
+        "tags": [
+            "autor_zivot",
+            "seznam_all",
+            "seznam_common",
+            "seznam_marian",
+            "seznam_miro",
+            "seznam_vu"
+        ],
+        "importance": 3,
+        "question": "Na co předčasně zemřel F. S. Fitzgerald ve věku 44 let?",
+        "options": [
+            "Na infarkt.",
+            "Na cirhózu jater.",
+            "Při automobilové nehodě.",
+            "Na bílou nemoc."
+        ],
+        "correctAnswer": "Na infarkt.",
+        "explanation": "F. S. Fitzgerald zemřel předčasně na infarkt ve věku 44 let."
+    },
+    {
+        "id": "literarni_teorie_obdobi",
+        "type": "multiple_choice",
+        "tags": [
+            "literarni_teorie",
+            "seznam_all",
+            "seznam_common",
+            "seznam_marian",
+            "seznam_miro",
+            "seznam_vu"
+        ],
+        "importance": 9,
+        "question": "Do jakého literárního směru či skupiny F. S. Fitzgerald primárně patří?",
+        "options": [
+            "Ztracená generace",
+            "Romantismus",
+            "Realismus",
+            "Prokletí básníci"
+        ],
+        "correctAnswer": "Ztracená generace",
+        "explanation": "Fitzgerald patří do americké literatury 1. poloviny 20. století a je čelným představitelem tzv. ztracené generace (Lost Generation)."
+    },
+    {
+        "id": "literarni_teorie_jazzovy_vek",
+        "type": "multiple_choice",
+        "tags": [
+            "literarni_teorie",
+            "seznam_all",
+            "seznam_common",
+            "seznam_marian",
+            "seznam_miro",
+            "seznam_vu"
+        ],
+        "importance": 8,
+        "question": "Jakým specifickým termínem se často označuje období americké literatury a společnosti ve 20. letech 20. století, které Fitzgerald zachycuje?",
+        "options": [
+            "Jazzový věk",
+            "Věk páry",
+            "Zlatá horečka",
+            "Doba ledová"
+        ],
+        "correctAnswer": "Jazzový věk",
+        "explanation": "Období hospodářského rozmachu, večírků a uvolněných mravů ve 20. letech 20. století se v USA označuje jako jazzový věk."
+    },
+    {
+        "id": "literarni_teorie_krach",
+        "type": "multiple_choice",
+        "tags": [
+            "literarni_teorie",
+            "seznam_all",
+            "seznam_common",
+            "seznam_marian",
+            "seznam_miro",
+            "seznam_vu"
+        ],
+        "importance": 7,
+        "question": "Jakou historickou událostí skončila éra bezstarostnosti a luxusu tzv. jazzového věku?",
+        "options": [
+            "Krachem na newyorské burze v roce 1929.",
+            "Začátkem první světové války.",
+            "Zavedením prohibice v roce 1920.",
+            "Nástupem fašismu v Evropě."
+        ],
+        "correctAnswer": "Krachem na newyorské burze v roce 1929.",
+        "explanation": "Období extravagance a povrchního luxusu 20. let skončilo ekonomickým krachem na burze v New Yorku v roce 1929."
+    },
+    {
+        "id": "autor_zivot_dalsi_dila",
+        "type": "multiple_choice",
+        "tags": [
+            "autor_zivot",
+            "seznam_all",
+            "seznam_common",
+            "seznam_marian",
+            "seznam_miro",
+            "seznam_vu"
+        ],
+        "importance": 5,
+        "question": "Který z následujících románů NENAPSAL F. S. Fitzgerald?",
+        "options": [
+            "Na západní frontě klid",
+            "Na prahu ráje",
+            "Něžná je noc",
+            "Poslední magnát"
+        ],
+        "correctAnswer": "Na západní frontě klid",
+        "explanation": "Na západní frontě klid napsal Erich Maria Remarque. Fitzgeraldovými romány jsou Na prahu ráje, Něžná je noc a nedokončený Poslední magnát."
+    },
+    {
+        "id": "literarni_teorie_srovnani_remarque",
+        "type": "multiple_choice",
+        "tags": [
+            "literarni_teorie",
+            "seznam_all",
+            "seznam_common",
+            "seznam_marian",
+            "seznam_miro",
+            "seznam_vu"
+        ],
+        "importance": 8,
+        "question": "Jak se liší zobrazení 'ztracené generace' u Ericha Marii Remarqua a F. S. Fitzgeralda?",
+        "options": [
+            "Remarque ukazuje hrůzy zákopů, Fitzgerald poválečnou deziluzi plnou materialismu a večírků.",
+            "Remarque píše o americkém snu, zatímco Fitzgerald popisuje fašismus.",
+            "Remarque se zaměřuje na sci-fi a dystopii jako Orwell, Fitzgerald na historické romány.",
+            "Oba autoři popisují výhradně život ruských emigrantů v Paříži."
+        ],
+        "correctAnswer": "Remarque ukazuje hrůzy zákopů, Fitzgerald poválečnou deziluzi plnou materialismu a večírků.",
+        "explanation": "Zatímco Remarque (Na západní frontě klid) ukazuje přímé fyzické a psychické hrůzy vojáků v zákopech, Fitzgerald se soustředí na prázdnotu americké společnosti po válce, zaplňovanou extravagancí."
+    },
+    {
+        "id": "literarni_teorie_srovnani_capek",
+        "type": "multiple_choice",
+        "tags": [
+            "literarni_teorie",
+            "seznam_all",
+            "seznam_common",
+            "seznam_marian",
+            "seznam_miro",
+            "seznam_vu"
+        ],
+        "importance": 8,
+        "question": "V čem spočívá hlavní rozdíl společenské kritiky mezi F. S. Fitzgeraldem a Karlem Čapkem (např. v Bílé nemoci)?",
+        "options": [
+            "Čapek varuje před diktaturou a fanatismem v Evropě, Fitzgerald kritizuje kapitalismus a mýtus 'amerického snu'.",
+            "Čapek kritizuje výhradně techniku a roboty (R.U.R.), Fitzgerald kritizuje vojenské diktátory.",
+            "Čapek vyzdvihuje americký sen, zatímco Fitzgerald ho zcela ignoruje.",
+            "Neexistuje mezi nimi rozdíl, oba psali o hrůzách zákopové války."
+        ],
+        "correctAnswer": "Čapek varuje před diktaturou a fanatismem v Evropě, Fitzgerald kritizuje kapitalismus a mýtus 'amerického snu'.",
+        "explanation": "Čapek (Bílá nemoc) reagoval na hrozbu fašismu v Evropě, zatímco Fitzgerald podrobil kritice amorální povahu americké smetánky a iluzi amerického snu."
+    },
+    {
+        "id": "literarni_teorie_druh",
+        "type": "multiple_choice",
+        "tags": [
+            "literarni_teorie",
+            "seznam_all",
+            "seznam_common",
+            "seznam_marian",
+            "seznam_miro",
+            "seznam_vu"
+        ],
+        "importance": 9,
+        "question": "K jakému literárnímu druhu řadíme román Velký Gatsby?",
+        "options": [
+            "Epika",
+            "Lyrika",
+            "Drama",
+            "Poezie"
+        ],
+        "correctAnswer": "Epika",
+        "explanation": "Dílo Velký Gatsby je literárním druhem epika, žánrem román a formou próza."
+    },
+    {
+        "id": "literarni_teorie_zanr",
+        "type": "multiple_choice",
+        "tags": [
+            "literarni_teorie",
+            "seznam_all",
+            "seznam_common",
+            "seznam_marian",
+            "seznam_miro",
+            "seznam_vu"
+        ],
+        "importance": 9,
+        "question": "Jaký je přesný literární žánr díla Velký Gatsby?",
+        "options": [
+            "Společenský a psychologický román",
+            "Historický a válečný román",
+            "Dystopický román a sci-fi",
+            "Klasická řecká tragédie"
+        ],
+        "correctAnswer": "Společenský a psychologický román",
+        "explanation": "Dílo je epický společenský a psychologický román psaný formou prózy."
+    },
+    {
+        "id": "dilo_obsah_casoprostor",
+        "type": "multiple_choice",
+        "tags": [
+            "dilo_obsah",
+            "seznam_all",
+            "seznam_common",
+            "seznam_marian",
+            "seznam_miro",
+            "seznam_vu"
+        ],
+        "importance": 7,
+        "question": "Kde a kdy se odehrává hlavní děj Velkého Gatsbyho?",
+        "options": [
+            "V létě roku 1922 na Long Islandu a v New Yorku.",
+            "Během první světové války ve Francii.",
+            "V roce 1984 v Oceánii.",
+            "V 19. století v Londýně."
+        ],
+        "correctAnswer": "V létě roku 1922 na Long Islandu a v New Yorku.",
+        "explanation": "Děj knihy zasazen do léta 1922 do oblasti New Yorku a na nedaleký Long Island (oblasti East Egg a West Egg)."
+    },
+    {
+        "id": "dilo_obsah_zamer_vecirku",
+        "type": "multiple_choice",
+        "tags": [
+            "dilo_obsah",
+            "seznam_all",
+            "seznam_common",
+            "seznam_marian",
+            "seznam_miro",
+            "seznam_vu"
+        ],
+        "importance": 8,
+        "question": "Z jakého hlavního důvodu pořádá Jay Gatsby na svém sídle okázalé večírky?",
+        "options": [
+            "Aby upoutal pozornost své dávné lásky, Daisy.",
+            "Aby prodával nelegální alkohol z prohibice.",
+            "Aby si našel novou manželku z vyšších kruhů.",
+            "Aby vybral peníze pro záchranu krachující burzy."
+        ],
+        "correctAnswer": "Aby upoutal pozornost své dávné lásky, Daisy.",
+        "explanation": "Gatsby každou neděli pořádá extravagantní večírky v naději, že na jeden z nich jednoho dne dorazí Daisy Buchananová."
+    },
+    {
+        "id": "dilo_obsah_nehoda",
+        "type": "multiple_choice",
+        "tags": [
+            "dilo_obsah",
+            "seznam_all",
+            "seznam_common",
+            "seznam_marian",
+            "seznam_miro",
+            "seznam_vu"
+        ],
+        "importance": 9,
+        "question": "Kdo seděl za volantem Gatsbyho vozu v momentě, kdy byla smrtelně sražena Myrtle Wilsonová?",
+        "options": [
+            "Daisy Buchananová",
+            "Jay Gatsby",
+            "Tom Buchanan",
+            "Nick Carraway"
+        ],
+        "correctAnswer": "Daisy Buchananová",
+        "explanation": "Myrtle byla sražena vozem Jaye Gatsbyho, avšak za volantem v tu chvíli seděla zpanikařená Daisy, nikoliv Gatsby."
+    },
+    {
+        "id": "dilo_obsah_pomsta",
+        "type": "multiple_choice",
+        "tags": [
+            "dilo_obsah",
+            "seznam_all",
+            "seznam_common",
+            "seznam_marian",
+            "seznam_miro",
+            "seznam_vu"
+        ],
+        "importance": 9,
+        "question": "Jaký osud potká Jaye Gatsbyho na konci příběhu?",
+        "options": [
+            "Zastřelí jej ze msty George Wilson.",
+            "Ožení se s Daisy a odjedou zpět na Středozápad.",
+            "Skončí ve vězení za pašování alkoholu a porušení prohibice.",
+            "Zemře při havárii žlutého automobilu."
+        ],
+        "correctAnswer": "Zastřelí jej ze msty George Wilson.",
+        "explanation": "Manžel zabité Myrtle, George Wilson, je mylně informován, že vůz řídil Gatsby, a ze msty ho zastřelí u jeho bazénu."
+    },
+    {
+        "id": "dilo_obsah_pohreb",
+        "type": "multiple_choice",
+        "tags": [
+            "dilo_obsah",
+            "seznam_all",
+            "seznam_common",
+            "seznam_marian",
+            "seznam_miro",
+            "seznam_vu"
+        ],
+        "importance": 8,
+        "question": "Kdo se jako jediný (kromě Gatsbyho otce) zúčastní Gatsbyho pohřbu?",
+        "options": [
+            "Vypravěč Nick Carraway.",
+            "Daisy Buchananová.",
+            "Tom Buchanan.",
+            "Jordan Bakerová."
+        ],
+        "correctAnswer": "Vypravěč Nick Carraway.",
+        "explanation": "Z nespočtu hostů, kteří navštěvovali Gatsbyho večírky, dorazí na jeho pohřeb pouze Nick Carraway a Gatsbyho otec, což ilustruje povrchnost tehdejší smetánky."
+    },
+    {
+        "id": "dilo_obsah_zaver_typy",
+        "type": "multiple_choice",
+        "tags": [
+            "dilo_obsah",
+            "seznam_all",
+            "seznam_common",
+            "seznam_marian",
+            "seznam_miro",
+            "seznam_vu"
+        ],
+        "importance": 9,
+        "question": "Jak lze charakterizovat závěr románu Velký Gatsby?",
+        "options": [
+            "Je tragický a uzavřený.",
+            "Je komický a otevřený.",
+            "Je neutrální a detektivní.",
+            "Je tragický, ale plně otevřený do budoucna."
+        ],
+        "correctAnswer": "Je tragický a uzavřený.",
+        "explanation": "Závěr je tragický, neboť Gatsby a Wilsonové umírají, a zároveň uzavřený, jelikož se společnost rozpadne a Nick definitivně odjíždí."
+    },
+    {
+        "id": "dilo_titul_vyznam",
+        "type": "multiple_choice",
+        "tags": [
+            "dilo_titul",
+            "seznam_all",
+            "seznam_common",
+            "seznam_marian",
+            "seznam_miro",
+            "seznam_vu"
+        ],
+        "importance": 8,
+        "question": "Proč je název 'Velký Gatsby' v kontextu knihy považován za částečně ironický?",
+        "options": [
+            "Gatsby vytvořil velkou iluzi bohatství, ale jeho život byl klamem z organizovaného zločinu a na konci zůstal zcela sám.",
+            "Gatsby byl ve skutečnosti trpaslík, který si jméno koupil.",
+            "Název odkazuje na Gatsbyho nadváhu a neochotu pracovat.",
+            "Gatsby se jmenoval Malý, ale Nick mu ze zdvořilosti říkal Velký."
+        ],
+        "correctAnswer": "Gatsby vytvořil velkou iluzi bohatství, ale jeho život byl klamem z organizovaného zločinu a na konci zůstal zcela sám.",
+        "explanation": "Přívlastek 'Velký' odkazuje k ohromné, opulentní iluzi, kterou si hrdina vytvořil, ačkoliv za oponou stál zločin, faleš a naprostá osamělost."
+    },
+    {
+        "id": "dilo_obsah_chronologie",
+        "type": "sorting",
+        "tags": [
+            "dilo_obsah",
+            "seznam_all",
+            "seznam_common",
+            "seznam_marian",
+            "seznam_miro",
+            "seznam_vu"
+        ],
+        "importance": 7,
+        "question": "Seřaďte klíčové události románu Velký Gatsby chronologicky od nejstarší po nejmladší:",
+        "options": [
+            "Nick se usadí na Long Islandu a seznámí se s Gatsbym.",
+            "Gatsby a Daisy se díky Nickovi po letech znovu setkávají.",
+            "Daisy nešťastnou náhodou smrtelně srazí Myrtle Wilsonovou.",
+            "George Wilson zastřelí Gatsbyho u jeho bazénu.",
+            "Nick je znechucen falešnou společností a odjíždí zpět domů."
+        ],
+        "correctAnswer": [
+            "Nick se usadí na Long Islandu a seznámí se s Gatsbym.",
+            "Gatsby a Daisy se díky Nickovi po letech znovu setkávají.",
+            "Daisy nešťastnou náhodou smrtelně srazí Myrtle Wilsonovou.",
+            "George Wilson zastřelí Gatsbyho u jeho bazénu.",
+            "Nick je znechucen falešnou společností a odjíždí zpět domů."
+        ],
+        "explanation": "Toto je správný vývoj hlavní dějové linie románu od přistěhování vypravěče po jeho definitivní odjezd zklamán společností."
+    },
+    {
+        "id": "dilo_postavy_nick_vyvoj",
+        "type": "multiple_choice",
+        "tags": [
+            "dilo_postavy",
+            "seznam_all",
+            "seznam_common",
+            "seznam_marian",
+            "seznam_miro",
+            "seznam_vu"
+        ],
+        "importance": 8,
+        "question": "Jaký psychologický vývoj prožívá vypravěč Nick Carraway v průběhu románu?",
+        "options": [
+            "Od fascinace velkolepým životem na Východě přechází k hlubokému vystřízlivění a absolutnímu znechucení ze sobectví elity.",
+            "Začíná jako chudý mechanik a postupně získá Gatsbyho jmění.",
+            "Stane se z něj arogantní materialista a ožení se s Daisy.",
+            "Po celou knihu je pouze nezaujatým reportérem bez osobního názoru či emocí."
+        ],
+        "correctAnswer": "Od fascinace velkolepým životem na Východě přechází k hlubokému vystřízlivění a absolutnímu znechucení ze sobectví elity.",
+        "explanation": "Nick nejprve podléhá lesku Východu, ale čím více proniká do životů postav, tím více vidí jejich prázdnotu a nakonec s odporem prchá zpět domů."
+    },
+    {
+        "id": "dilo_postavy_gatsby_vyvoj",
+        "type": "multiple_choice",
+        "tags": [
+            "dilo_postavy",
+            "seznam_all",
+            "seznam_common",
+            "seznam_marian",
+            "seznam_miro",
+            "seznam_vu"
+        ],
+        "importance": 9,
+        "question": "Jaký je hlavní psychologický rys postavy Jaye Gatsbyho (Jamese Gatze)?",
+        "options": [
+            "Prakticky se nevyvíjí, odmítá přijmout realitu a je tragicky uvězněn ve své idealizované představě o Daisy.",
+            "Je to cynický intelektuál, který otevřeně opovrhuje penězi.",
+            "V průběhu románu pochopí, že si lásku nekoupí, a omluví se Daisy.",
+            "Je tajným agentem policie, který má rozbít prohibiční síť."
+        ],
+        "correctAnswer": "Prakticky se nevyvíjí, odmítá přijmout realitu a je tragicky uvězněn ve své idealizované představě o Daisy.",
+        "explanation": "Gatsby je neoblomný optimista, který žije nereálnou iluzí minulosti a odmítá přijmout, že se Daisy za ty roky změnila."
+    },
+    {
+        "id": "dilo_postavy_daisy_charakter",
+        "type": "multiple_choice",
+        "tags": [
+            "dilo_postavy",
+            "seznam_all",
+            "seznam_common",
+            "seznam_marian",
+            "seznam_miro",
+            "seznam_vu"
+        ],
+        "importance": 8,
+        "question": "Jak se v kritickém momentě zachová Gatsbyho láska, Daisy Buchananová?",
+        "options": [
+            "Volí pohodlí a materiální jistotu u hrubého manžela a bez výčitek Gatsbyho opouští.",
+            "Převezme odpovědnost za vraždu Myrtle a udá se policii.",
+            "Opustí Toma a uteče s Gatsbym do Evropy.",
+            "Pomůže Nickovi uspořádat Gatsbyho pohřeb a zaplatí jej."
+        ],
+        "correctAnswer": "Volí pohodlí a materiální jistotu u hrubého manžela a bez výčitek Gatsbyho opouští.",
+        "explanation": "Daisy se ukazuje jako slabá, povrchní a zbabělá. Zvolí si bezpečí svých 'starých peněz' po boku Toma místo převzetí zodpovědnosti."
+    },
+    {
+        "id": "dilo_postavy_tom",
+        "type": "multiple_choice",
+        "tags": [
+            "dilo_postavy",
+            "seznam_all",
+            "seznam_common",
+            "seznam_marian",
+            "seznam_miro",
+            "seznam_vu"
+        ],
+        "importance": 7,
+        "question": "Kdo je Tom Buchanan?",
+        "options": [
+            "Arogantní a rasistický manžel Daisy, zástupce elit se 'starými penězi', který ničí životy bez výčitek.",
+            "Knihkupec z Údolí popela a přítel George Wilsona.",
+            "Nickův chudý strýc, který ho pozval na Východ.",
+            "Organizátor prohibičního gangu, pro který Gatsby pracuje."
+        ],
+        "correctAnswer": "Arogantní a rasistický manžel Daisy, zástupce elit se 'starými penězi', který ničí životy bez výčitek.",
+        "explanation": "Tom ztělesňuje aroganci nejvyšších vrstev z East Egg, je nevěrný, bezcitný a bez skrupulí navede Wilsona k vraždě."
+    },
+    {
+        "id": "dilo_postavy_jordan",
+        "type": "multiple_choice",
+        "tags": [
+            "dilo_postavy",
+            "seznam_all",
+            "seznam_common",
+            "seznam_marian",
+            "seznam_miro",
+            "seznam_vu"
+        ],
+        "importance": 6,
+        "question": "Jaké profesi se věnovala přítelkyně Daisy, cynická Jordan Bakerová?",
+        "options": [
+            "Byla profesionální golfistkou.",
+            "Byla jazzovou zpěvačkou v New Yorku.",
+            "Pracovala jako zdravotní sestra.",
+            "Byla prodavačkou v autoservisu."
+        ],
+        "correctAnswer": "Byla profesionální golfistkou.",
+        "explanation": "Jordan Bakerová je v knize popisována jako známá profesionální golfistka, o níž se ví, že podvádí."
+    },
+    {
+        "id": "jazyk_a_styl_vypravec",
+        "type": "multiple_choice",
+        "tags": [
+            "jazyk_a_styl",
+            "seznam_all",
+            "seznam_common",
+            "seznam_marian",
+            "seznam_miro",
+            "seznam_vu"
+        ],
+        "importance": 8,
+        "question": "Jaký typ vypravěče autor v románu Velký Gatsby zvolil?",
+        "options": [
+            "Ich-formu (Nick Carraway vypráví a komentuje události).",
+            "Er-formu (vševědoucí vypravěč).",
+            "Du-formu (vypravěč oslovující čtenáře tykáním).",
+            "Vyprávění se střídá mezi pohledem Daisy a Gatsbyho."
+        ],
+        "correctAnswer": "Ich-formu (Nick Carraway vypráví a komentuje události).",
+        "explanation": "Román je psán v ich-formě z pohledu Nicka Carrawaye, který události zároveň prožívá a retrospektivně hodnotí."
+    },
+    {
+        "id": "jazyk_a_styl_metafory_barvy",
+        "type": "matching",
+        "tags": [
+            "jazyk_a_styl",
+            "seznam_all",
+            "seznam_common",
+            "seznam_marian",
+            "seznam_miro",
+            "seznam_vu"
+        ],
+        "importance": 8,
+        "question": "Spojte výrazné symboly z díla F. S. Fitzgeralda s jejich literárním významem:",
+        "options": [
+            "Zelené světlo na konci mola",
+            "Žlutá barva",
+            "Šedá barva (Údolí popela)"
+        ],
+        "correctAnswer": [
+            "Zelené světlo na konci mola == Symbol naděje a Gatsbyho nedosažitelného snu o Daisy",
+            "Žlutá barva == Symbol peněz a materialismu",
+            "Šedá barva (Údolí popela) == Symbol morálního úpadku a beznaděje"
+        ],
+        "explanation": "Fitzgerald v románu hojně pracuje s barevnou symbolikou, zelená odkazuje na Gatsbyho sny, žlutá na bohatství a šedá na spodinu společnosti."
+    },
+    {
+        "id": "jazyk_a_styl_kompozice",
+        "type": "multiple_choice",
+        "tags": [
+            "jazyk_a_styl",
+            "seznam_all",
+            "seznam_common",
+            "seznam_marian",
+            "seznam_miro",
+            "seznam_vu"
+        ],
+        "importance": 8,
+        "question": "Jaká je základní kompozice 9 kapitol románu Velký Gatsby?",
+        "options": [
+            "Základní linka je chronologická, ale je často narušována retrospektivními pasážemi.",
+            "Kniha je vyprávěna pozpátku (celá retrospektivní).",
+            "Kniha je založena výhradně na montáži dopisů (epistolární kompozice).",
+            "Kniha využívá prstencovou kompozici jako Erbenova Kytice."
+        ],
+        "correctAnswer": "Základní linka je chronologická, ale je často narušována retrospektivními pasážemi.",
+        "explanation": "Události v létě 1922 jdou za sebou chronologicky, ale děj je přerušován retrospektivou, když se čtenář dozvídá o Gatsbyho minulosti a seznámení s Daisy."
+    },
+    {
+        "id": "rozbor_textu_funkcni_styl",
+        "type": "text_analysis",
+        "tags": [
+            "rozbor_textu",
+            "seznam_all",
+            "seznam_common",
+            "seznam_marian",
+            "seznam_miro",
+            "seznam_vu"
+        ],
+        "importance": 5,
+        "question": "Pokud by neuměleckým výchozím textem u maturity byl dobový novinový článek o 'Černém pátku' (krachu burzy v roce 1929), o jaký funkční styl by se jednalo?",
+        "options": [
+            "Publicistický styl",
+            "Odborný styl",
+            "Prostě sdělovací styl",
+            "Umělecký styl"
+        ],
+        "correctAnswer": "Publicistický styl",
+        "explanation": "Novinové články a dobové reportáže, jejichž cílem je informovat veřejnost a formovat její názor, spadají do publicistického stylu."
+    },
+    {
+        "id": "rozbor_textu_slohovy_postup",
+        "type": "text_analysis",
+        "tags": [
+            "rozbor_textu",
+            "seznam_all",
+            "seznam_common",
+            "seznam_marian",
+            "seznam_miro",
+            "seznam_vu"
+        ],
+        "importance": 5,
+        "question": "Pokud článek detailně rozebírá ekonomické příčiny a následky nárůstu organizovaného zločinu a pašeráctví, jaký slohový postup v něm pravděpodobně převládá?",
+        "options": [
+            "Výkladový postup",
+            "Vyprávěcí postup",
+            "Popisný postup",
+            "Úvahový postup"
+        ],
+        "correctAnswer": "Výkladový postup",
+        "explanation": "Vysvětlování vnitřních vztahů, ekonomických příčin a následků a hledání odpovědi na otázku 'jak to funguje' je typické pro výkladový postup."
+    },
+    {
+        "id": "definice_americky_sen",
+        "type": "flashcard",
+        "tags": [
+            "definice",
+            "literarni_teorie",
+            "seznam_all",
+            "seznam_common",
+            "seznam_marian",
+            "seznam_miro",
+            "seznam_vu"
+        ],
+        "importance": 9,
+        "question": "Vysvětlete literární a kulturní termín na základě studijního průvodce: Americký sen",
+        "options": [],
+        "correctAnswer": "Národní étos USA, přesvědčení, že každý člověk, bez ohledu na svůj původ či sociální třídu, může dosáhnout úspěchu, bohatství a štěstí, pokud bude tvrdě pracovat.",
+        "explanation": "Definice termínu pochází přímo z části 'Vysvětlení termínů' studijního průvodce."
+    },
+    {
+        "id": "definice_chronologicka_kompozice",
+        "type": "flashcard",
+        "tags": [
+            "definice",
+            "literarni_teorie",
+            "seznam_all",
+            "seznam_common",
+            "seznam_marian",
+            "seznam_miro",
+            "seznam_vu"
+        ],
+        "importance": 9,
+        "question": "Vysvětlete literární termín na základě studijního průvodce: Chronologická kompozice",
+        "options": [],
+        "correctAnswer": "Lineární uspořádání děje, kdy události přirozeně a logicky následují v čase jedna za druhou od začátku do konce.",
+        "explanation": "Definice termínu pochází přímo z části 'Vysvětlení termínů' studijního průvodce."
+    },
+    {
+        "id": "definice_epika",
+        "type": "flashcard",
+        "tags": [
+            "definice",
+            "literarni_teorie",
+            "seznam_all",
+            "seznam_common",
+            "seznam_marian",
+            "seznam_miro",
+            "seznam_vu"
+        ],
+        "importance": 9,
+        "question": "Vysvětlete literární termín na základě studijního průvodce: Epika",
+        "options": [],
+        "correctAnswer": "Literární druh, který je založen na ději, vypráví příběh a posouvá se v čase.",
+        "explanation": "Definice termínu pochází přímo z části 'Vysvětlení termínů' studijního průvodce."
+    },
+    {
+        "id": "definice_ich_forma",
+        "type": "flashcard",
+        "tags": [
+            "definice",
+            "literarni_teorie",
+            "seznam_all",
+            "seznam_common",
+            "seznam_marian",
+            "seznam_miro",
+            "seznam_vu"
+        ],
+        "importance": 9,
+        "question": "Vysvětlete literární termín na základě studijního průvodce: Ich-forma",
+        "options": [],
+        "correctAnswer": "Vyprávění příběhu v první osobě jednotného čísla, kdy vypravěč je sám účastníkem děje (např. Nick Carraway).",
+        "explanation": "Definice termínu pochází přímo z části 'Vysvětlení termínů' studijního průvodce."
+    },
+    {
+        "id": "definice_informacni_postup",
+        "type": "flashcard",
+        "tags": [
+            "definice",
+            "rozbor_textu",
+            "seznam_all",
+            "seznam_common",
+            "seznam_marian",
+            "seznam_miro",
+            "seznam_vu"
+        ],
+        "importance": 9,
+        "question": "Vysvětlete lingvistický termín na základě studijního průvodce: Informační postup",
+        "options": [],
+        "correctAnswer": "Slohový postup, který poskytuje prostá fakta a údaje typu kdo, co, kdy a kde, aniž by je hlouběji objasňoval či hodnotil.",
+        "explanation": "Definice termínu pochází přímo z části 'Vysvětlení termínů' studijního průvodce."
+    },
+    {
+        "id": "definice_ironie",
+        "type": "flashcard",
+        "tags": [
+            "definice",
+            "literarni_teorie",
+            "jazyk_a_styl",
+            "seznam_all",
+            "seznam_common",
+            "seznam_marian",
+            "seznam_miro",
+            "seznam_vu"
+        ],
+        "importance": 9,
+        "question": "Vysvětlete literární termín na základě studijního průvodce: Ironie",
+        "options": [],
+        "correctAnswer": "Tvar vyjádření (tropus), kdy mluvčí záměrně užije slovo nebo větu v opačném významu, než jaký je skutečně myšlen, často za účelem výsměchu a kritiky.",
+        "explanation": "Definice termínu pochází přímo z části 'Vysvětlení termínů' studijního průvodce."
+    },
+    {
+        "id": "definice_jazzovy_vek",
+        "type": "flashcard",
+        "tags": [
+            "definice",
+            "literarni_teorie",
+            "seznam_all",
+            "seznam_common",
+            "seznam_marian",
+            "seznam_miro",
+            "seznam_vu"
+        ],
+        "importance": 9,
+        "question": "Vysvětlete literární a historický termín na základě studijního průvodce: Jazzový věk",
+        "options": [],
+        "correctAnswer": "Označení pro americká 20. léta 20. století (období ekonomické prosperity), typická rychlým životním tempem, rozvojem jazzu, uvolněnými mravy a večírky.",
+        "explanation": "Definice termínu pochází přímo z části 'Vysvětlení termínů' studijního průvodce."
+    },
+    {
+        "id": "definice_metafora",
+        "type": "flashcard",
+        "tags": [
+            "definice",
+            "literarni_teorie",
+            "jazyk_a_styl",
+            "seznam_all",
+            "seznam_common",
+            "seznam_marian",
+            "seznam_miro",
+            "seznam_vu"
+        ],
+        "importance": 9,
+        "question": "Vysvětlete literární termín na základě studijního průvodce: Metafora",
+        "options": [],
+        "correctAnswer": "Obrazné pojmenování (tropus) spočívající v přenesení významu z jednoho jevu na druhý na základě jejich vzájemné (vnější) podobnosti.",
+        "explanation": "Definice termínu pochází přímo z části 'Vysvětlení termínů' studijního průvodce."
+    },
+    {
+        "id": "definice_prohibice",
+        "type": "flashcard",
+        "tags": [
+            "definice",
+            "literarni_teorie",
+            "seznam_all",
+            "seznam_common",
+            "seznam_marian",
+            "seznam_miro",
+            "seznam_vu"
+        ],
+        "importance": 9,
+        "question": "Vysvětlete historický termín na základě studijního průvodce: Prohibice",
+        "options": [],
+        "correctAnswer": "Ústavou daný zákaz výroby, distribuce a prodeje alkoholu v USA (probíhající v letech 1920–1933), který měl za následek obrovský nárůst organizovaného zločinu a pašeráctví.",
+        "explanation": "Definice termínu pochází přímo z části 'Vysvětlení termínů' studijního průvodce."
+    },
+    {
+        "id": "definice_proza",
+        "type": "flashcard",
+        "tags": [
+            "definice",
+            "literarni_teorie",
+            "seznam_all",
+            "seznam_common",
+            "seznam_marian",
+            "seznam_miro",
+            "seznam_vu"
+        ],
+        "importance": 9,
+        "question": "Vysvětlete literární termín na základě studijního průvodce: Próza",
+        "options": [],
+        "correctAnswer": "Souvislý text psaný v odstavcích a kapitolách, který se neřídí pravidly verše či rytmu (přirozená řeč).",
+        "explanation": "Definice termínu pochází přímo z části 'Vysvětlení termínů' studijního průvodce."
+    },
+    {
+        "id": "definice_prirovnani",
+        "type": "flashcard",
+        "tags": [
+            "definice",
+            "literarni_teorie",
+            "jazyk_a_styl",
+            "seznam_all",
+            "seznam_common",
+            "seznam_marian",
+            "seznam_miro",
+            "seznam_vu"
+        ],
+        "importance": 9,
+        "question": "Vysvětlete literární termín na základě studijního průvodce: Přirovnání",
+        "options": [],
+        "correctAnswer": "Básnický prostředek (figura) spočívající ve srovnání dvou jevů na základě určité společné vlastnosti (např. s použitím spojky jako).",
+        "explanation": "Definice termínu pochází přímo z části 'Vysvětlení termínů' studijního průvodce."
+    },
+    {
+        "id": "definice_publicisticky_styl",
+        "type": "flashcard",
+        "tags": [
+            "definice",
+            "rozbor_textu",
+            "seznam_all",
+            "seznam_common",
+            "seznam_marian",
+            "seznam_miro",
+            "seznam_vu"
+        ],
+        "importance": 9,
+        "question": "Vysvětlete lingvistický termín na základě studijního průvodce: Publicistický styl",
+        "options": [],
+        "correctAnswer": "Funkční styl využívaný v hromadných sdělovacích prostředcích (noviny, televize). Jeho hlavním cílem je rychle a přesně informovat širokou veřejnost a zároveň na ni zapůsobit či ji přesvědčit.",
+        "explanation": "Definice termínu pochází přímo z části 'Vysvětlení termínů' studijního průvodce."
+    },
+    {
+        "id": "definice_retrospektiva",
+        "type": "flashcard",
+        "tags": [
+            "definice",
+            "literarni_teorie",
+            "seznam_all",
+            "seznam_common",
+            "seznam_marian",
+            "seznam_miro",
+            "seznam_vu"
+        ],
+        "importance": 9,
+        "question": "Vysvětlete literární termín na základě studijního průvodce: Retrospektiva (retrospektivní kompozice)",
+        "options": [],
+        "correctAnswer": "Kompoziční postup, při kterém se vyprávění vrací zpět do minulosti a odhaluje děje, které předcházely současnému bodu vyprávění.",
+        "explanation": "Definice termínu pochází přímo z části 'Vysvětlení termínů' studijního průvodce."
+    },
+    {
+        "id": "definice_roman",
+        "type": "flashcard",
+        "tags": [
+            "definice",
+            "literarni_teorie",
+            "seznam_all",
+            "seznam_common",
+            "seznam_marian",
+            "seznam_miro",
+            "seznam_vu"
+        ],
+        "importance": 9,
+        "question": "Vysvětlete literární termín na základě studijního průvodce: Román",
+        "options": [],
+        "correctAnswer": "Rozsáhlý epický žánr prozaické formy, jenž obsahuje hlavní a vedlejší dějové linie a komplikovaný vývoj většího množství postav. Společenský a psychologický román se specificky zaměřuje na zobrazení fungování vrstev společnosti a vnitřní prožívání hrdinů.",
+        "explanation": "Definice termínu pochází přímo z části 'Vysvětlení termínů' studijního průvodce."
+    },
+    {
+        "id": "definice_sarkasmus",
+        "type": "flashcard",
+        "tags": [
+            "definice",
+            "literarni_teorie",
+            "jazyk_a_styl",
+            "seznam_all",
+            "seznam_common",
+            "seznam_marian",
+            "seznam_miro",
+            "seznam_vu"
+        ],
+        "importance": 9,
+        "question": "Vysvětlete literární termín na základě studijního průvodce: Sarkasmus",
+        "options": [],
+        "correctAnswer": "Zesílená, kousavá a zraňující ironie. Cílem je útočný výsměch a ostrá kritika.",
+        "explanation": "Definice termínu pochází přímo z části 'Vysvětlení termínů' studijního průvodce."
+    },
+    {
+        "id": "definice_symbolika",
+        "type": "flashcard",
+        "tags": [
+            "definice",
+            "literarni_teorie",
+            "jazyk_a_styl",
+            "seznam_all",
+            "seznam_common",
+            "seznam_marian",
+            "seznam_miro",
+            "seznam_vu"
+        ],
+        "importance": 9,
+        "question": "Vysvětlete literární termín na základě studijního průvodce: Symbolika",
+        "options": [],
+        "correctAnswer": "Záměrné využívání symbolů (předmětů, barev, znaků), které zastupují hlubší či abstraktnější významy, než je jejich doslovný smysl.",
+        "explanation": "Definice termínu pochází přímo z části 'Vysvětlení termínů' studijního průvodce."
+    },
+    {
+        "id": "definice_vykladovy_postup",
+        "type": "flashcard",
+        "tags": [
+            "definice",
+            "rozbor_textu",
+            "seznam_all",
+            "seznam_common",
+            "seznam_marian",
+            "seznam_miro",
+            "seznam_vu"
+        ],
+        "importance": 9,
+        "question": "Vysvětlete lingvistický termín na základě studijního průvodce: Výkladový postup",
+        "options": [],
+        "correctAnswer": "Slohový postup zaměřený na objasnění složitějších jevů, vnitřních vztahů, logických příčin a následků a odpovědí na otázku jak to funguje.",
+        "explanation": "Definice termínu pochází přímo z části 'Vysvětlení termínů' studijního průvodce."
+    },
+    {
+        "id": "definice_ztracena_generace",
+        "type": "flashcard",
+        "tags": [
+            "definice",
+            "literarni_teorie",
+            "seznam_all",
+            "seznam_common",
+            "seznam_marian",
+            "seznam_miro",
+            "seznam_vu"
+        ],
+        "importance": 9,
+        "question": "Vysvětlete literární termín na základě studijního průvodce: Ztracená generace (Lost Generation)",
+        "options": [],
+        "correctAnswer": "Skupina autorů narozených kolem roku 1900, jejichž tvorbu i život hluboce zasáhla a traumatizovala 1. světová válka. V literatuře projevovali pocity zklamání, deziluze a mravní vykořeněnosti.",
+        "explanation": "Definice termínu pochází přímo z části 'Vysvětlení termínů' studijního průvodce."
+    }
+]

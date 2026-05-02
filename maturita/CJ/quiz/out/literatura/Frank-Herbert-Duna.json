@@ -1,0 +1,934 @@
+[
+    {
+        "id": "autor_zivot_povolani",
+        "type": "multiple_choice",
+        "tags": [
+            "autor_zivot",
+            "seznam_all",
+            "seznam_vu"
+        ],
+        "importance": 4,
+        "question": "Jaká povolání, kromě spisovatelství, Frank Herbert během svého života vykonával?",
+        "options": [
+            "Novinář, fotograf, editor a vysokoškolský učitel.",
+            "Lékař, politik, voják a diplomat.",
+            "Architekt, malíř, sochař a hudebník.",
+            "Právník, detektiv, policista a úředník."
+        ],
+        "correctAnswer": "Novinář, fotograf, editor a vysokoškolský učitel.",
+        "explanation": "Text uvádí, že Frank Herbert byl americký spisovatel, novinář, fotograf, editor a vysokoškolský učitel."
+    },
+    {
+        "id": "autor_zivot_vek_zacatku",
+        "type": "flashcard",
+        "tags": [
+            "autor_zivot",
+            "seznam_all",
+            "seznam_vu"
+        ],
+        "importance": 3,
+        "question": "V kolika letech začal Frank Herbert psát na plný úvazek?",
+        "options": [],
+        "correctAnswer": "Ve svých 52 letech.",
+        "explanation": "Podle studijního materiálu začal Herbert psát na plný úvazek až ve svých 52 letech."
+    },
+    {
+        "id": "autor_zivot_studium",
+        "type": "flashcard",
+        "tags": [
+            "autor_zivot",
+            "seznam_all",
+            "seznam_vu"
+        ],
+        "importance": 3,
+        "question": "Dokončil Frank Herbert svá studia tvůrčího psaní?",
+        "options": [],
+        "correctAnswer": "Ne, svá studia tvůrčího psaní nedokončil.",
+        "explanation": "Studijní průvodce výslovně zmiňuje, že Herbert sám svá studia tvůrčího psaní nedokončil."
+    },
+    {
+        "id": "autor_zivot_filozofie",
+        "type": "flashcard",
+        "tags": [
+            "autor_zivot",
+            "seznam_all",
+            "seznam_vu"
+        ],
+        "importance": 4,
+        "question": "Jaký východní filozofický a náboženský směr byl typický pro zájem Franka Herberta a promítl se do jeho tvorby?",
+        "options": [],
+        "correctAnswer": "Zen-buddhismus.",
+        "explanation": "Text uvádí, že pro autora byl typický mimo jiné zájem o zen-buddhismus."
+    },
+    {
+        "id": "literarni_teorie_obdobi",
+        "type": "multiple_choice",
+        "tags": [
+            "literarni_teorie",
+            "seznam_all",
+            "seznam_vu"
+        ],
+        "importance": 9,
+        "question": "Do jakého literárního směru spadá tvorba Franka Herberta?",
+        "options": [
+            "Nová vlna sci-fi",
+            "Ztracená generace",
+            "Magický realismus",
+            "Prokletí básníci"
+        ],
+        "correctAnswer": "Nová vlna sci-fi",
+        "explanation": "Tvorba Franka Herberta spadá do Nové vlny sci-fi, žánru, který se začal více zabývat politickými a sociálními tématy."
+    },
+    {
+        "id": "literarni_teorie_nova_vlna_znaky",
+        "type": "multiple_choice",
+        "tags": [
+            "literarni_teorie",
+            "seznam_all",
+            "seznam_vu"
+        ],
+        "importance": 9,
+        "question": "Čím se vyznačuje Nová vlna sci-fi na konci 60. let?",
+        "options": [
+            "Zabývá se více politickými a sociálními tématy, včetně dystopických společností.",
+            "Soustředí se výhradně na detailní technické nákresy vesmírných lodí a fyziku.",
+            "Popisuje idylické utopické světy bez konfliktů a válek.",
+            "Vrací se k historickým událostem na Zemi před průmyslovou revolucí."
+        ],
+        "correctAnswer": "Zabývá se více politickými a sociálními tématy, včetně dystopických společností.",
+        "explanation": "Text definuje Novou vlnu sci-fi jako žánr, který se na konci 60. let začal více zabývat politickými a sociálními tématy, včetně dystopií."
+    },
+    {
+        "id": "rozbor_textu_kontext_studena_valka",
+        "type": "flashcard",
+        "tags": [
+            "rozbor_textu",
+            "seznam_all",
+            "seznam_vu"
+        ],
+        "importance": 7,
+        "question": "Jaká historická událost ze 60. let 20. století se promítla do románu Duna motivem boje mocných frakcí o vesmírný prostor?",
+        "options": [],
+        "correctAnswer": "Studená válka.",
+        "explanation": "Román vznikal v 60. letech během studené války, což se projevuje motivem boje mezi mocnými frakcemi o ovládnutí vesmíru."
+    },
+    {
+        "id": "rozbor_textu_kontext_ekologie",
+        "type": "flashcard",
+        "tags": [
+            "rozbor_textu",
+            "seznam_all",
+            "seznam_vu"
+        ],
+        "importance": 7,
+        "question": "Jaké dobové celospolečenské povědomí ze 60. let se silně promítlo do díla Franka Herberta?",
+        "options": [],
+        "correctAnswer": "Povědomí o ekologii a ochraně životního prostředí.",
+        "explanation": "Do díla se silně promítlo v té době stoupající povědomí o ekologii a ochraně životního prostředí."
+    },
+    {
+        "id": "autor_zivot_pocet_romanu",
+        "type": "flashcard",
+        "tags": [
+            "autor_zivot",
+            "seznam_all",
+            "seznam_vu"
+        ],
+        "importance": 3,
+        "question": "Kolik románů celkem napsal Frank Herbert?",
+        "options": [],
+        "correctAnswer": "22 románů.",
+        "explanation": "Studijní průvodce uvádí, že Frank Herbert napsal celkem 22 románů."
+    },
+    {
+        "id": "autor_zivot_dalsi_dila",
+        "type": "multiple_choice",
+        "tags": [
+            "autor_zivot",
+            "seznam_all",
+            "seznam_vu"
+        ],
+        "importance": 4,
+        "question": "Která z následujících děl napsal také Frank Herbert?",
+        "options": [
+            "Zelený mozek, Tvůrci nebes, Spasitel Duny",
+            "Farma zvířat, 1984, Hold Katalánsku",
+            "Bílá nemoc, R.U.R., Krakatit",
+            "Proměna, Proces, Zámek"
+        ],
+        "correctAnswer": "Zelený mozek, Tvůrci nebes, Spasitel Duny",
+        "explanation": "Text explicitně jmenuje mezi jeho další díla Zelený mozek, Tvůrce nebes a pokračování Spasitel Duny či Božský imperátor Duny."
+    },
+    {
+        "id": "rozbor_textu_srovnani_orwell_podobnosti",
+        "type": "multiple_choice",
+        "tags": [
+            "rozbor_textu",
+            "seznam_all",
+            "seznam_vu"
+        ],
+        "importance": 7,
+        "question": "V čem spočívá hlavní podobnost mezi dílem Duna Franka Herberta a románem 1984 George Orwella?",
+        "options": [
+            "V zobrazení dystopické společnosti, manipulaci s masami, politických intrikách a boji o moc.",
+            "V popisu totalitní politické diktatury, neustálém dohledu kamer a cenzuře tisku v Londýně.",
+            "Ve varování před umělou inteligencí a zánikem lidstva rukou myslících strojů a robotů.",
+            "Ve vyobrazení mezilidských vztahů šlechty v historické Evropě 19. století."
+        ],
+        "correctAnswer": "V zobrazení dystopické společnosti, manipulaci s masami, politických intrikách a boji o moc.",
+        "explanation": "Oba autoři zobrazují dystopickou společnost, manipulaci s masami, politické intriky a boj o absolutní moc."
+    },
+    {
+        "id": "rozbor_textu_srovnani_orwell_rozdily",
+        "type": "multiple_choice",
+        "tags": [
+            "rozbor_textu",
+            "seznam_all",
+            "seznam_vu"
+        ],
+        "importance": 7,
+        "question": "Jaký je hlavní rozdíl mezi dystopií v románu 1984 (G. Orwell) a v Duně (F. Herbert)?",
+        "options": [
+            "Orwell se zaměřuje na pozemskou politickou totalitu a cenzuru, zatímco Herbert řeší vliv náboženství a ekologii v dalekém vesmíru.",
+            "Orwell varuje před roboty a umělou inteligencí, zatímco Herbert před mimozemšťany.",
+            "Orwellovo dílo je čistě komediální satirou, zatímco Herbertovo dílo je tragický epos bez happyendu.",
+            "Orwell se odehrává v daleké budoucnosti na jiné planetě, zatímco Duna se odehrává v Anglii."
+        ],
+        "correctAnswer": "Orwell se zaměřuje na pozemskou politickou totalitu a cenzuru, zatímco Herbert řeší vliv náboženství a ekologii v dalekém vesmíru.",
+        "explanation": "Text uvádí, že Orwell řeší totalitu a cenzuru na Zemi, kdežto Herbert řeší náboženský fanatismus, ekologii a boj o suroviny ve fiktivním vesmíru."
+    },
+    {
+        "id": "rozbor_textu_srovnani_capek_podobnosti",
+        "type": "multiple_choice",
+        "tags": [
+            "rozbor_textu",
+            "seznam_all",
+            "seznam_vu"
+        ],
+        "importance": 7,
+        "question": "Co spojuje dílo Franka Herberta s hrou R.U.R. od Karla Čapka?",
+        "options": [
+            "Varování před budoucím směřováním lidstva a dystopické prvky, včetně kritiky slepého využívání technologií.",
+            "Téma nákazy a nevyléčitelné pandemie, která postupně vyhubí celé zkorumpované lidstvo.",
+            "Hrdina se probouzí přeměněn v obří hmyz a rodina ho zavrhne.",
+            "Romantický milostný příběh dvou znepřátelených šlechtických rodů končící dvojitou sebevraždou."
+        ],
+        "correctAnswer": "Varování před budoucím směřováním lidstva a dystopické prvky, včetně kritiky slepého využívání technologií.",
+        "explanation": "Podobnosti s Karlem Čapkem zahrnují varování před budoucností, dystopické prvky a kritiku slepého využívání zdrojů a technologií."
+    },
+    {
+        "id": "rozbor_textu_srovnani_capek_rozdily",
+        "type": "multiple_choice",
+        "tags": [
+            "rozbor_textu",
+            "seznam_all",
+            "seznam_vu"
+        ],
+        "importance": 8,
+        "question": "Jak se v Duně liší přístup k umělé inteligenci oproti Čapkovu R.U.R.?",
+        "options": [
+            "V Duně jsou myslící stroje přísně zakázány a lidé raději rozvíjí biologický potenciál a mysl, zatímco Čapek popisuje zkázu způsobenou roboty.",
+            "V Duně jsou roboti uctíváni jako bohové a nahrazují náboženství, zatímco u Čapka jsou to pouzí otroci v továrnách.",
+            "V Duně lidé nahrávají své vědomí do strojů pro dosažení nesmrtelnosti, zatímco u Čapka stroje nemají s lidmi nic společného.",
+            "Mezi přístupy není žádný rozdíl, oba autoři shodně varují, že nás v blízké budoucnosti roboti zcela nevyhnutelně vyvraždí."
+        ],
+        "correctAnswer": "V Duně jsou myslící stroje přísně zakázány a lidé raději rozvíjí biologický potenciál a mysl, zatímco Čapek popisuje zkázu způsobenou roboty.",
+        "explanation": "Rozdíl je ten, že Čapek varuje před zánikem rukou robotů, zatímco u Herberta jsou myslící stroje zakázány a rozvíjí se biologický potenciál (Bene Gesserit, mentati)."
+    },
+    {
+        "id": "literarni_teorie_druh",
+        "type": "flashcard",
+        "tags": [
+            "literarni_teorie",
+            "seznam_all",
+            "seznam_vu"
+        ],
+        "importance": 9,
+        "question": "K jakému literárnímu druhu patří román Duna?",
+        "options": [],
+        "correctAnswer": "Epika.",
+        "explanation": "Duna je epika, jelikož zachycuje děj a příběh."
+    },
+    {
+        "id": "literarni_teorie_zanr",
+        "type": "flashcard",
+        "tags": [
+            "literarni_teorie",
+            "seznam_all",
+            "seznam_vu"
+        ],
+        "importance": 9,
+        "question": "Jaký je literární žánr románu Duna?",
+        "options": [],
+        "correctAnswer": "Vědeckofantastický román (sci-fi).",
+        "explanation": "Žánr knihy je vědeckofantastický román, zkráceně sci-fi."
+    },
+    {
+        "id": "literarni_teorie_forma",
+        "type": "flashcard",
+        "tags": [
+            "literarni_teorie",
+            "seznam_all",
+            "seznam_vu"
+        ],
+        "importance": 9,
+        "question": "Jakou literární formou je Duna napsána?",
+        "options": [],
+        "correctAnswer": "Próza.",
+        "explanation": "Román je psán formou prózy (text je strukturován do odstavců a kapitol)."
+    },
+    {
+        "id": "dilo_obsah_casoprostor",
+        "type": "multiple_choice",
+        "tags": [
+            "dilo_obsah",
+            "seznam_all",
+            "seznam_vu"
+        ],
+        "importance": 9,
+        "question": "Kde a kdy se odehrává hlavní děj románu Duna?",
+        "options": [
+            "V daleké budoucnosti na nehostinné suché planetě Arrakis.",
+            "V blízké budoucnosti v totalitním Londýně zdevastovaném válkou.",
+            "Ve 20. století během studené války ve Spojených státech.",
+            "V blíže neurčené minulosti na planetě Zemi zasažené ekologickou katastrofou."
+        ],
+        "correctAnswer": "V daleké budoucnosti na nehostinné suché planetě Arrakis.",
+        "explanation": "Časoprostorem je daleká budoucnost a děj se odehrává především na nehostinné pouštní planetě Arrakis."
+    },
+    {
+        "id": "dilo_obsah_surovina",
+        "type": "flashcard",
+        "tags": [
+            "dilo_obsah",
+            "seznam_all",
+            "seznam_vu"
+        ],
+        "importance": 9,
+        "question": "Jak se nazývá nesmírně cenná droga, která se těží na planetě Arrakis?",
+        "options": [],
+        "correctAnswer": "Melanž (koření).",
+        "explanation": "Na planetě Arrakis se těží jediná nesmírně cenná droga ve vesmíru, zvaná melanž nebo také koření."
+    },
+    {
+        "id": "dilo_obsah_vymena_frajci",
+        "type": "flashcard",
+        "tags": [
+            "dilo_obsah",
+            "seznam_all",
+            "seznam_vu"
+        ],
+        "importance": 8,
+        "question": "Po kterém rodu přebírá rodina Atreidů správu nad planetou Arrakis na začátku románu?",
+        "options": [],
+        "correctAnswer": "Po Harkonnenech.",
+        "explanation": "Příběh začíná ve chvíli, kdy Atreidové přebírají po Harkonnenech správu planety."
+    },
+    {
+        "id": "dilo_obsah_osud_leta",
+        "type": "flashcard",
+        "tags": [
+            "dilo_obsah",
+            "seznam_all",
+            "seznam_vu"
+        ],
+        "importance": 8,
+        "question": "Co se stane vévodovi Leto Atreidovi krátce po příletu na Arrakis?",
+        "options": [],
+        "correctAnswer": "Je zrazen a zabit.",
+        "explanation": "Text shrnutí děje uvádí: Vévoda Leto je po příletu zrazen a zabit."
+    },
+    {
+        "id": "dilo_obsah_utek",
+        "type": "flashcard",
+        "tags": [
+            "dilo_obsah",
+            "seznam_all",
+            "seznam_vu"
+        ],
+        "importance": 8,
+        "question": "Kam a ke komu prchá Paul a jeho matka po zradě a vraždě vévody Leta?",
+        "options": [],
+        "correctAnswer": "Do pouště k domorodým Fremenům.",
+        "explanation": "Paul se svou matkou prchá do pouště, kde naleznou útočiště u domorodých Fremenů."
+    },
+    {
+        "id": "dilo_obsah_zaver_knihy",
+        "type": "multiple_choice",
+        "tags": [
+            "dilo_obsah",
+            "seznam_all",
+            "seznam_vu"
+        ],
+        "importance": 9,
+        "question": "Jak lze charakterizovat závěr první knihy Duna?",
+        "options": [
+            "Je uzavřený ohledně konfliktu o Arrakis, pro hrdinu není tragický, ale má obrovský otevřený přesah kvůli blížící se svaté válce.",
+            "Je zcela tragický, Paul Atreides umírá v boji a planeta Arrakis je zničena atomovými zbraněmi.",
+            "Je to klasický, bezstarostný happyend, kde se všichni usmíří a zavládne věčný mír ve vesmíru.",
+            "Končí cliffhangerem uprostřed bitvy, čtenář se vůbec nedozví, kdo ovládl planetu Arrakis."
+        ],
+        "correctAnswer": "Je uzavřený ohledně konfliktu o Arrakis, pro hrdinu není tragický, ale má obrovský otevřený přesah kvůli blížící se svaté válce.",
+        "explanation": "Závěr je uzavřený (konflikt vyřešen) a není tragický, ale není to bezstarostný happyend kvůli tíze moci a blížící se svaté válce."
+    },
+    {
+        "id": "dilo_obsah_temata",
+        "type": "multiple_choice",
+        "tags": [
+            "dilo_obsah",
+            "seznam_all",
+            "seznam_vu"
+        ],
+        "importance": 9,
+        "question": "Jaká jsou hlavní a klíčová témata románu Duna?",
+        "options": [
+            "Ekologie, vztah člověka k přírodě, moc, politika, korupce a vliv náboženského fanatismu.",
+            "Hledání smyslu života po ztrátě majetku na burze a kritika amerického snu v 20. letech.",
+            "Hrůzy první světové války, deziluze vojáků v zákopech a ztráta mladé generace.",
+            "Řešení kriminálního případu na opuštěném ostrově, kde jsou hosté postupně vražděni."
+        ],
+        "correctAnswer": "Ekologie, vztah člověka k přírodě, moc, politika, korupce a vliv náboženského fanatismu.",
+        "explanation": "Text uvádí jako hlavní témata moc, politiku, korupci, především však ekologii, vztah k přírodě, náboženství, fanatismus a lidský potenciál."
+    },
+    {
+        "id": "dilo_titul_vysvetleni",
+        "type": "multiple_choice",
+        "tags": [
+            "dilo_titul",
+            "seznam_all",
+            "seznam_vu"
+        ],
+        "importance": 7,
+        "question": "Co symbolizuje název knihy 'Duna' a s ním spojený všudypřítomný písek?",
+        "options": [
+            "Odkazuje na planetu Arrakis; písek a poušť symbolizují tvrdost, výzvy a proměny, s nimiž se postavy musí vyrovnat.",
+            "Je to jméno tajné zbraně, kterou Fremeni plánují použít proti císaři, a symbolizuje absolutní zkázu.",
+            "Odkazuje na prázdnotu vesmíru a symbolizuje absolutní bezvýznamnost lidské existence.",
+            "Duna je jméno hlavního města na Arrakisu, které symbolizuje zkorumpovanost tehdejší politiky."
+        ],
+        "correctAnswer": "Odkazuje na planetu Arrakis; písek a poušť symbolizují tvrdost, výzvy a proměny, s nimiž se postavy musí vyrovnat.",
+        "explanation": "Název odkazuje na planetu Arrakis pokrytou pískem, který představuje tvrdost, výzvy a proměny."
+    },
+    {
+        "id": "jazyk_a_styl_atmosfera",
+        "type": "flashcard",
+        "tags": [
+            "jazyk_a_styl",
+            "seznam_all",
+            "seznam_vu"
+        ],
+        "importance": 7,
+        "question": "Jakými slovy je v textu popsána atmosféra románu Duna?",
+        "options": [],
+        "correctAnswer": "Ponurá, napínavá a prostoupená mystikou.",
+        "explanation": "Atmosféra je popsána jako ponurá, napínavá a prostoupená mystikou, hrozbami klimatu, intrik i fanatismu."
+    },
+    {
+        "id": "dilo_postavy_paul_vyvoj",
+        "type": "multiple_choice",
+        "tags": [
+            "dilo_postavy",
+            "seznam_all",
+            "seznam_vu"
+        ],
+        "importance": 9,
+        "question": "Jak lze popsat psychologický vývoj Paula Atreida během románu?",
+        "options": [
+            "Z privilegovaného chlapce se po tragédii mění v chladně uvažujícího vůdce a nedotknutelného proroka (Muad'Diba).",
+            "Zpočátku je to fanatický náboženský vůdce, který se postupem času stává mírným pacifistou odmítajícím moc.",
+            "Je to prostý farmář, který je omylem považován za prince, a celý příběh se snaží dokázat svou nevinu.",
+            "Celou knihu zůstává naivním a zbabělým šlechticem, který se schovává před zodpovědností v paláci."
+        ],
+        "correctAnswer": "Z privilegovaného chlapce se po tragédii mění v chladně uvažujícího vůdce a nedotknutelného proroka (Muad'Diba).",
+        "explanation": "Paul zpočátku působí jako privilegovaný šlechtic, ale v poušti u Fremenů odkládá naivitu a mění se v chladného vůdce a proroka."
+    },
+    {
+        "id": "dilo_postavy_paul_prorok",
+        "type": "flashcard",
+        "tags": [
+            "dilo_postavy",
+            "seznam_all",
+            "seznam_vu"
+        ],
+        "importance": 8,
+        "question": "Jaké jméno přijímá Paul Atreides, když se stává uctívaným prorokem u Fremenů?",
+        "options": [],
+        "correctAnswer": "Muad'Dib.",
+        "explanation": "V poušti se Paul mění v nedotknutelného proroka a přijímá jméno Muad'Dib."
+    },
+    {
+        "id": "dilo_postavy_jessica",
+        "type": "flashcard",
+        "tags": [
+            "dilo_postavy",
+            "seznam_all",
+            "seznam_vu"
+        ],
+        "importance": 7,
+        "question": "Do jakého tajemného sesterstva patří Lady Jessica, Paulova matka?",
+        "options": [],
+        "correctAnswer": "Do řádu Bene Gesserit.",
+        "explanation": "Lady Jessica je členkou tajemného sesterstva Bene Gesserit."
+    },
+    {
+        "id": "dilo_postavy_baron_harkonnen",
+        "type": "multiple_choice",
+        "tags": [
+            "dilo_postavy",
+            "seznam_all",
+            "seznam_vu"
+        ],
+        "importance": 7,
+        "question": "Jaký je primární cíl barona Vladimira Harkonnena a jaké planetě vládne?",
+        "options": [
+            "Je to krutý antagonista vládnoucí planetě Giedi Prime, který touží zcela vyhladit rod Atreidů.",
+            "Je to moudrý císař vládnoucí celé galaxii, jehož cílem je nastolit trvalý mír mezi rody.",
+            "Je to vůdce domorodých Fremenů z planety Arrakis, který touží po nezávislosti.",
+            "Je to lékař rodu Atreidů z planety Caladan, který se snaží zachránit svou unesenou ženu."
+        ],
+        "correctAnswer": "Je to krutý antagonista vládnoucí planetě Giedi Prime, který touží zcela vyhladit rod Atreidů.",
+        "explanation": "Baron Vladimir Harkonnen je mocichtivý a bezohledný antagonista z Giedi Prime, který touží Atreidy vyhladit."
+    },
+    {
+        "id": "dilo_postavy_stilgar",
+        "type": "flashcard",
+        "tags": [
+            "dilo_postavy",
+            "seznam_all",
+            "seznam_vu"
+        ],
+        "importance": 7,
+        "question": "Jak se jmenuje statečný válečník a praktický vůdce domorodých Fremenů, který se stane Paulovým rádcem?",
+        "options": [],
+        "correctAnswer": "Stilgar.",
+        "explanation": "Stilgar je v textu popsán jako statečný válečník a praktický vůdce Fremenů, Paulův rádce."
+    },
+    {
+        "id": "dilo_postavy_chani",
+        "type": "flashcard",
+        "tags": [
+            "dilo_postavy",
+            "seznam_all",
+            "seznam_vu"
+        ],
+        "importance": 7,
+        "question": "Kdo je Chani v kontextu románu Duna?",
+        "options": [],
+        "correctAnswer": "Fremenská bojovnice a životní láska Paula Atreida.",
+        "explanation": "Chani je fremenská bojovnice a životní láska hlavního hrdiny Paula."
+    },
+    {
+        "id": "dilo_postavy_yueh",
+        "type": "multiple_choice",
+        "tags": [
+            "dilo_postavy",
+            "seznam_all",
+            "seznam_vu"
+        ],
+        "importance": 7,
+        "question": "Jaký byl motiv Dr. Wellingtona Yueha ke zradě rodu Atreidů?",
+        "options": [
+            "Kruté okolnosti, konkrétně zajetí jeho ženy nepřáteli, ho donutily k morálně složité zradě.",
+            "Toužil po penězích a moci, chtěl sám ovládnout těžbu koření na Arrakis.",
+            "Byl od začátku tajným agentem a fanatickým stoupencem císaře Shaddama IV.",
+            "Nenáviděl vévodu Leta, protože ho v minulosti nespravedlivě obvinil z krádeže."
+        ],
+        "correctAnswer": "Kruté okolnosti, konkrétně zajetí jeho ženy nepřáteli, ho donutily k morálně složité zradě.",
+        "explanation": "Lékař Atreidů je k morálně složité zradě donucen krutými okolnostmi, jelikož mu zajali ženu."
+    },
+    {
+        "id": "jazyk_a_styl_vypravec",
+        "type": "multiple_choice",
+        "tags": [
+            "jazyk_a_styl",
+            "seznam_all",
+            "seznam_vu"
+        ],
+        "importance": 8,
+        "question": "Jaký typ vypravěče je použit v románu Duna?",
+        "options": [
+            "Er-forma s vševědoucím vypravěčem, který plynule zprostředkovává vnitřní monology a niterné prožitky i několika postav v jedné scéně.",
+            "Ich-forma, kde příběh vypráví exkluzivně Paul Atreides prostřednictvím svých osobních deníků.",
+            "Er-forma s nezúčastněným (kamerovým) vypravěčem, který popisuje pouze vnější jednání postav bez přístupu k jejich myšlenkám.",
+            "Du-forma, kdy vypravěč přímo oslovuje čtenáře a vtahuje ho do děje jako aktivního účastníka."
+        ],
+        "correctAnswer": "Er-forma s vševědoucím vypravěčem, který plynule zprostředkovává vnitřní monology a niterné prožitky i několika postav v jedné scéně.",
+        "explanation": "Typ vypravěče je er-forma (vševědoucí), který využívá vnitřních monologů k zprostředkování pocitů vícero postav naráz."
+    },
+    {
+        "id": "jazyk_a_styl_vrstvy_slov",
+        "type": "flashcard",
+        "tags": [
+            "jazyk_a_styl",
+            "seznam_all",
+            "seznam_vu"
+        ],
+        "importance": 7,
+        "question": "Jaká specifická slovní zásoba, navržená autorem pro fiktivní svět, se hojně vyskytuje vedle spisovné češtiny?",
+        "options": [],
+        "correctAnswer": "Odborná a specializovaná terminologie, zejména neologismy (pojmy pro technologie, frakce, ekologii).",
+        "explanation": "Autor hojně využívá odbornou terminologii a neologismy navržené pro fiktivní svět."
+    },
+    {
+        "id": "jazyk_a_styl_symboly_vody",
+        "type": "flashcard",
+        "tags": [
+            "jazyk_a_styl",
+            "seznam_all",
+            "seznam_vu"
+        ],
+        "importance": 7,
+        "question": "Jaký abstraktní význam má v románu Duna symbolika vody?",
+        "options": [],
+        "correctAnswer": "Voda je symbolem života a nedosažitelného bohatství.",
+        "explanation": "V části o stylistických prostředcích je voda zmíněna jako symbol života a nedosažitelného bohatství."
+    },
+    {
+        "id": "jazyk_a_styl_symboly_pisku",
+        "type": "flashcard",
+        "tags": [
+            "jazyk_a_styl",
+            "seznam_all",
+            "seznam_vu"
+        ],
+        "importance": 7,
+        "question": "Co symbolizuje v kontextu Duny všudypřítomný písek?",
+        "options": [],
+        "correctAnswer": "Písek symbolizuje nezdolnost (případně tvrdost, výzvy a proměny).",
+        "explanation": "Text přímo uvádí 'písek symbolizující nezdolnost' a v jiné části 'tvrdost, výzvy a proměny'."
+    },
+    {
+        "id": "jazyk_a_styl_kompozice",
+        "type": "multiple_choice",
+        "tags": [
+            "jazyk_a_styl",
+            "seznam_all",
+            "seznam_vu"
+        ],
+        "importance": 4,
+        "question": "Jak je kompozičně uspořádán román Duna?",
+        "options": [
+            "Postupuje chronologicky, je rozdělen na 3 hlavní části (Duna, Muad‘Dib, Prorok) a kapitoly jsou uvozeny fiktivními citáty.",
+            "Postupuje retrospektivně, děj začíná koncem a postavy postupně vzpomínají na to, co se stalo před deseti lety.",
+            "Využívá rámcovou kompozici, kde hlavní děj slouží pouze jako obal pro sérii volně navazujících povídek různých autorů.",
+            "Je to sbírka nesouvisejících básní s ekologickou tematikou bez chronologického děje."
+        ],
+        "correctAnswer": "Postupuje chronologicky, je rozdělen na 3 hlavní části (Duna, Muad‘Dib, Prorok) a kapitoly jsou uvozeny fiktivními citáty.",
+        "explanation": "Kompozice je chronologická, kniha je rozdělena na 3 části a používá citáty na začátku nečíslovaných kapitol."
+    },
+    {
+        "id": "rozbor_textu_razeni_deje",
+        "type": "sorting",
+        "tags": [
+            "dilo_obsah",
+            "seznam_all",
+            "seznam_vu"
+        ],
+        "importance": 6,
+        "question": "Seřaďte chronologicky následující klíčové události z románu Duna.",
+        "options": [
+            "Zrada a následná smrt vévody Leta.",
+            "Povýšení Paula do role nedotknutelného proroka a svržení imperátora.",
+            "Rodina Atreidů přebírá správu planety Arrakis po rodu Harkonnenů.",
+            "Přijetí Paula a jeho matky domorodými Fremeny.",
+            "Útěk Paula Atreida se svou matkou do nehostinné pouště."
+        ],
+        "correctAnswer": [
+            "Rodina Atreidů přebírá správu planety Arrakis po rodu Harkonnenů.",
+            "Zrada a následná smrt vévody Leta.",
+            "Útěk Paula Atreida se svou matkou do nehostinné pouště.",
+            "Přijetí Paula a jeho matky domorodými Fremeny.",
+            "Povýšení Paula do role nedotknutelného proroka a svržení imperátora."
+        ],
+        "explanation": "Na začátku Atreidové přebírají planetu, vévoda je zrazen a zabit, Paul prchá s matkou do pouště, Fremeni ho přijmou, vytrénuje se a nakonec svrhne imperátora."
+    },
+    {
+        "id": "rozbor_textu_neum_tema",
+        "type": "flashcard",
+        "tags": [
+            "rozbor_textu",
+            "seznam_all",
+            "seznam_vu"
+        ],
+        "importance": 4,
+        "question": "Čeho se tematicky týká ukázka neuměleckého textu rozebíraná ve studijním materiálu?",
+        "options": [],
+        "correctAnswer": "Jde o filmovou recenzi na adaptaci Duny od režiséra Denise Villeneuva z roku 2021.",
+        "explanation": "Text uvádí jako příklad neuměleckého textu filmovou recenzi na adaptaci od Denise Villeneuva (2021)."
+    },
+    {
+        "id": "rozbor_textu_neum_funkcni_styl",
+        "type": "text_analysis",
+        "tags": [
+            "rozbor_textu",
+            "seznam_all",
+            "seznam_vu"
+        ],
+        "importance": 5,
+        "question": "Jaký funkční styl je uplatněn v uvedené filmové recenzi?",
+        "options": [
+            "Publicistický",
+            "Odborný",
+            "Umělecký",
+            "Administrativní"
+        ],
+        "correctAnswer": "Publicistický",
+        "explanation": "Recenze, jejímž cílem je informovat a kriticky hodnotit, spadá do publicistického funkčního stylu."
+    },
+    {
+        "id": "rozbor_textu_neum_slohovy_postup",
+        "type": "text_analysis",
+        "tags": [
+            "rozbor_textu",
+            "seznam_all",
+            "seznam_vu"
+        ],
+        "importance": 5,
+        "question": "Které slohové postupy se mísí ve zmiňované filmové recenzi na Dunu?",
+        "options": [
+            "Úvahový, informační a částečně popisný.",
+            "Vyprávěcí a výkladový.",
+            "Čistě informační bez jakýchkoliv jiných prvků.",
+            "Pouze popisný a charakterizační."
+        ],
+        "correctAnswer": "Úvahový, informační a částečně popisný.",
+        "explanation": "Autor recenze předkládá názory (úvahový), poskytuje fakta (informační) a líčí vizuální podobu (popisný)."
+    },
+    {
+        "id": "rozbor_textu_neum_slovni_zasoba",
+        "type": "multiple_choice",
+        "tags": [
+            "rozbor_textu",
+            "seznam_all",
+            "seznam_vu"
+        ],
+        "importance": 4,
+        "question": "Jaká specifika slovní zásoby lze nalézt ve filmové recenzi magazínového typu, která je uvedena v materiálu?",
+        "options": [
+            "Spisovná čeština doplněná o novinářský slang, přejatá slova (blockbuster, soundtrack) a hodnotící adjektiva.",
+            "Výhradně archaismy a historismy z 19. století bez jakýchkoliv cizích slov.",
+            "Pouze striktní vědecká terminologie oboru fyziky bez jakýchkoliv subjektivních výrazů.",
+            "Převaha hrubých vulgarismů a nespisovného argotu kriminálního podsvětí."
+        ],
+        "correctAnswer": "Spisovná čeština doplněná o novinářský slang, přejatá slova (blockbuster, soundtrack) a hodnotící adjektiva.",
+        "explanation": "Recenze využívá spisovnou češtinu s prvky slangu, přejatá slova jako 'blockbuster' a hodnotící výrazy."
+    },
+    {
+        "id": "literarni_teorie_definice_epika",
+        "type": "flashcard",
+        "tags": [
+            "literarni_teorie",
+            "definice",
+            "seznam_all",
+            "seznam_vu"
+        ],
+        "importance": 10,
+        "question": "Definujte pojem: Epika.",
+        "options": [],
+        "correctAnswer": "Literární druh postavený na vyprávění děje a příběhu, má časovou a příčinnou posloupnost.",
+        "explanation": "Definice z textu přesně říká, že epika je literární druh postavený na vyprávění děje s časovou/příčinnou posloupností."
+    },
+    {
+        "id": "literarni_teorie_definice_proza",
+        "type": "flashcard",
+        "tags": [
+            "literarni_teorie",
+            "definice",
+            "seznam_all",
+            "seznam_vu"
+        ],
+        "importance": 10,
+        "question": "Definujte pojem: Próza.",
+        "options": [],
+        "correctAnswer": "Literární forma psaná v neuspořádaných řádcích (do odstavců a kapitol), neváže se na rytmus a rým (opak poezie).",
+        "explanation": "Podle terminologického slovníku je próza psána v neuspořádaných řádcích bez rytmu a rýmu."
+    },
+    {
+        "id": "literarni_teorie_definice_scifi",
+        "type": "flashcard",
+        "tags": [
+            "literarni_teorie",
+            "definice",
+            "seznam_all",
+            "seznam_vu"
+        ],
+        "importance": 10,
+        "question": "Definujte pojem: Vědeckofantastický román (Sci-fi).",
+        "options": [],
+        "correctAnswer": "Prozaický žánr čerpající z možných budoucích objevů vědy a techniky, často zasazený do vesmíru nebo odlišné reality.",
+        "explanation": "Sci-fi je žánr čerpající z možných budoucích objevů, zasazený často do vesmíru."
+    },
+    {
+        "id": "literarni_teorie_definice_nova_vlna",
+        "type": "flashcard",
+        "tags": [
+            "literarni_teorie",
+            "definice",
+            "seznam_all",
+            "seznam_vu"
+        ],
+        "importance": 10,
+        "question": "Definujte pojem: Nová vlna sci-fi.",
+        "options": [],
+        "correctAnswer": "Literární směr ze 60. let 20. století, který odklonil sci-fi od pouhého popisu technologií více k psychologii, sociologii, ekologii a komplexním společenským problémům.",
+        "explanation": "Definice v textu jasně spojuje Novou vlnu sci-fi s 60. lety a posunem k psychologii a sociologii."
+    },
+    {
+        "id": "literarni_teorie_definice_dystopie",
+        "type": "flashcard",
+        "tags": [
+            "literarni_teorie",
+            "definice",
+            "seznam_all",
+            "seznam_vu"
+        ],
+        "importance": 10,
+        "question": "Definujte pojem: Dystopie.",
+        "options": [],
+        "correctAnswer": "Opak utopie; pesimistický a otřesný obraz budoucnosti, kdy je společnost například ovládána totalitní vládou, fanatismem nebo ničena ekologickým úpadkem.",
+        "explanation": "Dystopie představuje otřesný a pesimistický obraz budoucnosti."
+    },
+    {
+        "id": "literarni_teorie_definice_chronologie",
+        "type": "flashcard",
+        "tags": [
+            "literarni_teorie",
+            "definice",
+            "seznam_all",
+            "seznam_vu"
+        ],
+        "importance": 10,
+        "question": "Definujte pojem: Chronologická kompozice.",
+        "options": [],
+        "correctAnswer": "Děj je vyprávěn přesně podle toho, jak události v čase postupovaly přirozeně za sebou (od začátku do konce).",
+        "explanation": "Chronologie znamená postupný vývoj v čase přirozeně za sebou."
+    },
+    {
+        "id": "literarni_teorie_definice_er_forma",
+        "type": "flashcard",
+        "tags": [
+            "literarni_teorie",
+            "definice",
+            "seznam_all",
+            "seznam_vu"
+        ],
+        "importance": 10,
+        "question": "Definujte pojem: Er-forma.",
+        "options": [],
+        "correctAnswer": "Vyprávění ve 3. osobě. Vypravěč stojí mimo příběh a popisuje, co dělají ostatní postavy.",
+        "explanation": "Er-forma odpovídá vyprávění ve 3. osobě, kde vypravěč stojí mimo příběh."
+    },
+    {
+        "id": "literarni_teorie_definice_vnitrni_monolog",
+        "type": "flashcard",
+        "tags": [
+            "literarni_teorie",
+            "definice",
+            "seznam_all",
+            "seznam_vu"
+        ],
+        "importance": 10,
+        "question": "Definujte pojem: Vnitřní monolog.",
+        "options": [],
+        "correctAnswer": "Souvislý a nahlas nevyřčený myšlenkový proces postavy, do kterého vypravěč dává čtenáři nahlédnout.",
+        "explanation": "Vnitřní monolog je dle slovníku nahlas nevyřčený myšlenkový proces postavy."
+    },
+    {
+        "id": "literarni_teorie_definice_terminologie",
+        "type": "flashcard",
+        "tags": [
+            "literarni_teorie",
+            "definice",
+            "seznam_all",
+            "seznam_vu"
+        ],
+        "importance": 10,
+        "question": "Definujte pojem: Terminologie.",
+        "options": [],
+        "correctAnswer": "Soubor odborných názvů. V Duně jde zejména o neologismy charakterizující fiktivní svět.",
+        "explanation": "Terminologie je definována jako soubor odborných názvů (v tomto případě neologismů)."
+    },
+    {
+        "id": "literarni_teorie_definice_metafora",
+        "type": "flashcard",
+        "tags": [
+            "literarni_teorie",
+            "definice",
+            "seznam_all",
+            "seznam_vu"
+        ],
+        "importance": 10,
+        "question": "Definujte pojem: Metafora.",
+        "options": [],
+        "correctAnswer": "Přenesení významu na základě vnější podobnosti (zde využito pro zdůraznění hlubšího smyslu věcí).",
+        "explanation": "Metafora je z literárního hlediska přenesení významu na základě vnější podobnosti."
+    },
+    {
+        "id": "literarni_teorie_definice_symbolika",
+        "type": "flashcard",
+        "tags": [
+            "literarni_teorie",
+            "definice",
+            "seznam_all",
+            "seznam_vu"
+        ],
+        "importance": 10,
+        "question": "Definujte pojem: Symbolika.",
+        "options": [],
+        "correctAnswer": "Literární prostředek, kde konkrétní předmět, postava či prvek zastupuje nějaký širší abstraktní pojem, myšlenku nebo vlastnost.",
+        "explanation": "Symbolika nastává, když konkrétní prvek zastupuje abstraktní myšlenku nebo pojem."
+    },
+    {
+        "id": "dilo_postavy_prirazeni",
+        "type": "matching",
+        "tags": [
+            "dilo_postavy",
+            "seznam_all",
+            "seznam_vu"
+        ],
+        "importance": 8,
+        "question": "Přiřaďte k sobě správně jména postav z Duny a jejich charakteristiku či roli v příběhu.",
+        "options": [
+            "Paul Atreides",
+            "Baron Vladimir",
+            "Dr. Wellington Yueh",
+            "Stilgar",
+            "Chani"
+        ],
+        "correctAnswer": [
+            "Paul Atreides == Ústřední hrdina, který se vyvíjí z naivního šlechtice v chladného vůdce a proroka.",
+            "Baron Vladimir == Krutý, mocichtivý a bezohledný antagonista z Giedi Prime.",
+            "Dr. Wellington Yueh == Lékař, který je kvůli zajetí své ženy donucen k morálně složité zradě.",
+            "Stilgar == Statečný válečník, praktický vůdce domorodých Fremenů a Paulův rádce.",
+            "Chani == Fremenská bojovnice a životní láska hlavního hrdiny."
+        ],
+        "explanation": "Toto propojení postav vychází z detailních popisů v sekci Analýza postav."
+    },
+    {
+        "id": "literarni_teorie_pojmy_prirazeni",
+        "type": "matching",
+        "tags": [
+            "literarni_teorie",
+            "definice",
+            "seznam_all",
+            "seznam_vu"
+        ],
+        "importance": 10,
+        "question": "Přiřaďte literární termíny k jejich správným definicím z textu.",
+        "options": [
+            "Er-forma",
+            "Próza",
+            "Epika",
+            "Dystopie",
+            "Metafora"
+        ],
+        "correctAnswer": [
+            "Er-forma == Vyprávění ve 3. osobě, kde vypravěč stojí mimo příběh.",
+            "Próza == Literární forma psaná v neuspořádaných řádcích do odstavců a kapitol.",
+            "Epika == Literární druh postavený na vyprávění děje a příběhu s posloupností.",
+            "Dystopie == Pesimistický a otřesný obraz budoucnosti zničený totalitou nebo ekologií.",
+            "Metafora == Přenesení významu na základě vnější podobnosti."
+        ],
+        "explanation": "Tato definice přesně odpovídá slovníčku pojmů ze závěru studijního materiálu."
+    }
+]

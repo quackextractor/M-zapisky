@@ -1,0 +1,1246 @@
+[
+    {
+        "id": "autor_zivot_divci_jmeno",
+        "type": "multiple_choice",
+        "tags": [
+            "autor_zivot",
+            "seznam_all",
+            "seznam_miro"
+        ],
+        "importance": 5,
+        "question": "Jaké bylo dívčí jméno (příjmení za svobodna) autorky románu Frankenstein, Mary Shelleyové?",
+        "options": [
+            "Godwinová",
+            "Wollstonecraftová",
+            "Christie",
+            "Brontëová"
+        ],
+        "correctAnswer": "Godwinová",
+        "explanation": "Mary Shelleyová se za svobodna jmenovala Godwinová (její otec byl William Godwin)."
+    },
+    {
+        "id": "autor_zivot_matka_povolani",
+        "type": "multiple_choice",
+        "tags": [
+            "autor_zivot",
+            "seznam_all",
+            "seznam_miro"
+        ],
+        "importance": 4,
+        "question": "Kdo byla matka Mary Shelleyové, Mary Wollstonecraftová?",
+        "options": [
+            "Slavná feministická učitelka a spisovatelka",
+            "Úspěšná operní pěvkyně",
+            "Zchudlá šlechtična z venkova",
+            "Služebná v domě lorda Byrona"
+        ],
+        "correctAnswer": "Slavná feministická učitelka a spisovatelka",
+        "explanation": "Matkou Mary Shelleyové byla Mary Wollstonecraftová, slavná feministická učitelka a spisovatelka."
+    },
+    {
+        "id": "autor_zivot_otec_postoj",
+        "type": "multiple_choice",
+        "tags": [
+            "autor_zivot",
+            "seznam_all",
+            "seznam_miro"
+        ],
+        "importance": 4,
+        "question": "Jaké bylo filozofické přesvědčení Williama Godwina, otce Mary Shelleyové?",
+        "options": [
+            "Byl to anarchistický filozof a ateista.",
+            "Byl to konzervativní kněz.",
+            "Byl to radikální marxistický revolucionář.",
+            "Byl to oddaný monarchista."
+        ],
+        "correctAnswer": "Byl to anarchistický filozof a ateista.",
+        "explanation": "Její otec William Godwin byl známý jako anarchistický filozof a ateista."
+    },
+    {
+        "id": "autor_zivot_manzel_identita",
+        "type": "flashcard",
+        "tags": [
+            "autor_zivot",
+            "seznam_all",
+            "seznam_miro"
+        ],
+        "importance": 6,
+        "question": "Kdo byl manželem Mary Shelleyové?",
+        "options": [],
+        "correctAnswer": "Percy Bysshe Shelley (známý romantický básník)",
+        "explanation": "Mary se roku 1816 provdala za romantického básníka Percyho Bysshe Shelleyho."
+    },
+    {
+        "id": "autor_zivot_smrt_manzela",
+        "type": "multiple_choice",
+        "tags": [
+            "autor_zivot",
+            "seznam_all",
+            "seznam_miro"
+        ],
+        "importance": 4,
+        "question": "Jaký osud potkal manžela Mary Shelleyové v roce 1822?",
+        "options": [
+            "Tragicky se utopil.",
+            "Zemřel na tuberkulózu na frontě.",
+            "Byl zavražděn politickými odpůrci.",
+            "Zemřel na následky zranění z duelu."
+        ],
+        "correctAnswer": "Tragicky se utopil.",
+        "explanation": "Percy Bysshe Shelley se v roce 1822 tragicky utopil a Mary se následně věnovala propagaci jeho díla."
+    },
+    {
+        "id": "autor_zivot_smrt_autorky",
+        "type": "multiple_choice",
+        "tags": [
+            "autor_zivot",
+            "seznam_all",
+            "seznam_miro"
+        ],
+        "importance": 3,
+        "question": "Na co zemřela Mary Shelleyová ve věku 53 let?",
+        "options": [
+            "Na mozkový nádor.",
+            "Na bílou nemoc.",
+            "Byla popravena.",
+            "Na vyčerpání během plavby na sever."
+        ],
+        "correctAnswer": "Na mozkový nádor.",
+        "explanation": "Mary Shelleyová zemřela v 53 letech na mozkový nádor."
+    },
+    {
+        "id": "autor_zivot_uznani",
+        "type": "multiple_choice",
+        "tags": [
+            "autor_zivot",
+            "seznam_all",
+            "seznam_miro"
+        ],
+        "importance": 4,
+        "question": "Kdy se Mary Shelleyová plně dočkala uznání jako spisovatelka?",
+        "options": [
+            "Až po své smrti.",
+            "Ihned po vydání Frankensteina.",
+            "Až ve stáří po vydání knihy Poslední muž.",
+            "Po svatbě s P. B. Shelleym."
+        ],
+        "correctAnswer": "Až po své smrti.",
+        "explanation": "Plného uznání jako spisovatelka došla Mary Shelleyová až po své smrti."
+    },
+    {
+        "id": "literarni_teorie_obdobi_frankenstein",
+        "type": "multiple_choice",
+        "tags": [
+            "literarni_teorie",
+            "seznam_all",
+            "seznam_miro"
+        ],
+        "importance": 10,
+        "question": "Do jakého literárního období/směru řadíme dílo Mary Shelleyové, zejména román Frankenstein?",
+        "options": [
+            "Romantismus",
+            "Osvícenství",
+            "Klasicismus",
+            "Realismus"
+        ],
+        "correctAnswer": "Romantismus",
+        "explanation": "Dílo spadá do romantismu, směru konce 18. a začátku 19. století."
+    },
+    {
+        "id": "literarni_teorie_znaky_romantismu",
+        "type": "multiple_choice",
+        "tags": [
+            "literarni_teorie",
+            "seznam_all",
+            "seznam_miro"
+        ],
+        "importance": 9,
+        "question": "Co jsou podle studijního průvodce základní kameny romantismu?",
+        "options": [
+            "Cit, individualita a trýzněná duše.",
+            "Rozum, objektivita a strohost.",
+            "Lidový folklor, mýty a náboženství.",
+            "Fascinace budoucností a technickým pokrokem."
+        ],
+        "correctAnswer": "Cit, individualita a trýzněná duše.",
+        "explanation": "Základními kameny romantismu jsou cit, individualita a trýzněná duše."
+    },
+    {
+        "id": "literarni_teorie_vznik_romantismu",
+        "type": "multiple_choice",
+        "tags": [
+            "literarni_teorie",
+            "seznam_all",
+            "seznam_miro"
+        ],
+        "importance": 7,
+        "question": "Jako reakce na co vznikl literární romantismus?",
+        "options": [
+            "Jako reakce na monopol rozumu z doby osvícenství a strohost klasicismu.",
+            "Jako reakce na naturalismus a drsné líčení chudoby.",
+            "Jako reakce na absurdní drama 20. století.",
+            "Jako reakce na gotické romány a jejich přehnanou tajuplnost."
+        ],
+        "correctAnswer": "Jako reakce na monopol rozumu z doby osvícenství a strohost klasicismu.",
+        "explanation": "Romantismus vznikl jako reakce na monopol rozumu z doby osvícenství a strohost klasicismu."
+    },
+    {
+        "id": "literarni_teorie_kolebka_romantismu",
+        "type": "flashcard",
+        "tags": [
+            "literarni_teorie",
+            "seznam_all",
+            "seznam_miro"
+        ],
+        "importance": 6,
+        "question": "Která země je považována za kolébku literárního romantismu?",
+        "options": [],
+        "correctAnswer": "Anglie",
+        "explanation": "Kolébkou literárního romantismu byla Anglie."
+    },
+    {
+        "id": "literarni_teorie_kontext_doby",
+        "type": "multiple_choice",
+        "tags": [
+            "literarni_teorie",
+            "seznam_all",
+            "seznam_miro"
+        ],
+        "importance": 7,
+        "question": "Jaký dobový fenomén se přímo odráží ve snaze Viktora Frankensteina stvořit život?",
+        "options": [
+            "Doba rozvoje přírodních věd.",
+            "Fascinace renesanční architekturou.",
+            "Nástup průmyslové revoluce a továren.",
+            "Vliv východních náboženství a reinkarnace."
+        ],
+        "correctAnswer": "Doba rozvoje přírodních věd.",
+        "explanation": "Konec 18. a počátek 19. století byl dobou rozvoje přírodních věd, což se odráží ve snaze o stvoření života v díle."
+    },
+    {
+        "id": "autor_zivot_dalsi_dila_matching",
+        "type": "matching",
+        "tags": [
+            "autor_zivot",
+            "seznam_all",
+            "seznam_miro"
+        ],
+        "importance": 5,
+        "question": "Spojte autory s jejich dalšími díly zmíněnými v textu (nebo vyberte díla Mary Shelleyové):",
+        "options": [
+            "Mary Shelleyová",
+            "Edgar Allan Poe",
+            "Karel Jaromír Erben"
+        ],
+        "correctAnswer": [
+            "Mary Shelleyová == Matilda, The Last Man, Lodore, Falkner",
+            "Edgar Allan Poe == Havran, Vraždy v ulici Morgue",
+            "Karel Jaromír Erben == Kytice"
+        ],
+        "explanation": "Mezi další díla Mary Shelleyové patří Matilda, The Last Man, Lodore nebo Falkner. Poe napsal Havrana a Erben Kytici."
+    },
+    {
+        "id": "literarni_teorie_srovnani_poe_shoda",
+        "type": "multiple_choice",
+        "tags": [
+            "literarni_teorie",
+            "seznam_all",
+            "seznam_miro"
+        ],
+        "importance": 8,
+        "question": "V čem spočívá podobnost mezi dílem Mary Shelleyové a Edgara Allana Poea?",
+        "options": [
+            "Ve využívání prvků hororu, tajuplnosti a napětí.",
+            "V tom, že oba psali rozsáhlé vědeckofantastické romány.",
+            "V zaměření na venkovský lidový folklor a pověsti.",
+            "Ve využívání výhradně analytického a detektivního jádra."
+        ],
+        "correctAnswer": "Ve využívání prvků hororu, tajuplnosti a napětí.",
+        "explanation": "Podobnost spočívá ve využívání prvků hororu, tajuplnosti a napětí."
+    },
+    {
+        "id": "literarni_teorie_srovnani_poe_rozdil",
+        "type": "multiple_choice",
+        "tags": [
+            "literarni_teorie",
+            "seznam_all",
+            "seznam_miro"
+        ],
+        "importance": 8,
+        "question": "Jaký je hlavní rozdíl ve tvorbě Mary Shelleyové a Edgara Allana Poea podle studijního průvodce?",
+        "options": [
+            "Poe se soustředil spíše na povídky s analytickým jádrem a básně, zatímco Shelleyová napsala rozsáhlý román pracující s vědeckým experimentem.",
+            "Poe psal převážně utopické romány, zatímco Shelleyová psala detektivní balady.",
+            "Shelleyová psala výhradně poezii, zatímco Poe byl zakladatelem gotické prózy.",
+            "Shelleyová využívala humor a satiru, což se u Poea vůbec nevyskytuje."
+        ],
+        "correctAnswer": "Poe se soustředil spíše na povídky s analytickým jádrem a básně, zatímco Shelleyová napsala rozsáhlý román pracující s vědeckým experimentem.",
+        "explanation": "Rozdíl je v tom, že Poe psal povídky a básně, zatímco Shelleyová napsala rozsáhlý gotický román pracující s vědeckým experimentem."
+    },
+    {
+        "id": "literarni_teorie_srovnani_erben_shoda",
+        "type": "multiple_choice",
+        "tags": [
+            "literarni_teorie",
+            "seznam_all",
+            "seznam_miro"
+        ],
+        "importance": 8,
+        "question": "Co má společného Frankenstein s dílem K. J. Erbena (Kytice)?",
+        "options": [
+            "Téma viny a tvrdého trestu za překročení hranic a hororovou atmosféru.",
+            "Kritiku totalitních režimů a manipulaci s fakty.",
+            "Oba autoři používají lidový folklor jako primární zdroj postav.",
+            "Oba autoři varují před důsledky moderního vědeckého pokroku."
+        ],
+        "correctAnswer": "Téma viny a tvrdého trestu za překročení hranic a hororovou atmosféru.",
+        "explanation": "Podobnost najdeme v tématu viny a tvrdého trestu (za překročení hranic lidských možností) a přítomnosti hororové atmosféry."
+    },
+    {
+        "id": "literarni_teorie_srovnani_erben_rozdil",
+        "type": "multiple_choice",
+        "tags": [
+            "literarni_teorie",
+            "seznam_all",
+            "seznam_miro"
+        ],
+        "importance": 8,
+        "question": "V čem spočívá hlavní rozdíl mezi Frankensteinem a Kyticí od K. J. Erbena?",
+        "options": [
+            "Erben vychází z folkloru ve formě poezie, zatímco Shelleyová varuje před důsledky vědeckého pokroku prostřednictvím románové prózy.",
+            "Erben psal hororové romány v próze, zatímco Shelleyová skládala lyricko-epické básně o stvoření života.",
+            "Erben oslavuje vědecký pokrok, zatímco Shelleyová se inspiruje výhradně venkovskými mýty.",
+            "Erben psal svá díla v ich-formě, zatímco Shelleyová použila výhradně er-formu."
+        ],
+        "correctAnswer": "Erben vychází z folkloru ve formě poezie, zatímco Shelleyová varuje před důsledky vědeckého pokroku prostřednictvím románové prózy.",
+        "explanation": "Rozdíl spočívá v tom, že Erben vychází z lidového folkloru a mýtů ve formě poezie, zatímco Shelleyová varuje před důsledky vědeckého pokroku prostřednictvím prózy."
+    },
+    {
+        "id": "literarni_teorie_druh_frankenstein",
+        "type": "flashcard",
+        "tags": [
+            "literarni_teorie",
+            "seznam_all",
+            "seznam_miro"
+        ],
+        "importance": 9,
+        "question": "Jaký je literární druh díla Frankenstein?",
+        "options": [],
+        "correctAnswer": "Epika",
+        "explanation": "Literární druh díla je epika, protože má děj."
+    },
+    {
+        "id": "literarni_teorie_zanr_frankenstein",
+        "type": "multiple_choice",
+        "tags": [
+            "literarni_teorie",
+            "seznam_all",
+            "seznam_miro"
+        ],
+        "importance": 9,
+        "question": "Jaký literární žánr představuje román Frankenstein?",
+        "options": [
+            "Hororový román s prvky gotického a klasického romantického románu.",
+            "Utopický sci-fi román.",
+            "Detektivní román.",
+            "Psychologická povídka."
+        ],
+        "correctAnswer": "Hororový román s prvky gotického a klasického romantického románu.",
+        "explanation": "Frankenstein je hororový román, který nese prvky gotického i klasického romantického románu."
+    },
+    {
+        "id": "literarni_teorie_forma_frankenstein",
+        "type": "flashcard",
+        "tags": [
+            "literarni_teorie",
+            "seznam_all",
+            "seznam_miro"
+        ],
+        "importance": 9,
+        "question": "V jaké literární formě je Frankenstein napsán?",
+        "options": [],
+        "correctAnswer": "V próze",
+        "explanation": "Literární forma díla je próza."
+    },
+    {
+        "id": "dilo_obsah_cas_deje",
+        "type": "multiple_choice",
+        "tags": [
+            "dilo_obsah",
+            "seznam_all",
+            "seznam_miro"
+        ],
+        "importance": 6,
+        "question": "Do jaké doby je zasazen děj románu Frankenstein?",
+        "options": [
+            "Do konce 18. století.",
+            "Do konce 19. století.",
+            "Do doby první světové války.",
+            "Do daleké budoucnosti."
+        ],
+        "correctAnswer": "Do konce 18. století.",
+        "explanation": "Děj se odehrává v Evropě na konci 18. století."
+    },
+    {
+        "id": "dilo_obsah_prostredi",
+        "type": "multiple_choice",
+        "tags": [
+            "dilo_obsah",
+            "seznam_all",
+            "seznam_miro"
+        ],
+        "importance": 7,
+        "question": "Ve kterých lokacích se děj románu převážně odehrává?",
+        "options": [
+            "Ve Švýcarských Alpách, Velké Británii a na severním polárním kruhu.",
+            "V Rusku, na Ukrajině a v Petrohradu.",
+            "Na západní frontě a ve Francii.",
+            "Na opuštěném ostrově u pobřeží Anglie."
+        ],
+        "correctAnswer": "Ve Švýcarských Alpách, Velké Británii a na severním polárním kruhu.",
+        "explanation": "Děj se odehrává v Evropě, zejména ve Švýcarských Alpách a Velké Británii, rámcový příběh pak na severním polárním kruhu."
+    },
+    {
+        "id": "dilo_obsah_misto_studia",
+        "type": "flashcard",
+        "tags": [
+            "dilo_obsah",
+            "seznam_all",
+            "seznam_miro"
+        ],
+        "importance": 4,
+        "question": "Ve kterém městě studuje Viktor Frankenstein přírodní vědy, když stvoří své monstrum?",
+        "options": [],
+        "correctAnswer": "V Ingolstadtu",
+        "explanation": "Během studií v Ingolstadtu oživí Viktor uměle vytvořenou bytost."
+    },
+    {
+        "id": "dilo_obsah_prvni_reakce",
+        "type": "multiple_choice",
+        "tags": [
+            "dilo_obsah",
+            "seznam_all",
+            "seznam_miro"
+        ],
+        "importance": 8,
+        "question": "Jak zareaguje Viktor bezprostředně poté, co oživí své monstrum?",
+        "options": [
+            "Když zjistí, že stvořil děsivé monstrum, v hrůze prchne.",
+            "Oslavuje svůj velkolepý vědecký úspěch a představí netvora Waltonovi.",
+            "Snaží se netvora okamžitě zabít, aby napravil svou chybu.",
+            "Začne netvora učit mluvit a číst přímo ve své laboratoři."
+        ],
+        "correctAnswer": "Když zjistí, že stvořil děsivé monstrum, v hrůze prchne.",
+        "explanation": "Když Viktor zjistí, že stvořil děsivé monstrum, v hrůze prchne."
+    },
+    {
+        "id": "dilo_obsah_uceni_netvora",
+        "type": "multiple_choice",
+        "tags": [
+            "dilo_obsah",
+            "seznam_all",
+            "seznam_miro"
+        ],
+        "importance": 7,
+        "question": "Kde a jak získá netvor své schopnosti, jako je mluvení a čtení?",
+        "options": [
+            "Je lidmi odmítán a zahnán do lesů, kde se sám naučí mluvit a číst z odpozorování života jiných.",
+            "Naučí ho to Viktor během dlouhých sezení v laboratoři.",
+            "Naučí ho to slepý stařec v horském klášteře.",
+            "Tyto schopnosti měl vložené již při svém oživení."
+        ],
+        "correctAnswer": "Je lidmi odmítán a zahnán do lesů, kde se sám naučí mluvit a číst z odpozorování života jiných.",
+        "explanation": "Netvor, který je lidmi odmítán a zahnán do lesů, se naučí mluvit a číst."
+    },
+    {
+        "id": "dilo_obsah_prvni_vrazda",
+        "type": "multiple_choice",
+        "tags": [
+            "dilo_obsah",
+            "seznam_all",
+            "seznam_miro"
+        ],
+        "importance": 7,
+        "question": "Kdo je první obětí, kterou netvor ze msty zavraždí?",
+        "options": [
+            "Viktorův mladší bratr.",
+            "Viktorova snoubenka Alžběta.",
+            "Viktorův přítel Clerval.",
+            "Služka Justýna."
+        ],
+        "correctAnswer": "Viktorův mladší bratr.",
+        "explanation": "Netvor zahořkne a zavraždí Viktorova mladšího bratra."
+    },
+    {
+        "id": "dilo_obsah_nespravedliva_poprava",
+        "type": "flashcard",
+        "tags": [
+            "dilo_obsah",
+            "seznam_all",
+            "seznam_miro"
+        ],
+        "importance": 6,
+        "question": "Kdo je nespravedlivě popraven za vraždu Viktorova mladšího bratra?",
+        "options": [],
+        "correctAnswer": "Služka Justýna",
+        "explanation": "Za vraždu Viktorova bratra je nespravedlivě popravena služka Justýna."
+    },
+    {
+        "id": "dilo_obsah_pozadavek_netvora",
+        "type": "multiple_choice",
+        "tags": [
+            "dilo_obsah",
+            "seznam_all",
+            "seznam_miro"
+        ],
+        "importance": 8,
+        "question": "Co netvor požaduje po Viktorovi výměnou za to, že mu dá pokoj?",
+        "options": [
+            "Stvoření partnerky.",
+            "Aby ho Viktor veřejně uznal za svého syna.",
+            "Aby ho naučil číst a psát na mistrovské úrovni.",
+            "Zničení všech Viktorových vědeckých poznámek."
+        ],
+        "correctAnswer": "Stvoření partnerky.",
+        "explanation": "Následně po Viktorovi požaduje stvoření partnerky."
+    },
+    {
+        "id": "dilo_obsah_zniceni_druzky",
+        "type": "multiple_choice",
+        "tags": [
+            "dilo_obsah",
+            "seznam_all",
+            "seznam_miro"
+        ],
+        "importance": 8,
+        "question": "Jak Viktor zareaguje na požadavek vytvořit netvorovi družku?",
+        "options": [
+            "Z obavy o osud lidstva rozpracovanou družku zničí.",
+            "Odmítne rovnou s tím, že mu došly mrtvoly.",
+            "Družku dokončí a odevzdá ji netvorovi, který s ní odplouvá.",
+            "Družka po oživení sama uteče, protože se netvora štítí."
+        ],
+        "correctAnswer": "Z obavy o osud lidstva rozpracovanou družku zničí.",
+        "explanation": "Viktor z obavy o osud lidstva rozpracovanou družku zničí."
+    },
+    {
+        "id": "dilo_obsah_vrazda_clervala",
+        "type": "flashcard",
+        "tags": [
+            "dilo_obsah",
+            "seznam_all",
+            "seznam_miro"
+        ],
+        "importance": 6,
+        "question": "Jak se jmenuje Viktorův nejlepší přítel, kterého netvor zabije ze msty za zničení družky?",
+        "options": [],
+        "correctAnswer": "Clerval",
+        "explanation": "Netvor ze msty zabije Viktorova přítele Clervala."
+    },
+    {
+        "id": "dilo_obsah_smrt_alzbety",
+        "type": "multiple_choice",
+        "tags": [
+            "dilo_obsah",
+            "seznam_all",
+            "seznam_miro"
+        ],
+        "importance": 8,
+        "question": "Kdy je netvorem zavražděna Viktorova milovaná Alžběta?",
+        "options": [
+            "O svatební noci.",
+            "Hned poté, co se Viktor vrátí z Ingolstadtu.",
+            "Na lodi plující na severní pól.",
+            "Ve vězení, kde čeká na popravu."
+        ],
+        "correctAnswer": "O svatební noci.",
+        "explanation": "Netvor zabije o svatební noci i Viktorovu milovanou Alžbětu."
+    },
+    {
+        "id": "dilo_obsah_smrt_viktora",
+        "type": "multiple_choice",
+        "tags": [
+            "dilo_obsah",
+            "seznam_all",
+            "seznam_miro"
+        ],
+        "importance": 9,
+        "question": "Kde a jak umírá Viktor Frankenstein?",
+        "options": [
+            "Umírá vyčerpáním na lodi kapitána Waltona na severním pólu.",
+            "Zabije ho netvor v jeho vlastní laboratoři v Ingolstadtu.",
+            "Utopí se při pokusu utéct netvorovi na jezeře.",
+            "Zemře ve vězení po popravě Justýny z výčitek svědomí."
+        ],
+        "correctAnswer": "Umírá vyčerpáním na lodi kapitána Waltona na severním pólu.",
+        "explanation": "Viktor pronásleduje stvůru až na severní pól, kde vyčerpáním umírá na lodi kapitána Waltona."
+    },
+    {
+        "id": "dilo_obsah_osud_netvora",
+        "type": "multiple_choice",
+        "tags": [
+            "dilo_obsah",
+            "seznam_all",
+            "seznam_miro"
+        ],
+        "importance": 9,
+        "question": "Jaký je závěrečný osud netvora?",
+        "options": [
+            "Pociťuje výčitky svědomí nad mrtvým tělem tvůrce, slibuje sebevraždu a odplouvá na ledové kře.",
+            "Zabije Waltona a ujme se velení nad lodí plující na jih.",
+            "Vrátí se do Ingolstadtu, aby oživil Viktora.",
+            "Je zastřelen posádkou Waltonovy lodi, když se pokusí nastoupit."
+        ],
+        "correctAnswer": "Pociťuje výčitky svědomí nad mrtvým tělem tvůrce, slibuje sebevraždu a odplouvá na ledové kře.",
+        "explanation": "Netvor pociťuje výčitky svědomí, slibuje, že spáchá sebevraždu, a odplouvá na ledové kře pryč."
+    },
+    {
+        "id": "dilo_obsah_razeni_deje",
+        "type": "sorting",
+        "tags": [
+            "dilo_obsah",
+            "seznam_all",
+            "seznam_miro"
+        ],
+        "importance": 9,
+        "question": "Seřaďte události děje z románu Frankenstein chronologicky od nejstarší po nejnovější:",
+        "options": [
+            "Viktor oživí v Ingolstadtu netvora a z hrůzy prchne.",
+            "Netvor je společností zahnán do lesů, kde z osamělosti zahořkne.",
+            "Netvor zabije Viktorova bratra a následně požaduje stvoření partnerky.",
+            "Viktor zničí rozpracovanou družku, načež netvor zabije Clervala a Alžbětu.",
+            "Viktor pronásleduje netvora na severní pól, kde vyčerpáním umírá na Waltonově lodi."
+        ],
+        "correctAnswer": [
+            "Viktor oživí v Ingolstadtu netvora a z hrůzy prchne.",
+            "Netvor je společností zahnán do lesů, kde z osamělosti zahořkne.",
+            "Netvor zabije Viktorova bratra a následně požaduje stvoření partnerky.",
+            "Viktor zničí rozpracovanou družku, načež netvor zabije Clervala a Alžbětu.",
+            "Viktor pronásleduje netvora na severní pól, kde vyčerpáním umírá na Waltonově lodi."
+        ],
+        "explanation": "Chronologie: Oživení -> útěk a odvrhnutí netvora -> první vraždy a požadavek družky -> zničení družky a vraždy blízkých -> smrt na severním pólu."
+    },
+    {
+        "id": "dilo_obsah_hlavni_temata",
+        "type": "multiple_choice",
+        "tags": [
+            "dilo_obsah",
+            "seznam_all",
+            "seznam_miro"
+        ],
+        "importance": 9,
+        "question": "Co patří mezi hlavní témata a motivy románu Frankenstein?",
+        "options": [
+            "Zodpovědnost tvůrce za své dílo, nedomyšlení důsledků konání a samota.",
+            "Kritika totalitního režimu, newspeak a manipulace historie.",
+            "Nesmyslnost první světové války a ztracená generace.",
+            "Detektivní pátrání po zmizelém vědci pomocí dedukce."
+        ],
+        "correctAnswer": "Zodpovědnost tvůrce za své dílo, nedomyšlení důsledků konání a samota.",
+        "explanation": "Hlavními tématy jsou zodpovědnost tvůrce, nedomyšlení důsledků lidského konání, samota, nepochopení a pomsta."
+    },
+    {
+        "id": "dilo_titul_vyznam",
+        "type": "multiple_choice",
+        "tags": [
+            "dilo_titul",
+            "seznam_all",
+            "seznam_miro"
+        ],
+        "importance": 8,
+        "question": "K čemu odkazuje název románu 'Frankenstein'?",
+        "options": [
+            "Odkazuje na jméno stvořitele Viktora Frankensteina, nikoliv na samotného netvora.",
+            "Je to jméno samotného oživeného netvora.",
+            "Je to jméno lodi kapitána Waltona plující na severní pól.",
+            "Je to název hradu ve Švýcarských Alpách, kde se experiment konal."
+        ],
+        "correctAnswer": "Odkazuje na jméno stvořitele Viktora Frankensteina, nikoliv na samotného netvora.",
+        "explanation": "Název odkazuje na jméno hlavního hrdiny a stvořitele, Viktora Frankensteina, nikoliv na samotného netvora, jak bývá často mylně vnímáno."
+    },
+    {
+        "id": "jazyk_a_styl_atmosfera",
+        "type": "multiple_choice",
+        "tags": [
+            "jazyk_a_styl",
+            "seznam_all",
+            "seznam_miro"
+        ],
+        "importance": 7,
+        "question": "Jaká slova nejlépe vystihují atmosféru románu Frankenstein?",
+        "options": [
+            "Ponurá, děsivá, melancholická a tísnivá.",
+            "Veselá, optimistická a hravá.",
+            "Satirická, kousavá a politicky angažovaná.",
+            "Lyrická, oslavující prostý venkovský život."
+        ],
+        "correctAnswer": "Ponurá, děsivá, melancholická a tísnivá.",
+        "explanation": "Atmosféra románu je ponurá, děsivá, melancholická a tísnivá."
+    },
+    {
+        "id": "dilo_postavy_viktor_vyvoj",
+        "type": "multiple_choice",
+        "tags": [
+            "dilo_postavy",
+            "seznam_all",
+            "seznam_miro"
+        ],
+        "importance": 8,
+        "question": "Jakým psychologickým vývojem prochází Viktor Frankenstein?",
+        "options": [
+            "Od nadšeného a ambiciózního objevitele k ustaranému, zlomenému muži hnanému pocitem viny a touhou po pomstě.",
+            "Zpočátku je to cynický stařec, který na konci objeví lásku a smysl života.",
+            "Je to pasivní postava, která se od začátku do konce knihy nijak nemění.",
+            "Začíná jako náboženský fanatik a stane se z něj chladný racionalista."
+        ],
+        "correctAnswer": "Od nadšeného a ambiciózního objevitele k ustaranému, zlomenému muži hnanému pocitem viny a touhou po pomstě.",
+        "explanation": "Viktor prochází tragickým psychologickým vývojem od nadšeného objevitele k ustaranému, zlomenému muži hnanému pocitem viny."
+    },
+    {
+        "id": "dilo_postavy_netvor_vznik",
+        "type": "flashcard",
+        "tags": [
+            "dilo_postavy",
+            "seznam_all",
+            "seznam_miro"
+        ],
+        "importance": 8,
+        "question": "Jak netvor po fyzické stránce vznikl?",
+        "options": [],
+        "correctAnswer": "Spojením mrtvých těl",
+        "explanation": "Netvor vznikl spojením mrtvých těl (uměle ho vytvořil Viktor z částí mrtvol)."
+    },
+    {
+        "id": "dilo_postavy_netvor_motivace",
+        "type": "multiple_choice",
+        "tags": [
+            "dilo_postavy",
+            "seznam_all",
+            "seznam_miro"
+        ],
+        "importance": 8,
+        "question": "Co způsobilo, že se vývoj netvora stočil k čisté pomstychtivosti?",
+        "options": [
+            "Byl společností krutě odmítnut, neznal soucit a nevěděl, co je dobré a zlé, ačkoliv zpočátku prahl po lásce.",
+            "Byl tak naprogramován už při svém stvoření v Ingolstadtu.",
+            "Uštkl ho vzteklý vlk v alpských lesích.",
+            "Kapitán Walton ho na lodi fyzicky týral."
+        ],
+        "correctAnswer": "Byl společností krutě odmítnut, neznal soucit a nevěděl, co je dobré a zlé, ačkoliv zpočátku prahl po lásce.",
+        "explanation": "Jeho vývoj směřuje k pomstychtivosti, protože neznal soucit, byl společností krutě odmítnut a nevěděl, co je dobré a zlé."
+    },
+    {
+        "id": "dilo_postavy_alzbeta_role",
+        "type": "flashcard",
+        "tags": [
+            "dilo_postavy",
+            "seznam_all",
+            "seznam_miro"
+        ],
+        "importance": 7,
+        "question": "Jaký byl vztah Alžběty k Viktorovi Frankensteinovi?",
+        "options": [],
+        "correctAnswer": "Adoptivní sestra a později jeho snoubenka",
+        "explanation": "Alžběta byla adoptivní sestra a Viktorova snoubenka."
+    },
+    {
+        "id": "dilo_postavy_walton_role",
+        "type": "multiple_choice",
+        "tags": [
+            "dilo_postavy",
+            "seznam_all",
+            "seznam_miro"
+        ],
+        "importance": 7,
+        "question": "Kdo je Robert Walton?",
+        "options": [
+            "Kapitán zámořské lodi zkoumající severní pól, který zachrání Viktora a zapisuje jeho příběh.",
+            "Profesor přírodních věd na univerzitě v Ingolstadtu.",
+            "Soudce, který nespravedlivě odsoudil služku Justýnu k smrti.",
+            "Majitel hostince ve švýcarských Alpách, kam Viktor prchá."
+        ],
+        "correctAnswer": "Kapitán zámořské lodi zkoumající severní pól, který zachrání Viktora a zapisuje jeho příběh.",
+        "explanation": "Robert Walton je kapitán zámořské lodi zkoumající severní pól. Zachrání Viktora a zapisuje jeho příběh formou dopisů."
+    },
+    {
+        "id": "jazyk_a_styl_typ_vypravece",
+        "type": "flashcard",
+        "tags": [
+            "jazyk_a_styl",
+            "seznam_all",
+            "seznam_miro"
+        ],
+        "importance": 9,
+        "question": "V jaké formě (z hlediska mluvnické osoby) je příběh románu vyprávěn?",
+        "options": [],
+        "correctAnswer": "V ich-formě",
+        "explanation": "Příběh je vyprávěn v ich-formě, o kterou se dělí tři různí vypravěči."
+    },
+    {
+        "id": "jazyk_a_styl_pocet_vypravecu",
+        "type": "multiple_choice",
+        "tags": [
+            "jazyk_a_styl",
+            "seznam_all",
+            "seznam_miro"
+        ],
+        "importance": 9,
+        "question": "Kdo všechno se dělí o roli vypravěče v románu Frankenstein?",
+        "options": [
+            "Tři vypravěči: kapitán Walton, Viktor Frankenstein a samotný netvor.",
+            "Pouze jeden vypravěč: Viktor Frankenstein.",
+            "Dva vypravěči: Viktor a jeho snoubenka Alžběta.",
+            "Vševědoucí vypravěč (er-forma)."
+        ],
+        "correctAnswer": "Tři vypravěči: kapitán Walton, Viktor Frankenstein a samotný netvor.",
+        "explanation": "Příběh je vyprávěn v ich-formě, o kterou se dělí tři vypravěči: kapitán Walton, Viktor a netvor."
+    },
+    {
+        "id": "jazyk_a_styl_slovni_zasoba",
+        "type": "multiple_choice",
+        "tags": [
+            "jazyk_a_styl",
+            "seznam_all",
+            "seznam_miro"
+        ],
+        "importance": 7,
+        "question": "Jaké specifické prvky slovní zásoby najdeme ve Frankensteinovi?",
+        "options": [
+            "Jazyk obsahuje dnes již zastaralá slova a archaismy.",
+            "Text je plný moderního slangu a vulgarismů.",
+            "Dílo je napsáno formou argotu a londýnského dialektu.",
+            "Text využívá primárně newspeak a neologismy."
+        ],
+        "correctAnswer": "Jazyk obsahuje dnes již zastaralá slova a archaismy.",
+        "explanation": "Jazyk obsahuje zastaralá slova a archaismy, typické pro období vzniku díla."
+    },
+    {
+        "id": "jazyk_a_styl_stylisticke_prostredky",
+        "type": "multiple_choice",
+        "tags": [
+            "jazyk_a_styl",
+            "seznam_all",
+            "seznam_miro"
+        ],
+        "importance": 7,
+        "question": "Na co klade text z hlediska stylistických prostředků největší důraz?",
+        "options": [
+            "Na podrobné popisy přírody a vnitřních emočních hnutí typické pro romantismus.",
+            "Na krátké, úderné dialogy bez vnitřního prožívání postav.",
+            "Na faktografické reportáže a technické detaily experimentu.",
+            "Na absurdní komiku a satiru dobové společnosti."
+        ],
+        "correctAnswer": "Na podrobné popisy přírody a vnitřních emočních hnutí typické pro romantismus.",
+        "explanation": "Text klade důraz na zevrubné líčení, je plný podrobných popisů přírody a vnitřních emočních hnutí."
+    },
+    {
+        "id": "jazyk_a_styl_kompozice_hlavni",
+        "type": "multiple_choice",
+        "tags": [
+            "jazyk_a_styl",
+            "seznam_all",
+            "seznam_miro"
+        ],
+        "importance": 8,
+        "question": "Jakou specifickou kompozici využívá struktura románu Frankenstein?",
+        "options": [
+            "Rámcovou kompozici (vyprávění ukotvené ve Waltonových dopisech).",
+            "Paralelní kompozici (dva nezávislé děje probíhající současně).",
+            "Řetězovou kompozici (každá kapitola má jiného hlavního hrdinu bez spojitosti).",
+            "Mozaikovou kompozici (neuspořádané fragmenty bez časové osy)."
+        ],
+        "correctAnswer": "Rámcovou kompozici (vyprávění ukotvené ve Waltonových dopisech).",
+        "explanation": "Dílo využívá tzv. rámcovou kompozici, která je ukotvena ve Waltonových dopisech."
+    },
+    {
+        "id": "jazyk_a_styl_kompozice_vnitrni",
+        "type": "multiple_choice",
+        "tags": [
+            "jazyk_a_styl",
+            "seznam_all",
+            "seznam_miro"
+        ],
+        "importance": 8,
+        "question": "Jak je převážně vyprávěn děj uvnitř Waltonova 'rámce'?",
+        "options": [
+            "Převážně lineárně (chronologicky), avšak objevují se retrospektivní vsuvky, zejména když netvor vypráví svůj život.",
+            "Výhradně retrospektivně (od smrti Viktora k jeho narození).",
+            "Cyklicky (konec příběhu je naprosto shodný s jeho začátkem).",
+            "Děj nemá žádnou logickou návaznost a skáče náhodně v čase."
+        ],
+        "correctAnswer": "Převážně lineárně (chronologicky), avšak objevují se retrospektivní vsuvky, zejména když netvor vypráví svůj život.",
+        "explanation": "Děj uvnitř je vyprávěn převážně lineárně, avšak objevují se retrospektivní vsuvky (když netvor vypráví zpětně svou historii)."
+    },
+    {
+        "id": "rozbor_textu_funkcni_styl_noviny",
+        "type": "text_analysis",
+        "tags": [
+            "rozbor_textu",
+            "seznam_all",
+            "seznam_miro"
+        ],
+        "importance": 5,
+        "question": "Pokud byste u maturity obdrželi neumělecký text tvořený článkem v novinách (např. populárně-naučný článek o klonování), o jaký funkční styl by se jednalo?",
+        "options": [
+            "Publicistický",
+            "Administrativní",
+            "Prostěsdělovací",
+            "Umělecký"
+        ],
+        "correctAnswer": "Publicistický",
+        "explanation": "Článek v novinách nebo časopise spadá do publicistického funkčního stylu."
+    },
+    {
+        "id": "rozbor_textu_slohovy_postup_vyklad",
+        "type": "text_analysis",
+        "tags": [
+            "rozbor_textu",
+            "seznam_all",
+            "seznam_miro"
+        ],
+        "importance": 5,
+        "question": "Jaký slohový postup je použit v neuměleckém textu, pokud text vysvětluje souvislosti (např. jak biologicky funguje experiment)?",
+        "options": [
+            "Výkladový",
+            "Informační",
+            "Vyprávěcí",
+            "Popisný"
+        ],
+        "correctAnswer": "Výkladový",
+        "explanation": "Pokud text vysvětluje souvislosti, jedná se o výkladový slohový postup."
+    },
+    {
+        "id": "rozbor_textu_slohovy_postup_uvaha",
+        "type": "text_analysis",
+        "tags": [
+            "rozbor_textu",
+            "seznam_all",
+            "seznam_miro"
+        ],
+        "importance": 5,
+        "question": "O jaký slohový postup jde, pokud neumělecký text hodnotí problém a klade otázky (např. etika vědy)?",
+        "options": [
+            "Úvahový",
+            "Informační",
+            "Výkladový",
+            "Popisný"
+        ],
+        "correctAnswer": "Úvahový",
+        "explanation": "Slohový postup, který hodnotí situaci a klade otázky, je úvahový."
+    },
+    {
+        "id": "gramatika_zajmeno_ktery",
+        "type": "multiple_choice",
+        "tags": [
+            "gramatika",
+            "seznam_all",
+            "seznam_miro"
+        ],
+        "importance": 4,
+        "question": "Jaký druh zájmena je slovo „který“, zmíněné v sekci přípravy neuměleckého textu?",
+        "options": [
+            "Vztažné zájmeno",
+            "Ukazovací zájmeno",
+            "Přivlastňovací zájmeno",
+            "Osobní zájmeno"
+        ],
+        "correctAnswer": "Vztažné zájmeno",
+        "explanation": "Slovo „který“ je vztažné zájmeno."
+    },
+    {
+        "id": "definice_epika",
+        "type": "flashcard",
+        "tags": [
+            "definice",
+            "seznam_all",
+            "seznam_miro"
+        ],
+        "importance": 10,
+        "question": "Definujte pojem: Epika (podle studijního průvodce)",
+        "options": [],
+        "correctAnswer": "Literární druh založený na dějovosti a vyprávění příběhu.",
+        "explanation": "Epika je literární druh založený na dějovosti a vyprávění příběhu."
+    },
+    {
+        "id": "definice_proza",
+        "type": "flashcard",
+        "tags": [
+            "definice",
+            "seznam_all",
+            "seznam_miro"
+        ],
+        "importance": 10,
+        "question": "Definujte pojem: Próza (podle studijního průvodce)",
+        "options": [],
+        "correctAnswer": "Běžná forma textu, která není vázána pravidly verše a rýmu, člení se do odstavců a kapitol.",
+        "explanation": "Próza je běžná forma textu nevázaná verši, člení se do odstavců a kapitol."
+    },
+    {
+        "id": "definice_goticky_roman",
+        "type": "flashcard",
+        "tags": [
+            "definice",
+            "seznam_all",
+            "seznam_miro"
+        ],
+        "importance": 10,
+        "question": "Definujte pojem: Gotický román (podle studijního průvodce)",
+        "options": [],
+        "correctAnswer": "Literární žánr plný tajuplnosti, děsu, středověkých kulis a tajemných prvků; přímý předchůdce hororu.",
+        "explanation": "Gotický román je žánr plný tajuplnosti a děsu, předchůdce hororu."
+    },
+    {
+        "id": "definice_horor",
+        "type": "flashcard",
+        "tags": [
+            "definice",
+            "seznam_all",
+            "seznam_miro"
+        ],
+        "importance": 10,
+        "question": "Definujte pojem: Horor (podle studijního průvodce)",
+        "options": [],
+        "correctAnswer": "Žánr, jehož primárním estetickým cílem je u čtenáře vyvolat pocit napětí, strachu a hrůzy.",
+        "explanation": "Horor má za primární estetický cíl vyvolat napětí a strach."
+    },
+    {
+        "id": "definice_romantismus",
+        "type": "flashcard",
+        "tags": [
+            "definice",
+            "seznam_all",
+            "seznam_miro"
+        ],
+        "importance": 10,
+        "question": "Definujte pojem: Romantismus (podle studijního průvodce)",
+        "options": [],
+        "correctAnswer": "Umělecký směr 19. století zaměřený na silné city, vnitřní prožitky jedince, nespoutanou přírodu a osamoceného (často trýzněného) hrdinu.",
+        "explanation": "Romantismus je směr zaměřený na city, nitro jedince a nespoutanou přírodu."
+    },
+    {
+        "id": "definice_ich_forma",
+        "type": "flashcard",
+        "tags": [
+            "definice",
+            "seznam_all",
+            "seznam_miro"
+        ],
+        "importance": 10,
+        "question": "Definujte pojem: Ich-forma (podle studijního průvodce)",
+        "options": [],
+        "correctAnswer": "Vyprávění v první osobě jednotného čísla (\"já\"), vypravěč je zpravidla přímým účastníkem děje.",
+        "explanation": "Ich-forma je vyprávění v první osobě (\"já\"), kde je vypravěč účastníkem děje."
+    },
+    {
+        "id": "definice_archaismus",
+        "type": "flashcard",
+        "tags": [
+            "definice",
+            "seznam_all",
+            "seznam_miro"
+        ],
+        "importance": 10,
+        "question": "Definujte pojem: Archaismus (podle studijního průvodce)",
+        "options": [],
+        "correctAnswer": "Zastaralý jazykový prvek, slovo či obrat, který se v běžné moderní řeči již aktivně nepoužívá.",
+        "explanation": "Archaismus je zastaralé slovo či obrat, nepoužívané v moderní řeči."
+    },
+    {
+        "id": "definice_ramcova_kompozice",
+        "type": "flashcard",
+        "tags": [
+            "definice",
+            "seznam_all",
+            "seznam_miro"
+        ],
+        "importance": 10,
+        "question": "Definujte pojem: Rámcová kompozice (podle studijního průvodce)",
+        "options": [],
+        "correctAnswer": "Způsob výstavby děje, kdy jeden hlavní příběh (rámec) do sebe vkládá nebo uzavírá jeden či více dalších nezávislých příběhů.",
+        "explanation": "Při rámcové kompozici jeden hlavní příběh uzavírá do sebe další příběhy."
+    },
+    {
+        "id": "definice_linearni_kompozice",
+        "type": "flashcard",
+        "tags": [
+            "definice",
+            "seznam_all",
+            "seznam_miro"
+        ],
+        "importance": 10,
+        "question": "Definujte pojem: Lineární (chronologická) kompozice (podle studijního průvodce)",
+        "options": [],
+        "correctAnswer": "Děj plyne přirozeně a logicky za sebou od začátku do konce tak, jak se události v čase postupně udály.",
+        "explanation": "Lineární kompozice znamená, že děj plyne chronologicky od začátku do konce."
+    },
+    {
+        "id": "definice_retrospektiva",
+        "type": "flashcard",
+        "tags": [
+            "definice",
+            "seznam_all",
+            "seznam_miro"
+        ],
+        "importance": 10,
+        "question": "Definujte pojem: Retrospektiva (podle studijního průvodce)",
+        "options": [],
+        "correctAnswer": "Zpětný návrat do minulosti v kompozici děje, popis událostí, které předcházely současnému bodu vyprávění.",
+        "explanation": "Retrospektiva je zpětný návrat děje do minulosti."
+    },
+    {
+        "id": "definice_metafora",
+        "type": "flashcard",
+        "tags": [
+            "definice",
+            "seznam_all",
+            "seznam_miro"
+        ],
+        "importance": 10,
+        "question": "Definujte pojem: Metafora (podle studijního průvodce)",
+        "options": [],
+        "correctAnswer": "Přenesení významu na základě vnější podobnosti (např. přikován k zemi).",
+        "explanation": "Metafora je přenesení významu založené na vnější podobnosti."
+    },
+    {
+        "id": "definice_prirovnani",
+        "type": "flashcard",
+        "tags": [
+            "definice",
+            "seznam_all",
+            "seznam_miro"
+        ],
+        "importance": 10,
+        "question": "Definujte pojem: Přirovnání (podle studijního průvodce)",
+        "options": [],
+        "correctAnswer": "Pojmenování založené na srovnání dvou jevů podle jejich společného znaku (často s využitím spojky \"jako\").",
+        "explanation": "Přirovnání srovnává dva jevy na základě společného znaku, často pomocí \"jako\"."
+    },
+    {
+        "id": "definice_personifikace",
+        "type": "flashcard",
+        "tags": [
+            "definice",
+            "seznam_all",
+            "seznam_miro"
+        ],
+        "importance": 10,
+        "question": "Definujte pojem: Personifikace (podle studijního průvodce)",
+        "options": [],
+        "correctAnswer": "Zosobnění; přenesení lidských vlastností a schopností na neživé předměty nebo abstraktní pojmy.",
+        "explanation": "Personifikace je přenesení lidských vlastností na neživé předměty."
+    },
+    {
+        "id": "definice_synekdocha",
+        "type": "flashcard",
+        "tags": [
+            "definice",
+            "seznam_all",
+            "seznam_miro"
+        ],
+        "importance": 10,
+        "question": "Definujte pojem: Synekdocha (podle studijního průvodce)",
+        "options": [],
+        "correctAnswer": "Týká se nahrazení pojmenování celku za jeho část, nebo naopak (např. od hlavy až k patě).",
+        "explanation": "Synekdocha je nahrazení pojmenování celku jeho částí nebo naopak."
+    },
+    {
+        "id": "jazyk_a_styl_ukazka_metafory",
+        "type": "multiple_choice",
+        "tags": [
+            "jazyk_a_styl",
+            "seznam_all",
+            "seznam_miro"
+        ],
+        "importance": 5,
+        "question": "Které z následujících spojení je ve studijním průvodci uvedeno jako příklad metafory?",
+        "options": [
+            "přikován k zemi",
+            "jako by se někdo snažil...",
+            "od hlavy až k patě",
+            "dveře se otevřely"
+        ],
+        "correctAnswer": "přikován k zemi",
+        "explanation": "Spojení „přikován k zemi“ je v textu uvedeno jako příklad metafory (přenesení významu na základě vnější podobnosti)."
+    },
+    {
+        "id": "jazyk_a_styl_ukazka_prirovnani",
+        "type": "multiple_choice",
+        "tags": [
+            "jazyk_a_styl",
+            "seznam_all",
+            "seznam_miro"
+        ],
+        "importance": 5,
+        "question": "Které z následujících spojení je ve studijním průvodci uvedeno jako příklad přirovnání?",
+        "options": [
+            "jako by se někdo snažil...",
+            "přikován k zemi",
+            "od hlavy až k patě",
+            "dveře se otevřely"
+        ],
+        "correctAnswer": "jako by se někdo snažil...",
+        "explanation": "Spojení „jako by se někdo snažil...“ je v textu uvedeno jako příklad přirovnání."
+    },
+    {
+        "id": "jazyk_a_styl_ukazka_synekdochy",
+        "type": "multiple_choice",
+        "tags": [
+            "jazyk_a_styl",
+            "seznam_all",
+            "seznam_miro"
+        ],
+        "importance": 5,
+        "question": "Které z následujících spojení je ve studijním průvodci uvedeno jako příklad synekdochy?",
+        "options": [
+            "od hlavy až k patě",
+            "jako by se někdo snažil...",
+            "přikován k zemi",
+            "dveře se otevřely"
+        ],
+        "correctAnswer": "od hlavy až k patě",
+        "explanation": "Spojení „od hlavy až k patě“ je v textu uvedeno jako příklad synekdochy (část za celek/celek za část)."
+    },
+    {
+        "id": "jazyk_a_styl_ukazka_personifikace",
+        "type": "multiple_choice",
+        "tags": [
+            "jazyk_a_styl",
+            "seznam_all",
+            "seznam_miro"
+        ],
+        "importance": 5,
+        "question": "Které z následujících spojení je ve studijním průvodci (trochu netradičně) uvedeno jako ilustrativní příklad pro personifikaci?",
+        "options": [
+            "dveře se otevřely",
+            "od hlavy až k patě",
+            "přikován k zemi",
+            "jako by se někdo snažil..."
+        ],
+        "correctAnswer": "dveře se otevřely",
+        "explanation": "Text uvádí „dveře se otevřely“ jako zástupný příklad v kategorii personifikace."
+    },
+    {
+        "id": "definice_vsechny_pojmy_matching",
+        "type": "matching",
+        "tags": [
+            "definice",
+            "seznam_all",
+            "seznam_miro"
+        ],
+        "importance": 10,
+        "question": "Přiřaďte správnou definici k literárnímu pojmu:",
+        "options": [
+            "Ich-forma",
+            "Rámcová kompozice",
+            "Retrospektiva",
+            "Gotický román"
+        ],
+        "correctAnswer": [
+            "Ich-forma == Vyprávění v první osobě jednotného čísla ('já'), vypravěč je zpravidla přímým účastníkem děje.",
+            "Rámcová kompozice == Způsob výstavby děje, kdy jeden hlavní příběh do sebe vkládá další nezávislé příběhy.",
+            "Retrospektiva == Zpětný návrat do minulosti v kompozici děje, popis předchozích událostí.",
+            "Gotický román == Literární žánr plný tajuplnosti, děsu, středověkých kulis; předchůdce hororu."
+        ],
+        "explanation": "Správná definice literárních pojmů podle závěrečné slovníčkové části průvodce."
+    }
+]

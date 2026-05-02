@@ -1,0 +1,1085 @@
+[
+    {
+        "id": "autor_zivot_hemingway_roky",
+        "type": "multiple_choice",
+        "tags": [
+            "autor_zivot",
+            "seznam_all",
+            "seznam_miro"
+        ],
+        "importance": 3,
+        "question": "Ve kterých letech žil americký spisovatel Ernest Hemingway?",
+        "options": [
+            "1899–1961",
+            "1890–1938",
+            "1903–1950",
+            "1883–1924"
+        ],
+        "correctAnswer": "1899–1961",
+        "explanation": "Ernest Hemingway žil v letech 1899–1961."
+    },
+    {
+        "id": "autor_zivot_hemingway_povolani",
+        "type": "multiple_choice",
+        "tags": [
+            "autor_zivot",
+            "seznam_all",
+            "seznam_miro"
+        ],
+        "importance": 4,
+        "question": "Kromě toho, že byl Ernest Hemingway romanopisec a povídkář, působil také jako:",
+        "options": [
+            "Publicista a novinář",
+            "Lékař a chirurg",
+            "Politik a senátor",
+            "Kněz a misionář"
+        ],
+        "correctAnswer": "Publicista a novinář",
+        "explanation": "Hemingway byl americký spisovatel, romanopisec, povídkář a publicista, působil mimo jiné jako novinář v Paříži."
+    },
+    {
+        "id": "autor_zivot_hemingway_ww1",
+        "type": "multiple_choice",
+        "tags": [
+            "autor_zivot",
+            "seznam_all",
+            "seznam_miro"
+        ],
+        "importance": 5,
+        "question": "Jakým způsobem se Ernest Hemingway zapojil do 1. světové války?",
+        "options": [
+            "Odešel jako dobrovolník k sanitním oddílům na italskou frontu.",
+            "Byl odveden k pěchotě a bojoval v zákopech ve Francii.",
+            "Sloužil jako stíhací pilot v britském letectvu.",
+            "Válce se vyhnul a emigroval do Švýcarska."
+        ],
+        "correctAnswer": "Odešel jako dobrovolník k sanitním oddílům na italskou frontu.",
+        "explanation": "V mládí odešel jako dobrovolník k sanitním oddílům na italskou frontu 1. světové války, kde byl těžce raněn."
+    },
+    {
+        "id": "autor_zivot_hemingway_pariz",
+        "type": "flashcard",
+        "tags": [
+            "autor_zivot",
+            "seznam_all",
+            "seznam_miro"
+        ],
+        "importance": 4,
+        "question": "Ve kterém evropském městě působil Hemingway po 1. světové válce jako novinář?",
+        "options": [],
+        "correctAnswer": "V Paříži.",
+        "explanation": "Hemingway působil jako novinář v Paříži."
+    },
+    {
+        "id": "autor_zivot_hemingway_konicky",
+        "type": "multiple_choice",
+        "tags": [
+            "autor_zivot",
+            "seznam_all",
+            "seznam_miro"
+        ],
+        "importance": 4,
+        "question": "Jaké byly hlavní záliby Ernesta Hemingwaye, které se často promítaly i do jeho tvorby a života?",
+        "options": [
+            "Cestování, lov a nebezpečí",
+            "Zahradničení a botanika",
+            "Malování a sochařství",
+            "Sběratelství známek a historie"
+        ],
+        "correctAnswer": "Cestování, lov a nebezpečí",
+        "explanation": "Hemingway miloval cestování, lov a nebezpečí."
+    },
+    {
+        "id": "autor_zivot_hemingway_dalsi_valky",
+        "type": "multiple_choice",
+        "tags": [
+            "autor_zivot",
+            "seznam_all",
+            "seznam_miro"
+        ],
+        "importance": 5,
+        "question": "Kromě 1. světové války se Hemingway účastnil jako válečný zpravodaj také:",
+        "options": [
+            "Španělské občanské války a 2. světové války",
+            "Korejské války a války ve Vietnamu",
+            "Krymské války a búrských válek",
+            "Rusko-japonské války"
+        ],
+        "correctAnswer": "Španělské občanské války a 2. světové války",
+        "explanation": "Účastnil se jako válečný zpravodaj španělské občanské války a 2. světové války."
+    },
+    {
+        "id": "autor_zivot_hemingway_kuba",
+        "type": "flashcard",
+        "tags": [
+            "autor_zivot",
+            "seznam_all",
+            "seznam_miro"
+        ],
+        "importance": 5,
+        "question": "Ve které ostrovní zemi Ernest Hemingway žil dlouhá léta a kam je také zasazen děj novely Stařec a moře?",
+        "options": [],
+        "correctAnswer": "Na Kubě.",
+        "explanation": "Dlouhá léta žil na Kubě a děj Starce a moře je zasazen do kubánské vesnice."
+    },
+    {
+        "id": "autor_zivot_hemingway_smrt",
+        "type": "multiple_choice",
+        "tags": [
+            "autor_zivot",
+            "seznam_all",
+            "seznam_miro"
+        ],
+        "importance": 6,
+        "question": "Jakým způsobem zemřel Ernest Hemingway?",
+        "options": [
+            "Spáchal sebevraždu kvůli těžkým duševním depresím.",
+            "Zemřel na zranění utržená ve španělské občanské válce.",
+            "Zahynul při tragické nehodě během lovu v Africe.",
+            "Zemřel na tuberkulózu v pařížské nemocnici."
+        ],
+        "correctAnswer": "Spáchal sebevraždu kvůli těžkým duševním depresím.",
+        "explanation": "Ke konci života bojoval s těžkými duševními depresemi, které ho dohnaly až k sebevraždě."
+    },
+    {
+        "id": "autor_zivot_hemingway_pulitzer",
+        "type": "flashcard",
+        "tags": [
+            "autor_zivot",
+            "seznam_all",
+            "seznam_miro"
+        ],
+        "importance": 4,
+        "question": "Které významné americké literární ocenění získal Hemingway v roce 1953?",
+        "options": [],
+        "correctAnswer": "Pulitzerovu cenu.",
+        "explanation": "V roce 1953 získal Hemingway Pulitzerovu cenu."
+    },
+    {
+        "id": "autor_zivot_hemingway_nobelova",
+        "type": "flashcard",
+        "tags": [
+            "autor_zivot",
+            "seznam_all",
+            "seznam_miro"
+        ],
+        "importance": 5,
+        "question": "Které nejvyšší světové ocenění za literaturu získal Ernest Hemingway v roce 1954?",
+        "options": [],
+        "correctAnswer": "Nobelovu cenu za literaturu.",
+        "explanation": "Získal Nobelovu cenu za literaturu v roce 1954."
+    },
+    {
+        "id": "literarni_teorie_smer",
+        "type": "multiple_choice",
+        "tags": [
+            "literarni_teorie",
+            "seznam_all",
+            "seznam_miro"
+        ],
+        "importance": 9,
+        "question": "Do jakého literárního období a směru řadíme dílo Ernesta Hemingwaye?",
+        "options": [
+            "Světová literatura 1. pol. 20. století, realismus, ztracená generace",
+            "Světová literatura 19. století, romantismus, prokletí básníci",
+            "Světová literatura 2. pol. 20. století, postmodernismus, magický realismus",
+            "Česká meziválečná literatura, poetismus, Devětsil"
+        ],
+        "correctAnswer": "Světová literatura 1. pol. 20. století, realismus, ztracená generace",
+        "explanation": "Patří do světové literatury 1. poloviny 20. století, jedná se o realismus a Hemingway se řadí ke ztracené generaci."
+    },
+    {
+        "id": "literarni_teorie_ztracena_gen_kontext",
+        "type": "multiple_choice",
+        "tags": [
+            "literarni_teorie",
+            "seznam_all",
+            "seznam_miro"
+        ],
+        "importance": 8,
+        "question": "Co charakterizuje autory tzv. ztracené generace?",
+        "options": [
+            "Promítali do děl pocity vojáků z 1. světové války, duševní zmrzačení a neschopnost najít smysl života.",
+            "Psali utopické romány varující před rozvojem moderních technologií a totalitními režimy.",
+            "Zaměřovali se na oslavu národního obrození a sbírání lidové ústní slovesnosti.",
+            "Tvořili absurdní dramata, kde jazyk ztrácí svou dorozumívací funkci."
+        ],
+        "correctAnswer": "Promítali do děl pocity vojáků z 1. světové války, duševní zmrzačení a neschopnost najít smysl života.",
+        "explanation": "Ztracená generace označuje autory zasažené hrůzami 1. světové války, kteří vyjadřují pocity vojáků neschopných zařadit se do života."
+    },
+    {
+        "id": "literarni_teorie_dalsi_dila",
+        "type": "multiple_choice",
+        "tags": [
+            "literarni_teorie",
+            "seznam_all",
+            "seznam_miro"
+        ],
+        "importance": 6,
+        "question": "Která další významná díla napsal Ernest Hemingway?",
+        "options": [
+            "Sbohem, armádo; Komu zvoní hrana",
+            "Na západní frontě klid; Tři kamarádi",
+            "Velký Gatsby; Něžná je noc",
+            "Farma zvířat; 1984"
+        ],
+        "correctAnswer": "Sbohem, armádo; Komu zvoní hrana",
+        "explanation": "Mezi další Hemingwayova díla patří Sbohem, armádo a Komu zvoní hrana."
+    },
+    {
+        "id": "literarni_teorie_remarque_podobnost",
+        "type": "multiple_choice",
+        "tags": [
+            "literarni_teorie",
+            "seznam_all",
+            "seznam_miro"
+        ],
+        "importance": 8,
+        "question": "V čem spočívá literární podobnost mezi Hemingwayem a E. M. Remarquem (autorem knihy Na západní frontě klid)?",
+        "options": [
+            "Oba patří ke ztracené generaci, zaměřují se na člověka v mezních situacích a oceňují lidskou solidaritu.",
+            "Oba se proslavili psaním sci-fi románů a vizí dystopické budoucnosti.",
+            "Oba psali výhradně detektivní romány plné logických dedukcí.",
+            "Oba patřili mezi českou meziválečnou avantgardu a zakládali Devětsil."
+        ],
+        "correctAnswer": "Oba patří ke ztracené generaci, zaměřují se na člověka v mezních situacích a oceňují lidskou solidaritu.",
+        "explanation": "Oba tito autoři patří k hnutí ztracené generace, zaměřují se na lidi v mezních situacích a cení si lidské solidarity a přátelství."
+    },
+    {
+        "id": "literarni_teorie_remarque_rozdil",
+        "type": "multiple_choice",
+        "tags": [
+            "literarni_teorie",
+            "seznam_all",
+            "seznam_miro"
+        ],
+        "importance": 8,
+        "question": "V čem se naopak liší dílo E. M. Remarqua (Na západní frontě klid) od Hemingwayova Starce a moře?",
+        "options": [
+            "Remarque líčí zákopovou válku a deziluzi, zatímco Hemingway boj rybáře s přírodou za nalezení vnitřní síly.",
+            "Remarque se odehrává v Americe 20. let, zatímco Hemingwayův příběh se odehrává v nacistickém Německu.",
+            "Remarque využívá výhradně magického realismu, zatímco Hemingway píše absurdní drama.",
+            "Remarque se soustředí na vyšší společenskou třídu v New Yorku, zatímco Hemingway líčí chudé rybáře."
+        ],
+        "correctAnswer": "Remarque líčí zákopovou válku a deziluzi, zatímco Hemingway boj rybáře s přírodou za nalezení vnitřní síly.",
+        "explanation": "Remarque se zaměřuje na hrůzy zákopové války a naprostou deziluzi hrdiny, zatímco Hemingwayův Santiago bojuje sám na moři a přes prohru nachází vnitřní sílu."
+    },
+    {
+        "id": "literarni_teorie_fitzgerald_podobnost",
+        "type": "multiple_choice",
+        "tags": [
+            "literarni_teorie",
+            "seznam_all",
+            "seznam_miro"
+        ],
+        "importance": 8,
+        "question": "Co spojuje Hemingwaye a F. S. Fitzgeralda (autora Velkého Gatsbyho)?",
+        "options": [
+            "Oba spisovatelé tvořili ve stejném historickém období a řadí se ke ztracené generaci.",
+            "Oba psali utopická a antiutopická díla varující před cenzurou.",
+            "Oba sloužili jako vojáci v československých legiích na Rusi.",
+            "Oba se primárně zaměřovali na téma rybolovu na Dálném východě."
+        ],
+        "correctAnswer": "Oba spisovatelé tvořili ve stejném historickém období a řadí se ke ztracené generaci.",
+        "explanation": "Oba spisovatelé tvořili ve stejném historickém období (ztracená generace)."
+    },
+    {
+        "id": "literarni_teorie_fitzgerald_rozdil",
+        "type": "multiple_choice",
+        "tags": [
+            "literarni_teorie",
+            "seznam_all",
+            "seznam_miro"
+        ],
+        "importance": 8,
+        "question": "Jaký je hlavní tematický rozdíl mezi Velkým Gatsbym (Fitzgerald) a Starcem a mořem (Hemingway)?",
+        "options": [
+            "Fitzgerald kritizuje vyšší společnost a povrchnost v New Yorku, Hemingway ukazuje prostý boj chudého rybáře s přírodou.",
+            "Fitzgerald líčí hrůzy zákopové války ve Francii, Hemingway zasazuje děj do prostředí americké mafie.",
+            "Fitzgerald se zabývá životem židovské rodiny za protektorátu, Hemingway se věnuje historii 19. století.",
+            "Fitzgerald píše o dystopické společnosti bez knih, Hemingway píše komedie o anglické šlechtě."
+        ],
+        "correctAnswer": "Fitzgerald kritizuje vyšší společnost a povrchnost v New Yorku, Hemingway ukazuje prostý boj chudého rybáře s přírodou.",
+        "explanation": "Fitzgerald se věnuje kritice vyšší vrstvy a amerického snu v New Yorku, kdežto Hemingway ukazuje syrový boj starého rybáře proti živlům."
+    },
+    {
+        "id": "literarni_teorie_pavel_podobnost",
+        "type": "multiple_choice",
+        "tags": [
+            "literarni_teorie",
+            "seznam_all",
+            "seznam_miro"
+        ],
+        "importance": 8,
+        "question": "Jaké společné motivy lze najít u Hemingwaye a Oty Pavla (Smrt krásných srnců)?",
+        "options": [
+            "Hluboký respekt k přírodě a využití motivu rybaření jako obrazu houževnatosti a lásky k životu.",
+            "Kritiku totality, sledování občana kamerami a vytváření fiktivních nepřátel státu.",
+            "Popis aristokratických slavností, bálů a milostných intrik ve vyšší společnosti.",
+            "Zobrazení absurdních situací na byrokratických úřadech během první světové války."
+        ],
+        "correctAnswer": "Hluboký respekt k přírodě a využití motivu rybaření jako obrazu houževnatosti a lásky k životu.",
+        "explanation": "Oba autoři zachycují posvátný vztah a respekt k přírodě, přičemž využívají motiv rybaření jako obraz houževnatosti."
+    },
+    {
+        "id": "literarni_teorie_pavel_rozdil",
+        "type": "multiple_choice",
+        "tags": [
+            "literarni_teorie",
+            "seznam_all",
+            "seznam_miro"
+        ],
+        "importance": 8,
+        "question": "V čem se zásadně liší dílo Smrt krásných srnců od Starce a moře?",
+        "options": [
+            "Pavel píše autobiograficky o židovské rodině za protektorátu, Hemingway vytváří univerzální nadčasové podobenství z izolovaného oceánu.",
+            "Pavel vytváří antiutopický román o totalitě, zatímco Hemingway píše humornou satiru na armádu.",
+            "Pavel zasazuje děj do budoucnosti na cizí planetu, Hemingway striktně popisuje reálnou současnost v Paříži.",
+            "Pavel píše formou dramatu pro divadlo, zatímco Hemingway využívá volného verše v poezii."
+        ],
+        "correctAnswer": "Pavel píše autobiograficky o židovské rodině za protektorátu, Hemingway vytváří univerzální nadčasové podobenství z izolovaného oceánu.",
+        "explanation": "Pavel se vrací k autobiografickým vzpomínkám v reálném českém prostředí během protektorátu, zatímco Hemingwayův příběh funguje jako univerzální nadčasové podobenství."
+    },
+    {
+        "id": "literarni_teorie_druh",
+        "type": "flashcard",
+        "tags": [
+            "literarni_teorie",
+            "seznam_all",
+            "seznam_miro"
+        ],
+        "importance": 9,
+        "question": "Jaký je literární druh díla Stařec a moře?",
+        "options": [],
+        "correctAnswer": "Epika.",
+        "explanation": "Dílo Stařec a moře je literárním druhem epika."
+    },
+    {
+        "id": "literarni_teorie_zanr",
+        "type": "flashcard",
+        "tags": [
+            "literarni_teorie",
+            "seznam_all",
+            "seznam_miro"
+        ],
+        "importance": 9,
+        "question": "Jaký je literární žánr díla Stařec a moře?",
+        "options": [],
+        "correctAnswer": "Novela.",
+        "explanation": "Stařec a moře je podle žánru novela."
+    },
+    {
+        "id": "literarni_teorie_forma",
+        "type": "flashcard",
+        "tags": [
+            "literarni_teorie",
+            "seznam_all",
+            "seznam_miro"
+        ],
+        "importance": 9,
+        "question": "Jakou literární formou je psáno dílo Stařec a moře?",
+        "options": [],
+        "correctAnswer": "Próza.",
+        "explanation": "Kniha je napsána formou prózy."
+    },
+    {
+        "id": "dilo_obsah_casoprostor_doba",
+        "type": "multiple_choice",
+        "tags": [
+            "dilo_obsah",
+            "seznam_all",
+            "seznam_miro"
+        ],
+        "importance": 6,
+        "question": "Do jakého období je zasazen děj novely Stařec a moře?",
+        "options": [
+            "Do 40. let 20. století",
+            "Do období 1. světové války",
+            "Do 80. let 19. století",
+            "Do blíže neurčené utopické budoucnosti"
+        ],
+        "correctAnswer": "Do 40. let 20. století",
+        "explanation": "Děj se odehrává ve 40. letech 20. století."
+    },
+    {
+        "id": "dilo_obsah_casoprostor_misto",
+        "type": "flashcard",
+        "tags": [
+            "dilo_obsah",
+            "seznam_all",
+            "seznam_miro"
+        ],
+        "importance": 7,
+        "question": "Kde přesně se odehrává děj novely Stařec a moře?",
+        "options": [],
+        "correctAnswer": "V kubánské vesnici poblíž Havany a na širém moři.",
+        "explanation": "Děj knihy se odehrává v kubánské vesnici u Havany a na moři."
+    },
+    {
+        "id": "dilo_obsah_ulovek",
+        "type": "flashcard",
+        "tags": [
+            "dilo_obsah",
+            "seznam_all",
+            "seznam_miro"
+        ],
+        "importance": 8,
+        "question": "Jakou konkrétní rybu uloví stařec Santiago na moři?",
+        "options": [],
+        "correctAnswer": "Obrovského mečounovitého marlina.",
+        "explanation": "Santiago uloví obrovského mečounovitého marlina, který pro něj představuje rovnocenného protivníka."
+    },
+    {
+        "id": "dilo_obsah_boj_s_rybou",
+        "type": "multiple_choice",
+        "tags": [
+            "dilo_obsah",
+            "seznam_all",
+            "seznam_miro"
+        ],
+        "importance": 7,
+        "question": "Jak probíhá Santiagův boj se samotnou ulovenou rybou?",
+        "options": [
+            "Je to dlouhý a vyčerpávající boj na pokraji lidských sil s rovnocenným protivníkem.",
+            "Rybu chytí velmi rychle pomocí motorového člunu a moderní harpuny.",
+            "Ryba se ihned po chycení vzdá a stařec ji bez námahy vytáhne.",
+            "Stařec rybu nedokáže chytit a vrací se s prázdnou rovnou domů."
+        ],
+        "correctAnswer": "Je to dlouhý a vyčerpávající boj na pokraji lidských sil s rovnocenným protivníkem.",
+        "explanation": "Stařec svedl s rybou dlouhý a vyčerpávající boj na pokraji lidských sil, ryba je jeho rovnocenným protivníkem."
+    },
+    {
+        "id": "dilo_obsah_zraloci",
+        "type": "flashcard",
+        "tags": [
+            "dilo_obsah",
+            "seznam_all",
+            "seznam_miro"
+        ],
+        "importance": 8,
+        "question": "Co se stane poté, co Santiago marlina definitivně uloví a zabije?",
+        "options": [],
+        "correctAnswer": "Rybí krev přiláká žraloky.",
+        "explanation": "Když marlina uloví, unikající rybí krev přiláká k loďce žraloky."
+    },
+    {
+        "id": "dilo_obsah_boj_zraloci_vysledek",
+        "type": "multiple_choice",
+        "tags": [
+            "dilo_obsah",
+            "seznam_all",
+            "seznam_miro"
+        ],
+        "importance": 8,
+        "question": "Jak dopadne krvavý souboj starce se žraloky?",
+        "options": [
+            "Žralokům se nakonec podaří celý úlovek sežrat.",
+            "Stařec všechny žraloky zabije a rybu zachrání v celku.",
+            "Žraloci překotí loďku a starce sežerou i s úlovkem.",
+            "Na pomoc mu přijedou ostatní rybáři a žraloky zaženou."
+        ],
+        "correctAnswer": "Žralokům se nakonec podaří celý úlovek sežrat.",
+        "explanation": "Santiago sice se žraloky krvavě bojuje, ale nakonec se jim podaří úlovek sežrat."
+    },
+    {
+        "id": "dilo_obsah_navrat",
+        "type": "flashcard",
+        "tags": [
+            "dilo_obsah",
+            "seznam_all",
+            "seznam_miro"
+        ],
+        "importance": 9,
+        "question": "Co přesně přiveze Santiago zpět do domovského přístavu?",
+        "options": [],
+        "correctAnswer": "Pouze obří rybí kostru.",
+        "explanation": "Po útoku žraloků stařec do přístavu přiveze pouze obří rybí kostru."
+    },
+    {
+        "id": "dilo_obsah_chronologie_deje",
+        "type": "sorting",
+        "tags": [
+            "dilo_obsah",
+            "seznam_all",
+            "seznam_miro"
+        ],
+        "importance": 5,
+        "question": "Seřaďte události v novele Stařec a moře tak, jak chronologicky následovaly za sebou:",
+        "options": [
+            "Stařec Santiago vyráží sám s loďkou na moře.",
+            "Na udici se chytí obrovský marlin a táhne loď na širé moře.",
+            "Po vyčerpávajícím boji stařec rybu zabije.",
+            "Krev z ryby přiláká první žraloky.",
+            "Žraloci sežerou maso a stařec se vrací do přístavu jen s kostrou."
+        ],
+        "correctAnswer": [
+            "Stařec Santiago vyráží sám s loďkou na moře.",
+            "Na udici se chytí obrovský marlin a táhne loď na širé moře.",
+            "Po vyčerpávajícím boji stařec rybu zabije.",
+            "Krev z ryby přiláká první žraloky.",
+            "Žraloci sežerou maso a stařec se vrací do přístavu jen s kostrou."
+        ],
+        "explanation": "Děj začíná odjezdem, následuje chycení ryby, její usmrcení, útok žraloků a nakonec návrat s kostrou."
+    },
+    {
+        "id": "dilo_obsah_zaver_vyznam",
+        "type": "multiple_choice",
+        "tags": [
+            "dilo_obsah",
+            "seznam_all",
+            "seznam_miro"
+        ],
+        "importance": 9,
+        "question": "Jak lze nejlépe charakterizovat samotný závěr novely Stařec a moře?",
+        "options": [
+            "Závěr je tragický kvůli ztrátě úlovku, avšak myšlenkově a morálně vítězný.",
+            "Závěr je čistě pesimistický a ukazuje naprostou zbytečnost lidské existence.",
+            "Závěr je pohádkový, stařec získá velké bohatství a slávu ve vesnici.",
+            "Závěr je otevřený, čtenář se nedozví, zda se stařec vůbec vrátil z moře."
+        ],
+        "correctAnswer": "Závěr je tragický kvůli ztrátě úlovku, avšak myšlenkově a morálně vítězný.",
+        "explanation": "Závěr je sice tragický materiálně (ztráta ryby), ale myšlenkově a morálně vítězný, ukazuje nezlomnost člověka."
+    },
+    {
+        "id": "dilo_obsah_citat",
+        "type": "flashcard",
+        "tags": [
+            "dilo_obsah",
+            "seznam_all",
+            "seznam_miro"
+        ],
+        "importance": 10,
+        "question": "Která slavná věta z knihy přesně vystihuje její hlavní myšlenku o lidské nezlomnosti?",
+        "options": [],
+        "correctAnswer": "„Člověka je možno zničit, ale ne porazit.“",
+        "explanation": "Kniha hlásá jasnou zprávu: „Člověka je možno zničit, ale ne porazit.“"
+    },
+    {
+        "id": "dilo_obsah_temata",
+        "type": "multiple_choice",
+        "tags": [
+            "dilo_obsah",
+            "seznam_all",
+            "seznam_miro"
+        ],
+        "importance": 9,
+        "question": "Co tvoří hlavní témata a motivy novely Stařec a moře?",
+        "options": [
+            "Oslava lidské nezdolnosti, boj v krajní situaci, samota a absolutní respekt k přírodě.",
+            "Kritika měšťanské společnosti, peněz a lži.",
+            "Zobrazení absurdních a komických situací v armádě během světové války.",
+            "Psychologický rozbor totalitní kontroly a úprava minulosti cenzurou."
+        ],
+        "correctAnswer": "Oslava lidské nezdolnosti, boj v krajní situaci, samota a absolutní respekt k přírodě.",
+        "explanation": "Hlavní témata jsou oslava lidské nezdolnosti, samota, odvaha, přátelství a absolutní respekt k přírodě."
+    },
+    {
+        "id": "dilo_titul_vysvetleni",
+        "type": "flashcard",
+        "tags": [
+            "dilo_titul",
+            "seznam_all",
+            "seznam_miro"
+        ],
+        "importance": 8,
+        "question": "Jak lze vysvětlit název „Stařec a moře“ na jeho základní, nejobecnější rovině?",
+        "options": [],
+        "correctAnswer": "Jde o prosté pojmenování hlavních aktérů příběhu.",
+        "explanation": "Název je prostým pojmenováním hlavních aktérů (rybáře a oceánu)."
+    },
+    {
+        "id": "dilo_titul_metafora",
+        "type": "multiple_choice",
+        "tags": [
+            "dilo_titul",
+            "seznam_all",
+            "seznam_miro"
+        ],
+        "importance": 8,
+        "question": "Jaký hlubší, metaforický (alegorický) význam skrývá název knihy Stařec a moře?",
+        "options": [
+            "Stařec symbolizuje člověka obecně a moře (spolu s rybou) zosobňuje přírodu a osud.",
+            "Stařec představuje zastaralou morálku a moře novou svobodnou společnost.",
+            "Stařec zosobňuje prohnilý kapitalismus a moře sílu dělnické revoluce.",
+            "Stařec představuje boha a moře představuje posmrtný život."
+        ],
+        "correctAnswer": "Stařec symbolizuje člověka obecně a moře (spolu s rybou) zosobňuje přírodu a osud.",
+        "explanation": "Funguje to jako alegorie života, kde stařec symbolizuje člověka a moře/ryba zosobňuje přírodu."
+    },
+    {
+        "id": "dilo_titul_atmosfera",
+        "type": "multiple_choice",
+        "tags": [
+            "jazyk_a_styl",
+            "seznam_all",
+            "seznam_miro"
+        ],
+        "importance": 7,
+        "question": "Jak byste charakterizovali atmosféru v díle Stařec a moře?",
+        "options": [
+            "Je napjatá, plná fyzického odříkání a samoty, ale zároveň hrdá a prodchnutá respektem k životu.",
+            "Je melancholická a romantická, plná milostných vzpomínek na mládí.",
+            "Je humorná, satirická a plná jazykových vtipů a absurdních dialogů.",
+            "Je temná, hororová a plná prvků tajemna a magie."
+        ],
+        "correctAnswer": "Je napjatá, plná fyzického odříkání a samoty, ale zároveň hrdá a prodchnutá respektem k životu.",
+        "explanation": "Atmosféra je podle textu napjatá, plná odříkání a samoty, avšak hrdá a s hlubokým respektem k přírodě."
+    },
+    {
+        "id": "dilo_postavy_santiago_charakter",
+        "type": "flashcard",
+        "tags": [
+            "dilo_postavy",
+            "seznam_all",
+            "seznam_miro"
+        ],
+        "importance": 9,
+        "question": "Jaké charakterové vlastnosti nejlépe popisují hlavního hrdinu Santiaga?",
+        "options": [],
+        "correctAnswer": "Je to odvážný, vytrvalý, neúnavný a nesmírně hrdý starý rybář.",
+        "explanation": "Santiago je odvážný, vytrvalý, neúnavný a hrdý člověk."
+    },
+    {
+        "id": "dilo_postavy_santiago_vyvoj",
+        "type": "multiple_choice",
+        "tags": [
+            "dilo_postavy",
+            "seznam_all",
+            "seznam_miro"
+        ],
+        "importance": 8,
+        "question": "Jakým psychologickým vývojem projde Santiago během boje na moři?",
+        "options": [
+            "Vytvoří si k rybě hlubokou úctu, vnímá ji jako rovnocenného bratra a přes prohru přijímá osud s morální velikostí.",
+            "Zcela se pomate, začne nenávidět oceán a slibuje, že se přírodě krutě pomstí.",
+            "Stane se zlým a zatrpklým, zanevře na chlapce Manolina i na všechny obyvatele vesnice.",
+            "Ztratí veškerou vůli k životu a pokusí se na moři spáchat sebevraždu."
+        ],
+        "correctAnswer": "Vytvoří si k rybě hlubokou úctu, vnímá ji jako rovnocenného bratra a přes prohru přijímá osud s morální velikostí.",
+        "explanation": "Během boje se v něm vyvíjí hluboká úcta k rybě (bratr), a finální ztrátu přijímá s morální velikostí a klidem."
+    },
+    {
+        "id": "dilo_postavy_manolin",
+        "type": "flashcard",
+        "tags": [
+            "dilo_postavy",
+            "seznam_all",
+            "seznam_miro"
+        ],
+        "importance": 8,
+        "question": "Kdo je Manolin v díle Stařec a moře?",
+        "options": [],
+        "correctAnswer": "Malý chlapec, který je Santiagovým pomocníkem při rybolovu.",
+        "explanation": "Manolin je malý chlapec, Santiagův pomocník."
+    },
+    {
+        "id": "dilo_postavy_vztah_chlapec_starec",
+        "type": "multiple_choice",
+        "tags": [
+            "dilo_postavy",
+            "seznam_all",
+            "seznam_miro"
+        ],
+        "importance": 7,
+        "question": "Co symbolizuje vztah mezi starcem Santiagem a chlapcem Manolinem?",
+        "options": [
+            "Generační solidaritu, hluboké přátelství a obětavost.",
+            "Pohrdání stáří nad nezkušeným mládím.",
+            "Nenávist a vzájemné využívání kvůli finančnímu zisku.",
+            "Odpor moderní mládeže vůči starým tradicím."
+        ],
+        "correctAnswer": "Generační solidaritu, hluboké přátelství a obětavost.",
+        "explanation": "Vztah představuje generační solidaritu a hluboké přátelství (chlapec je věrný a obětavý)."
+    },
+    {
+        "id": "jazyk_a_styl_vypravec",
+        "type": "flashcard",
+        "tags": [
+            "jazyk_a_styl",
+            "seznam_all",
+            "seznam_miro"
+        ],
+        "importance": 8,
+        "question": "Jaký typ vypravěče je využit v novele Stařec a moře?",
+        "options": [],
+        "correctAnswer": "Er-forma (vypravěč stojí mimo děj).",
+        "explanation": "Vypravěč je v er-formě, nezúčastňuje se přímo děje."
+    },
+    {
+        "id": "jazyk_a_styl_jazykove_vrstvy",
+        "type": "multiple_choice",
+        "tags": [
+            "jazyk_a_styl",
+            "seznam_all",
+            "seznam_miro"
+        ],
+        "importance": 7,
+        "question": "Jakými jazykovými prostředky oživuje autor spisovný jazyk díla?",
+        "options": [
+            "Původními španělskými výrazy pro dotvoření autenticity kubánského prostředí.",
+            "Vulgárními výrazy z londýnského podsvětí (argot).",
+            "Ná투ečím z českého venkova 19. století.",
+            "Vymodelovaným umělým totalitním jazykem (tzv. newspeakem)."
+        ],
+        "correctAnswer": "Původními španělskými výrazy pro dotvoření autenticity kubánského prostředí.",
+        "explanation": "Jazyk je spisovný, avšak text autor oživuje původními španělskými výrazy pro autentický obraz Kuby."
+    },
+    {
+        "id": "jazyk_a_styl_stylistika_ledovec",
+        "type": "multiple_choice",
+        "tags": [
+            "jazyk_a_styl",
+            "seznam_all",
+            "seznam_miro"
+        ],
+        "importance": 9,
+        "question": "Jaký specifický spisovatelský postup je pro Hemingwaye typický a hojně jej využívá i v tomto díle?",
+        "options": [
+            "Úsporný výraz, tzv. metoda ledovce, se strohou stylizací vět.",
+            "Přeplácaný barokní styl s mnoha dlouhými souvětími.",
+            "Použití magického realismu, kdy se mísí sen s realitou.",
+            "Forma automatického textu bez použití interpunkce a logiky."
+        ],
+        "correctAnswer": "Úsporný výraz, tzv. metoda ledovce, se strohou stylizací vět.",
+        "explanation": "Dominantní je Hemingwayův úsporný výraz (tzv. metoda ledovce) a strohá stylizace vět."
+    },
+    {
+        "id": "jazyk_a_styl_krestanska_symbolika_kriz",
+        "type": "flashcard",
+        "tags": [
+            "jazyk_a_styl",
+            "seznam_all",
+            "seznam_miro"
+        ],
+        "importance": 8,
+        "question": "Co z křesťanské symboliky představuje starcovo těžké lano, které mu drásá záda?",
+        "options": [],
+        "correctAnswer": "Představuje Kristův kříž.",
+        "explanation": "V díle je využita křesťanská symbolika, starcovo lano představuje Kristův kříž."
+    },
+    {
+        "id": "jazyk_a_styl_krestanska_symbolika_stigmata",
+        "type": "flashcard",
+        "tags": [
+            "jazyk_a_styl",
+            "seznam_all",
+            "seznam_miro"
+        ],
+        "importance": 8,
+        "question": "Co představují starcovy do krve rozdrásané dlaně z hlediska křesťanské symboliky?",
+        "options": [],
+        "correctAnswer": "Představují stigmata (Kristovy rány).",
+        "explanation": "Rozdrásané dlaně představují stigmata."
+    },
+    {
+        "id": "jazyk_a_styl_kompozice",
+        "type": "flashcard",
+        "tags": [
+            "jazyk_a_styl",
+            "seznam_all",
+            "seznam_miro"
+        ],
+        "importance": 8,
+        "question": "Jakou kompozici autor zvolil pro výstavbu děje (jak události plynou v čase)?",
+        "options": [],
+        "correctAnswer": "Přísně chronologickou kompozici.",
+        "explanation": "Děj probíhá přísně chronologicky."
+    },
+    {
+        "id": "jazyk_a_styl_cleneni_kapitoly",
+        "type": "multiple_choice",
+        "tags": [
+            "jazyk_a_styl",
+            "seznam_all",
+            "seznam_miro"
+        ],
+        "importance": 8,
+        "question": "Jak je text novely formálně vizuálně rozčleněn?",
+        "options": [
+            "Není formálně členěn do kapitol, což evokuje plynulý, nepřetržitý zápas.",
+            "Je rozdělen do krátkých deníkových záznamů podle jednotlivých dnů.",
+            "Skládá se ze samostatných básnických zpěvů.",
+            "Je členěn do tří velkých knih označených římskými číslicemi."
+        ],
+        "correctAnswer": "Není formálně členěn do kapitol, což evokuje plynulý, nepřetržitý zápas.",
+        "explanation": "Text není formálně členěn do kapitol, což působivě evokuje nepřetržitý a plynulý zápas na širém moři."
+    },
+    {
+        "id": "rozbor_textu_neumelecky_tema",
+        "type": "multiple_choice",
+        "tags": [
+            "rozbor_textu",
+            "seznam_all",
+            "seznam_miro"
+        ],
+        "importance": 5,
+        "question": "Jaká témata lze očekávat u doprovodného neuměleckého textu k novele Stařec a moře?",
+        "options": [
+            "Encyklopedické heslo o rybolovu, životopis E. Hemingwaye nebo článek o Kubě.",
+            "Právní předpisy pro vydávání stavebního povolení.",
+            "Odborný výklad o výrobě ocelových trubek.",
+            "Recept na přípravu sladkých dezertů z Francie."
+        ],
+        "correctAnswer": "Encyklopedické heslo o rybolovu, životopis E. Hemingwaye nebo článek o Kubě.",
+        "explanation": "Hledejte společné jmenovatele: encyklopedické heslo o rybolovu, životopis, nebo publicistický článek o Kubě."
+    },
+    {
+        "id": "rozbor_textu_odborny_styl",
+        "type": "text_analysis",
+        "tags": [
+            "rozbor_textu",
+            "seznam_all",
+            "seznam_miro"
+        ],
+        "importance": 5,
+        "question": "Pokud by neumělecký text podával přesná vědecká fakta o chování žraloků, jaký funkční styl by autor použil?",
+        "options": [
+            "Prostěsdělovací",
+            "Odborný",
+            "Administrativní",
+            "Publicistický"
+        ],
+        "correctAnswer": "Odborný",
+        "explanation": "Odborný styl poskytuje přesná vědecká fakta (např. o chování žraloků)."
+    },
+    {
+        "id": "rozbor_textu_vykladovy_postup",
+        "type": "text_analysis",
+        "tags": [
+            "rozbor_textu",
+            "seznam_all",
+            "seznam_miro"
+        ],
+        "importance": 5,
+        "question": "Pokud neumělecký text analyzuje důvody úbytku ryb v oceánech a vysvětluje souvislosti, o jaký slohový postup jde?",
+        "options": [
+            "Informační",
+            "Vyprávěcí",
+            "Popisný",
+            "Výkladový / úvahový"
+        ],
+        "correctAnswer": "Výkladový / úvahový",
+        "explanation": "Výkladový/úvahový postup se soustředí na vysvětlování souvislostí a objasňování faktů."
+    },
+    {
+        "id": "rozbor_textu_slang",
+        "type": "multiple_choice",
+        "tags": [
+            "rozbor_textu",
+            "seznam_all",
+            "seznam_miro"
+        ],
+        "importance": 4,
+        "question": "S jakou specifickou slovní zásobou byste se mohli setkat v textu popisujícím práci na moři?",
+        "options": [
+            "S rybářskými odbornými názvy, termíny a slangem.",
+            "S lékařskou terminologií v latině.",
+            "S historickými archaismy z doby Karla IV.",
+            "S programovacím jazykem a IT terminologií."
+        ],
+        "correctAnswer": "S rybářskými odbornými názvy, termíny a slangem.",
+        "explanation": "Soustřeďte se na výskyt slangu (rybářské odborné názvy a termíny)."
+    },
+    {
+        "id": "definice_epika",
+        "type": "flashcard",
+        "tags": [
+            "definice",
+            "seznam_all",
+            "seznam_miro"
+        ],
+        "importance": 10,
+        "question": "Definujte literární termín: Epika",
+        "options": [],
+        "correctAnswer": "Literární druh založený na vyprávění příběhu s dějovou linií.",
+        "explanation": "Epika: Literární druh založený na vyprávění příběhu s dějovou linií."
+    },
+    {
+        "id": "definice_novela",
+        "type": "flashcard",
+        "tags": [
+            "definice",
+            "seznam_all",
+            "seznam_miro"
+        ],
+        "importance": 10,
+        "question": "Definujte literární termín: Novela",
+        "options": [],
+        "correctAnswer": "Středně dlouhý prozaický žánr s přehledným dějem, který se soustředí na jednu událost a často vrcholí výraznou, nečekanou pointou.",
+        "explanation": "Novela: Středně dlouhý prozaický žánr s přehledným dějem soustředěný na jednu událost a vrcholící nečekanou pointou."
+    },
+    {
+        "id": "definice_proza",
+        "type": "flashcard",
+        "tags": [
+            "definice",
+            "seznam_all",
+            "seznam_miro"
+        ],
+        "importance": 10,
+        "question": "Definujte literární termín: Próza",
+        "options": [],
+        "correctAnswer": "Běžná forma textu členěná do odstavců a kapitol, která není vázána pravidly verše (rytmem a rýmem).",
+        "explanation": "Próza: Běžná forma textu neomezená pravidly verše."
+    },
+    {
+        "id": "definice_er_forma",
+        "type": "flashcard",
+        "tags": [
+            "definice",
+            "seznam_all",
+            "seznam_miro"
+        ],
+        "importance": 10,
+        "question": "Definujte literární termín: Er-forma",
+        "options": [],
+        "correctAnswer": "Vyprávění ve 3. osobě, kdy vypravěč působí jako nestranný pozorovatel příběhu.",
+        "explanation": "Er-forma: Vyprávění ve 3. osobě jako nestranný pozorovatel."
+    },
+    {
+        "id": "definice_ztracena_generace",
+        "type": "flashcard",
+        "tags": [
+            "definice",
+            "seznam_all",
+            "seznam_miro"
+        ],
+        "importance": 10,
+        "question": "Definujte literární termín: Ztracená generace",
+        "options": [],
+        "correctAnswer": "Skupina amerických autorů 20. let 20. století zasažených hrůzami 1. sv. války; vyjadřují odcizení a neschopnost zařadit se zpět do života.",
+        "explanation": "Ztracená generace: Američtí autoři po 1. světové válce vyjadřující odcizení a pocity vykořenění."
+    },
+    {
+        "id": "definice_realismus",
+        "type": "flashcard",
+        "tags": [
+            "definice",
+            "seznam_all",
+            "seznam_miro"
+        ],
+        "importance": 10,
+        "question": "Definujte literární termín: Realismus",
+        "options": [],
+        "correctAnswer": "Umělecký směr usilující o věrný, pravdivý a objektivní popis skutečnosti a lidského života.",
+        "explanation": "Realismus: Směr usilující o věrný a objektivní popis reality."
+    },
+    {
+        "id": "definice_alegorie",
+        "type": "flashcard",
+        "tags": [
+            "definice",
+            "seznam_all",
+            "seznam_miro"
+        ],
+        "importance": 10,
+        "question": "Definujte literární termín: Alegorie",
+        "options": [],
+        "correctAnswer": "Jinotaj; obrazné vyjádření, ve kterém je zjevný příběh nositelem skrytého hlubšího smyslu.",
+        "explanation": "Alegorie (jinotaj) je obrazné vyjádření mající skrytý hlubší smysl pod povrchem zjevného příběhu."
+    },
+    {
+        "id": "definice_metafora",
+        "type": "flashcard",
+        "tags": [
+            "definice",
+            "seznam_all",
+            "seznam_miro"
+        ],
+        "importance": 10,
+        "question": "Definujte literární termín: Metafora",
+        "options": [],
+        "correctAnswer": "Přenesení pojmenování na základě vnější podobnosti nebo souvislosti.",
+        "explanation": "Metafora je přenesení pojmenování na základě vnější podobnosti."
+    },
+    {
+        "id": "definice_metoda_ledovce",
+        "type": "flashcard",
+        "tags": [
+            "definice",
+            "seznam_all",
+            "seznam_miro"
+        ],
+        "importance": 10,
+        "question": "Definujte literární termín: Metoda ledovce",
+        "options": [],
+        "correctAnswer": "Literární technika s úsporným výrazem, kdy autor explicitně sděluje jen menší část informací a hlubší myšlenky si čtenář musí domyslet.",
+        "explanation": "Metoda ledovce: úsporný literární styl, kde hlavní obsah zůstává skrytý 'pod hladinou'."
+    },
+    {
+        "id": "definice_chronologicka_kompozice",
+        "type": "flashcard",
+        "tags": [
+            "definice",
+            "seznam_all",
+            "seznam_miro"
+        ],
+        "importance": 10,
+        "question": "Definujte literární termín: Chronologická kompozice",
+        "options": [],
+        "correctAnswer": "Uspořádání děje, v němž události plynou v čase postupně za sebou od začátku do konce.",
+        "explanation": "Chronologická kompozice události řadí plynule za sebou tak, jak probíhaly v čase."
+    },
+    {
+        "id": "definice_stigmata",
+        "type": "flashcard",
+        "tags": [
+            "definice",
+            "seznam_all",
+            "seznam_miro"
+        ],
+        "importance": 10,
+        "question": "Definujte literární termín: Stigmata",
+        "options": [],
+        "correctAnswer": "Fyzické rány na těle, které symbolicky odpovídají Kristovým ranám po ukřižování.",
+        "explanation": "Stigmata jsou rány symbolicky odpovídající ranám Ježíše Krista."
+    },
+    {
+        "id": "definice_pojmy_spojovacka_1",
+        "type": "matching",
+        "tags": [
+            "definice",
+            "seznam_all",
+            "seznam_miro"
+        ],
+        "importance": 10,
+        "question": "Přiřaďte literární termíny k jejich přesným definicím z textu:",
+        "options": [
+            "Epika",
+            "Novela",
+            "Próza",
+            "Realismus"
+        ],
+        "correctAnswer": [
+            "Epika == Literární druh založený na vyprávění příběhu s dějovou linií.",
+            "Novela == Středně dlouhý prozaický žánr, soustředěný na jednu událost s výraznou pointou.",
+            "Próza == Běžná forma textu členěná do odstavců, nevázaná pravidly verše.",
+            "Realismus == Umělecký směr usilující o věrný, pravdivý a objektivní popis skutečnosti."
+        ],
+        "explanation": "Toto jsou přesné definice literárních pojmů z vysvětlení termínů."
+    },
+    {
+        "id": "definice_pojmy_spojovacka_2",
+        "type": "matching",
+        "tags": [
+            "definice",
+            "seznam_all",
+            "seznam_miro"
+        ],
+        "importance": 10,
+        "question": "Přiřaďte literární techniky a pojmy k jejich definicím:",
+        "options": [
+            "Ztracená generace",
+            "Alegorie",
+            "Metoda ledovce",
+            "Stigmata"
+        ],
+        "correctAnswer": [
+            "Ztracená generace == Skupina autorů zasažených hrůzami 1. sv. války, vyjadřující odcizení.",
+            "Alegorie == Jinotaj; obrazné vyjádření se skrytým hlubším smyslem.",
+            "Metoda ledovce == Literární technika úsporného výrazu, kdy hlubší kontext zůstává skryt.",
+            "Stigmata == Fyzické rány na těle symbolicky odpovídající Kristovým ranám."
+        ],
+        "explanation": "Toto jsou přesné definice specifických pojmů spojených s Hemingwayovým dílem."
+    }
+]
