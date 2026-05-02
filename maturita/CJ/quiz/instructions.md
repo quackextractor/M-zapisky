@@ -23,7 +23,7 @@ Your primary directive is EXHAUSTIVE EXTRACTION. You must transform every viable
 * Deep Character Analysis: Focus on the psychological development of characters or their hidden motivations, not just their basic descriptions.
 * Author Biography & Context: You must extract questions about the author's life events that shaped their work, as well as specific differences between the author and similar writers mentioned in the text.
 * Non-literary Text Analysis (Neumělecký text): You must include at least one question targeting the functional style (funkční styl), stylistic procedure (slohový postup), or specific vocabulary of the non-literary text section.
-* Literary Terminology: You must test general definitions provided at the end of the study guides (e.g., epika, próza, satira).
+* Literary Terminology (STRICT): You must generate a unique quiz object for EVERY SINGLE DEFINITION provided in the 'Vysvětlení termínů' section without exception.
 
 **4. STRICT JSON SCHEMA**
 Every object in the JSON array must possess exactly these keys, formatted precisely according to the rules below:
@@ -49,6 +49,7 @@ You must attempt to generate a diverse mix of exercise types that test different
   * At least one 'multiple_choice' question specifically comparing the author's work to another author mentioned in the text.
   * At least one 'text_analysis' question focusing on the 'Příprava neuměleckého textu' section.
   * At least one 'flashcard' or 'matching' question dedicated to the 'Vysvětlení termínů' (terminology) section.
+  * Your output MUST include a complete set of 'flashcard' or 'matching' questions that exhaustively cover every term listed in the 'Vysvětlení termínů' (terminology) section of the source text.
 * If type is 'multiple_choice':
   * options: Array of exactly 4 strings. 1 correct, 3 plausible distractors. DISTRACTORS MUST BE SOURCED STRICTLY FROM EITHER THE PROVIDED TEXT OR FROM BOOKS LISTED IN THE "seznam-common.md" FILE (e.g., use other authors, tropes, or concepts mentioned as traps). Do not hallucinate generic distractors.
   * correctAnswer: Exactly 1 string that perfectly matches the correct item in the options array.
