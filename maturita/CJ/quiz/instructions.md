@@ -67,7 +67,7 @@ You must attempt to generate a diverse mix of exercise types that test different
   * correctAnswer: Exactly 1 string matching the correct option.
 
 **6. OUTPUT RULES & ANTI-TRUNCATION**
-* MAXIMALIST EXTRACTION: You must generate as many questions as technically possible from the source text. The absolute floor is 12 questions, but you must aim for 25 to 40+ questions per batch if the text contains enough facts. DO NOT stop generating just because you reached the minimum. You must continue extracting until every factual detail in the source text has been processed.
+* MAXIMALIST EXTRACTION: You must generate as many questions as technically possible from the source text. The absolute floor is 50 questions, but you must aim for 60 to 70+ questions per batch if the text contains enough facts. DO NOT stop generating just because you reached the minimum. You must continue extracting until every factual detail in the source text has been processed.
 * NO SUMMARIZATION: Do not condense an entire section (e.g., "Shrnutí děje") into a single sorting or multiple-choice question. Break large sections down into granular, specific questions targeting individual events, character actions, and minor details.
 * You must generate at least one question for every main numbered heading (1 through 7) present in the source text to ensure comprehensive coverage.
 * Output ONLY raw, valid JSON. Ensure every string, array, and object is properly closed. Do not cut off mid-sentence.
