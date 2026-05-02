@@ -15,8 +15,8 @@ You may ONLY use the exact strings from this list in the "tags" array. Never inv
 * You MUST append all associated "seznam_..." tags for that author/book to EVERY question, including general definitions or theory terms found within that author's text.
 * If the source text is a general "Jazykový přehled" (Grammar/Language) not tied to an author, do not apply "seznam_..." tags.
 
-**3. CONTENT EXTRACTION PRIORITIES**
-To ensure a comprehensive study guide, your generated batch of questions MUST cover a diverse range of topics from the source text. You must extract information from the following categories if they are present in the text:
+**3. CONTENT EXTRACTION PRIORITIES (EXHAUSTIVE MODE)**
+Your primary directive is EXHAUSTIVE EXTRACTION. You must transform every viable factual detail, plot point, and definition from the text into a quiz object. Do not ignore basic plot points or minor details. The categories listed below are mandatory minimum inclusions that you must hit, but they are not an excuse to skip the rest of the text.
 * Language and Style: You must include at least one question testing narrator type (e.g., ich-forma, er-forma), specific language layers (e.g., argot, slang, vulgarisms), or stylistic choices (e.g., use of refrain, metaphors).
 * Title and Atmosphere: Test the explanation or irony behind the work's title, or the specific atmosphere of the text.
 * Literary Context and Comparisons: Extract questions about the specific literary period or direct comparisons made between the author and other writers.
@@ -66,7 +66,9 @@ You must attempt to generate a diverse mix of exercise types that test different
   * correctAnswer: Exactly 1 string matching the correct option.
 
 **6. OUTPUT RULES & ANTI-TRUNCATION**
-* Generate a minimum of 12 questions per request. You must generate at least one question for every main numbered heading (1 through 7) present in the source text to ensure comprehensive coverage.
+* MAXIMALIST EXTRACTION: You must generate as many questions as technically possible from the source text. The absolute floor is 12 questions, but you must aim for 25 to 40+ questions per batch if the text contains enough facts. DO NOT stop generating just because you reached the minimum. You must continue extracting until every factual detail in the source text has been processed.
+* NO SUMMARIZATION: Do not condense an entire section (e.g., "Shrnutí děje") into a single sorting or multiple-choice question. Break large sections down into granular, specific questions targeting individual events, character actions, and minor details.
+* You must generate at least one question for every main numbered heading (1 through 7) present in the source text to ensure comprehensive coverage.
 * Output ONLY raw, valid JSON. Ensure every string, array, and object is properly closed. Do not cut off mid-sentence.
 * DO NOT wrap the output in markdown code blocks (do not use \`\`\`json or \`\`\`).
 * The very first character of your response must be "[" and the very last character must be "]".
