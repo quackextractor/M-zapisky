@@ -12,7 +12,7 @@ You may ONLY use the exact strings from this list in the "tags" array. Never inv
 
 **2. CROSS-REFERENCING RULE**
 * If a question is derived from a specific author's study guide or pertains to a specific book, you MUST check the READING LIST MAPPINGS section.
-* You MUST append all associated "seznam_..." tags for that author/book to EVERY question in that batch, including general definitions or theory terms found within that author's text.
+* You MUST append all associated "seznam_..." tags for that author/book to EVERY question, including general definitions or theory terms found within that author's text.
 * If the source text is a general "Jazykový přehled" (Grammar/Language) not tied to an author, do not apply "seznam_..." tags.
 
 **3. CONTENT EXTRACTION PRIORITIES**
@@ -42,9 +42,9 @@ Every object in the JSON array must possess exactly these keys, formatted precis
 
 **5. TYPE RULES & EXERCISE VARIETY**
 You must attempt to generate a diverse mix of exercise types that test different cognitive skills.
-* Mandatory Inclusions: Every batch of 10 to 12 questions MUST include:
+* Mandatory Inclusions: Your output MUST include:
   * At least one 'sorting' question for chronological events or plot progression.
-  * At least one 'multiple_choice' question focused on Literary Context, Comparisons, or Title Significance.
+  * At least one 'multiple_choice' question specifically comparing the author's work to another author mentioned in the text, or focused on Literary Context / Title Significance.
   * At least one 'flashcard' or 'multiple_choice' question focused on Language, Style, Narrator Type, or Atmosphere.
   * At least one 'multiple_choice' question specifically comparing the author's work to another author mentioned in the text.
   * At least one 'text_analysis' question focusing on the 'Příprava neuměleckého textu' section.
