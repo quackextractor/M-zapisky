@@ -33,6 +33,7 @@ Every object in the JSON array must possess exactly these keys, formatted precis
     "id": "MUST be lowercase snake_case, max 5 words. Use underscores instead of hyphens. Prefix with topic (e.g., 'autor_zivot_george_orwell' or 'gramatika_vedlejsi_vety').",
     "type": "MUST be exactly one of: 'multiple_choice', 'matching', 'flashcard', 'sorting', 'text_analysis'",
     "tags": ["MUST be an array of strings from the ALLOWED TAGS WHITELIST only."],
+    "importance": "MUST be an integer between 1 and 10. You MUST assign this value strictly based on the 'PRIORITY SCORING RUBRIC' defined below.",
     "question": "MUST be a string. The prompt in Czech. Strip all markdown formatting.",
     "options": ["MUST be an array of strings. See TYPE RULES below."],
     "correctAnswer": "MUST be a string or array of strings. See TYPE RULES below.",
@@ -40,7 +41,32 @@ Every object in the JSON array must possess exactly these keys, formatted precis
   }
 ]
 
-**5. TYPE RULES & EXERCISE VARIETY**
+**5. PRIORITY SCORING RUBRIC (STRICT 1-10 SCALE)**
+You MUST evaluate the educational value of every extracted question and assign an "importance" integer from 1 to 10 based EXACTLY on these strict criteria. Do not guess; find the category that fits the fact being tested.
+
+* **Score 9-10 (Absolute Core Knowledge):**
+  * Mandatory basics for passing the exam.
+  * The author's name, primary literary period/movement, and absolute main themes.
+  * The most crucial plot points (e.g., the ending of the book, the main conflict).
+  * Main character definitions (e.g., Winston, Napoleon).
+  * Direct, exact definitions of literary terms from the "Vysvětlení termínů" section (These MUST always be 9 or 10).
+* **Score 7-8 (High Importance):**
+  * Important context and secondary narrative drivers.
+  * Secondary characters and their specific allegorical meanings (e.g., Kuliš, Julie, O'Brien).
+  * Specific language and style features (e.g., er-forma, newspeak, specific symbols like the glass paperweight).
+  * The explanation of the book's title.
+  * Direct comparisons between the author and other authors (e.g., Orwell vs. Bradbury/Čapek).
+* **Score 4-6 (Moderate Importance / Supporting Details):**
+  * Mid-level plot details and chronological sorting of specific chapters/events.
+  * Author's biographical details (e.g., birth country, specific jobs like police in Burma, injuries in war).
+  * Names of the author's other books (e.g., Hold Katalánsku).
+  * Functional styles and stylistic procedures of the non-literary text (neumělecký text).
+* **Score 1-3 (Trivia and Edge Cases):**
+  * Highly specific minor facts meant for exhaustive testing.
+  * Exact dates, exact numbers, exact months (e.g., April 1984, exact year of death).
+  * Specific minor vocabulary words (e.g., specific anglicisms mentioned like "reality show").
+
+**6. TYPE RULES & EXERCISE VARIETY**
 You must attempt to generate a diverse mix of exercise types that test different cognitive skills.
 * Mandatory Inclusions: Your output MUST include:
   * At least one 'sorting' question for chronological events or plot progression.
@@ -66,7 +92,7 @@ You must attempt to generate a diverse mix of exercise types that test different
   * options: Array of strings containing the possible functional styles or stylistic procedures.
   * correctAnswer: Exactly 1 string matching the correct option.
 
-**6. OUTPUT RULES & ANTI-TRUNCATION**
+**7. OUTPUT RULES & ANTI-TRUNCATION**
 * MAXIMALIST EXTRACTION: You must generate as many questions as technically possible from the source text. The absolute floor is 70 questions, but you must aim for 90 to 100+ questions per batch if the text contains enough facts. DO NOT stop generating just because you reached the minimum. You must continue extracting until every factual detail in the source text has been processed.
 * NO SUMMARIZATION: Do not condense an entire section (e.g., "Shrnutí děje") into a single sorting or multiple-choice question. Break large sections down into granular, specific questions targeting individual events, character actions, and minor details.
 * You must generate at least one question for every main numbered heading (1 through 7) present in the source text to ensure comprehensive coverage.
