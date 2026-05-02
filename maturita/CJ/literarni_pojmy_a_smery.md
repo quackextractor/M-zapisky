@@ -1,34 +1,4 @@
 # Literární pojmy a směry
-
-**FIGURY = zvláštní uspořádání hlásek nebo slov v textu**
-* Aliterace – opakování hlásek na začátku sousedních slov či veršů
-* Anafora – opakování slov na začátku verše
-* Epifora – opakování slov na konci verše
-* Epanastrofa – opakování slov na konci jednoho verše a na začátku následujícího
-* Epizeuxis – opakování slov v jednom verši za sebou
-* Apostrofa – básnické oslovení věci nebo nepřítomné osoby
-* Inverze – změněný slovosled
-* Hyperbola – nadsázka – zveličená skutečnost
-* Řečnická otázka – otázka, na kterou se neočekává odpověď
-* Eufemismus – zjemňuje nepříjemnou, drsnou skutečnost
-* Dysfemismus – zhrubění události
-* Elipsa – výpustka – vypouštění slov, které si můžeme domyslet
-* Gradace – stupňování
-
-**TROPY = obrazná pojmenování, přenesený význam**
-* Metafora – přenesení pojmenování na základě vnější skutečnosti (podobnosti)
-* Metonymie – přenesení pojmenování na základě věcné nebo logické souvislosti (vnitřní souvislosti)
-* Synekdocha – nahrazení celku za část nebo části za celek
-* Personifikace – zosobnění – přenesení lidských vlastností na zvířata či neživé věci
-* Přirovnání – vlastnost nějakého jevu je vyjádřena pomocí příměru (jak, jako)
-* Epiteton – básnický přívlastek
-* Oxymorón – protimluv – nesmyslné spojení slov
-* Ironie – vyslovení opaku toho, co si myslíme
-* Alegorie – jinotaj – založena na dvojím možném chápání jedné věci
-* Symbol – znak pro jinou skutečnost
-
----
-
 **ANTIKA**
 – období: počátek 2. tisíciletí př.n.l. - 5. stol n.l.
 – literatura starověkého Řecka a Říma
