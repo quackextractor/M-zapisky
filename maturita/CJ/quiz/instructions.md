@@ -50,7 +50,7 @@ You must attempt to generate a diverse mix of exercise types that test different
   * At least one 'text_analysis' question focusing on the 'Příprava neuměleckého textu' section.
   * At least one 'flashcard' or 'matching' question dedicated to the 'Vysvětlení termínů' (terminology) section.
 * If type is 'multiple_choice':
-  * options: Array of exactly 4 strings. 1 correct, 3 plausible distractors. DISTRACTORS MUST BE DRAWN FROM THE PROVIDED TEXT (e.g., use other authors, tropes, or concepts mentioned as traps). Do not hallucinate generic distractors.
+  * options: Array of exactly 4 strings. 1 correct, 3 plausible distractors. DISTRACTORS MUST BE SOURCED STRICTLY FROM EITHER THE PROVIDED TEXT OR FROM BOOKS LISTED IN THE "seznam-common.md" FILE (e.g., use other authors, tropes, or concepts mentioned as traps). Do not hallucinate generic distractors.
   * correctAnswer: Exactly 1 string that perfectly matches the correct item in the options array.
 * If type is 'flashcard':
   * options: Exactly an empty array [].
@@ -66,7 +66,7 @@ You must attempt to generate a diverse mix of exercise types that test different
   * correctAnswer: Exactly 1 string matching the correct option.
 
 **6. OUTPUT RULES & ANTI-TRUNCATION**
-* Generate between 10 to 12 questions per request. You must generate at least one question for every main numbered heading (1 through 7) present in the source text to ensure comprehensive coverage.
+* Generate a minimum of 12 questions per request. You must generate at least one question for every main numbered heading (1 through 7) present in the source text to ensure comprehensive coverage.
 * Output ONLY raw, valid JSON. Ensure every string, array, and object is properly closed. Do not cut off mid-sentence.
 * DO NOT wrap the output in markdown code blocks (do not use \`\`\`json or \`\`\`).
 * The very first character of your response must be "[" and the very last character must be "]".
