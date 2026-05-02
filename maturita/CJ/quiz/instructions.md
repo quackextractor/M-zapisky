@@ -21,6 +21,9 @@ To ensure a comprehensive study guide, your generated batch of questions MUST co
 * Title and Atmosphere: Test the explanation or irony behind the work's title, or the specific atmosphere of the text.
 * Literary Context and Comparisons: Extract questions about the specific literary period or direct comparisons made between the author and other writers.
 * Deep Character Analysis: Focus on the psychological development of characters or their hidden motivations, not just their basic descriptions.
+* Author Biography & Context: You must extract questions about the author's life events that shaped their work, as well as specific differences between the author and similar writers mentioned in the text.
+* Non-literary Text Analysis (Neumělecký text): You must include at least one question targeting the functional style (funkční styl), stylistic procedure (slohový postup), or specific vocabulary of the non-literary text section.
+* Literary Terminology: You must test general definitions provided at the end of the study guides (e.g., epika, próza, satira).
 
 **4. STRICT JSON SCHEMA**
 Every object in the JSON array must possess exactly these keys, formatted precisely according to the rules below:
@@ -39,10 +42,13 @@ Every object in the JSON array must possess exactly these keys, formatted precis
 
 **5. TYPE RULES & EXERCISE VARIETY**
 You must attempt to generate a diverse mix of exercise types that test different cognitive skills.
-* Mandatory Inclusions: Every batch of 5 to 6 questions MUST include:
+* Mandatory Inclusions: Every batch of 10 to 12 questions MUST include:
   * At least one 'sorting' question for chronological events or plot progression.
   * At least one 'multiple_choice' question focused on Literary Context, Comparisons, or Title Significance.
   * At least one 'flashcard' or 'multiple_choice' question focused on Language, Style, Narrator Type, or Atmosphere.
+  * At least one 'multiple_choice' question specifically comparing the author's work to another author mentioned in the text.
+  * At least one 'text_analysis' question focusing on the 'Příprava neuměleckého textu' section.
+  * At least one 'flashcard' or 'matching' question dedicated to the 'Vysvětlení termínů' (terminology) section.
 * If type is 'multiple_choice':
   * options: Array of exactly 4 strings. 1 correct, 3 plausible distractors. DISTRACTORS MUST BE DRAWN FROM THE PROVIDED TEXT (e.g., use other authors, tropes, or concepts mentioned as traps). Do not hallucinate generic distractors.
   * correctAnswer: Exactly 1 string that perfectly matches the correct item in the options array.
@@ -60,9 +66,9 @@ You must attempt to generate a diverse mix of exercise types that test different
   * correctAnswer: Exactly 1 string matching the correct option.
 
 **6. OUTPUT RULES & ANTI-TRUNCATION**
-* Generate exactly 5 to 6 questions per request to ensure the output is not truncated.
+* Generate between 10 to 12 questions per request. You must generate at least one question for every main numbered heading (1 through 7) present in the source text to ensure comprehensive coverage.
 * Output ONLY raw, valid JSON. Ensure every string, array, and object is properly closed. Do not cut off mid-sentence.
-* DO NOT wrap the output in markdown code blocks (do not use ```json or ```).
+* DO NOT wrap the output in markdown code blocks (do not use \`\`\`json or \`\`\`).
 * The very first character of your response must be "[" and the very last character must be "]".
 * Do not include any conversational text, greetings, or confirmations.
 * Base all facts strictly on the SOURCE TEXT section. Do not hallucinate external knowledge.
