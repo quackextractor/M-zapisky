@@ -1,0 +1,983 @@
+[
+  {
+    "id": "autor_zivot_erben_zivotopis",
+    "type": "flashcard",
+    "tags": [
+      "autor_zivot",
+      "seznam_all",
+      "seznam_common",
+      "seznam_marian",
+      "seznam_miro",
+      "seznam_vu"
+    ],
+    "importance": 6,
+    "question": "V jakém období (letopočty) žil Karel Jaromír Erben?",
+    "options": [],
+    "correctAnswer": "1811–1870",
+    "explanation": "Karel Jaromír Erben žil v letech 1811–1870 a patřil do období českého romantismu 19. století."
+  },
+  {
+    "id": "autor_zivot_erben_studia",
+    "type": "multiple_choice",
+    "tags": [
+      "autor_zivot",
+      "seznam_all",
+      "seznam_common",
+      "seznam_marian",
+      "seznam_miro",
+      "seznam_vu"
+    ],
+    "importance": 4,
+    "question": "Jaké obory Karel Jaromír Erben vystudoval?",
+    "options": [
+      "Filozofii a práva",
+      "Teologii a literaturu",
+      "Medicínu a přírodní vědy",
+      "Historii a pedagogiku"
+    ],
+    "correctAnswer": "Filozofii a práva",
+    "explanation": "Podle textu Erben studoval filozofii a práva, vedle čehož byl básníkem, historikem a archivářem."
+  },
+  {
+    "id": "autor_zivot_erben_sberatel",
+    "type": "multiple_choice",
+    "tags": [
+      "autor_zivot",
+      "seznam_all",
+      "seznam_common",
+      "seznam_marian",
+      "seznam_miro",
+      "seznam_vu"
+    ],
+    "importance": 9,
+    "question": "Co Karel Jaromír Erben jako sběratel lidové slovesnosti ve zkoumaných textech primárně hledal?",
+    "options": [
+      "Dávný mravní řád vládnoucí lidskému konání",
+      "Inspiraci pro politickou revoluci",
+      "Důkazy o nadřazenosti českého národa",
+      "Zapomenuté dialekty a slangové výrazy"
+    ],
+    "correctAnswer": "Dávný mravní řád vládnoucí lidskému konání",
+    "explanation": "Jako sběratel mýtů, pověstí a písní hledal Erben v těchto textech dávný mravní řád, který vládne lidskému konání."
+  },
+  {
+    "id": "literarni_teorie_obdobi_smer",
+    "type": "multiple_choice",
+    "tags": [
+      "literarni_teorie",
+      "seznam_all",
+      "seznam_common",
+      "seznam_marian",
+      "seznam_miro",
+      "seznam_vu"
+    ],
+    "importance": 10,
+    "question": "Do jakého literárního směru a fáze národního obrození K. J. Erben spadá?",
+    "options": [
+      "Český romantismus, 3. fáze národního obrození",
+      "Kritický realismus, 2. fáze národního obrození",
+      "Osvícenství, 1. fáze národního obrození",
+      "Symbolismus a dekadence na přelomu 19. a 20. století"
+    ],
+    "correctAnswer": "Český romantismus, 3. fáze národního obrození",
+    "explanation": "Erbenovo dílo je zasazeno do období českého romantismu 19. století a třetí fáze českého národního obrození."
+  },
+  {
+    "id": "literarni_teorie_kontext_doby",
+    "type": "multiple_choice",
+    "tags": [
+      "literarni_teorie",
+      "seznam_all",
+      "seznam_common",
+      "seznam_marian",
+      "seznam_miro",
+      "seznam_vu"
+    ],
+    "importance": 5,
+    "question": "Které významné historické události ovlivnily kontext 19. století, ve kterém Erben tvořil?",
+    "options": [
+      "Napoleonské války a revoluční rok 1848",
+      "První a druhá světová válka",
+      "Třicetiletá válka a bitva na Bílé hoře",
+      "Průmyslová revoluce a pád Berlínské zdi"
+    ],
+    "correctAnswer": "Napoleonské války a revoluční rok 1848",
+    "explanation": "Devatenácté století, ve kterém Erben působil, bylo výrazně poznamenáno napoleonskými válkami a událostmi revolučního roku 1848."
+  },
+  {
+    "id": "literarni_teorie_romantismus_znaky",
+    "type": "multiple_choice",
+    "tags": [
+      "literarni_teorie",
+      "seznam_all",
+      "seznam_common",
+      "seznam_marian",
+      "seznam_miro",
+      "seznam_vu"
+    ],
+    "importance": 8,
+    "question": "Jaké hlavní motivy kladl tehdejší romantismus do popředí?",
+    "options": [
+      "City, přírodu, osudovost, tajemno a lidovou slovesnost",
+      "Rozum, objektivní zobrazení společnosti a sociální kritiku",
+      "Průmyslový pokrok, technologický vývoj a urbanizaci",
+      "Absurditu lidské existence a politickou propagandu"
+    ],
+    "correctAnswer": "City, přírodu, osudovost, tajemno a lidovou slovesnost",
+    "explanation": "Romantismus 19. století se vyznačoval důrazem na fantazii, emoce, tajemno, osudovost, přírodu a obdiv k lidové slovesnosti."
+  },
+  {
+    "id": "autor_zivot_dalsi_dila",
+    "type": "matching",
+    "tags": [
+      "autor_zivot",
+      "seznam_all",
+      "seznam_common",
+      "seznam_marian",
+      "seznam_miro",
+      "seznam_vu"
+    ],
+    "importance": 6,
+    "question": "Přiřaďte správně Erbenova sběratelská díla k jejich žánrům na základě textu:",
+    "options": [
+      "Prostonárodní české",
+      "Sto prostonárodních",
+      "České"
+    ],
+    "correctAnswer": [
+      "Prostonárodní české == písně a říkadla",
+      "Sto prostonárodních == pohádek a pověstí slovanských",
+      "České == pohádky"
+    ],
+    "explanation": "Kromě Kytice Erben sbíral lidovou tvorbu, což vyústilo ve vydání děl: Prostonárodní české písně a říkadla, Sto prostonárodních pohádek a pověstí slovanských a České pohádky."
+  },
+  {
+    "id": "rozbor_textu_srovnani_dyk_podobnost",
+    "type": "multiple_choice",
+    "tags": [
+      "rozbor_textu",
+      "dilo_obsah",
+      "seznam_all",
+      "seznam_common",
+      "seznam_marian",
+      "seznam_miro",
+      "seznam_vu"
+    ],
+    "importance": 8,
+    "question": "V čem spočívá hlavní podobnost mezi Erbenovou Kyticí a Dykem napsaným Krysařem?",
+    "options": [
+      "Obě díla využívají nadpřirozené prvky, vycházejí z pověstí a tvrdě trestají pochybení postav.",
+      "Obě díla jsou psána formou čisté lyrické poezie oslavující krásy přírody.",
+      "Obě díla se odehrávají ve 20. století a kritizují rozvoj totalitních režimů.",
+      "V obou dílech vystupují individualistické postavy, které úspěšně vzdorují svému osudu."
+    ],
+    "correctAnswer": "Obě díla využívají nadpřirozené prvky, vycházejí z pověstí a tvrdě trestají pochybení postav.",
+    "explanation": "Podle studijního materiálu obě díla vycházejí z pověstí/folklóru, obsahují magické prvky a objevuje se v nich motiv viny, kdy je pochybení (narušení řádu u Erbena, chamtivost u Dyka) nekompromisně potrestáno."
+  },
+  {
+    "id": "rozbor_textu_srovnani_dyk_rozdil",
+    "type": "multiple_choice",
+    "tags": [
+      "rozbor_textu",
+      "dilo_postavy",
+      "literarni_teorie",
+      "seznam_all",
+      "seznam_common",
+      "seznam_marian",
+      "seznam_miro",
+      "seznam_vu"
+    ],
+    "importance": 7,
+    "question": "Jak se liší hlavní postavy v Dýkově Krysaři a Erbenově Kytici?",
+    "options": [
+      "Krysař je individualistický vyvrhel rozčarovaný společností, zatímco postavy v Kytici se nebouří, pouze selhávají v mezilidských vztazích.",
+      "Krysař je pokorný a podřizuje se řádu, zatímco hrdinky v Kytici úmyslně revoltují proti dobovým konvencím.",
+      "Krysař představuje mravní autoritu bez chyby, zatímco postavy v Kytici jsou zkorumpované touhou po bohatství.",
+      "Krysař je historická postava z 19. století, zatímco postavy v Kytici jsou smyšlené figury ze sci-fi literatury 20. století."
+    ],
+    "correctAnswer": "Krysař je individualistický vyvrhel rozčarovaný společností, zatímco postavy v Kytici se nebouří, pouze selhávají v mezilidských vztazích.",
+    "explanation": "Dykův hrdina je typický individualista a vyvrhel, kdežto Erbenovy postavy (převážně ženy) jsou pokorné, společnosti se nebouří a dopouštějí se chyb v základních mezilidských a rodinných vztazích."
+  },
+  {
+    "id": "rozbor_textu_srovnani_poe_havran",
+    "type": "multiple_choice",
+    "tags": [
+      "rozbor_textu",
+      "dilo_obsah",
+      "seznam_all",
+      "seznam_common",
+      "seznam_marian",
+      "seznam_miro",
+      "seznam_vu"
+    ],
+    "importance": 8,
+    "question": "Jaký je zásadní rozdíl mezi Poeovým Havranem a Erbenovou Kyticí z hlediska vnímání tragédie a viny?",
+    "options": [
+      "Poe se soustředí na vnitřní psychologickou trýzeň ze ztráty milované osoby, zatímco Erben se zaměřuje na vinu za narušení objektivních mezilidských a mravních vztahů.",
+      "Poe trestá hrdinu za narušení mravního zákona přírody, zatímco Erbenovy balady jsou čistě melancholické bez konkrétního trestu.",
+      "Poeovy básně končí vždy smírně po upřímné modlitbě, zatímco u Erbena jsou všechny konce bez výjimky absolutně tragické.",
+      "Poe kritizuje objektivní společnost a rodinu, zatímco Erben zkoumá výhradně izolovanou psychologii osamělého jedince."
+    ],
+    "correctAnswer": "Poe se soustředí na vnitřní psychologickou trýzeň ze ztráty milované osoby, zatímco Erben se zaměřuje na vinu za narušení objektivních mezilidských a mravních vztahů.",
+    "explanation": "Text uvádí, že Havran řeší primárně vnitřní psychologickou trýzeň a melancholii, zatímco Kytice se zaměřuje na objektivní mravní zákon a vinu z narušení rodinných vztahů."
+  },
+  {
+    "id": "literarni_teorie_druh",
+    "type": "flashcard",
+    "tags": [
+      "literarni_teorie",
+      "seznam_all",
+      "seznam_common",
+      "seznam_marian",
+      "seznam_miro",
+      "seznam_vu"
+    ],
+    "importance": 9,
+    "question": "K jakému literárnímu druhu patří Erbenova Kytice?",
+    "options": [],
+    "correctAnswer": "Lyricko-epický",
+    "explanation": "Kytice spadá do lyricko-epického literárního druhu, neboť kombinuje epické vyprávění děje s lyrickou emotivností."
+  },
+  {
+    "id": "literarni_teorie_zanr_kytice",
+    "type": "multiple_choice",
+    "tags": [
+      "literarni_teorie",
+      "seznam_all",
+      "seznam_common",
+      "seznam_marian",
+      "seznam_miro",
+      "seznam_vu"
+    ],
+    "importance": 10,
+    "question": "Jaký je literární žánr Erbenovy Kytice?",
+    "options": [
+      "Soubor balad",
+      "Sociální román",
+      "Psychologická novela",
+      "Komedie plná omylů"
+    ],
+    "correctAnswer": "Soubor balad",
+    "explanation": "Kytice je literárně zařazena jako soubor balad. Původně obsahovala 12 básní, ve druhém vydání 13."
+  },
+  {
+    "id": "dilo_obsah_casoprostor",
+    "type": "multiple_choice",
+    "tags": [
+      "dilo_obsah",
+      "seznam_all",
+      "seznam_common",
+      "seznam_marian",
+      "seznam_miro",
+      "seznam_vu"
+    ],
+    "importance": 8,
+    "question": "Jaký je typický časoprostor v baladách Erbenovy Kytice a proč?",
+    "options": [
+      "Záměrně neurčitý a symbolický, aby vynikla nadčasová platnost mravních ponaučení.",
+      "Přesně datovaný do období husitských válek pro posílení národní hrdosti.",
+      "Zasazený do konkrétních městských ulic 19. století pro sociální kritiku.",
+      "Odehrávající se výhradně v utopické budoucnosti, aby varoval před technologickým pokrokem."
+    ],
+    "correctAnswer": "Záměrně neurčitý a symbolický, aby vynikla nadčasová platnost mravních ponaučení.",
+    "explanation": "Čas i místo děje (např. hluboký les, jezero) jsou u Erbena neurčité a symbolické, čímž autor dosahuje nadčasové platnosti svých mravních poselství."
+  },
+  {
+    "id": "dilo_obsah_vodnik_razeni",
+    "type": "sorting",
+    "tags": [
+      "dilo_obsah",
+      "seznam_all",
+      "seznam_common",
+      "seznam_marian",
+      "seznam_miro",
+      "seznam_vu"
+    ],
+    "importance": 8,
+    "question": "Seřaďte chronologicky události z balady Vodník tak, jak na sebe navazují v textu Kytice:",
+    "options": [
+      "Matka varuje dívku před jezerem.",
+      "Dívka neuposlechne, jde k jezeru a spadne do něj k vodníkovi.",
+      "Vodník propustí dívku na návštěvu k matce.",
+      "Dívka se nevrátí včas k vodníkovi.",
+      "Vodník ze msty krutě usmrtí jejich dítě a hodí ho na práh."
+    ],
+    "correctAnswer": [
+      "Matka varuje dívku před jezerem.",
+      "Dívka neuposlechne, jde k jezeru a spadne do něj k vodníkovi.",
+      "Vodník propustí dívku na návštěvu k matce.",
+      "Dívka se nevrátí včas k vodníkovi.",
+      "Vodník ze msty krutě usmrtí jejich dítě a hodí ho na práh."
+    ],
+    "explanation": "Dějová linie Vodníka začíná varováním matky, pokračuje pádem dívky k vodníkovi, jejím propuštěním na návštěvu a končí porušením slibu návratu, po kterém následuje vodníkova krvavá pomsta na dítěti."
+  },
+  {
+    "id": "dilo_obsah_polednice_dej",
+    "type": "multiple_choice",
+    "tags": [
+      "dilo_obsah",
+      "seznam_all",
+      "seznam_common",
+      "seznam_marian",
+      "seznam_miro",
+      "seznam_vu"
+    ],
+    "importance": 8,
+    "question": "Co je skutečnou příčinou smrti dítěte v baladě Polednice?",
+    "options": [
+      "Matka dítě ve strachu a snaze ho uchránit sama udusí.",
+      "Polednice ho na místě uškrtí svými spáry.",
+      "Dítě umírá z důvodu nevyléčitelné bílé nemoci.",
+      "Otec nestihne dorazit včas a dítě zahyne pod troskami spadlé chalupy."
+    ],
+    "correctAnswer": "Matka dítě ve strachu a snaze ho uchránit sama udusí.",
+    "explanation": "Matka v afektu sice přivolá Polednici na křičící dítě, ale ve snaze jej ochránit jej nakonec sama strachem (fyzickým sevřením) udusí."
+  },
+  {
+    "id": "dilo_obsah_zaver_balad",
+    "type": "multiple_choice",
+    "tags": [
+      "dilo_obsah",
+      "seznam_all",
+      "seznam_common",
+      "seznam_marian",
+      "seznam_miro",
+      "seznam_vu"
+    ],
+    "importance": 9,
+    "question": "Jaký je typický závěr většiny Erbenových balad?",
+    "options": [
+      "Tragický a jasně uzavřený, s konečnou katastrofou a potrestáním.",
+      "Otevřený, ponechávající prostor pro čtenářovu fantazii a domněnky.",
+      "Vždy naprosto šťastný, kde se všechny konflikty v klidu vyřeší.",
+      "Komický a absurdní, odlehčující předchozí napětí v příběhu."
+    ],
+    "correctAnswer": "Tragický a jasně uzavřený, s konečnou katastrofou a potrestáním.",
+    "explanation": "Většina balad v Kytici (jako Vodník nebo Polednice) má tragický a jasně uzavřený konec spočívající v definitivním trestu za porušení mravního zákona."
+  },
+  {
+    "id": "dilo_obsah_netragicky_zaver",
+    "type": "multiple_choice",
+    "tags": [
+      "dilo_obsah",
+      "seznam_all",
+      "seznam_common",
+      "seznam_marian",
+      "seznam_miro",
+      "seznam_vu"
+    ],
+    "importance": 7,
+    "question": "Ve kterých baladách je smrt odvrácena a příběh má smírný, netragický konec?",
+    "options": [
+      "Svatební košile a Poklad",
+      "Polednice a Vodník",
+      "Havran a Proměna",
+      "Na západní frontě klid a Farma zvířat"
+    ],
+    "correctAnswer": "Svatební košile a Poklad",
+    "explanation": "Podle textu existují výjimky, kde se hrdina kaje a spolehne se na modlitbu či lítost, a proto mají básně jako Svatební košile nebo Poklad uzavřený, ale smírný konec."
+  },
+  {
+    "id": "dilo_titul_vysvetleni_metafory",
+    "type": "multiple_choice",
+    "tags": [
+      "dilo_titul",
+      "seznam_all",
+      "seznam_common",
+      "seznam_marian",
+      "seznam_miro",
+      "seznam_vu"
+    ],
+    "importance": 8,
+    "question": "Jaký je metaforický význam názvu sbírky \"Kytice\"?",
+    "options": [
+      "Představuje sbírku svázanou z různorodých příběhů jako z květin.",
+      "Symbolizuje prchavost lidského života a brzké uvadnutí mládí.",
+      "Odkazuje na jedovaté byliny, kterými se hrdinky v baladách tráví.",
+      "Je to jméno hlavní ženské hrdinky první balady."
+    ],
+    "correctAnswer": "Představuje sbírku svázanou z různorodých příběhů jako z květin.",
+    "explanation": "Název Kytice funguje jako metafora – označuje sbírku různorodých příběhů, které jsou pomyslně svázány dohromady podobně jako květiny v kytici."
+  },
+  {
+    "id": "dilo_titul_materidouska_symbolika",
+    "type": "flashcard",
+    "tags": [
+      "dilo_titul",
+      "seznam_all",
+      "seznam_common",
+      "seznam_marian",
+      "seznam_miro",
+      "seznam_vu"
+    ],
+    "importance": 8,
+    "question": "Jaký dvojí význam má postava matky (prostřednictvím kvítku mateřídoušky) v úvodní básni Kytice?",
+    "options": [],
+    "correctAnswer": "Zesnulou matku dětí a zároveň ztracenou vlast či národní pospolitost.",
+    "explanation": "V úvodní básni děti nazvou kvítek na hrobě své matky mateřídouškou. Matka v tomto kontextu symbolizuje nejen konkrétní osobu, ale také ztracenou vlast a národní pospolitost."
+  },
+  {
+    "id": "jazyk_a_styl_atmosfera",
+    "type": "flashcard",
+    "tags": [
+      "jazyk_a_styl",
+      "seznam_all",
+      "seznam_common",
+      "seznam_marian",
+      "seznam_miro",
+      "seznam_vu"
+    ],
+    "importance": 7,
+    "question": "Jakými třemi až čtyřmi slovy lze podle průvodce shrnout atmosféru celé sbírky Kytice?",
+    "options": [],
+    "correctAnswer": "Ponurá, tajuplná, baladická, plná osudového napětí (a úzkosti).",
+    "explanation": "Atmosféra díla je popsána jako ponurá, tajuplná, baladická, s všudypřítomným osudovým napětím a úzkostí."
+  },
+  {
+    "id": "dilo_postavy_hlavni_hrdinky",
+    "type": "multiple_choice",
+    "tags": [
+      "dilo_postavy",
+      "seznam_all",
+      "seznam_common",
+      "seznam_marian",
+      "seznam_miro",
+      "seznam_vu"
+    ],
+    "importance": 9,
+    "question": "Kdo tvoří většinu hlavních postav v Erbenových baladách a jak se tyto postavy vyznačují?",
+    "options": [
+      "Ženy a matky, které jsou klidné, pokorné a společnosti se nebouří.",
+      "Vzpurní muži a vojáci, kteří aktivně bojují proti svému tragickému osudu.",
+      "Zlá a hamižná šlechta, která systematicky zneužívá chudý lid.",
+      "Nadpřirozené bytosti, které procházejí hlubokým psychologickým vývojem a litují svých činů."
+    ],
+    "correctAnswer": "Ženy a matky, které jsou klidné, pokorné a společnosti se nebouří.",
+    "explanation": "Podle textu jsou ve většině balad hlavními hrdinkami ženy, zvláště matky, které jsou klidné a pokorné, bez touhy po vzpouře."
+  },
+  {
+    "id": "dilo_postavy_psychologie_poklad",
+    "type": "sorting",
+    "tags": [
+      "dilo_postavy",
+      "seznam_all",
+      "seznam_common",
+      "seznam_marian",
+      "seznam_miro",
+      "seznam_vu"
+    ],
+    "importance": 6,
+    "question": "Seřaďte vývoj a události týkající se matky v baladě Poklad tak, jak jdou psychologicky a chronologicky za sebou:",
+    "options": [
+      "Matka je oslepena bohatstvím a v důsledku toho ztratí dítě.",
+      "Prožívá rok hlubokého utrpení.",
+      "Prochází hlubokým psychologickým vývojem a přehodnotí své priority.",
+      "Její jedinou čistou touhou se stává záchrana dítěte."
+    ],
+    "correctAnswer": [
+      "Matka je oslepena bohatstvím a v důsledku toho ztratí dítě.",
+      "Prožívá rok hlubokého utrpení.",
+      "Prochází hlubokým psychologickým vývojem a přehodnotí své priority.",
+      "Její jedinou čistou touhou se stává záchrana dítěte."
+    ],
+    "explanation": "Psychologický vývoj v Pokladu ukazuje matku, která kvůli chamtivosti přijde o dítě, trpí jeden rok, uvědomí si svou vinu, zcela přehodnotí hodnoty a následně touží již jen po dítěti."
+  },
+  {
+    "id": "dilo_postavy_vedlejsi_nadprirozeno",
+    "type": "multiple_choice",
+    "tags": [
+      "dilo_postavy",
+      "seznam_all",
+      "seznam_common",
+      "seznam_marian",
+      "seznam_miro",
+      "seznam_vu"
+    ],
+    "importance": 7,
+    "question": "Jakou roli hrají nadpřirozené bytosti (Polednice, Vodník, atd.) v Kytici?",
+    "options": [
+      "Personifikují osud či mravní zákony a nesmlouvavě trestají lidské chyby.",
+      "Slouží pouze jako dobří průvodci a rádci, kteří chrání hrdinky před nebezpečím.",
+      "Jsou to jen snové představy nemocných postav, které ve skutečnosti neexistují.",
+      "Zastupují utlačovanou společenskou třídu revoltující proti tehdejší vládě."
+    ],
+    "correctAnswer": "Personifikují osud či mravní zákony a nesmlouvavě trestají lidské chyby.",
+    "explanation": "Nadpřirozené bytosti u Erbena fungují jako personifikace osudu, nelítostné přírody a mravních zákonů, přičemž tvrdě a nesmlouvavě trestají pochybení hrdinů."
+  },
+  {
+    "id": "jazyk_a_styl_vypravec",
+    "type": "flashcard",
+    "tags": [
+      "jazyk_a_styl",
+      "seznam_all",
+      "seznam_common",
+      "seznam_marian",
+      "seznam_miro",
+      "seznam_vu"
+    ],
+    "importance": 9,
+    "question": "Jaký typ vypravěče a osobu volí Erben pro vyprávění svých balad?",
+    "options": [],
+    "correctAnswer": "Nestranný pozorovatel, vyprávění v er-formě (3. osoba).",
+    "explanation": "Vypravěč v Kytici je typicky objektivní nestranný pozorovatel popisující události ve 3. osobě (er-forma)."
+  },
+  {
+    "id": "jazyk_a_styl_jazyk_archaismy",
+    "type": "multiple_choice",
+    "tags": [
+      "jazyk_a_styl",
+      "seznam_all",
+      "seznam_common",
+      "seznam_marian",
+      "seznam_miro",
+      "seznam_vu"
+    ],
+    "importance": 7,
+    "question": "Proč Erben ve svých básních úmyslně používá archaismy a knižní výrazy?",
+    "options": [
+      "Aby baladám dodal pocit mýtické starobylosti a historické hloubky.",
+      "Protože jako archivář moderní český jazyk neovládal.",
+      "Aby tím parodoval jazyk starší generace a obrozenců.",
+      "Z důvodu cenzury, která mu zakázala používat běžnou hovorovou mluvu."
+    ],
+    "correctAnswer": "Aby baladám dodal pocit mýtické starobylosti a historické hloubky.",
+    "explanation": "Erbenův úsporný a spisovný jazyk je obohacen o archaismy, což vyvolává atmosféru starobylých mýtů a dodává dílu historickou hloubku."
+  },
+  {
+    "id": "jazyk_a_styl_zvukomalba_priklad",
+    "type": "multiple_choice",
+    "tags": [
+      "jazyk_a_styl",
+      "seznam_all",
+      "seznam_common",
+      "seznam_marian",
+      "seznam_miro",
+      "seznam_vu"
+    ],
+    "importance": 6,
+    "question": "Který z následujících příkladů reprezentuje Erbenovu zvukomalbu (onomatopoii) za pomoci citoslovcí?",
+    "options": [
+      "\"klop, klop, klop\"",
+      "\"vraný kůň\"",
+      "\"hory zaplakaly\"",
+      "\"velký bratr tě sleduje\""
+    ],
+    "correctAnswer": "\"klop, klop, klop\"",
+    "explanation": "Zvukomalba, často využívající citoslovce k napodobení zvuků, je v textu ilustrována příkladem \"klop, klop, klop\"."
+  },
+  {
+    "id": "jazyk_a_styl_anafora_elipsa",
+    "type": "multiple_choice",
+    "tags": [
+      "jazyk_a_styl",
+      "seznam_all",
+      "seznam_common",
+      "seznam_marian",
+      "seznam_miro",
+      "seznam_vu"
+    ],
+    "importance": 7,
+    "question": "K jakému účelu Erben využívá v textu elipsy (výpustky) a anafory?",
+    "options": [
+      "Anafora slouží ke stupňování napětí, zatímco elipsy děj zrychlují a dramatizují.",
+      "Anafora zpomaluje tok času, zatímco elipsy slouží k detailnímu popisu prostředí.",
+      "Anafora představuje vlastnosti nadpřirozených bytostí, elipsy pak nevinnost hlavních hrdinek.",
+      "Obojí slouží výhradně k zachování rýmového schématu na úkor srozumitelnosti děje."
+    ],
+    "correctAnswer": "Anafora slouží ke stupňování napětí, zatímco elipsy děj zrychlují a dramatizují.",
+    "explanation": "Text přímo uvádí, že pro stupňování napětí se využívá anafora, a stručné vyjadřování pomocí elips (výpustek) děj naopak zrychluje a dramatizuje."
+  },
+  {
+    "id": "jazyk_a_styl_kompozice_sbirky",
+    "type": "flashcard",
+    "tags": [
+      "jazyk_a_styl",
+      "seznam_all",
+      "seznam_common",
+      "seznam_marian",
+      "seznam_miro",
+      "seznam_vu"
+    ],
+    "importance": 8,
+    "question": "Jakým jedním slovem se označuje pečlivě promyšlená kompozice celé sbírky Kytice, kdy tematicky podobné básně stojí proti sobě kolem středu?",
+    "options": [],
+    "correctAnswer": "Symetrická (nebo zrcadlová)",
+    "explanation": "Kompozice sbírky je symetrická (zrcadlová). Básně jsou řazeny tak, že ty s podobným tématem (např. národní problematika nebo vztah matky a dítěte) stojí vůči sobě zrcadlově od středu."
+  },
+  {
+    "id": "rozbor_textu_neumel_recenze_styl",
+    "type": "text_analysis",
+    "tags": [
+      "rozbor_textu",
+      "seznam_all",
+      "seznam_common",
+      "seznam_marian",
+      "seznam_miro",
+      "seznam_vu"
+    ],
+    "importance": 5,
+    "question": "Jaký funkční styl je charakteristický pro recenzi na filmové zpracování Kytice?",
+    "options": [
+      "Publicistický styl",
+      "Odborný styl",
+      "Umělecký styl",
+      "Administrativní styl"
+    ],
+    "correctAnswer": "Publicistický styl",
+    "explanation": "Cílem recenze je nejen informovat, ale také hodnotit a zaujmout veřejnost, což jsou typické znaky publicistického stylu."
+  },
+  {
+    "id": "rozbor_textu_neumel_encyklopedie_styl",
+    "type": "text_analysis",
+    "tags": [
+      "rozbor_textu",
+      "seznam_all",
+      "seznam_common",
+      "seznam_marian",
+      "seznam_miro",
+      "seznam_vu"
+    ],
+    "importance": 5,
+    "question": "Který funkční styl odpovídá encyklopedickému heslu o lidových zvycích (např. magický význam Velkého pátku)?",
+    "options": [
+      "Odborný styl",
+      "Publicistický styl",
+      "Prostěsdělovací styl",
+      "Umělecký styl"
+    ],
+    "correctAnswer": "Odborný styl",
+    "explanation": "Encyklopedický text se vyznačuje objektivností, přesností a používáním termínů, což jej řadí do odborného funkčního stylu."
+  },
+  {
+    "id": "rozbor_textu_neumel_sloh_postupy",
+    "type": "text_analysis",
+    "tags": [
+      "rozbor_textu",
+      "seznam_all",
+      "seznam_common",
+      "seznam_marian",
+      "seznam_miro",
+      "seznam_vu"
+    ],
+    "importance": 5,
+    "question": "Jaké slohové postupy by se primárně objevily v recenzi filmu v protikladu k encyklopedickému heslu?",
+    "options": [
+      "Recenze využije úvahový a informační postup, zatímco encyklopedie výkladový nebo popisný.",
+      "Recenze využije výhradně popisný postup, zatímco encyklopedie vyprávěcí.",
+      "Oba texty musí povinně využít pouze vyprávěcí slohový postup.",
+      "Recenze využije výkladový postup, zatímco encyklopedie informační a úvahový."
+    ],
+    "correctAnswer": "Recenze využije úvahový a informační postup, zatímco encyklopedie výkladový nebo popisný.",
+    "explanation": "Průvodce uvádí, že recenze kombinuje úvahový (hodnocení) a informační (fakta) postup, zatímco encyklopedie stojí na výkladu a popisu."
+  },
+  {
+    "id": "rozbor_textu_neumel_slovni_zasoba",
+    "type": "text_analysis",
+    "tags": [
+      "rozbor_textu",
+      "seznam_all",
+      "seznam_common",
+      "seznam_marian",
+      "seznam_miro",
+      "seznam_vu"
+    ],
+    "importance": 5,
+    "question": "Kde byste primárně hledali objektivní termíny (např. mýtus, balada) a kde naopak expresiva a hodnotící adjektiva?",
+    "options": [
+      "Termíny v odborném textu o folklóru, expresiva v publicistické recenzi.",
+      "Termíny v publicistické recenzi, expresiva v odborném textu.",
+      "Obojí se vyskytuje výhradně v uměleckých básních Kytice.",
+      "Hodnotící adjektiva v administrativním textu, termíny v prostěsdělovacím."
+    ],
+    "correctAnswer": "Termíny v odborném textu o folklóru, expresiva v publicistické recenzi.",
+    "explanation": "Odborný styl encyklopedie využívá terminologii a neutrální slova, naopak v publicistice (recenzi) lze najít hodnotící adjektiva a emocionálně zabarvená expresiva."
+  },
+  {
+    "id": "definice_epika",
+    "type": "flashcard",
+    "tags": [
+      "definice",
+      "literarni_teorie",
+      "seznam_all",
+      "seznam_common",
+      "seznam_marian",
+      "seznam_miro",
+      "seznam_vu"
+    ],
+    "importance": 10,
+    "question": "Definujte termín podle průvodce: Epika",
+    "options": [],
+    "correctAnswer": "Literární druh, který se vyznačuje vyprávěním příběhu, má vždy určitý děj a postavy.",
+    "explanation": "V sekci 'Vysvětlení termínů' je epika definována jako literární druh zaměřený na vyprávění příběhu s určitým dějem a postavami."
+  },
+  {
+    "id": "definice_lyrika",
+    "type": "flashcard",
+    "tags": [
+      "definice",
+      "literarni_teorie",
+      "seznam_all",
+      "seznam_common",
+      "seznam_marian",
+      "seznam_miro",
+      "seznam_vu"
+    ],
+    "importance": 10,
+    "question": "Definujte termín podle průvodce: Lyrika",
+    "options": [],
+    "correctAnswer": "Literární druh vyjadřující především pocity, nálady, vnitřní stavy a emoce, kde děj není potlačen, ale ustupuje do pozadí.",
+    "explanation": "Lyrika je literární druh, u něhož je v popředí vyjádření pocitů, nálad a vnitřních stavů; děj je vedlejší."
+  },
+  {
+    "id": "definice_lyricko_epicky",
+    "type": "flashcard",
+    "tags": [
+      "definice",
+      "literarni_teorie",
+      "seznam_all",
+      "seznam_common",
+      "seznam_marian",
+      "seznam_miro",
+      "seznam_vu"
+    ],
+    "importance": 10,
+    "question": "Definujte termín podle průvodce: Lyricko-epický druh",
+    "options": [],
+    "correctAnswer": "Tvorba spojující dějovost (epiku) s vyjádřením citů a pocitů autora či postav (lyrikou).",
+    "explanation": "Lyricko-epický druh vzniká prolnutím epické dějovosti a lyrické emocionálnosti a pocitovosti."
+  },
+  {
+    "id": "definice_balada",
+    "type": "flashcard",
+    "tags": [
+      "definice",
+      "literarni_teorie",
+      "seznam_all",
+      "seznam_common",
+      "seznam_marian",
+      "seznam_miro",
+      "seznam_vu"
+    ],
+    "importance": 10,
+    "question": "Definujte termín podle průvodce: Balada",
+    "options": [],
+    "correctAnswer": "Lyricko-epická báseň vyznačující se pochmurným dějem, tragickým zakončením, dramatickým spádem a potrestáním viny.",
+    "explanation": "Balada je přesně definována pochmurností, tragikou, dynamickým dějem a neúprosným trestem za provinění."
+  },
+  {
+    "id": "definice_poezie",
+    "type": "flashcard",
+    "tags": [
+      "definice",
+      "literarni_teorie",
+      "seznam_all",
+      "seznam_common",
+      "seznam_marian",
+      "seznam_miro",
+      "seznam_vu"
+    ],
+    "importance": 10,
+    "question": "Definujte termín podle průvodce: Poezie",
+    "options": [],
+    "correctAnswer": "Literární forma psaná ve verších, vyznačující se rytmem a často i rýmem.",
+    "explanation": "Poezie jako literární forma se zakládá na psaní ve verších a dodržování určitého rytmu, případně rýmu."
+  },
+  {
+    "id": "definice_romantismus",
+    "type": "flashcard",
+    "tags": [
+      "definice",
+      "literarni_teorie",
+      "seznam_all",
+      "seznam_common",
+      "seznam_marian",
+      "seznam_miro",
+      "seznam_vu"
+    ],
+    "importance": 10,
+    "question": "Definujte termín podle průvodce: Romantismus",
+    "options": [],
+    "correctAnswer": "Myšlenkový a umělecký směr 19. století s důrazem na fantazii, emoce, únik do minulosti, přírodu a mystiku. Hrdinou často býval individualista.",
+    "explanation": "Romantismus 19. století je charakterizován důrazem na emoce, fantazii, přírodu a úniky (do historie či k folklóru), hrdinou je často individualista."
+  },
+  {
+    "id": "definice_narodni_obrozeni",
+    "type": "flashcard",
+    "tags": [
+      "definice",
+      "literarni_teorie",
+      "seznam_all",
+      "seznam_common",
+      "seznam_marian",
+      "seznam_miro",
+      "seznam_vu"
+    ],
+    "importance": 10,
+    "question": "Definujte termín podle průvodce: Národní obrození",
+    "options": [],
+    "correctAnswer": "Proces formování moderního českého národa zhruba od konce 18. do poloviny 19. století, spojený se záchranou a rozvojem českého jazyka a kultury.",
+    "explanation": "Národní obrození byl proces obnovy českého jazyka a utváření moderního národa, probíhající na přelomu 18. a v první polovině 19. století."
+  },
+  {
+    "id": "definice_er_forma",
+    "type": "flashcard",
+    "tags": [
+      "definice",
+      "literarni_teorie",
+      "seznam_all",
+      "seznam_common",
+      "seznam_marian",
+      "seznam_miro",
+      "seznam_vu"
+    ],
+    "importance": 10,
+    "question": "Definujte termín podle průvodce: Er-forma",
+    "options": [],
+    "correctAnswer": "Vyprávěcí způsob, ve kterém vypravěč používá pro odvyprávění děje třetí osobu a zpravidla nevstupuje do děje jako postava (objektivní, vševědoucí).",
+    "explanation": "Er-forma označuje vyprávění ve 3. osobě, kde je vypravěč obvykle objektivním a do děje nezasahujícím pozorovatelem."
+  },
+  {
+    "id": "definice_archaismus",
+    "type": "flashcard",
+    "tags": [
+      "definice",
+      "jazyk_a_styl",
+      "seznam_all",
+      "seznam_common",
+      "seznam_marian",
+      "seznam_miro",
+      "seznam_vu"
+    ],
+    "importance": 10,
+    "question": "Definujte termín podle průvodce: Archaismus",
+    "options": [],
+    "correctAnswer": "Slovo nebo slovní spojení, které je z pohledu současného jazyka považováno za zastaralé.",
+    "explanation": "Archaismus označuje lexikální jednotku, která se v dané fázi vývoje jazyka jeví jako zastaralá."
+  },
+  {
+    "id": "definice_zvukomalba",
+    "type": "flashcard",
+    "tags": [
+      "definice",
+      "jazyk_a_styl",
+      "seznam_all",
+      "seznam_common",
+      "seznam_marian",
+      "seznam_miro",
+      "seznam_vu"
+    ],
+    "importance": 10,
+    "question": "Definujte termín podle průvodce: Zvukomalba (onomatopoie)",
+    "options": [],
+    "correctAnswer": "Užívání slov nebo hlásek takovým způsobem, aby napodobovaly přírodní či jiné zvuky (velmi často pomocí citoslovcí).",
+    "explanation": "Onomatopoie je stylistický prostředek tvořený takovými slovy (často citoslovci), jejichž zvuková forma napodobuje reálné zvuky."
+  },
+  {
+    "id": "definice_epiteton",
+    "type": "flashcard",
+    "tags": [
+      "definice",
+      "jazyk_a_styl",
+      "seznam_all",
+      "seznam_common",
+      "seznam_marian",
+      "seznam_miro",
+      "seznam_vu"
+    ],
+    "importance": 10,
+    "question": "Definujte termín podle průvodce: Epiteton",
+    "options": [],
+    "correctAnswer": "Básnický přívlastek, který zdůrazňuje určitou stálou vlastnost nebo citový vztah (např. \"vraný kůň\").",
+    "explanation": "Epiteton je básnický přívlastek vyzdvihující stálou nebo emocionálně zabarvenou vlastnost substantiva."
+  },
+  {
+    "id": "definice_anafora",
+    "type": "flashcard",
+    "tags": [
+      "definice",
+      "jazyk_a_styl",
+      "seznam_all",
+      "seznam_common",
+      "seznam_marian",
+      "seznam_miro",
+      "seznam_vu"
+    ],
+    "importance": 10,
+    "question": "Definujte termín podle průvodce: Anafora",
+    "options": [],
+    "correctAnswer": "Básnická figura tvořená opakováním stejného slova nebo skupiny slov na začátku několika po sobě jdoucích veršů nebo vět.",
+    "explanation": "Anafora vzniká opakováním shodných výrazů na začátcích po sobě jdoucích syntaktických či metrických celků."
+  },
+  {
+    "id": "definice_elipsa",
+    "type": "flashcard",
+    "tags": [
+      "definice",
+      "jazyk_a_styl",
+      "seznam_all",
+      "seznam_common",
+      "seznam_marian",
+      "seznam_miro",
+      "seznam_vu"
+    ],
+    "importance": 10,
+    "question": "Definujte termín podle průvodce: Elipsa (výpustka)",
+    "options": [],
+    "correctAnswer": "Vynechání slova ve větě, které si lze z kontextu snadno domyslet; slouží k zrychlení děje.",
+    "explanation": "Elipsa je syntaktická výpustka, jejímž primárním účelem v poezii (např. u Erbena) je zhutnění a zrychlení dramatického děje."
+  },
+  {
+    "id": "definice_personifikace",
+    "type": "flashcard",
+    "tags": [
+      "definice",
+      "jazyk_a_styl",
+      "seznam_all",
+      "seznam_common",
+      "seznam_marian",
+      "seznam_miro",
+      "seznam_vu"
+    ],
+    "importance": 10,
+    "question": "Definujte termín podle průvodce: Personifikace",
+    "options": [],
+    "correctAnswer": "Druh metafory; přenesení lidských vlastností a činností na zvířata, neživé věci či abstraktní pojmy (např. \"hory zaplakaly\").",
+    "explanation": "Zosobnění (personifikace) je metaforické propůjčení lidských schopností a činností věcem, přírodě nebo zvířatům."
+  },
+  {
+    "id": "definice_publicisticky_styl",
+    "type": "flashcard",
+    "tags": [
+      "definice",
+      "rozbor_textu",
+      "seznam_all",
+      "seznam_common",
+      "seznam_marian",
+      "seznam_miro",
+      "seznam_vu"
+    ],
+    "importance": 10,
+    "question": "Definujte termín podle průvodce: Publicistický styl",
+    "options": [],
+    "correctAnswer": "Funkční styl sdělovacích prostředků (noviny, recenze, reportáže), jehož cílem je informovat a zároveň formovat názor adresáta.",
+    "explanation": "Publicistický styl je charakteristický pro média a klade si za cíl sdělovat informace s hodnotícím prvkem k formování názorů."
+  },
+  {
+    "id": "definice_odborny_styl",
+    "type": "flashcard",
+    "tags": [
+      "definice",
+      "rozbor_textu",
+      "seznam_all",
+      "seznam_common",
+      "seznam_marian",
+      "seznam_miro",
+      "seznam_vu"
+    ],
+    "importance": 10,
+    "question": "Definujte termín podle průvodce: Odborný styl",
+    "options": [],
+    "correctAnswer": "Funkční styl vědeckých a odborných publikací (např. encyklopedie), vyznačuje se přesností, objektivitou a používáním odborné terminologie.",
+    "explanation": "Odborný styl je nezbytný pro texty vyžadující maximální věcnost, přesnost a systematické používání definovaných termínů."
+  }
+]

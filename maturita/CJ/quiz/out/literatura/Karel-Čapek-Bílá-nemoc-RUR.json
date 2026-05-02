@@ -1,0 +1,666 @@
+[
+  {
+    "id": "literarni_teorie_drama",
+    "type": "flashcard",
+    "tags": ["literarni_teorie", "definice", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "importance": 10,
+    "question": "Definujte termín 'Drama' podle příručky.",
+    "options": [],
+    "correctAnswer": "Literární druh určený k předvádění na jevišti, kde se děj odvíjí výhradně skrze promluvy postav bez uceleného vyprávění autorem.",
+    "explanation": "Drama je literární druh, který se nespoléhá na klasického vypravěče, ale děj je tvořen promluvami postav (dialogy a monology) na jevišti."
+  },
+  {
+    "id": "literarni_teorie_tragedie",
+    "type": "flashcard",
+    "tags": ["literarni_teorie", "definice", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "importance": 10,
+    "question": "Definujte termín 'Tragédie' podle příručky.",
+    "options": [],
+    "correctAnswer": "Dramatický žánr prolezlý vážností, kde události vedou k nešťastnému konci a hrdina bojuje s nerovnými podmínkami.",
+    "explanation": "Tragédie je žánr charakteristický vážným tónem, marným bojem hlavního hrdiny a jeho nevyhnutelným pádem či smrtí."
+  },
+  {
+    "id": "literarni_teorie_proza",
+    "type": "flashcard",
+    "tags": ["literarni_teorie", "definice", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "importance": 10,
+    "question": "Definujte termín 'Próza' podle příručky.",
+    "options": [],
+    "correctAnswer": "Literární forma psaná jako běžný text v odstavcích, nevázaná rýmy nebo verši.",
+    "explanation": "Próza je základní literární forma, která používá přirozenou strukturu vět a odstavců, na rozdíl od poezie."
+  },
+  {
+    "id": "literarni_teorie_epika",
+    "type": "flashcard",
+    "tags": ["literarni_teorie", "definice", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "importance": 10,
+    "question": "Definujte termín 'Epika' podle příručky.",
+    "options": [],
+    "correctAnswer": "Literární druh s objektivním vyprávěním příběhu, časovým uspořádáním a postavami.",
+    "explanation": "Epika se vyznačuje tím, že primárně vypráví příběh, který se vyvíjí v čase a figurují v něm konkrétní postavy."
+  },
+  {
+    "id": "literarni_teorie_moderni_realismus",
+    "type": "flashcard",
+    "tags": ["literarni_teorie", "definice", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "importance": 10,
+    "question": "Definujte termín 'Moderní realismus' podle příručky.",
+    "options": [],
+    "correctAnswer": "Literární směr z první poloviny 20. století soustředěný na objektivní zachycení reality a kritiku sociálních problémů.",
+    "explanation": "Moderní realismus navazuje na klasický realismus, ale zaměřuje se na dobové sociální a politické problémy 20. století."
+  },
+  {
+    "id": "literarni_teorie_scenicke_poznamky",
+    "type": "flashcard",
+    "tags": ["literarni_teorie", "definice", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "importance": 9,
+    "question": "Definujte termín 'Scénické poznámky' podle příručky.",
+    "options": [],
+    "correctAnswer": "Návodný text v dramatu pro režiséra a herce ohledně pohybu nebo kulis, který nahrazuje vypravěče.",
+    "explanation": "V dramatickém textu chybí klasický vypravěč, jeho roli pro popis dění a prostředí přebírají scénické poznámky."
+  },
+  {
+    "id": "literarni_teorie_antiutopie",
+    "type": "flashcard",
+    "tags": ["literarni_teorie", "definice", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "importance": 10,
+    "question": "Definujte termín 'Antiutopie (Dystopie)' podle příručky.",
+    "options": [],
+    "correctAnswer": "Pesimistická forma zobrazující temný obraz budoucí společnosti, kde se vývoj zvrhl do totality a odlidštění.",
+    "explanation": "Antiutopie ukazuje fiktivní společnost, která se vyvinula špatným, zhoubným směrem, často spojeným s totalitou."
+  },
+  {
+    "id": "literarni_teorie_utopie",
+    "type": "flashcard",
+    "tags": ["literarni_teorie", "definice", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "importance": 10,
+    "question": "Definujte termín 'Utopie' podle příručky.",
+    "options": [],
+    "correctAnswer": "Literární žánr popisující fiktivní, ideální a spravedlivou společnost.",
+    "explanation": "Utopie je protikladem antiutopie, představuje dokonalý a harmonický společenský systém."
+  },
+  {
+    "id": "literarni_teorie_pragmatismus",
+    "type": "flashcard",
+    "tags": ["literarni_teorie", "definice", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "importance": 10,
+    "question": "Definujte termín 'Pragmatismus' podle příručky.",
+    "options": [],
+    "correctAnswer": "Filozofický směr měřící hodnotu věcí na základě jejich praktického užitku pro život člověka.",
+    "explanation": "Pragmatismus byl filozofický směr, kterým byl Karel Čapek silně ovlivněn, zaměřující se na užitečnost a pravdu v praxi."
+  },
+  {
+    "id": "literarni_teorie_humanismus",
+    "type": "flashcard",
+    "tags": ["literarni_teorie", "definice", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "importance": 10,
+    "question": "Definujte termín 'Humanismus' podle příručky.",
+    "options": [],
+    "correctAnswer": "Myšlenkový a etický postoj zdůrazňující hodnotu lidského života, svobody a důstojnosti.",
+    "explanation": "Humanismus je ústřední hodnotou v díle Karla Čapka, která staví člověka a jeho život na první místo."
+  },
+  {
+    "id": "literarni_teorie_pacifismus",
+    "type": "flashcard",
+    "tags": ["literarni_teorie", "definice", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "importance": 9,
+    "question": "Definujte termín 'Pacifismus' podle příručky.",
+    "options": [],
+    "correctAnswer": "Postoj striktně odmítající válku a násilí, prosazující mírové řešení konfliktů.",
+    "explanation": "Doktor Galén z Bílé nemoci zpočátku představuje tento ideál mírového řešení konfliktů."
+  },
+  {
+    "id": "literarni_teorie_alegorie",
+    "type": "flashcard",
+    "tags": ["literarni_teorie", "definice", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "importance": 10,
+    "question": "Definujte termín 'Alegorie (jinotaj)' podle příručky.",
+    "options": [],
+    "correctAnswer": "Obrazné pojmenování, kdy autor skrytě vyjadřuje hlubší význam přes zástupný příběh.",
+    "explanation": "Alegorie umožňuje autorovi kritizovat společenské jevy (např. nacismus) pomocí skrytých symbolů a zástupných dějů."
+  },
+  {
+    "id": "literarni_teorie_metafora",
+    "type": "flashcard",
+    "tags": ["literarni_teorie", "definice", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "importance": 10,
+    "question": "Definujte termín 'Metafora' podle příručky.",
+    "options": [],
+    "correctAnswer": "Přenesení významu na základě vnější podobnosti (např. označení války za nemoc).",
+    "explanation": "Čapek v Bílé nemoci využívá silné metafory k přirovnání patologických společenských jevů k fyzické chorobě."
+  },
+  {
+    "id": "literarni_teorie_epiteton",
+    "type": "flashcard",
+    "tags": ["literarni_teorie", "definice", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "importance": 9,
+    "question": "Definujte termín 'Epiteton' podle příručky.",
+    "options": [],
+    "correctAnswer": "Básnický přívlastek, který zdůrazňuje určitou vlastnost předmětu či jevu.",
+    "explanation": "Epiteton obohacuje jazyk a přidává estetickou nebo emocionální hloubku popisovanému jevu."
+  },
+  {
+    "id": "literarni_teorie_retoricka_otazka",
+    "type": "flashcard",
+    "tags": ["literarni_teorie", "definice", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "importance": 9,
+    "question": "Definujte termín 'Rétorická otázka' podle příručky.",
+    "options": [],
+    "correctAnswer": "Otázka, na kterou mluvčí nečeká odpověď; slouží k zamyšlení publika nebo k oživení projevu.",
+    "explanation": "Tento stylistický prostředek je často využíván v dramatických monolozích a politických projevech."
+  },
+  {
+    "id": "literarni_teorie_kontrast",
+    "type": "flashcard",
+    "tags": ["literarni_teorie", "definice", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "importance": 9,
+    "question": "Definujte termín 'Kontrast' podle příručky.",
+    "options": [],
+    "correctAnswer": "Stylistický prostředek založený na protikladu dvou jevů (např. mír vs. zbrojení).",
+    "explanation": "Čapek často staví do kontrastu ideály s krutou realitou (mír proti válce, nezištnost proti sobectví)."
+  },
+  {
+    "id": "literarni_teorie_symbol",
+    "type": "flashcard",
+    "tags": ["literarni_teorie", "definice", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "importance": 10,
+    "question": "Definujte termín 'Symbol' podle příručky.",
+    "options": [],
+    "correctAnswer": "Zástupný znak, předmět nebo postava, která odkazuje k hlubšímu abstraktnímu významu (např. Alquist jako symbol lidskosti).",
+    "explanation": "Díla Karla Čapka jsou plná symbolů, které reprezentují celé společenské vrstvy nebo filozofické postoje."
+  },
+  {
+    "id": "literarni_teorie_neologismus",
+    "type": "flashcard",
+    "tags": ["literarni_teorie", "definice", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "importance": 10,
+    "question": "Definujte termín 'Neologismus' podle příručky.",
+    "options": [],
+    "correctAnswer": "Nově vytvořené slovo, které v jazyce dříve neexistovalo (např. slovo robot).",
+    "explanation": "Karel a Josef Čapkovi vytvořili slavný neologismus 'robot', který se uchytil po celém světě."
+  },
+  {
+    "id": "literarni_teorie_chronologicka",
+    "type": "flashcard",
+    "tags": ["literarni_teorie", "definice", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "importance": 9,
+    "question": "Definujte termín 'Chronologická kompozice' podle příručky.",
+    "options": [],
+    "correctAnswer": "Uspořádání textu přesně tak, jak se události staly v reálném čase.",
+    "explanation": "Dramata jako Bílá nemoc a R.U.R. typicky využívají chronologický postup děje od začátku do konce."
+  },
+  {
+    "id": "literarni_teorie_katarze",
+    "type": "flashcard",
+    "tags": ["literarni_teorie", "definice", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "importance": 10,
+    "question": "Definujte termín 'Katarze' podle příručky.",
+    "options": [],
+    "correctAnswer": "Vnitřní očištění diváka či čtenáře po prožití dramatického nebo tragického děje (viz atmosféra R.U.R.).",
+    "explanation": "Závěr dramatu R.U.R. nabízí katarzní pocit naděje a smíření i přes předchozí tragédii lidstva."
+  },
+  {
+    "id": "literarni_teorie_psycho_horor",
+    "type": "flashcard",
+    "tags": ["literarni_teorie", "definice", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "importance": 9,
+    "question": "Definujte termín 'Psychologický horor' podle příručky.",
+    "options": [],
+    "correctAnswer": "Podžánr zaměřený na psychický rozklad a vnitřní děsy postav (zmíněno u díla L. Fukse).",
+    "explanation": "Tento žánr se objevuje ve Spalovači mrtvol Ladislava Fukse, s nímž je Čapek v textu srovnáván."
+  },
+  {
+    "id": "literarni_teorie_fasismus",
+    "type": "flashcard",
+    "tags": ["literarni_teorie", "definice", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "importance": 10,
+    "question": "Definujte termín 'Fašismus / Nacismus' podle příručky.",
+    "options": [],
+    "correctAnswer": "Totalitní ideologie založené na diktatuře, potlačování osobních svobod a agresivním postupu vůči jiným skupinám či národům.",
+    "explanation": "Kritika těchto ideologií je jedním z hlavních motivů tvorby Karla Čapka v období před druhou světovou válkou."
+  },
+  {
+    "id": "rozbor_textu_publicisticky",
+    "type": "flashcard",
+    "tags": ["rozbor_textu", "definice", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "importance": 9,
+    "question": "Definujte 'Publicistický styl' podle příručky.",
+    "options": [],
+    "correctAnswer": "Funkční styl sdělovacích prostředků (novin, médií), jehož cílem je informovat veřejnost a přesvědčit ji.",
+    "explanation": "Jeden ze stylů, který se může objevit u analýzy neuměleckého textu spojeného s Čapkovou tvorbou."
+  },
+  {
+    "id": "rozbor_textu_odborny",
+    "type": "flashcard",
+    "tags": ["rozbor_textu", "definice", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "importance": 9,
+    "question": "Definujte 'Odborný styl' podle příručky.",
+    "options": [],
+    "correctAnswer": "Funkční styl vědeckých a odborných textů, vyznačující se přesností, objektivitou a užitím specifické terminologie.",
+    "explanation": "Tento styl se může u zkoušky vyskytnout například v textu o epidemiologii či etice umělé inteligence."
+  },
+  {
+    "id": "rozbor_textu_administrativni",
+    "type": "flashcard",
+    "tags": ["rozbor_textu", "definice", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "importance": 9,
+    "question": "Definujte 'Administrativní styl' podle příručky.",
+    "options": [],
+    "correctAnswer": "Funkční styl úředních dokumentů, vyznačující se strohostí a heslovitostí.",
+    "explanation": "Styl typický pro vyhlášky, úřední oznámení a byrokratické dokumenty."
+  },
+  {
+    "id": "rozbor_textu_slohove_postupy",
+    "type": "flashcard",
+    "tags": ["rozbor_textu", "definice", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "importance": 9,
+    "question": "Definujte pojem 'Slohové postupy' a uveďte příklady podle příručky.",
+    "options": [],
+    "correctAnswer": "Způsoby uspořádání textu; např. informační, výkladový, popisný, úvahový a vyprávěcí.",
+    "explanation": "Slohové postupy určují, jakým způsobem autor přistupuje k předávání informací čtenáři."
+  },
+  {
+    "id": "jazyk_a_styl_expresivni_mluva",
+    "type": "flashcard",
+    "tags": ["jazyk_a_styl", "definice", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "importance": 9,
+    "question": "Definujte 'Expresivní mluvu' podle příručky.",
+    "options": [],
+    "correctAnswer": "Citově zabarvené vyjadřování (kladně nebo záporně).",
+    "explanation": "Expresivita se objevuje v jazyce postav, například ve vášnivých projevech politiků v Bílé nemoci."
+  },
+  {
+    "id": "rozbor_textu_algoritmus",
+    "type": "flashcard",
+    "tags": ["rozbor_textu", "definice", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "importance": 9,
+    "question": "Definujte termín 'Algoritmus' podle příručky.",
+    "options": [],
+    "correctAnswer": "Přesný postup nebo soubor pravidel k řešení určitého problému, často užívaný v technických kontextech.",
+    "explanation": "Odborný termín z neuměleckého textu bez citového zabarvení, který může s tématem R.U.R. souviset."
+  },
+  {
+    "id": "autor_zivot_capek_profese",
+    "type": "multiple_choice",
+    "tags": ["autor_zivot", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "importance": 6,
+    "question": "Ve kterých novinách působil Karel Čapek a jaké obory vystudoval?",
+    "options": [
+      "V Lidových novinách; vystudoval filozofii a estetiku.",
+      "V Národních listech; vystudoval žurnalistiku a historii.",
+      "V Právu lidu; vystudoval práva a politologii.",
+      "V Literárních novinách; vystudoval medicínu a přírodní vědy."
+    ],
+    "correctAnswer": "V Lidových novinách; vystudoval filozofii a estetiku.",
+    "explanation": "Text výslovně uvádí, že Čapek vystudoval filozofii a estetiku a působil v Lidových novinách."
+  },
+  {
+    "id": "autor_zivot_capek_tgm",
+    "type": "multiple_choice",
+    "tags": ["autor_zivot", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "importance": 6,
+    "question": "S jakým významným českým politikem se Karel Čapek přátelil a sepsal o něm knihu?",
+    "options": [
+      "S prezidentem T. G. Masarykem.",
+      "S prezidentem Edvardem Benešem.",
+      "S ministrem Janem Masarykem.",
+      "S politikem Karlem Kramářem."
+    ],
+    "correctAnswer": "S prezidentem T. G. Masarykem.",
+    "explanation": "Čapek se s T. G. Masarykem velmi úzce přátelil a sepsal slavnou knihu Hovory s T. G. Masarykem."
+  },
+  {
+    "id": "autor_zivot_capek_nemoc",
+    "type": "multiple_choice",
+    "tags": ["autor_zivot", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "importance": 6,
+    "question": "Jakou bolestivou nemocí Karel Čapek trpěl?",
+    "options": [
+      "Bechtěrevovou nemocí.",
+      "Tuberkulózou.",
+      "Syfilidou.",
+      "Španělskou chřipkou."
+    ],
+    "correctAnswer": "Bechtěrevovou nemocí.",
+    "explanation": "V životopise je jasně uvedeno, že Čapek celý život trpěl bolestivou Bechtěrevovou nemocí."
+  },
+  {
+    "id": "autor_zivot_capek_smrt",
+    "type": "multiple_choice",
+    "tags": ["autor_zivot", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "importance": 8,
+    "question": "Kdy a na co Karel Čapek zemřel, a čemu tím unikl?",
+    "options": [
+      "Zemřel na zápal plic o Vánocích 1938, čímž unikl plánovanému zatčení gestapem.",
+      "Zemřel na tuberkulózu v roce 1950, čímž unikl komunistickým procesům.",
+      "Zemřel na následky zranění z první světové války, čímž unikl chudobě.",
+      "Zemřel v koncentračním táboře v roce 1945."
+    ],
+    "correctAnswer": "Zemřel na zápal plic o Vánocích 1938, čímž unikl plánovanému zatčení gestapem.",
+    "explanation": "Zemřel na zápal plic o Vánocích roku 1938, krátce předtím, než ho po obsazení Československa stačilo zatknout gestapo."
+  },
+  {
+    "id": "autor_zivot_literarni_obdobi",
+    "type": "multiple_choice",
+    "tags": ["literarni_teorie", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "importance": 10,
+    "question": "Do jakého literárního období a proudu Karel Čapek patří?",
+    "options": [
+      "Je představitelem české prózy 1. poloviny 20. století a meziválečné literatury, patří do demokratického proudu.",
+      "Patří do české literatury 19. století, je představitelem romantismu.",
+      "Patří do období národního obrození a tvoří v duchu klasicismu.",
+      "Je představitelem české poezie 2. poloviny 20. století, patří k disidentům."
+    ],
+    "correctAnswer": "Je představitelem české prózy 1. poloviny 20. století a meziválečné literatury, patří do demokratického proudu.",
+    "explanation": "Čapek je klíčovou postavou demokratického proudu meziválečné literatury (1. pol. 20. století)."
+  },
+  {
+    "id": "literarni_teorie_capek_srovnani_svet",
+    "type": "multiple_choice",
+    "tags": ["literarni_teorie", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "importance": 8,
+    "question": "V čem se lišil přístup Karla Čapka od autorů jako George Orwell nebo Ray Bradbury?",
+    "options": [
+      "Orwell a Bradbury tvořili dystopické vize o útlaku a cenzuře, zatímco Čapek se zaměřil na hrozbu přetechnizování a tehdejší evropskou realitu.",
+      "Čapek psal výhradně o budoucnosti v cizích galaxiích, zatímco Orwell a Bradbury se drželi evropské reality.",
+      "Čapek obhajoval totalitní režimy, zatímco Orwell a Bradbury proti nim bojovali.",
+      "Orwell a Bradbury psali humorné romány, zatímco Čapek tvořil temné psychologické horory."
+    ],
+    "correctAnswer": "Orwell a Bradbury tvořili dystopické vize o útlaku a cenzuře, zatímco Čapek se zaměřil na hrozbu přetechnizování a tehdejší evropskou realitu.",
+    "explanation": "Text uvádí, že zatímco Orwell a Bradbury řešili obecný útlak a cenzuru v dystopiích, Čapek se více vázal na dobovou evropskou realitu a zánik stroji."
+  },
+  {
+    "id": "literarni_teorie_capek_srovnani_cr",
+    "type": "multiple_choice",
+    "tags": ["literarni_teorie", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "importance": 8,
+    "question": "S jakým českým autorem a jeho dílem je Čapek v textu srovnáván z hlediska kritiky fašistické ideologie?",
+    "options": [
+      "S Ladislavem Fuksem a jeho dílem Spalovač mrtvol.",
+      "S Jaroslavem Haškem a jeho dílem Osudy dobrého vojáka Švejka.",
+      "S Bohumilem Hrabalem a jeho dílem Ostře sledované vlaky.",
+      "S Karlem Jaromírem Erbenem a jeho sbírkou Kytice."
+    ],
+    "correctAnswer": "S Ladislavem Fuksem a jeho dílem Spalovač mrtvol.",
+    "explanation": "Text srovnává Čapka s Ladislavem Fuksem (Spalovač mrtvol) skrze společnou kritiku ztráty lidskosti a fašistické ideologie."
+  },
+  {
+    "id": "dilo_obsah_bila_nemoc_druh",
+    "type": "flashcard",
+    "tags": ["dilo_obsah", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "importance": 9,
+    "question": "Jaký je literární druh, žánr a forma díla Bílá nemoc?",
+    "options": [],
+    "correctAnswer": "Literární druh: sociálně-politické drama. Žánr: tragédie. Forma: próza.",
+    "explanation": "Bílá nemoc je dramatickým dílem s tragickým zakončením, které řeší sociální a politické problémy, a je napsáno v prozaické formě."
+  },
+  {
+    "id": "dilo_obsah_bila_nemoc_casoprostor",
+    "type": "flashcard",
+    "tags": ["dilo_obsah", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "importance": 7,
+    "question": "Kde a kdy se odehrává děj Bílé nemoci?",
+    "options": [],
+    "correctAnswer": "Ve fiktivní zemi ve 30. letech 20. století.",
+    "explanation": "Prostor není konkrétně pojmenován (fiktivní země), ale časově příběh odpovídá 30. letům 20. století a nástupu fašismu."
+  },
+  {
+    "id": "dilo_obsah_bila_nemoc_galen_podminka",
+    "type": "multiple_choice",
+    "tags": ["dilo_obsah", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "importance": 10,
+    "question": "Jakou podmínku si klade doktor Galén v Bílé nemoci pro vydání léku bohatým a mocným?",
+    "options": [
+      "Vydá ho jen tehdy, pokud mocní ukončí zbrojení a zavážou se k míru.",
+      "Vydá ho jen tehdy, pokud ho jmenují ředitelem kliniky místo Sigelia.",
+      "Vydá ho výměnou za obrovské bohatství, které rozdělí chudým.",
+      "Vydá ho jen tehdy, pokud diktátor Maršál rezignuje na svou funkci."
+    ],
+    "correctAnswer": "Vydá ho jen tehdy, pokud mocní ukončí zbrojení a zavážou se k míru.",
+    "explanation": "Galén lékem vydírá mocné: zachrání je před smrtelnou bílou nemocí, jen pokud zastaví válečné zbrojení."
+  },
+  {
+    "id": "dilo_obsah_bila_nemoc_konec",
+    "type": "multiple_choice",
+    "tags": ["dilo_obsah", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "importance": 10,
+    "question": "Jak dopadne závěr dramatu Bílá nemoc?",
+    "options": [
+      "Je tragický. Galén je ubit davem, lék je zničen a válka pokračuje.",
+      "Je šťastný. Maršál přijme lék, zastaví válku a Galén se stane hrdinou.",
+      "Je otevřený. Galén uprchne do exilu s receptem a čtenář neví, co bude dál.",
+      "Je absurdní. Nemoc náhle sama ustoupí a všechny postavy se vrací do normálu."
+    ],
+    "correctAnswer": "Je tragický. Galén je ubit davem, lék je zničen a válka pokračuje.",
+    "explanation": "Závěr je naprosto uzavřený a tragický: zfanatizovaný dav zabije Galéna, zničí jeho lék a válka se nezastaví."
+  },
+  {
+    "id": "dilo_titul_bila_nemoc",
+    "type": "multiple_choice",
+    "tags": ["dilo_titul", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "importance": 8,
+    "question": "Co symbolizuje 'Bílá nemoc' v názvu Čapkova dramatu?",
+    "options": [
+      "Symbolizuje rozšiřující se nacismus a zkaženou mysl fanatické společnosti.",
+      "Symbolizuje čistotu a naději, která postupně uzdravuje společnost.",
+      "Symbolizuje ztrátu paměti a neschopnost poučit se z historie.",
+      "Symbolizuje pád robotické civilizace a její přeměnu v prach."
+    ],
+    "correctAnswer": "Symbolizuje rozšiřující se nacismus a zkaženou mysl fanatické společnosti.",
+    "explanation": "Nemoc v díle není jen fyzickou chorobou, ale alegorií na zhoubnou ideologii nacismu a davového fanatismu."
+  },
+  {
+    "id": "dilo_postavy_galen_vyvoj",
+    "type": "multiple_choice",
+    "tags": ["dilo_postavy", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "importance": 10,
+    "question": "Jak se psychologicky vyvíjí hlavní postava Doktor Galén?",
+    "options": [
+      "Stává se čím dál tvrdohlavějším a zásadovějším, obětuje kompromisy a je ochoten nechat bohaté zemřít.",
+      "Zpočátku je bezcitný, ale tváří v tvář utrpení se stane soucitným a rozdá lék všem bez výjimky.",
+      "Podlehne moci a bohatství a nakonec svůj lék prodá Maršálovi za velkou sumu peněz.",
+      "Postupně zešílí z hrůz nemoci a spáchá sebevraždu stejně jako Baron Krüg."
+    ],
+    "correctAnswer": "Stává se čím dál tvrdohlavějším a zásadovějším, obětuje kompromisy a je ochoten nechat bohaté zemřít.",
+    "explanation": "Galénův vývoj je paradoxní: z původně pacifistického lékaře se stává tvrdý vyděrač, jehož zásadovost vede až k jeho smrti."
+  },
+  {
+    "id": "dilo_postavy_marsal_vyvoj",
+    "type": "flashcard",
+    "tags": ["dilo_postavy", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "importance": 10,
+    "question": "Popište psychologický vývoj diktátora Maršála v Bílé nemoci.",
+    "options": [],
+    "correctAnswer": "Zpočátku je chladnokrevný vojenský pragmatik, ale když zjistí, že je sám nemocný, propadne děsu ze smrti a své vojenské cíle zavrhne.",
+    "explanation": "Maršálova odvaha klesá v momentě, kdy je konfrontován s vlastní smrtelností, což ho donutí přistoupit na mír."
+  },
+  {
+    "id": "dilo_postavy_baron_krug",
+    "type": "flashcard",
+    "tags": ["dilo_postavy", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "importance": 8,
+    "question": "Jakou roli hraje v Bílé nemoci Baron Krüg a jaký je jeho osud?",
+    "options": [],
+    "correctAnswer": "Je to Maršálův nejlepší přítel a majitel zbrojovky. Poté, co onemocní, se ze zoufalství zastřelí.",
+    "explanation": "Baron Krüg nedokáže unést tíhu nemoci ani vyřešit konflikt mezi loajalitou k Maršálovi a touhou po léku."
+  },
+  {
+    "id": "dilo_obsah_bila_nemoc_razeni",
+    "type": "sorting",
+    "tags": ["dilo_obsah", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "importance": 6,
+    "question": "Seřaďte události v dramatu Bílá nemoc tak, jak jdou chronologicky za sebou.",
+    "options": [
+      "Ve společnosti propuká smrtelná epidemie bílé nemoci.",
+      "Dr. Galén vynalezne lék a dává ho jen chudým.",
+      "Baron Krüg se kvůli nemoci zastřelí (vyplývá z Maršálova odmítnutí).",
+      "Diktátor Maršál sám onemocní a tváří v tvář smrti žádá o mír.",
+      "Dr. Galén je ubit zfanatizovaným davem dříve, než stačí doručit lék."
+    ],
+    "correctAnswer": [
+      "Ve společnosti propuká smrtelná epidemie bílé nemoci.",
+      "Dr. Galén vynalezne lék a dává ho jen chudým.",
+      "Baron Krüg se kvůli nemoci zastřelí (vyplývá z Maršálova odmítnutí).",
+      "Diktátor Maršál sám onemocní a tváří v tvář smrti žádá o mír.",
+      "Dr. Galén je ubit zfanatizovaným davem dříve, než stačí doručit lék."
+    ],
+    "explanation": "Děj začíná epidemií, následuje Galénův vyděračský požadavek s lékem, postupná smrt vrstev (Krüg), nákaza Maršála a konečně tragická smrt Galéna."
+  },
+  {
+    "id": "jazyk_a_styl_bila_nemoc_vypravec",
+    "type": "flashcard",
+    "tags": ["jazyk_a_styl", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "importance": 9,
+    "question": "Kdo je vypravěčem v dramatu Bílá nemoc?",
+    "options": [],
+    "correctAnswer": "Dílo nemá klasického vypravěče, protože jde o drama (děj tvoří přímá řeč a scénické poznámky).",
+    "explanation": "V dramatech obecně vypravěč chybí, protože dění je divákovi předkládáno přímo přes dialogy a instrukce pro scénu."
+  },
+  {
+    "id": "dilo_obsah_rur_druh",
+    "type": "flashcard",
+    "tags": ["dilo_obsah", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "importance": 9,
+    "question": "Jaký je literární druh, žánr a forma díla R.U.R.?",
+    "options": [],
+    "correctAnswer": "Literární druh: alegorické drama s filozofickým přesahem. Žánr: fantasticko-utopická hra a antiutopie. Forma: próza.",
+    "explanation": "R.U.R. je na rozdíl od politické Bílé nemoci více filozofické a sci-fi drama."
+  },
+  {
+    "id": "dilo_obsah_rur_casoprostor",
+    "type": "flashcard",
+    "tags": ["dilo_obsah", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "importance": 7,
+    "question": "Kde a kdy se odehrává děj R.U.R.?",
+    "options": [],
+    "correctAnswer": "V blíže neurčené budoucnosti na Rossumově ostrově v továrně na výrobu robotů.",
+    "explanation": "Příběh je zasazen do utopického/dystopického prostředí odříznutého ostrova."
+  },
+  {
+    "id": "dilo_obsah_rur_helena_zniceni",
+    "type": "multiple_choice",
+    "tags": ["dilo_obsah", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "importance": 10,
+    "question": "Co zásadního udělá Helena Gloryová v obavách o budoucnost lidstva v díle R.U.R.?",
+    "options": [
+      "Spálí recept na výrobu robotů.",
+      "Zabije vedoucího výzkumu, Dr. Galla.",
+      "Pokusí se sama postavit nového, lidského robota.",
+      "Přidá se na stranu vůdce vzpoury, robota Radia."
+    ],
+    "correctAnswer": "Spálí recept na výrobu robotů.",
+    "explanation": "Helena se děsí toho, že lidé zlenivěli a přestali se rozmnožovat, proto v zoufalství zničí návod na výrobu robotů."
+  },
+  {
+    "id": "dilo_obsah_rur_konec",
+    "type": "multiple_choice",
+    "tags": ["dilo_obsah", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "importance": 10,
+    "question": "Jak končí děj R.U.R. pro lidstvo a stavitele Alquista?",
+    "options": [
+      "Lidstvo je vyvražděno, ale Alquist zjistí, že roboti Primus a Helena v sobě objevili lásku a požehná jim jako novému Adamovi a Evě.",
+      "Lidstvo s pomocí Alquista porazí roboty a zničí celou továrnu na Rossumově ostrově.",
+      "Alquist obětuje svůj život, aby zachránil poslední lidské dítě před vzbouřenými roboty.",
+      "Všichni roboti se kvůli spálenému receptu postupně rozpadnou a Alquist umírá jako poslední člověk v naprosté samotě."
+    ],
+    "correctAnswer": "Lidstvo je vyvražděno, ale Alquist zjistí, že roboti Primus a Helena v sobě objevili lásku a požehná jim jako novému Adamovi a Evě.",
+    "explanation": "Závěr je pro původní lidstvo tragický, avšak celkově nadějný: láska mezi Primem a Helenou slibuje zrod nového pokolení."
+  },
+  {
+    "id": "dilo_titul_rur_vyznam",
+    "type": "multiple_choice",
+    "tags": ["dilo_titul", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "importance": 8,
+    "question": "Co přesně znamená zkratka v názvu díla R.U.R. a jaký je původ slova robot?",
+    "options": [
+      "Zkratka znamená Rossum's Universal Robots a slovo robot pochází od slova robota.",
+      "Zkratka znamená Rational United Republic a slovo robot pochází z latinského 'robustus'.",
+      "Zkratka znamená Rossumovi unikátní rekreanti a slovo robot vymyslel T. G. Masaryk.",
+      "Zkratka znamená Revoluce umělých robotů a slovo robot pochází z řeckého 'ergon'."
+    ],
+    "correctAnswer": "Zkratka znamená Rossum's Universal Robots a slovo robot pochází od slova robota.",
+    "explanation": "Čapek jasně pojmenoval továrnu jako Rossum's Universal Robots a slovo zavedl jeho bratr Josef odkazem na dřinu/robotu."
+  },
+  {
+    "id": "dilo_postavy_domin_charakter",
+    "type": "multiple_choice",
+    "tags": ["dilo_postavy", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "importance": 9,
+    "question": "Jaká je psychologie a vývoj ředitele Harryho Domina v R.U.R.?",
+    "options": [
+      "Je to sebevědomý vizionář zaslepený svým snem osvobodit člověka od práce; svou chybu si neuvědomí až do konce.",
+      "Zpočátku je tyran, ale po příjezdu Heleny se stane laskavým a továrnu sám dobrovolně zruší.",
+      "Je to zbabělec, který při prvním náznaku vzpoury robotů okamžitě utíká z ostrova.",
+      "Vyvíjí se z nadšeného vědce ve zlomeného muže, který tajně pomáhá robotům zničit lidstvo."
+    ],
+    "correctAnswer": "Je to sebevědomý vizionář zaslepený svým snem osvobodit člověka od práce; svou chybu si neuvědomí až do konce.",
+    "explanation": "Domin je typickým zástupcem lidské pýchy – jeho touha po technologickém osvobození je silnější než vnímání reality hrozící katastrofy."
+  },
+  {
+    "id": "dilo_postavy_alquist_symbol",
+    "type": "flashcard",
+    "tags": ["dilo_postavy", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "importance": 10,
+    "question": "Koho symbolizuje postava stavitele Alquista v R.U.R.?",
+    "options": [],
+    "correctAnswer": "Symbolizuje obyčejného, poctivého pracujícího člověka. Jako jediný je roboty ušetřen vyvraždění.",
+    "explanation": "Alquist je jedinou postavou, která si zachovala smysl pro poctivou manuální práci, a proto ho roboti nechají naživu."
+  },
+  {
+    "id": "dilo_postavy_dr_gall",
+    "type": "flashcard",
+    "tags": ["dilo_postavy", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "importance": 8,
+    "question": "Jakou osudovou chybu udělá přednosta výzkumu Dr. Gall v R.U.R.?",
+    "options": [],
+    "correctAnswer": "Fyziologicky roboty zdokonalí a dodá jim něco jako lidskou citlivost/uvědomění, což zapříčiní jejich vzpouru.",
+    "explanation": "Dr. Gall pod vlivem Heleny změní recepturu a roboti přestanou být jen bezduchými stroji, což vede k jejich revoluci."
+  },
+  {
+    "id": "dilo_obsah_rur_razeni",
+    "type": "sorting",
+    "tags": ["dilo_obsah", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "importance": 6,
+    "question": "Seřaďte události v dramatu R.U.R. tak, jak jdou chronologicky za sebou.",
+    "options": [
+      "Helena Gloryová přijíždí do továrny bránit práva robotů.",
+      "Lidé díky robotům zleniví a přestanou se rozmnožovat.",
+      "Helena v zoufalství spálí recept na výrobu robotů.",
+      "Roboti obohacení o city se vzbouří a vyvraždí lidstvo.",
+      "Alquist odhalí lidský cit mezi roboty Primem a Helenou."
+    ],
+    "correctAnswer": [
+      "Helena Gloryová přijíždí do továrny bránit práva robotů.",
+      "Lidé díky robotům zleniví a přestanou se rozmnožovat.",
+      "Helena v zoufalství spálí recept na výrobu robotů.",
+      "Roboti obohacení o city se vzbouří a vyvraždí lidstvo.",
+      "Alquist odhalí lidský cit mezi roboty Primem a Helenou."
+    ],
+    "explanation": "Příběh začíná příjezdem Heleny a jejím sňatkem, následuje pád lidské reprodukce, zničení receptu jako pojistky, následná genocida lidí a finální smíření s novou 'generací'."
+  },
+  {
+    "id": "jazyk_a_styl_rur_nana",
+    "type": "flashcard",
+    "tags": ["jazyk_a_styl", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "importance": 8,
+    "question": "Jak se jazykově odlišuje chůva Nána od ostatních postav v R.U.R.?",
+    "options": [],
+    "correctAnswer": "Jako jediná mluví prostým jazykem, na rozdíl od striktně spisovného a odborného vyjadřování ostatních.",
+    "explanation": "Nána reprezentuje prostý lid a staré instinkty, což autor zdůrazňuje jejím lidovým jazykem."
+  },
+  {
+    "id": "rozbor_textu_styl_postup",
+    "type": "text_analysis",
+    "tags": ["rozbor_textu", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "importance": 6,
+    "question": "Jaký slohový postup bude pravděpodobně převažovat v neuměleckém textu, který se zabývá technickými specifikacemi robotů nebo vývojem epidemiologie?",
+    "options": [
+      "Informační, výkladový nebo popisný postup.",
+      "Výhradně vyprávěcí postup.",
+      "Úvahový postup s důrazem na osobní emoce autora.",
+      "Dramatický dialogický postup."
+    ],
+    "correctAnswer": "Informační, výkladový nebo popisný postup.",
+    "explanation": "Technické a odborné texty nejčastěji využívají postupy k předání faktů (informační), objasnění vztahů (výkladový) nebo popisu vlastností (popisný)."
+  }
+]

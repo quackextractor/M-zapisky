@@ -1,0 +1,842 @@
+[
+  {
+    "id": "autor_zivot_milos_urban_narozeni",
+    "type": "flashcard",
+    "tags": ["autor_zivot", "seznam_all", "seznam_marian"],
+    "importance": 4,
+    "question": "Ve kterém roce se narodil Miloš Urban?",
+    "options": [],
+    "correctAnswer": "1967",
+    "explanation": "Miloš Urban se narodil v roce 1967."
+  },
+  {
+    "id": "autor_zivot_milos_urban_mesta",
+    "type": "multiple_choice",
+    "tags": ["autor_zivot", "seznam_all", "seznam_marian"],
+    "importance": 5,
+    "question": "Ve kterých městech se narodil a prožil dětství Miloš Urban?",
+    "options": [
+      "V Sokolově a Karlových Varech.",
+      "V Praze a Mladé Boleslavi.",
+      "V Brně a Olomouci.",
+      "V Londýně a Oxfordu."
+    ],
+    "correctAnswer": "V Sokolově a Karlových Varech.",
+    "explanation": "Autor pochází ze Sokolova a dětství prožil v Karlových Varech."
+  },
+  {
+    "id": "autor_zivot_milos_urban_studium",
+    "type": "flashcard",
+    "tags": ["autor_zivot", "seznam_all", "seznam_marian"],
+    "importance": 5,
+    "question": "Na jaké britské univerzitě strávil Miloš Urban rok na stáži?",
+    "options": [],
+    "correctAnswer": "Na univerzitě v Oxfordu",
+    "explanation": "Miloš Urban strávil rok na stáži na univerzitě v Oxfordu."
+  },
+  {
+    "id": "autor_zivot_milos_urban_profese",
+    "type": "multiple_choice",
+    "tags": ["autor_zivot", "seznam_all", "seznam_marian"],
+    "importance": 5,
+    "question": "Čím se Miloš Urban živí kromě psaní prózy?",
+    "options": [
+      "Jako překladatel, redaktor a šéfredaktor.",
+      "Jako policista a vyšetřovatel.",
+      "Jako architekt a restaurátor.",
+      "Jako středoškolský učitel dějepisu."
+    ],
+    "correctAnswer": "Jako překladatel, redaktor a šéfredaktor.",
+    "explanation": "Kromě psaní prózy se živí jako překladatel a pracoval jako redaktor a šéfredaktor (např. v nakladatelství Argo)."
+  },
+  {
+    "id": "literarni_smer_milos_urban",
+    "type": "multiple_choice",
+    "tags": ["literarni_teorie", "seznam_all", "seznam_marian"],
+    "importance": 9,
+    "question": "Do jakého literárního směru se řadí dílo Miloše Urbana?",
+    "options": [
+      "Postmodernismus",
+      "Realismus",
+      "Symbolismus",
+      "Novoklasicismus"
+    ],
+    "correctAnswer": "Postmodernismus",
+    "explanation": "Dílo Miloše Urbana, včetně Sedmikostelí, se řadí do postmodernismu."
+  },
+  {
+    "id": "literarni_teorie_postmodernismus_charakteristika",
+    "type": "multiple_choice",
+    "tags": ["literarni_teorie", "seznam_all", "seznam_marian"],
+    "importance": 8,
+    "question": "Co je charakteristické pro postmodernismus, jak je popsán v textu?",
+    "options": [
+      "Odmítá jednu pravdu, nabízí různá vysvětlení, hraje si se čtenářem a zapojuje intuici.",
+      "Soustředí se na přísnou dedukci a chronologický, neměnný děj s jasným ponaučením.",
+      "Zobrazuje svět jako naprosto dokonalé místo a oslavuje moderní dobu.",
+      "Píše se výhradně ve verších a zaměřuje se na přírodní lyriku."
+    ],
+    "correctAnswer": "Odmítá jednu pravdu, nabízí různá vysvětlení, hraje si se čtenářem a zapojuje intuici.",
+    "explanation": "Postmodernismus vznikl na konci 20. století, vymezuje se vůči moderně, odmítá jednu pravdu, nabízí různá vysvětlení a hraje si se čtenářem."
+  },
+  {
+    "id": "dilo_obsah_kontext_doby",
+    "type": "multiple_choice",
+    "tags": ["dilo_obsah", "seznam_all", "seznam_marian"],
+    "importance": 7,
+    "question": "Jaký společenský kontrast je v románu Sedmikostelí zobrazen?",
+    "options": [
+      "Kontrast mezi povrchní komerční porevoluční Prahou a tajuplnou středověkou (gotickou) epochou.",
+      "Kontrast mezi nastupujícím nacismem a poklidným životem běžného občana.",
+      "Kontrast mezi venkovským folklórem a průmyslovou revolucí.",
+      "Kontrast mezi komunistickou totalitou a svobodným západním světem."
+    ],
+    "correctAnswer": "Kontrast mezi povrchní komerční porevoluční Prahou a tajuplnou středověkou (gotickou) epochou.",
+    "explanation": "Kniha ostře kontrastuje svobodnou, ale komerční a povrchní tvář porevoluční Prahy se starou tajuplnou středověkou (gotickou) epochou."
+  },
+  {
+    "id": "autor_zivot_dilo_hastrman",
+    "type": "multiple_choice",
+    "tags": ["autor_zivot", "seznam_all", "seznam_marian"],
+    "importance": 6,
+    "question": "Jaké ocenění získal Urbanův 'zelený román' Hastrman?",
+    "options": [
+      "Magnesii Literu",
+      "Nobelovu cenu za literaturu",
+      "Státní cenu za literaturu",
+      "Cenu Jiřího Ortena"
+    ],
+    "correctAnswer": "Magnesii Literu",
+    "explanation": "Román Hastrman je v textu označen jako oceněný 'zelený román', který získal Magnesii Literu."
+  },
+  {
+    "id": "autor_zivot_dalsi_dila",
+    "type": "matching",
+    "tags": ["autor_zivot", "seznam_all", "seznam_marian"],
+    "importance": 6,
+    "question": "Spojte další díla Miloše Urbana s jejich popisem:",
+    "options": [
+      "Hastrman",
+      "Kar",
+      "Santiniho jazyk"
+    ],
+    "correctAnswer": [
+      "Hastrman == Oceněný zelený román (získal Magnesii Literu)",
+      "Kar == Detektivní příběh z prostředí Karlových Varů",
+      "Santiniho jazyk == Mysteriózní román, který byl i zfilmován"
+    ],
+    "explanation": "Toto jsou charakteristiky dalších významných děl Miloše Urbana zmíněných v textu."
+  },
+  {
+    "id": "rozbor_textu_srovnani_fuks",
+    "type": "multiple_choice",
+    "tags": ["rozbor_textu", "seznam_all", "seznam_marian"],
+    "importance": 8,
+    "question": "V čem spočívá hlavní podobnost mezi Urbanovým Sedmikostelím a Fuksovým Spalovačem mrtvol?",
+    "options": [
+      "Obě díla jsou prosycena hororovou náladou a vrahové ospravedlňují své činy fanatickou ideologií.",
+      "Obě díla se odehrávají v období nástupu nacismu a 2. světové války.",
+      "V obou dílech vystupuje tajuplný cizinec, který vyvede z města krysy.",
+      "Obě díla jsou psána ve verších a čerpají ze starých německých pověstí."
+    ],
+    "correctAnswer": "Obě díla jsou prosycena hororovou náladou a vrahové ospravedlňují své činy fanatickou ideologií.",
+    "explanation": "V Sedmikostelí jde o architektonickou očistu a ve Spalovači mrtvol o nacismus, obě díla sdílejí hororovou tísnivou náladu a hrůznou manipulaci."
+  },
+  {
+    "id": "rozbor_textu_rozdil_fuks",
+    "type": "multiple_choice",
+    "tags": ["rozbor_textu", "seznam_all", "seznam_marian"],
+    "importance": 8,
+    "question": "Jaký je zásadní rozdíl v ději mezi Fuksovým Spalovačem mrtvol a Urbanovým Sedmikostelím?",
+    "options": [
+      "Fuksův román ukazuje přerod obyčejného občana v monstrum za nacismu, zatímco Urbanův se odehrává v porevoluční Praze a vraždí tajné bratrstvo.",
+      "Urbanův román stojí na přísné dedukci neomylného detektiva, zatímco Fuksův detektiva vůbec nemá.",
+      "Sedmikostelí je založeno na pověsti o zklamané lásce, Spalovač mrtvol na záchraně gotické architektury.",
+      "Fuksův román končí šťastně v uzavřeném městečku, zatímco Urbanův končí plošným trestem pro celou Prahu."
+    ],
+    "correctAnswer": "Fuksův román ukazuje přerod obyčejného občana v monstrum za nacismu, zatímco Urbanův se odehrává v porevoluční Praze a vraždí tajné bratrstvo.",
+    "explanation": "Rozdíl tkví v dobovém zasazení (nacismus vs. porevoluční Praha) a povaze vraždícího elementu (přerod jednotlivce vs. tajné středověké bratrstvo)."
+  },
+  {
+    "id": "rozbor_textu_srovnani_dyk",
+    "type": "multiple_choice",
+    "tags": ["rozbor_textu", "seznam_all", "seznam_marian"],
+    "importance": 8,
+    "question": "Jaký společný motiv sdílí román Sedmikostelí s Dykovým Krysařem?",
+    "options": [
+      "Téma tajuplného a charismatického cizince, který přichází do města a přináší zkázu či zúčtování.",
+      "Téma přísné policejní dedukce a vyšetřování rituálních vražd podle spisů.",
+      "Motiv nešťastné lásky, kvůli které hlavní hrdina zničí architektonické památky.",
+      "Zasazení příběhu do období po pádu komunismu na pražské Nové Město."
+    ],
+    "correctAnswer": "Téma tajuplného a charismatického cizince, který přichází do města a přináší zkázu či zúčtování.",
+    "explanation": "Gmünd u Urbana i Krysař u Dyka jsou charismatičtí cizinci, kteří zasáhnou do osudů obyvatel a přinášejí zúčtování."
+  },
+  {
+    "id": "rozbor_textu_rozdil_dyk",
+    "type": "multiple_choice",
+    "tags": ["rozbor_textu", "seznam_all", "seznam_marian"],
+    "importance": 7,
+    "question": "V čem se liší motivace destrukce ve světě Krysaře a Sedmikostelí?",
+    "options": [
+      "V Krysaři je motivem trest za chamtivost a zklamání v lásce, v Sedmikostelí jde o cílenou likvidaci představitelů moderní architektury.",
+      "V Krysaři jde o architektonickou očistu gotiky, zatímco v Sedmikostelí o trest za nezaplacenou práci.",
+      "V Krysaři ničí město zmanipulovaná policistka, zatímco v Sedmikostelí orangutan.",
+      "V Krysaři je destrukce důsledkem nacistické ideologie, v Sedmikostelí důsledkem chamtivosti."
+    ],
+    "correctAnswer": "V Krysaři je motivem trest za chamtivost a zklamání v lásce, v Sedmikostelí jde o cílenou likvidaci představitelů moderní architektury.",
+    "explanation": "Krysař je pověst o trestu za chamtivost a nešťastnou lásku; Sedmikostelí je o nostalgii po gotice a likvidaci moderních architektů."
+  },
+  {
+    "id": "rozbor_textu_srovnani_poe",
+    "type": "multiple_choice",
+    "tags": ["rozbor_textu", "seznam_all", "seznam_marian"],
+    "importance": 8,
+    "question": "Jaký nečekaný vraždící nástroj stojí za vraždami v Sedmikostelí, což tvoří paralelu s orangutanem u E. A. Poea (Vraždy v ulici Morgue)?",
+    "options": [
+      "Zmanipulovaná policistka (Rozeta)",
+      "Skrytý mechanismus kostelního zvonu",
+      "Středověký rytíř Matyáš Gmünd",
+      "Skřet Raymond Prunslík"
+    ],
+    "correctAnswer": "Zmanipulovaná policistka (Rozeta)",
+    "explanation": "V obou dílech je překvapivý 'nástroj' vraždy – u Poea je to zvíře (orangutan), u Urbana zmanipulovaná policistka."
+  },
+  {
+    "id": "rozbor_textu_rozdil_poe",
+    "type": "multiple_choice",
+    "tags": ["rozbor_textu", "seznam_all", "seznam_marian"],
+    "importance": 7,
+    "question": "Jak se liší vyšetřování v povídce E. A. Poea a v románu Sedmikostelí?",
+    "options": [
+      "U Poea stojí na neomylné dedukci detektiva, zatímco v Sedmikostelí vyšetřování selhává a přelévá se do mystického závěru.",
+      "U Poea detektiv zcela selže a umírá, zatímco Květoslav Švach případ pomocí přísné logiky úspěšně vyřeší.",
+      "U Poea případ vyřeší zfanatizovaný dav, zatímco v Sedmikostelí policie pachatele ihned zatkne.",
+      "Obě vyšetřování jsou totožná, pouze detektiv u Poea používá modernější technologie."
+    ],
+    "correctAnswer": "U Poea stojí na neomylné dedukci detektiva, zatímco v Sedmikostelí vyšetřování selhává a přelévá se do mystického závěru.",
+    "explanation": "Dupin u Poea spoléhá na logiku a dedukci, zatímco v postmoderním Sedmikostelí tradiční policejní práce selhává a končí absurdně/fantaskně."
+  },
+  {
+    "id": "rozbor_textu_lit_druh",
+    "type": "flashcard",
+    "tags": ["rozbor_textu", "seznam_all", "seznam_marian"],
+    "importance": 9,
+    "question": "Do jakého literárního druhu spadá román Sedmikostelí?",
+    "options": [],
+    "correctAnswer": "Epika",
+    "explanation": "Dílo patří do epiky, protože má děj, který se odvíjí a zaznamenává příběh postav."
+  },
+  {
+    "id": "rozbor_textu_lit_zanr",
+    "type": "multiple_choice",
+    "tags": ["rozbor_textu", "seznam_all", "seznam_marian"],
+    "importance": 9,
+    "question": "Jaký je přesný literární žánr knihy Sedmikostelí?",
+    "options": [
+      "Hororový román s prvky detektivky.",
+      "Historický epos v próze.",
+      "Symbolistická a psychologická novela.",
+      "Sci-fi román z dystopické budoucnosti."
+    ],
+    "correctAnswer": "Hororový román s prvky detektivky.",
+    "explanation": "Kniha je žánrově zařazena jako hororový román s prvky detektivky."
+  },
+  {
+    "id": "rozbor_textu_lit_forma",
+    "type": "flashcard",
+    "tags": ["rozbor_textu", "seznam_all", "seznam_marian"],
+    "importance": 9,
+    "question": "Jakou literární formu má román Sedmikostelí?",
+    "options": [],
+    "correctAnswer": "Próza",
+    "explanation": "Dílo je psáno formou prózy (souvislý text členěný do odstavců a kapitol)."
+  },
+  {
+    "id": "dilo_obsah_casoprostor_cas",
+    "type": "multiple_choice",
+    "tags": ["dilo_obsah", "seznam_all", "seznam_marian"],
+    "importance": 8,
+    "question": "V jakých dvou časových rovinách se prolíná děj Sedmikostelí?",
+    "options": [
+      "Retrospektivně se vrací do vypravěčova mládí a v hlavní linii probíhá v tehdejší současnosti.",
+      "Probíhá pouze lineárně ve středověku během stavby Karlova mostu.",
+      "Střídá se současnost s budoucností vzdálenou o 100 let.",
+      "Odehrává se během druhé světové války a komunistické normalizace."
+    ],
+    "correctAnswer": "Retrospektivně se vrací do vypravěčova mládí a v hlavní linii probíhá v tehdejší současnosti.",
+    "explanation": "Děj se odehrává v retrospektivních návratech do mládí v Mladé Boleslavi a v hlavní linii v tehdejší porevoluční současnosti."
+  },
+  {
+    "id": "dilo_obsah_casoprostor_misto",
+    "type": "multiple_choice",
+    "tags": ["dilo_obsah", "seznam_all", "seznam_marian"],
+    "importance": 8,
+    "question": "Kde přesně se odehrává hlavní dějová linie Sedmikostelí?",
+    "options": [
+      "Na pražském Novém Městě, v lokalitě označované jako Sedmikostelí.",
+      "V Karlových Varech a jejich okolí.",
+      "Na venkově v blízkosti Mladé Boleslavi.",
+      "Na Pražském hradě a Malé Straně."
+    ],
+    "correctAnswer": "Na pražském Novém Městě, v lokalitě označované jako Sedmikostelí.",
+    "explanation": "Hlavní linie probíhá na pražském Novém Městě, retrospektiva v Mladé Boleslavi."
+  },
+  {
+    "id": "dilo_postavy_kvetoslav_minulost",
+    "type": "multiple_choice",
+    "tags": ["dilo_postavy", "seznam_all", "seznam_marian"],
+    "importance": 8,
+    "question": "Z jakého důvodu byl hlavní hrdina Květoslav Švach původně propuštěn od policie?",
+    "options": [
+      "Za údajné opití se ve službě před sebevraždou hlídané osoby.",
+      "Za to, že zatajoval důkazy o činnosti tajného bratrstva.",
+      "Pro psychickou nezpůsobilost po útoku orangutana.",
+      "Protože pomáhal rytíři Gmündovi s vraždami."
+    ],
+    "correctAnswer": "Za údajné opití se ve službě před sebevraždou hlídané osoby.",
+    "explanation": "Květoslav je bývalý policista propuštěný za údajné opití se ve službě před sebevraždou hlídané osoby."
+  },
+  {
+    "id": "dilo_obsah_prvni_vrazda",
+    "type": "flashcard",
+    "tags": ["dilo_obsah", "seznam_all", "seznam_marian"],
+    "importance": 9,
+    "question": "Kde Květoslav nalezne první zmrzačené mužské tělo na začátku příběhu?",
+    "options": [],
+    "correctAnswer": "Přivázané ke zvonu kostela sv. Apolináře",
+    "explanation": "Květoslav učiní děsivý objev – najde zmrzačeného muže přivázaného ke zvonu kostela sv. Apolináře."
+  },
+  {
+    "id": "dilo_obsah_kdo_jsou_obeti",
+    "type": "multiple_choice",
+    "tags": ["dilo_obsah", "seznam_all", "seznam_marian"],
+    "importance": 8,
+    "question": "S čím jsou spojeny oběti surových vražd v Praze?",
+    "options": [
+      "S moderními budovami a jsou to architekti.",
+      "S komunistickým režimem a jsou to politici.",
+      "S církví a jsou to vysocí představitelé kléru.",
+      "S policií a jedná se o bývalé kolegy Květoslava."
+    ],
+    "correctAnswer": "S moderními budovami a jsou to architekti.",
+    "explanation": "V Praze dochází k řadě surových vražd spojených s moderními budovami a architekty (architektonická očista města)."
+  },
+  {
+    "id": "dilo_obsah_gmund_nabidka",
+    "type": "flashcard",
+    "tags": ["dilo_obsah", "seznam_all", "seznam_marian"],
+    "importance": 6,
+    "question": "Na jakou práci najme rytíř Matyáš Gmünd Květoslava Švacha?",
+    "options": [],
+    "correctAnswer": "Na obchůzku kostelů",
+    "explanation": "Matyáš Gmünd Květoslava najme na obchůzku gotických kostelů v oblasti Sedmikostelí."
+  },
+  {
+    "id": "dilo_obsah_rozeta_partnerka",
+    "type": "multiple_choice",
+    "tags": ["dilo_obsah", "seznam_all", "seznam_marian"],
+    "importance": 7,
+    "question": "S kým spolupracuje Květoslav po svém návratu k policii?",
+    "options": [
+      "S policistkou Rozetou.",
+      "S detektivem Dupinem.",
+      "S rytířem Gmündem.",
+      "Se skřetem Raymondem."
+    ],
+    "correctAnswer": "S policistkou Rozetou.",
+    "explanation": "Aby pomohl objasnit vraždy, vrací se Květoslav k policii a spolupracuje s policistkou Rozetou."
+  },
+  {
+    "id": "dilo_obsah_bratrstvo_cil",
+    "type": "multiple_choice",
+    "tags": ["dilo_obsah", "seznam_all", "seznam_marian"],
+    "importance": 8,
+    "question": "O co usiluje tajemné bratrstvo Božího těla řízené Gmündem?",
+    "options": [
+      "O navrácení středověké (gotické) tváře městu a záchranu starých kostelů.",
+      "O nastolení nacistické diktatury a očištění krve obyvatel Prahy.",
+      "O nalezení bájného pokladu ukrytého pod Karlovým mostem.",
+      "O zboření všech starých kostelů a postavení moderních mrakodrapů."
+    ],
+    "correctAnswer": "O navrácení středověké (gotické) tváře městu a záchranu starých kostelů.",
+    "explanation": "Bratrstvo Božího těla touží navrátit středověkou tvář městu a usiluje o záchranu gotiky z nostalgie."
+  },
+  {
+    "id": "dilo_postavy_skutecny_vrah",
+    "type": "flashcard",
+    "tags": ["dilo_postavy", "seznam_all", "seznam_marian"],
+    "importance": 9,
+    "question": "Kdo je skutečným vrahem vykonávajícím popravy nepřátel gotiky?",
+    "options": [],
+    "correctAnswer": "Zmanipulovaná policistka Rozeta Bělská",
+    "explanation": "Skutečným vrahem je sama zmanipulovaná Rozeta, která pod Gmündovým vlivem likvidovala oběti."
+  },
+  {
+    "id": "dilo_obsah_zaver_romanu",
+    "type": "multiple_choice",
+    "tags": ["dilo_obsah", "seznam_all", "seznam_marian"],
+    "importance": 9,
+    "question": "Jaký je závěr románu Sedmikostelí pro hlavního hrdinu?",
+    "options": [
+      "Nekončí tragicky, Květoslav nalezne štěstí ve fiktivní středověké enklávě a stane se kronikářem Dalimilem.",
+      "Končí smrtí Květoslava, kterého rituálně obětuje zmanipulovaná Rozeta.",
+      "Květoslav zatkne Gmünda a je povýšen na šéfa pražské kriminálky.",
+      "Květoslav zešílí a skončí v psychiatrické léčebně."
+    ],
+    "correctAnswer": "Nekončí tragicky, Květoslav nalezne štěstí ve fiktivní středověké enklávě a stane se kronikářem Dalimilem.",
+    "explanation": "Závěr je uzavřený, nekončí pro hrdinu tragicky. Bratrstvo si vytvoří středověkou iluzi, kde Květoslav nachází štěstí a novou identitu."
+  },
+  {
+    "id": "dilo_postavy_nova_identita",
+    "type": "flashcard",
+    "tags": ["dilo_postavy", "seznam_all", "seznam_marian"],
+    "importance": 8,
+    "question": "Jaké nové jméno začne používat Květoslav na konci románu, když přijme roli kronikáře?",
+    "options": [],
+    "correctAnswer": "Dalimil",
+    "explanation": "Květoslav se zbavuje traumat, přijme novou identitu kronikáře a učitele a začne používat jméno Dalimil."
+  },
+  {
+    "id": "dilo_obsah_hlavni_temata",
+    "type": "multiple_choice",
+    "tags": ["dilo_obsah", "seznam_all", "seznam_marian"],
+    "importance": 9,
+    "question": "Jaká jsou hlavní témata a motivy románu Sedmikostelí?",
+    "options": [
+      "Odpor k moderní době, nostalgický obdiv k gotické architektuře a manipulace.",
+      "Ztráta iluzí vojáků na frontě během 1. světové války.",
+      "Láska dvou mladých lidí ze znepřátelených rodů v renesanční Itálii.",
+      "Konflikt člověka a umělé inteligence v podobě robotů."
+    ],
+    "correctAnswer": "Odpor k moderní době, nostalgický obdiv k gotické architektuře a manipulace.",
+    "explanation": "Mezi hlavní témata patří odpor k modernitě, obdiv k historii/gotice, manipulace, bestiální vraždy a hledání vlastní identity."
+  },
+  {
+    "id": "dilo_titul_vysvetleni",
+    "type": "flashcard",
+    "tags": ["dilo_titul", "seznam_all", "seznam_marian"],
+    "importance": 8,
+    "question": "Z čeho pramení název knihy 'Sedmikostelí'?",
+    "options": [],
+    "correctAnswer": "Je to fiktivní část Nového Města se 6 gotickými kostely a zbytky 1 zbouraného (7 celkem).",
+    "explanation": "Titul odkazuje na fiktivně vytyčenou část pražského Nového Města s šesti gotickými kostely a jedním zbouraným."
+  },
+  {
+    "id": "jazyk_a_styl_atmosfera",
+    "type": "multiple_choice",
+    "tags": ["jazyk_a_styl", "seznam_all", "seznam_marian"],
+    "importance": 8,
+    "question": "Jaká atmosféra převládá v knize Sedmikostelí?",
+    "options": [
+      "Mystická, tajemná, hrůzostrašná a místy až depresivní či hororová.",
+      "Veselá, ironická a satiricky zesměšňující venkovský život.",
+      "Hrdinská a oslavující lidskou odvahu v boji proti přírodě.",
+      "Klidná, melancholická a soustředěná na detaily milostného citu."
+    ],
+    "correctAnswer": "Mystická, tajemná, hrůzostrašná a místy až depresivní či hororová.",
+    "explanation": "Podle textu má kniha mystickou, tajemnou, hrůzostrašnou a depresivní/hororovou atmosféru."
+  },
+  {
+    "id": "dilo_postavy_kvetoslav_komplex",
+    "type": "flashcard",
+    "tags": ["dilo_postavy", "seznam_all", "seznam_marian"],
+    "importance": 6,
+    "question": "Z čeho má vypravěč Květoslav Švach těžký komplex (kvůli kterému se uvádí jen jako 'K')?",
+    "options": [],
+    "correctAnswer": "Ze svého jména (Květoslav).",
+    "explanation": "Trpí těžkým komplexem ze svého jména a zpočátku se uvádí jen jako 'K'."
+  },
+  {
+    "id": "dilo_postavy_zvlastni_dar",
+    "type": "flashcard",
+    "tags": ["dilo_postavy", "seznam_all", "seznam_marian"],
+    "importance": 8,
+    "question": "Jakým zvláštním mystickým darem trpí hlavní hrdina Květoslav i policistka Rozeta?",
+    "options": [],
+    "correctAnswer": "Darem vizí z minulosti",
+    "explanation": "Oba trpí zvláštním darem vizí z minulosti."
+  },
+  {
+    "id": "dilo_postavy_gmund_charakter",
+    "type": "multiple_choice",
+    "tags": ["dilo_postavy", "seznam_all", "seznam_marian"],
+    "importance": 8,
+    "question": "Jak lze nejlépe charakterizovat rytíře Matyáše Gmünda?",
+    "options": [
+      "Je to charismatický, tajemný rytíř, zákeřný manipulátor a šéf bratrstva nenávidějící moderní dobu.",
+      "Je to racionální a logicky uvažující detektiv, který neuznává mýty.",
+      "Je to zkorumpovaný politik těžící z moderní zástavby Prahy.",
+      "Je to dobromyslný kněz, který se snaží zabránit sérii vražd."
+    ],
+    "correctAnswer": "Je to charismatický, tajemný rytíř, zákeřný manipulátor a šéf bratrstva nenávidějící moderní dobu.",
+    "explanation": "Gmünd je šéf bratrstva Božího těla, nenávidí moderní dobu a je zákeřný manipulátor."
+  },
+  {
+    "id": "dilo_postavy_rozeta_osud",
+    "type": "multiple_choice",
+    "tags": ["dilo_postavy", "seznam_all", "seznam_marian"],
+    "importance": 8,
+    "question": "Jaký osud potká policistku Rozetu Bělskou?",
+    "options": [
+      "Stane se zfanatizovaným a zmanipulovaným vraždícím nástrojem rytíře Gmünda.",
+      "Uteče z Prahy do Oxfordu, kde založí vlastní detektivní kancelář.",
+      "Převezme po Květoslavovi psaní kroniky středověkého městečka.",
+      "Je první obětí bratrstva, kterou Květoslav najde na zvonu kostela."
+    ],
+    "correctAnswer": "Stane se zfanatizovaným a zmanipulovaným vraždícím nástrojem rytíře Gmünda.",
+    "explanation": "Rozeta se stává tragickým vraždícím nástrojem, zfanatizovaným a bezohledně zmanipulovaným Gmündem."
+  },
+  {
+    "id": "dilo_postavy_raymond",
+    "type": "flashcard",
+    "tags": ["dilo_postavy", "seznam_all", "seznam_marian"],
+    "importance": 7,
+    "question": "Kdo je Raymond Prunslík?",
+    "options": [],
+    "correctAnswer": "Děsivý skřet a věrný společník rytíře Matyáše Gmünda.",
+    "explanation": "Raymond Prunslík je v textu popsán jako děsivý skřet a věrný společník rytíře."
+  },
+  {
+    "id": "jazyk_a_styl_vypravec",
+    "type": "flashcard",
+    "tags": ["jazyk_a_styl", "seznam_all", "seznam_marian"],
+    "importance": 9,
+    "question": "Jaký typ vypravěče je použit v románu Sedmikostelí?",
+    "options": [],
+    "correctAnswer": "Ich-forma",
+    "explanation": "Příběh je vyprávěn v ich-formě samotnou hlavní postavou Květoslavem Švachem."
+  },
+  {
+    "id": "jazyk_a_styl_jazykove_vrstvy",
+    "type": "multiple_choice",
+    "tags": ["jazyk_a_styl", "seznam_all", "seznam_marian"],
+    "importance": 8,
+    "question": "Jakými slovy autor záměrně prokládá spisovný jazyk, aby umocnil gotickou atmosféru?",
+    "options": [
+      "Množstvím archaismů a historizujících odborných termínů z oblasti architektury.",
+      "Hrubými vulgarismy a policejním argotem z podsvětí.",
+      "Novotvary (neologismy), které sám vymyslel pro popis budoucnosti.",
+      "Anglicismy a moderním internetovým slangem."
+    ],
+    "correctAnswer": "Množstvím archaismů a historizujících odborných termínů z oblasti architektury.",
+    "explanation": "Autor využívá spisovný jazyk záměrně prokládaný archaismy a historizujícími odbornými termíny z architektury a stavitelství."
+  },
+  {
+    "id": "jazyk_a_styl_stylisticke_prostredky",
+    "type": "multiple_choice",
+    "tags": ["jazyk_a_styl", "seznam_all", "seznam_marian"],
+    "importance": 8,
+    "question": "Které stylistické prostředky jsou pro text Sedmikostelí typické?",
+    "options": [
+      "Naturalistické a syrové popisy brutálních zranění, postmoderní ironie a symbolika.",
+      "Dlouhé lyrické pasáže opěvující krásy venkovské přírody a folklóru.",
+      "Krátké, strohé věty bez přídavných jmen připomínající publicistický styl.",
+      "Pravidelný verš a rým s využitím refrénů na konci každé kapitoly."
+    ],
+    "correctAnswer": "Naturalistické a syrové popisy brutálních zranění, postmoderní ironie a symbolika.",
+    "explanation": "Bohaté využití naturalistických a syrových popisů, hororové a mystické prvky, text plný postmoderní ironie a symboliky."
+  },
+  {
+    "id": "rozbor_textu_kompozice",
+    "type": "multiple_choice",
+    "tags": ["rozbor_textu", "seznam_all", "seznam_marian"],
+    "importance": 8,
+    "question": "Jak je vystavěna kompozice děje v románu?",
+    "options": [
+      "Ve dvou rovinách: retrospektivně se vrací do minulosti v Boleslavi a chronologicky plyne v Praze.",
+      "Výhradně chronologicky od narození hlavního hrdiny až po jeho smrt.",
+      "Zcela roztříštěně, kapitoly jsou řazeny náhodně a čtenář si je musí sám seřadit.",
+      "Rámcově, celý příběh je jen snem hlavního hrdiny, který se probudí v cele."
+    ],
+    "correctAnswer": "Ve dvou rovinách: retrospektivně se vrací do minulosti v Boleslavi a chronologicky plyne v Praze.",
+    "explanation": "Děj se odvíjí ve dvou rovinách (retrospektivní vracení do Boleslavi a chronologický tok v Praze)."
+  },
+  {
+    "id": "jazyk_a_styl_vizualni_stranka",
+    "type": "flashcard",
+    "tags": ["jazyk_a_styl", "seznam_all", "seznam_marian"],
+    "importance": 5,
+    "question": "Čím začínají jednotlivé formálně rozdělené kapitoly románu?",
+    "options": [],
+    "correctAnswer": "Začínají trefnými citáty a doplňují je vizuální ilustrace.",
+    "explanation": "Kniha je formálně rozdělena do kapitol, které začínají trefnými citáty a doplňují je vizuální ilustrace."
+  },
+  {
+    "id": "rozbor_textu_neumel_styl",
+    "type": "text_analysis",
+    "tags": ["rozbor_textu", "seznam_all", "seznam_marian"],
+    "importance": 6,
+    "question": "Jaký funkční styl by odpovídal fiktivnímu úřednímu policejnímu protokolu o ohledání místa činu, který je zmíněn v neuměleckém textu?",
+    "options": [
+      "Administrativní styl",
+      "Umělecký styl",
+      "Publicistický styl",
+      "Odborný styl"
+    ],
+    "correctAnswer": "Administrativní styl",
+    "explanation": "Policejní protokol spadá do administrativního stylu, který je určen k přesné, neosobní a formální úřední komunikaci."
+  },
+  {
+    "id": "rozbor_textu_neumel_postupy",
+    "type": "text_analysis",
+    "tags": ["rozbor_textu", "seznam_all", "seznam_marian"],
+    "importance": 6,
+    "question": "Které slohové postupy by se podle textu kombinovaly v úředním policejním protokolu?",
+    "options": [
+      "Popisný postup a informační postup",
+      "Vyprávěcí postup a úvahový postup",
+      "Výkladový postup a popisný postup",
+      "Informační postup a vyprávěcí postup"
+    ],
+    "correctAnswer": "Popisný postup a informační postup",
+    "explanation": "Kombinoval by se popisný postup (exaktní popis zranění) a informační postup (fakta o čase a adrese)."
+  },
+  {
+    "id": "gramatika_neumel_prostredky",
+    "type": "multiple_choice",
+    "tags": ["gramatika", "seznam_all", "seznam_marian"],
+    "importance": 6,
+    "question": "Jaké specifické gramatické prostředky jsou typické pro policejní protokol (administrativní styl) zmíněný v textu?",
+    "options": [
+      "Číslovky určité k vyznačení přesného času a typické trpné rody (např. 'bylo zjištěno').",
+      "Množství citoslovcí pro vyjádření emocí na místě činu a ukazovací zájmena.",
+      "Zvolací věty a nedokončené výpovědi, které ukazují zmatek po vraždě.",
+      "Básnické přívlastky (epiteton) k popisu zohaveného těla."
+    ],
+    "correctAnswer": "Číslovky určité k vyznačení přesného času a typické trpné rody (např. 'bylo zjištěno').",
+    "explanation": "Text by musel být objektivní; gramaticky jsou zásadní číslovky určité a typické trpné rody."
+  },
+  {
+    "id": "gramatika_slang_policie",
+    "type": "flashcard",
+    "tags": ["gramatika", "seznam_all", "seznam_marian"],
+    "importance": 4,
+    "question": "Jaká specifická vrstva slovní zásoby, obsahující výrazy jako 'ohledání místa činu' či 'cizí zavinění', by se využila v policejním protokolu?",
+    "options": [],
+    "correctAnswer": "Policejní/kriminalistický odborný slang a termíny",
+    "explanation": "Z hlediska vrstvy jazyka by se využil policejní/kriminalistický odborný slang a termíny."
+  },
+  {
+    "id": "definice_postmodernismus",
+    "type": "flashcard",
+    "tags": ["definice", "literarni_teorie", "seznam_all", "seznam_marian"],
+    "importance": 10,
+    "question": "Definujte pojem: Postmodernismus (podle oddílu Vysvětlení termínů).",
+    "options": [],
+    "correctAnswer": "Literární směr z konce 20. století. Reaguje na modernu tím, že odmítá předkládat jedinou pravdu, vkládá do knih různé mystifikace, ironii a vyžaduje aktivní intuici či různorodou interpretaci čtenáře.",
+    "explanation": "Přesná definice postmodernismu dle textu."
+  },
+  {
+    "id": "definice_epika",
+    "type": "flashcard",
+    "tags": ["definice", "literarni_teorie", "seznam_all", "seznam_marian"],
+    "importance": 10,
+    "question": "Definujte pojem: Epika (podle oddílu Vysvětlení termínů).",
+    "options": [],
+    "correctAnswer": "Základní literární druh; text, který je založen na vyprávění děje s událostmi a postavami posouvajícími se v čase.",
+    "explanation": "Přesná definice epiky dle textu."
+  },
+  {
+    "id": "definice_proza",
+    "type": "flashcard",
+    "tags": ["definice", "literarni_teorie", "seznam_all", "seznam_marian"],
+    "importance": 10,
+    "question": "Definujte pojem: Próza (podle oddílu Vysvětlení termínů).",
+    "options": [],
+    "correctAnswer": "Literární forma organizovaná do přirozených vět a odstavců, není členěna do rýmovaných veršů.",
+    "explanation": "Přesná definice prózy dle textu."
+  },
+  {
+    "id": "definice_hororovy_roman",
+    "type": "flashcard",
+    "tags": ["definice", "literarni_teorie", "seznam_all", "seznam_marian"],
+    "importance": 10,
+    "question": "Definujte pojem: Hororový román (podle oddílu Vysvětlení termínů).",
+    "options": [],
+    "correctAnswer": "Delší epický žánr, jehož primárním estetickým cílem je u čtenáře navodit intenzivní pocity hrůzy, strachu a napětí.",
+    "explanation": "Přesná definice hororového románu dle textu."
+  },
+  {
+    "id": "definice_detektivka",
+    "type": "flashcard",
+    "tags": ["definice", "literarni_teorie", "seznam_all", "seznam_marian"],
+    "importance": 10,
+    "question": "Definujte pojem: Detektivka (podle oddílu Vysvětlení termínů).",
+    "options": [],
+    "correctAnswer": "Žánr populární literatury, jehož ústředním motivem je řešení zločinu, vyšetřování a hledání pachatele.",
+    "explanation": "Přesná definice detektivky dle textu."
+  },
+  {
+    "id": "definice_ich_forma",
+    "type": "flashcard",
+    "tags": ["definice", "literarni_teorie", "seznam_all", "seznam_marian"],
+    "importance": 10,
+    "question": "Definujte pojem: Ich-forma (podle oddílu Vysvětlení termínů).",
+    "options": [],
+    "correctAnswer": "Způsob vyprávění, kdy je vypravěčem přímo jedna z postav, děj je tak líčen v 1. osobě jednotného čísla z jejího subjektivního úhlu pohledu.",
+    "explanation": "Přesná definice ich-formy dle textu."
+  },
+  {
+    "id": "definice_retrospektivni_kompozice",
+    "type": "flashcard",
+    "tags": ["definice", "literarni_teorie", "seznam_all", "seznam_marian"],
+    "importance": 10,
+    "question": "Definujte pojem: Retrospektivní kompozice (podle oddílu Vysvětlení termínů).",
+    "options": [],
+    "correctAnswer": "Způsob řazení děje, při kterém se vyprávění vrací do minulosti, k událostem, které předcházely hlavní dějové lince.",
+    "explanation": "Přesná definice retrospektivní kompozice dle textu."
+  },
+  {
+    "id": "definice_chronologicka_kompozice",
+    "type": "flashcard",
+    "tags": ["definice", "literarni_teorie", "seznam_all", "seznam_marian"],
+    "importance": 10,
+    "question": "Definujte pojem: Chronologická kompozice (podle oddílu Vysvětlení termínů).",
+    "options": [],
+    "correctAnswer": "Přirozené plynutí děje v čase za sebou tak, jak se události postupně staly.",
+    "explanation": "Přesná definice chronologické kompozice dle textu."
+  },
+  {
+    "id": "definice_archaismus",
+    "type": "flashcard",
+    "tags": ["definice", "gramatika", "seznam_all", "seznam_marian"],
+    "importance": 10,
+    "question": "Definujte pojem: Archaismus (podle oddílu Vysvětlení termínů).",
+    "options": [],
+    "correctAnswer": "Zastaralý jazykový prostředek nebo slovo, které se v běžné současné mluvě aktivně nevyužívá.",
+    "explanation": "Přesná definice archaismu dle textu."
+  },
+  {
+    "id": "definice_slang",
+    "type": "flashcard",
+    "tags": ["definice", "gramatika", "seznam_all", "seznam_marian"],
+    "importance": 10,
+    "question": "Definujte pojem: Slang (podle oddílu Vysvětlení termínů).",
+    "options": [],
+    "correctAnswer": "Nespisovná vrstva jazyka typická pro určitou zájmovou či profesní skupinu (např. policisty).",
+    "explanation": "Přesná definice slangu dle textu."
+  },
+  {
+    "id": "definice_ironie",
+    "type": "flashcard",
+    "tags": ["definice", "literarni_teorie", "seznam_all", "seznam_marian"],
+    "importance": 10,
+    "question": "Definujte pojem: Ironie (podle oddílu Vysvětlení termínů).",
+    "options": [],
+    "correctAnswer": "Záměrné vyjádření opaku toho, co je skutečně myšleno, často za účelem zesměšnění či kritiky.",
+    "explanation": "Přesná definice ironie dle textu."
+  },
+  {
+    "id": "definice_symbolika",
+    "type": "flashcard",
+    "tags": ["definice", "literarni_teorie", "seznam_all", "seznam_marian"],
+    "importance": 10,
+    "question": "Definujte pojem: Symbolika (podle oddílu Vysvětlení termínů).",
+    "options": [],
+    "correctAnswer": "Záměrné využívání symbolů (znaků, předmětů) k odkazování na hlubší, abstraktní nebo skrytý význam v díle.",
+    "explanation": "Přesná definice symboliky dle textu."
+  },
+  {
+    "id": "definice_administrativni_styl",
+    "type": "flashcard",
+    "tags": ["definice", "literarni_teorie", "seznam_all", "seznam_marian"],
+    "importance": 10,
+    "question": "Definujte pojem: Administrativní styl (podle oddílu Vysvětlení termínů).",
+    "options": [],
+    "correctAnswer": "Funkční styl komunikace užívaný v úředním styku (žádosti, protokoly). Je výhradně strohý, bez emocí a zaměřený na přesná data a jasné formulace.",
+    "explanation": "Přesná definice administrativního stylu dle textu."
+  },
+  {
+    "id": "definice_informacni_postup",
+    "type": "flashcard",
+    "tags": ["definice", "literarni_teorie", "seznam_all", "seznam_marian"],
+    "importance": 10,
+    "question": "Definujte pojem: Informační slohový postup (podle oddílu Vysvětlení termínů).",
+    "options": [],
+    "correctAnswer": "Jednoduchý postup podávající pouhá strohá fakta odpovídající na otázky kdo, co, kdy, kde, jak.",
+    "explanation": "Přesná definice informačního slohového postupu dle textu."
+  },
+  {
+    "id": "definice_popisny_postup",
+    "type": "flashcard",
+    "tags": ["definice", "literarni_teorie", "seznam_all", "seznam_marian"],
+    "importance": 10,
+    "question": "Definujte pojem: Popisný slohový postup (podle oddílu Vysvětlení termínů).",
+    "options": [],
+    "correctAnswer": "Postup, který čtenáři systematicky přibližuje vnější znaky a vlastnosti předmětu, osoby nebo prostředí (jak co vypadá).",
+    "explanation": "Přesná definice popisného slohového postupu dle textu."
+  },
+  {
+    "id": "definice_trpny_rod",
+    "type": "flashcard",
+    "tags": ["definice", "gramatika", "seznam_all", "seznam_marian"],
+    "importance": 10,
+    "question": "Definujte pojem: Trpný rod (podle oddílu Vysvětlení termínů).",
+    "options": [],
+    "correctAnswer": "Mluvnická struktura věty, kde podmět nevykonává činnost, nýbrž je s ním určitá činnost prováděna (např. zvon byl nalezen).",
+    "explanation": "Přesná definice trpného rodu dle textu."
+  },
+  {
+    "id": "dilo_obsah_razeni_deje",
+    "type": "sorting",
+    "tags": ["dilo_obsah", "seznam_all", "seznam_marian"],
+    "importance": 5,
+    "question": "Seřaďte události z příběhu Sedmikostelí chronologicky tak, jak po sobě logicky následují:",
+    "options": [
+      "Květoslav Švach je propuštěn od policie.",
+      "Květoslav nachází zmrzačené tělo u kostela sv. Apolináře.",
+      "Květoslav se seznamuje s rytířem Matyášem Gmündem.",
+      "Květoslav se vrací k policii a spolupracuje s Rozetou.",
+      "Zjištění, že skutečným vrahem je Rozeta, a přijetí nové identity Dalimila."
+    ],
+    "correctAnswer": [
+      "Květoslav Švach je propuštěn od policie.",
+      "Květoslav nachází zmrzačené tělo u kostela sv. Apolináře.",
+      "Květoslav se seznamuje s rytířem Matyášem Gmündem.",
+      "Květoslav se vrací k policii a spolupracuje s Rozetou.",
+      "Zjištění, že skutečným vrahem je Rozeta, a přijetí nové identity Dalimila."
+    ],
+    "explanation": "Posloupnost ukazuje Květoslavův pád, objev vraždy, navázání kontaktu s Gmündem, pokus o vyšetřování a finální absurdní rozuzlení."
+  },
+  {
+    "id": "dilo_postavy_prirazovani",
+    "type": "matching",
+    "tags": ["dilo_postavy", "seznam_all", "seznam_marian"],
+    "importance": 8,
+    "question": "Přiřaďte správně postavu z románu k její charakteristice:",
+    "options": [
+      "Květoslav Švach",
+      "Matyáš Gmünd",
+      "Rozeta Bělská",
+      "Raymond Prunslík"
+    ],
+    "correctAnswer": [
+      "Květoslav Švach == Bývalý policista trpící darem vizí a komplexem ze svého jména",
+      "Matyáš Gmünd == Charismatický a tajemný rytíř, šéf bratrstva Božího těla",
+      "Rozeta Bělská == Policistka, která se stane zfanatizovaným vraždícím nástrojem",
+      "Raymond Prunslík == Děsivý skřet a věrný společník rytíře Matyáše"
+    ],
+    "explanation": "Tyto charakteristiky přesně odpovídají popisu hlavních a vedlejších postav v textu."
+  },
+  {
+    "id": "literarni_teorie_pojmy_spojovani",
+    "type": "matching",
+    "tags": ["literarni_teorie", "seznam_all", "seznam_marian"],
+    "importance": 9,
+    "question": "Spojte literární pojmy s jejich definicemi z textu:",
+    "options": [
+      "Epika",
+      "Próza",
+      "Ich-forma",
+      "Retrospektivní kompozice"
+    ],
+    "correctAnswer": [
+      "Epika == Základní literární druh; text založený na vyprávění děje",
+      "Próza == Literární forma organizovaná do přirozených vět a odstavců",
+      "Ich-forma == Způsob vyprávění z pohledu 1. osoby jednotného čísla",
+      "Retrospektivní kompozice == Způsob řazení děje vracející se do minulosti"
+    ],
+    "explanation": "Základní znalost literárněvědných termínů podle oddílu vysvětlení termínů."
+  }
+]

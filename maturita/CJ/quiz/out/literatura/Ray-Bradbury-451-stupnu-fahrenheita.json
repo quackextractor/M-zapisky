@@ -1,0 +1,1102 @@
+[
+  {
+    "id": "autor_zivot_cele_jmeno",
+    "type": "flashcard",
+    "tags": ["autor_zivot", "seznam_all", "seznam_marian", "seznam_vu"],
+    "importance": 9,
+    "question": "Jak zní celé jméno autora románu 451 stupňů Fahrenheita?",
+    "options": [],
+    "correctAnswer": "Raymond Douglas Bradbury",
+    "explanation": "Celé jméno autora je Raymond Douglas Bradbury."
+  },
+  {
+    "id": "autor_zivot_data_narozeni",
+    "type": "multiple_choice",
+    "tags": ["autor_zivot", "seznam_all", "seznam_marian", "seznam_vu"],
+    "importance": 1,
+    "question": "Ve kterých letech žil Ray Bradbury?",
+    "options": [
+      "1903–1950",
+      "1890–1938",
+      "1920–2012",
+      "1950–2020"
+    ],
+    "correctAnswer": "1920–2012",
+    "explanation": "Ray Bradbury žil v letech 1920–2012."
+  },
+  {
+    "id": "autor_zivot_povolani",
+    "type": "multiple_choice",
+    "tags": ["autor_zivot", "seznam_all", "seznam_marian", "seznam_vu"],
+    "importance": 5,
+    "question": "Jakým dalším literárním profesím (kromě psaní románů a povídek) se Ray Bradbury věnoval?",
+    "options": [
+      "Byl básník a esejista.",
+      "Byl dramatik a divadelní režisér.",
+      "Byl politický novinář a kritik.",
+      "Byl výhradně autor literatury pro děti."
+    ],
+    "correctAnswer": "Byl básník a esejista.",
+    "explanation": "Bradbury byl podle textu romanopisec, povídkář, básník a esejista."
+  },
+  {
+    "id": "literarni_teorie_zlaty_vek",
+    "type": "flashcard",
+    "tags": ["literarni_teorie", "seznam_all", "seznam_marian", "seznam_vu"],
+    "importance": 7,
+    "question": "S jakým specifickým obdobím vývoje žánru jsou neodmyslitelně spjaty literární počátky Raye Bradburyho?",
+    "options": [],
+    "correctAnswer": "Se Zlatým věkem science fiction.",
+    "explanation": "Literární počátky Raye Bradburyho jsou spjaty s tzv. Zlatým věkem science fiction."
+  },
+  {
+    "id": "literarni_teorie_obdobi",
+    "type": "multiple_choice",
+    "tags": ["literarni_teorie", "seznam_all", "seznam_marian", "seznam_vu"],
+    "importance": 9,
+    "question": "Do jakého literárního období je řazeno dílo 451 stupňů Fahrenheita?",
+    "options": [
+      "Světová literatura 1. poloviny 20. století",
+      "Světová literatura 2. poloviny 20. století",
+      "Česká literatura 20. století",
+      "Světová literatura 19. století"
+    ],
+    "correctAnswer": "Světová literatura 2. poloviny 20. století",
+    "explanation": "Kniha spadá do světové literatury 2. poloviny 20. století."
+  },
+  {
+    "id": "literarni_teorie_linie_scifi",
+    "type": "multiple_choice",
+    "tags": ["literarni_teorie", "seznam_all", "seznam_marian", "seznam_vu"],
+    "importance": 8,
+    "question": "Do jaké přesnější linie vědeckofantastické literatury (sci-fi) autor spadá?",
+    "options": [
+      "Do hard sci-fi zaměřené na přesné fyzikální výpočty.",
+      "Do kyberpunku zdůrazňujícího spojení člověka a stroje.",
+      "Do humanistické, etické a poetické linie.",
+      "Do vojenské a válečné sci-fi."
+    ],
+    "correctAnswer": "Do humanistické, etické a poetické linie.",
+    "explanation": "Kniha spadá do humanistické, etické a poetické linie, která vyzdvihuje duchovní hodnoty."
+  },
+  {
+    "id": "rozbor_textu_kontext_doby",
+    "type": "multiple_choice",
+    "tags": ["rozbor_textu", "seznam_all", "seznam_marian", "seznam_vu"],
+    "importance": 9,
+    "question": "Před čím primárně varuje dílo 451 stupňů Fahrenheita v rámci kontextu doby?",
+    "options": [
+      "Před fyzickou vzpourou umělých bytostí a robotů.",
+      "Před jadernou apokalypsou způsobenou studenou válkou.",
+      "Před zničením lidstva zmechanizováním, totalitními zásahy a masovým pokrokem.",
+      "Před návratem k primitivnímu způsobu života bez technologií."
+    ],
+    "correctAnswer": "Před zničením lidstva zmechanizováním, totalitními zásahy a masovým pokrokem.",
+    "explanation": "Dílo je varovným podobenstvím o hrozbě zmechanizování, totalitních zásahů a masového pokroku."
+  },
+  {
+    "id": "autor_zivot_dalsi_dila",
+    "type": "multiple_choice",
+    "tags": ["autor_zivot", "seznam_all", "seznam_marian", "seznam_vu"],
+    "importance": 6,
+    "question": "Která další díla napsal Ray Bradbury?",
+    "options": [
+      "Farma zvířat, 1984",
+      "Marťanská kronika, Tudy přijde něco zlého",
+      "R.U.R., Bílá nemoc",
+      "Na západní frontě klid, Tři kamarádi"
+    ],
+    "correctAnswer": "Marťanská kronika, Tudy přijde něco zlého",
+    "explanation": "Mezi další autorova díla patří Marťanská kronika a Tudy přijde něco zlého."
+  },
+  {
+    "id": "rozbor_textu_srovnani_orwell_podoba",
+    "type": "multiple_choice",
+    "tags": ["rozbor_textu", "seznam_all", "seznam_marian", "seznam_vu"],
+    "importance": 8,
+    "question": "V čem spočívá hlavní podobnost mezi 451 stupňů Fahrenheita a románem 1984 od George Orwella?",
+    "options": [
+      "Obě díla varují před nadvládou strojů nad lidmi.",
+      "Obě díla popisují ztrátu paměti hlavních hrdinů.",
+      "Obě díla varují před totalitním režimem, manipulací obyvatel a cenzurou.",
+      "Obě díla se odehrávají na jiné planetě."
+    ],
+    "correctAnswer": "Obě díla varují před totalitním režimem, manipulací obyvatel a cenzurou.",
+    "explanation": "Obě díla varují před totalitním režimem, odlidštěním, manipulací a cenzurou."
+  },
+  {
+    "id": "rozbor_textu_srovnani_orwell_rozdil",
+    "type": "multiple_choice",
+    "tags": ["rozbor_textu", "seznam_all", "seznam_marian", "seznam_vu"],
+    "importance": 8,
+    "question": "Jaký je zásadní rozdíl v udržování kontroly společnosti mezi romány 1984 a 451 stupňů Fahrenheita?",
+    "options": [
+      "V 1984 kontrolují lidstvo stroje, ve 451 st. F. mimozemšťané.",
+      "V 1984 je společnost svobodná, totalita je jen iluze.",
+      "V 1984 je kontrola udržována sledováním a strachem, ve 451 st. F. lidé odevzdali svobodu dobrovolně za pohodlí.",
+      "V obou dílech lidé odevzdali svobodu dobrovolně."
+    ],
+    "correctAnswer": "V 1984 je kontrola udržována sledováním a strachem, ve 451 st. F. lidé odevzdali svobodu dobrovolně za pohodlí.",
+    "explanation": "Zatímco v 1984 vládne strach a Velký bratr, ve 451 stupňů Fahrenheita lidé odevzdali svobodu dobrovolně výměnou za bezduchou zábavu."
+  },
+  {
+    "id": "rozbor_textu_srovnani_capek_podoba",
+    "type": "multiple_choice",
+    "tags": ["rozbor_textu", "seznam_all", "seznam_marian", "seznam_vu"],
+    "importance": 8,
+    "question": "Co spojuje Bradburyho dílo 451 stupňů Fahrenheita a Čapkovo R.U.R.?",
+    "options": [
+      "Oba autoři věří, že stroje mohou mít lidskou duši.",
+      "Oba autoři varují před přetechnizovaným světem a postupnou ztrátou lidskosti.",
+      "Obě díla oslavují technologický pokrok.",
+      "Oba hlavní hrdinové pracují jako hasiči."
+    ],
+    "correctAnswer": "Oba autoři varují před přetechnizovaným světem a postupnou ztrátou lidskosti.",
+    "explanation": "Jak Čapek, tak Bradbury varují před přetechnizovaným světem a ztrátou lidskosti."
+  },
+  {
+    "id": "rozbor_textu_srovnani_capek_rozdil",
+    "type": "multiple_choice",
+    "tags": ["rozbor_textu", "seznam_all", "seznam_marian", "seznam_vu"],
+    "importance": 8,
+    "question": "V čem se liší Bradburyho pojetí dystopie (451 st. F.) od Čapkova R.U.R.?",
+    "options": [
+      "Čapek kritizuje fyzickou vzpouru strojů, Bradbury společenskou lhostejnost a masová média.",
+      "Čapek kritizuje masová média, Bradbury fyzickou vzpouru strojů.",
+      "Bradburyho dílo se odehrává v minulosti, Čapkovo v budoucnosti.",
+      "Čapek se soustředí na cenzuru knih, Bradbury na robotiku."
+    ],
+    "correctAnswer": "Čapek kritizuje fyzickou vzpouru strojů, Bradbury společenskou lhostejnost a masová média.",
+    "explanation": "Čapek varuje před vzpourou umělých bytostí, Bradbury se zaměřuje na společenskou lhostejnost a povrchní média."
+  },
+  {
+    "id": "literarni_teorie_druh",
+    "type": "flashcard",
+    "tags": ["literarni_teorie", "seznam_all", "seznam_marian", "seznam_vu"],
+    "importance": 9,
+    "question": "Jaký literární druh reprezentuje 451 stupňů Fahrenheita?",
+    "options": [],
+    "correctAnswer": "Epika",
+    "explanation": "Literárním druhem románu je epika."
+  },
+  {
+    "id": "literarni_teorie_zanr",
+    "type": "multiple_choice",
+    "tags": ["literarni_teorie", "seznam_all", "seznam_marian", "seznam_vu"],
+    "importance": 9,
+    "question": "Do jakého literárního žánru spadá dílo 451 stupňů Fahrenheita?",
+    "options": [
+      "Historický román",
+      "Vědeckofantastický antiutopický román",
+      "Psychologická novela",
+      "Detektivní povídka"
+    ],
+    "correctAnswer": "Vědeckofantastický antiutopický román",
+    "explanation": "Jedná se o vědeckofantastický antiutopický román."
+  },
+  {
+    "id": "literarni_teorie_forma",
+    "type": "flashcard",
+    "tags": ["literarni_teorie", "seznam_all", "seznam_marian", "seznam_vu"],
+    "importance": 9,
+    "question": "Jakou literární formu má román 451 stupňů Fahrenheita?",
+    "options": [],
+    "correctAnswer": "Próza",
+    "explanation": "Dílo je psáno formou prózy."
+  },
+  {
+    "id": "dilo_obsah_casoprostor",
+    "type": "multiple_choice",
+    "tags": ["dilo_obsah", "seznam_all", "seznam_marian", "seznam_vu"],
+    "importance": 7,
+    "question": "Kde a kdy se děj románu odehrává?",
+    "options": [
+      "V Londýně v roce 1984.",
+      "V blíže neurčené budoucnosti.",
+      "V Americe během druhé světové války.",
+      "Na planetě Mars ve 22. století."
+    ],
+    "correctAnswer": "V blíže neurčené budoucnosti.",
+    "explanation": "Děj se odehrává v blíže neurčené budoucnosti."
+  },
+  {
+    "id": "dilo_obsah_uloha_hasicu",
+    "type": "multiple_choice",
+    "tags": ["dilo_obsah", "seznam_all", "seznam_marian", "seznam_vu"],
+    "importance": 10,
+    "question": "Jakou paradoxní úlohu mají hasiči v Bradburyho světě?",
+    "options": [
+      "Hasí pouze knihovny, aby zachránili literaturu.",
+      "Chytají toulavé psy ve městech.",
+      "Požáry nehasí, ale naopak je zakládají, aby zničili domy schovávající knihy.",
+      "Sledují obyvatele pomocí skrytých kamer."
+    ],
+    "correctAnswer": "Požáry nehasí, ale naopak je zakládají, aby zničili domy schovávající knihy.",
+    "explanation": "V této společnosti hasiči požáry zakládají a ničí tak zakázané knihy."
+  },
+  {
+    "id": "dilo_postavy_montag_vek",
+    "type": "flashcard",
+    "tags": ["dilo_postavy", "seznam_all", "seznam_marian", "seznam_vu"],
+    "importance": 2,
+    "question": "Kolik let je přibližně hlavnímu hrdinovi Guyi Montagovi?",
+    "options": [],
+    "correctAnswer": "30 let",
+    "explanation": "Guy Montag je třicetiletý hasič."
+  },
+  {
+    "id": "dilo_postavy_clarissa_vek",
+    "type": "flashcard",
+    "tags": ["dilo_postavy", "seznam_all", "seznam_marian", "seznam_vu"],
+    "importance": 2,
+    "question": "Kolik let je dívce Clarisse McClellanové?",
+    "options": [],
+    "correctAnswer": "17 let",
+    "explanation": "Clarissa je sedmnáctiletá dívka."
+  },
+  {
+    "id": "dilo_obsah_mildred_cin",
+    "type": "flashcard",
+    "tags": ["dilo_obsah", "seznam_all", "seznam_marian", "seznam_vu"],
+    "importance": 7,
+    "question": "Čeho je Montag svědkem u své manželky Mildred v úvodu románu?",
+    "options": [],
+    "correctAnswer": "Přežije pokus o sebevraždu.",
+    "explanation": "Montag je svědkem toho, jak Mildred bezmyšlenkovitě přežije pokus o sebevraždu."
+  },
+  {
+    "id": "dilo_obsah_stara_zena",
+    "type": "multiple_choice",
+    "tags": ["dilo_obsah", "seznam_all", "seznam_marian", "seznam_vu"],
+    "importance": 8,
+    "question": "Jak se zachová stará žena, u které hasiči najdou zakázané knihy?",
+    "options": [
+      "Uteče oknem do lesa.",
+      "Udá své sousedy, aby se zachránila.",
+      "Raději se nechá upálit, než aby opustila své knihy.",
+      "Přidá se k hasičům a knihy sama zapálí."
+    ],
+    "correctAnswer": "Raději se nechá upálit, než aby opustila své knihy.",
+    "explanation": "Stará žena se raději nechá upálit s knihami, což je jeden ze zlomových momentů pro Montaga."
+  },
+  {
+    "id": "dilo_obsah_kdo_uda_montaga",
+    "type": "flashcard",
+    "tags": ["dilo_obsah", "seznam_all", "seznam_marian", "seznam_vu"],
+    "importance": 9,
+    "question": "Kdo nakonec udá Guye Montaga za přechovávání knih?",
+    "options": [],
+    "correctAnswer": "Jeho vlastní manželka Mildred.",
+    "explanation": "Posléze je Montag udán vlastní manželkou Mildred."
+  },
+  {
+    "id": "dilo_obsah_smrt_beattyho",
+    "type": "multiple_choice",
+    "tags": ["dilo_obsah", "seznam_all", "seznam_marian", "seznam_vu"],
+    "importance": 9,
+    "question": "Jak se Montag zbaví svého nadřízeného, kapitána Beattyho?",
+    "options": [
+      "Udá ho policii jako zrádce.",
+      "Srazí ho autem.",
+      "Zabije ho plamenometem.",
+      "Utopí ho v řece."
+    ],
+    "correctAnswer": "Zabije ho plamenometem.",
+    "explanation": "Když ho Beatty donutí spálit vlastní dům, Montag ho zabije plamenometem."
+  },
+  {
+    "id": "dilo_obsah_spaleni_domu",
+    "type": "flashcard",
+    "tags": ["dilo_obsah", "seznam_all", "seznam_marian", "seznam_vu"],
+    "importance": 7,
+    "question": "Co donutí kapitán Beatty Montaga udělat těsně předtím, než je zavražděn?",
+    "options": [],
+    "correctAnswer": "Donutí ho spálit jeho vlastní dům.",
+    "explanation": "Beatty donutí Montaga spálit jeho vlastní dům."
+  },
+  {
+    "id": "dilo_obsah_zaver_romanu",
+    "type": "multiple_choice",
+    "tags": ["dilo_obsah", "seznam_all", "seznam_marian", "seznam_vu"],
+    "importance": 9,
+    "question": "Jaké je vyznění závěru románu?",
+    "options": [
+      "Tragické, hlavní hrdina je popraven.",
+      "Otevřené, není jasné, co se s hrdinou stalo.",
+      "Není tragický, je uzavřený a nese prvek naděje do nových začátků.",
+      "Hrdina se vrací ke svému původnímu životu hasiče."
+    ],
+    "correctAnswer": "Není tragický, je uzavřený a nese prvek naděje do nových začátků.",
+    "explanation": "Závěr není tragický a nese prvek naděje, svobodní lidé mohou začít znovu."
+  },
+  {
+    "id": "dilo_obsah_vyvoj_deje_chronologie",
+    "type": "sorting",
+    "tags": ["dilo_obsah", "seznam_all", "seznam_marian", "seznam_vu"],
+    "importance": 6,
+    "question": "Seřaďte klíčové události románu chronologicky od nejstarší po nejnovější:",
+    "options": [
+      "Montag je svědkem sebevražedného pokusu své manželky.",
+      "Montag zabije kapitána Beattyho plamenometem.",
+      "Montag se spojí s bývalým profesorem Faberem.",
+      "Montag potká Clarissu, která mu klade zvídavé otázky.",
+      "Stará žena se nechá upálit se svými knihami."
+    ],
+    "correctAnswer": [
+      "Montag potká Clarissu, která mu klade zvídavé otázky.",
+      "Montag je svědkem sebevražedného pokusu své manželky.",
+      "Stará žena se nechá upálit se svými knihami.",
+      "Montag se spojí s bývalým profesorem Faberem.",
+      "Montag zabije kapitána Beattyho plamenometem."
+    ],
+    "explanation": "Chronologie: 1. potká Clarissu, 2. zjistí pokus o sebevraždu Mildred, 3. vidí upálení staré ženy, 4. spojí se s Faberem, 5. po udání zabije Beattyho."
+  },
+  {
+    "id": "dilo_obsah_hlavni_temata",
+    "type": "multiple_choice",
+    "tags": ["dilo_obsah", "seznam_all", "seznam_marian", "seznam_vu"],
+    "importance": 9,
+    "question": "Které z následujících témat je pro dílo stěžejní?",
+    "options": [
+      "Budování socialismu v poválečné Evropě.",
+      "Vítězství povrchní kultury masových médií nad lidskou myslí a pálení knih.",
+      "Detektivní pátrání po sériovém vrahovi ve viktoriánském Londýně.",
+      "Dobývání vesmíru a kolonizace vzdálených planet."
+    ],
+    "correctAnswer": "Vítězství povrchní kultury masových médií nad lidskou myslí a pálení knih.",
+    "explanation": "Hlavním tématem je vítězství povrchní kultury telestěn nad lidskou myslí a pálení knih."
+  },
+  {
+    "id": "dilo_titul_vysvetleni",
+    "type": "multiple_choice",
+    "tags": ["dilo_titul", "seznam_all", "seznam_marian", "seznam_vu"],
+    "importance": 8,
+    "question": "Co primárně reflektuje název románu 451 stupňů Fahrenheita?",
+    "options": [
+      "Datum, kdy byla svržena jaderná bomba na město.",
+      "Pálení knih jakožto nástroj totalitní kontroly.",
+      "Teplotu lidského těla při smrtelné horečce.",
+      "Kód pro spuštění povstání proti vládě."
+    ],
+    "correctAnswer": "Pálení knih jakožto nástroj totalitní kontroly.",
+    "explanation": "Název reflektuje primární téma románu – pálení knih jako nástroj totalitní kontroly."
+  },
+  {
+    "id": "jazyk_a_styl_atmosfera",
+    "type": "flashcard",
+    "tags": ["jazyk_a_styl", "seznam_all", "seznam_marian", "seznam_vu"],
+    "importance": 8,
+    "question": "Jaká společenská činnost v dystopické atmosféře knihy tvoří největší tabu?",
+    "options": [],
+    "correctAnswer": "Nezávislé myšlení",
+    "explanation": "Atmosféra je plná lhostejnosti a nezávislé myšlení zde tvoří největší společenské tabu."
+  },
+  {
+    "id": "dilo_postavy_montag_vyvoj",
+    "type": "multiple_choice",
+    "tags": ["dilo_postavy", "seznam_all", "seznam_marian", "seznam_vu"],
+    "importance": 10,
+    "question": "Jak lze popsat psychologický vývoj hlavní postavy Guye Montaga?",
+    "options": [
+      "Zpočátku je rebel, ale nakonec se stane poslušným hasičem.",
+      "Je to fanatický vůdce, který je na konci zrazen svými stoupenci.",
+      "Z poslušného zaměstnance systému se postupně stává rebel, který si klade otázky.",
+      "Jeho charakter se nijak nevyvíjí, po celou dobu zůstává lhostejný."
+    ],
+    "correctAnswer": "Z poslušného zaměstnance systému se postupně stává rebel, který si klade otázky.",
+    "explanation": "Montag začíná jako dokonale poslušný zaměstnanec a vyvíjí se v rebela vnímajícího absurditu okolí."
+  },
+  {
+    "id": "dilo_postavy_montag_ruce",
+    "type": "flashcard",
+    "tags": ["dilo_postavy", "seznam_all", "seznam_marian", "seznam_vu"],
+    "importance": 7,
+    "question": "Co si Montag uvědomuje ohledně svých činů a rukou v průběhu své proměny?",
+    "options": [],
+    "correctAnswer": "Uvědomuje si, že své činy a ruce již ovládá proti příkazům režimu.",
+    "explanation": "Montag si uvědomuje, že jeho ruce jednají nezávisle a proti příkazům režimu."
+  },
+  {
+    "id": "dilo_postavy_mildred_charakter",
+    "type": "flashcard",
+    "tags": ["dilo_postavy", "seznam_all", "seznam_marian", "seznam_vu"],
+    "importance": 8,
+    "question": "Jakou formu zábavy preferuje zmanipulovaná občanka Mildred Montagová?",
+    "options": [],
+    "correctAnswer": "Interaktivní telestěny a poslechové mušle.",
+    "explanation": "Tráví dny u 'rodinky' v interaktivních telestěnách a poslechových mušlích."
+  },
+  {
+    "id": "dilo_postavy_mildred_vztah",
+    "type": "multiple_choice",
+    "tags": ["dilo_postavy", "seznam_all", "seznam_marian", "seznam_vu"],
+    "importance": 7,
+    "question": "Jaký má Mildred vztah k manželovi Montagovi?",
+    "options": [
+      "Hluboce ho miluje a pomáhá mu s útěkem.",
+      "Necítí k němu žádnou náklonnost a bezcitně ho udá.",
+      "Žárlí na něj a snaží se zabít Clarissu.",
+      "Obdivuje jeho rebélii, ale bojí se přidat."
+    ],
+    "correctAnswer": "Necítí k němu žádnou náklonnost a bezcitně ho udá.",
+    "explanation": "K manželovi necítí žádnou náklonnost a bezcitně ho udá úřadům."
+  },
+  {
+    "id": "dilo_postavy_clarissa_otazky",
+    "type": "multiple_choice",
+    "tags": ["dilo_postavy", "seznam_all", "seznam_marian", "seznam_vu"],
+    "importance": 8,
+    "question": "Čím Clarissa vybočuje ze zajetých norem dystopické společnosti?",
+    "options": [
+      "Otevřeně šíří zakázané knihy mezi hasiče.",
+      "Klade hluboké otázky (ptá se „proč“, a ne „jak“) a miluje přírodu.",
+      "Odmítá používat oheň a snaží se hasit budovy vodou.",
+      "Pracuje jako dvojitá agentka pro policii."
+    ],
+    "correctAnswer": "Klade hluboké otázky (ptá se „proč“, a ne „jak“) a miluje přírodu.",
+    "explanation": "Vybočuje tím, že miluje přírodu a klade hluboké otázky, ptá se 'proč'."
+  },
+  {
+    "id": "dilo_postavy_clarissa_smrt",
+    "type": "flashcard",
+    "tags": ["dilo_postavy", "seznam_all", "seznam_marian", "seznam_vu"],
+    "importance": 7,
+    "question": "Jaký je osud mladé dívky Clarissy?",
+    "options": [],
+    "correctAnswer": "Krátce po seznámení s Montagem umírá při autonehodě.",
+    "explanation": "Clarissa brzy po změně Montagova uvažování umírá při autonehodě."
+  },
+  {
+    "id": "dilo_postavy_beatty_paradox",
+    "type": "multiple_choice",
+    "tags": ["dilo_postavy", "seznam_all", "seznam_marian", "seznam_vu"],
+    "importance": 9,
+    "question": "Jaký je hlavní paradox postavy kapitána Beattyho?",
+    "options": [
+      "Je to analfabet, ale přesto učí ostatní číst.",
+      "Snaží se chránit knihy, ale navenek je pálí.",
+      "Je zjevně vzdělaný a disponuje mnoha načtenými citáty, přesto knihy hluboce nenávidí.",
+      "Je to robot, který ale projevuje lidské emoce."
+    ],
+    "correctAnswer": "Je zjevně vzdělaný a disponuje mnoha načtenými citáty, přesto knihy hluboce nenávidí.",
+    "explanation": "Beatty knihy nenávidí a hájí primitivní zábavu, přestože je zjevně vzdělaný a sám z nich cituje."
+  },
+  {
+    "id": "dilo_postavy_beatty_touha",
+    "type": "flashcard",
+    "tags": ["dilo_postavy", "seznam_all", "seznam_marian", "seznam_vu"],
+    "importance": 8,
+    "question": "Co podle textu vyplývá z toho, jak Beatty na konci provokuje Montaga?",
+    "options": [],
+    "correctAnswer": "Vyplývá z toho, že on sám vnitřně toužil zemřít.",
+    "explanation": "Beatty sám provokuje Montaga k vraždě, z čehož vyznívá, že vnitřně toužil zemřít."
+  },
+  {
+    "id": "dilo_postavy_faber_profese",
+    "type": "flashcard",
+    "tags": ["dilo_postavy", "seznam_all", "seznam_marian", "seznam_vu"],
+    "importance": 6,
+    "question": "Jaké bylo původní povolání profesora Fabera?",
+    "options": [],
+    "correctAnswer": "Bývalý profesor angličtiny.",
+    "explanation": "Faber je bývalý profesor angličtiny."
+  },
+  {
+    "id": "dilo_postavy_faber_zbabelec",
+    "type": "flashcard",
+    "tags": ["dilo_postavy", "seznam_all", "seznam_marian", "seznam_vu"],
+    "importance": 5,
+    "question": "Jakým slovem profesor Faber sám sebe označuje s ohledem na svou minulost v totalitě?",
+    "options": [],
+    "correctAnswer": "Za zbabělce.",
+    "explanation": "Profesor Faber sám sebe označuje za zbabělce, protože se totalitě v minulosti nepostavil."
+  },
+  {
+    "id": "jazyk_a_styl_vypravec",
+    "type": "flashcard",
+    "tags": ["jazyk_a_styl", "seznam_all", "seznam_marian", "seznam_vu"],
+    "importance": 8,
+    "question": "Jaký typ vypravěče je využit v románu 451 stupňů Fahrenheita?",
+    "options": [],
+    "correctAnswer": "Er-forma (vypravěč hovoří ve třetí osobě).",
+    "explanation": "Text je vyprávěn v er-formě."
+  },
+  {
+    "id": "jazyk_a_styl_vrstvy",
+    "type": "multiple_choice",
+    "tags": ["jazyk_a_styl", "seznam_all", "seznam_marian", "seznam_vu"],
+    "importance": 6,
+    "question": "Jakou jazykovou vrstvu Ray Bradbury v textu převážně využívá?",
+    "options": [
+      "Slang a argot pro všechny postavy.",
+      "Zastaralý archaický jazyk.",
+      "Převážně spisovný jazyk.",
+      "Výhradně nářečí a dialekty."
+    ],
+    "correctAnswer": "Převážně spisovný jazyk.",
+    "explanation": "Autor využívá převážně spisovný jazyk."
+  },
+  {
+    "id": "jazyk_a_styl_prostredky",
+    "type": "multiple_choice",
+    "tags": ["jazyk_a_styl", "seznam_all", "seznam_marian", "seznam_vu"],
+    "importance": 8,
+    "question": "Jakými prostředky autor dokresluje naléhavost situací v poetických pasážích?",
+    "options": [
+      "Pomalým popisem přírody a dlouhými souvětími.",
+      "Využíváním vulgarismů a nespisovných výrazů.",
+      "Používáním gradace, krátkých vět (větných ekvivalentů) a kurzívy.",
+      "Odkazy na historické bitvy a politické proslovy."
+    ],
+    "correctAnswer": "Používáním gradace, krátkých vět (větných ekvivalentů) a kurzívy.",
+    "explanation": "Pro dokreslení naléhavosti používá gradaci, krátké věty a zvýrazňování slov kurzívou."
+  },
+  {
+    "id": "jazyk_a_styl_kurziva",
+    "type": "flashcard",
+    "tags": ["jazyk_a_styl", "seznam_all", "seznam_marian", "seznam_vu"],
+    "importance": 3,
+    "question": "Jaký typografický prvek využívá autor pro zvýrazňování slov a dokreslení naléhavosti?",
+    "options": [],
+    "correctAnswer": "Kurzívu",
+    "explanation": "Ke zvýrazňování slov využívá kurzívu."
+  },
+  {
+    "id": "jazyk_a_styl_kompozice",
+    "type": "flashcard",
+    "tags": ["jazyk_a_styl", "seznam_all", "seznam_marian", "seznam_vu"],
+    "importance": 8,
+    "question": "Jaká je základní skladba (kompozice) děje románu?",
+    "options": [],
+    "correctAnswer": "Chronologická",
+    "explanation": "Skladba románu je chronologická."
+  },
+  {
+    "id": "jazyk_a_styl_pocet_casti",
+    "type": "flashcard",
+    "tags": ["jazyk_a_styl", "seznam_all", "seznam_marian", "seznam_vu"],
+    "importance": 4,
+    "question": "Do kolika částí je román 451 stupňů Fahrenheita rozdělen?",
+    "options": [],
+    "correctAnswer": "Do 3 částí.",
+    "explanation": "Román je rozdělen na 3 části."
+  },
+  {
+    "id": "jazyk_a_styl_nazvy_casti_matching",
+    "type": "matching",
+    "tags": ["jazyk_a_styl", "seznam_all", "seznam_marian", "seznam_vu"],
+    "importance": 5,
+    "question": "Přiřaďte správný název k příslušné části románu:",
+    "options": [
+      "1. část",
+      "2. část",
+      "3. část"
+    ],
+    "correctAnswer": [
+      "1. část == Ohniště a salamandr",
+      "2. část == Síto a písek",
+      "3. část == Oheň se rozhoří"
+    ],
+    "explanation": "Román má části: 1. Ohniště a salamandr, 2. Síto a písek, 3. Oheň se rozhoří."
+  },
+  {
+    "id": "rozbor_textu_styl_publicisticky",
+    "type": "text_analysis",
+    "tags": ["rozbor_textu", "gramatika", "seznam_all", "seznam_marian", "seznam_vu"],
+    "importance": 5,
+    "question": "Který funkční styl v neuměleckém textu má za cíl především zaujmout čtenáře v tisku?",
+    "options": [
+      "Prostěsdělovací",
+      "Odborný",
+      "Publicistický",
+      "Administrativní"
+    ],
+    "correctAnswer": "Publicistický",
+    "explanation": "Publicistický styl má za cíl zaujmout čtenáře v tisku."
+  },
+  {
+    "id": "rozbor_textu_styl_odborny",
+    "type": "text_analysis",
+    "tags": ["rozbor_textu", "gramatika", "seznam_all", "seznam_marian", "seznam_vu"],
+    "importance": 5,
+    "question": "Který funkční styl slouží k vysvětlování faktů?",
+    "options": [
+      "Prostěsdělovací",
+      "Odborný",
+      "Publicistický",
+      "Administrativní"
+    ],
+    "correctAnswer": "Odborný",
+    "explanation": "Odborný styl slouží k vysvětlení faktů."
+  },
+  {
+    "id": "rozbor_textu_postup_vykladovy",
+    "type": "text_analysis",
+    "tags": ["rozbor_textu", "gramatika", "seznam_all", "seznam_marian", "seznam_vu"],
+    "importance": 5,
+    "question": "Který slohový postup je zaměřen na zachycení příčin a následků?",
+    "options": [
+      "Informační",
+      "Výkladový",
+      "Úvahový",
+      "Vyprávěcí"
+    ],
+    "correctAnswer": "Výkladový",
+    "explanation": "Výkladový slohový postup slouží pro zachycení příčin a následků."
+  },
+  {
+    "id": "rozbor_textu_postup_uvahovy",
+    "type": "text_analysis",
+    "tags": ["rozbor_textu", "gramatika", "seznam_all", "seznam_marian", "seznam_vu"],
+    "importance": 5,
+    "question": "Který slohový postup se využívá pro kladení otázek v textu?",
+    "options": [
+      "Informační",
+      "Výkladový",
+      "Úvahový",
+      "Vyprávěcí"
+    ],
+    "correctAnswer": "Úvahový",
+    "explanation": "Úvahový postup slouží pro kladení otázek."
+  },
+  {
+    "id": "rozbor_textu_neumel_souvislost",
+    "type": "multiple_choice",
+    "tags": ["rozbor_textu", "seznam_all", "seznam_marian", "seznam_vu"],
+    "importance": 4,
+    "question": "Jaká témata publicistických článků představují vhodnou tematickou souvislost s románem 451 stupňů Fahrenheita?",
+    "options": [
+      "Články o pěstování plodin a zemědělství.",
+      "Články o omezování svobody slova, mediální manipulaci či o cenzuře literatury.",
+      "Sportovní reportáže z velkých událostí.",
+      "Recenze na divadelní představení z 19. století."
+    ],
+    "correctAnswer": "Články o omezování svobody slova, mediální manipulaci či o cenzuře literatury.",
+    "explanation": "Tematické pojítko s dílem poskytují texty o svobodě slova, manipulaci a cenzuře."
+  },
+  {
+    "id": "literarni_teorie_definice_epika",
+    "type": "flashcard",
+    "tags": ["literarni_teorie", "definice", "seznam_all", "seznam_marian", "seznam_vu"],
+    "importance": 10,
+    "question": "Definujte pojem: Epika.",
+    "options": [],
+    "correctAnswer": "Literární druh zaměřený především na vyprávění děje, událostí a s důrazem na příběh.",
+    "explanation": "Epika je literární druh zaměřený na vyprávění děje."
+  },
+  {
+    "id": "literarni_teorie_definice_antiutopie",
+    "type": "flashcard",
+    "tags": ["literarni_teorie", "definice", "seznam_all", "seznam_marian", "seznam_vu"],
+    "importance": 10,
+    "question": "Definujte pojem: Antiutopie.",
+    "options": [],
+    "correctAnswer": "Vyobrazení fiktivní, do budoucna směřující totalitní společnosti, která se vyvinula špatným směrem, kde je omezována svoboda a potlačována individualita.",
+    "explanation": "Antiutopie zobrazuje totalitní budoucnost s omezenou svobodou."
+  },
+  {
+    "id": "literarni_teorie_definice_scifi",
+    "type": "flashcard",
+    "tags": ["literarni_teorie", "definice", "seznam_all", "seznam_marian", "seznam_vu"],
+    "importance": 10,
+    "question": "Definujte pojem: Science-fiction (sci-fi).",
+    "options": [],
+    "correctAnswer": "Vědeckofantastická literatura; představuje fiktivní děje odehrávající se v nepříznivých poměrech přetechnizovaného světa, vychází z poznatků vědy a techniky.",
+    "explanation": "Sci-fi vychází z poznatků vědy a představuje fiktivní děje v přetechnizovaném světě."
+  },
+  {
+    "id": "literarni_teorie_definice_proza",
+    "type": "flashcard",
+    "tags": ["literarni_teorie", "definice", "seznam_all", "seznam_marian", "seznam_vu"],
+    "importance": 10,
+    "question": "Definujte pojem: Próza.",
+    "options": [],
+    "correctAnswer": "Souvislý, přirozený text nevázaný na rytmus či verše, typicky členěný do odstavců a kapitol.",
+    "explanation": "Próza je souvislý text nevázaný na verše."
+  },
+  {
+    "id": "literarni_teorie_definice_erforma",
+    "type": "flashcard",
+    "tags": ["literarni_teorie", "definice", "seznam_all", "seznam_marian", "seznam_vu"],
+    "importance": 10,
+    "question": "Definujte pojem: Er-forma.",
+    "options": [],
+    "correctAnswer": "Vyprávěcí postup využívající třetí osobu (on/ona), vypravěč je zde často v pozici neosobního, vnějšího pozorovatele.",
+    "explanation": "Er-forma znamená vyprávění ve třetí osobě."
+  },
+  {
+    "id": "literarni_teorie_definice_metafora",
+    "type": "flashcard",
+    "tags": ["literarni_teorie", "definice", "seznam_all", "seznam_marian", "seznam_vu"],
+    "importance": 10,
+    "question": "Definujte pojem: Metafora.",
+    "options": [],
+    "correctAnswer": "Literární tropus; obrazné pojmenování založené na principu přenesení významu díky vnější podobnosti.",
+    "explanation": "Metafora je obrazné pojmenování na základě vnější podobnosti."
+  },
+  {
+    "id": "literarni_teorie_definice_prirovnani",
+    "type": "flashcard",
+    "tags": ["literarni_teorie", "definice", "seznam_all", "seznam_marian", "seznam_vu"],
+    "importance": 10,
+    "question": "Definujte pojem: Přirovnání.",
+    "options": [],
+    "correctAnswer": "Literární prostředek spočívající v pojmenování na základě srovnání dvou jevů podle jejich společného znaku.",
+    "explanation": "Přirovnání pojmenovává na základě srovnání dvou jevů přes společný znak."
+  },
+  {
+    "id": "literarni_teorie_definice_gradace",
+    "type": "flashcard",
+    "tags": ["literarni_teorie", "definice", "seznam_all", "seznam_marian", "seznam_vu"],
+    "importance": 10,
+    "question": "Definujte pojem: Gradace.",
+    "options": [],
+    "correctAnswer": "Básnická figura; záměrné postupné stupňování významu či emocionálního napětí pro větší účinek.",
+    "explanation": "Gradace je záměrné stupňování významu či napětí."
+  },
+  {
+    "id": "literarni_teorie_definice_kompozice",
+    "type": "flashcard",
+    "tags": ["literarni_teorie", "definice", "seznam_all", "seznam_marian", "seznam_vu"],
+    "importance": 10,
+    "question": "Definujte pojem: Chronologická kompozice.",
+    "options": [],
+    "correctAnswer": "Struktura děje, v níž jednotlivé události přirozeně a časově plynule navazují jedna na druhou bez časových skoků.",
+    "explanation": "Chronologická kompozice znamená přirozenou časovou návaznost bez skoků."
+  },
+  {
+    "id": "literarni_teorie_terminy_matching",
+    "type": "matching",
+    "tags": ["literarni_teorie", "definice", "seznam_all", "seznam_marian", "seznam_vu"],
+    "importance": 10,
+    "question": "Přiřaďte k sobě správně literární pojmy a jejich definice:",
+    "options": [
+      "Próza",
+      "Er-forma",
+      "Metafora",
+      "Gradace"
+    ],
+    "correctAnswer": [
+      "Próza == Souvislý, přirozený text nevázaný na rytmus či verše.",
+      "Er-forma == Vyprávěcí postup využívající třetí osobu.",
+      "Metafora == Obrazné pojmenování založené na přenesení významu díky vnější podobnosti.",
+      "Gradace == Básnická figura, postupné stupňování významu či napětí."
+    ],
+    "explanation": "Test znalosti stěžejních literárních termínů z textu."
+  },
+  {
+    "id": "rozbor_textu_gramatika_slova",
+    "type": "multiple_choice",
+    "tags": ["rozbor_textu", "gramatika", "seznam_all", "seznam_marian", "seznam_vu"],
+    "importance": 4,
+    "question": "Při analýze slovní zásoby neuměleckého textu se podle průvodce zaměřujeme na nalezení výrazů. Které z následujících to NEJSOU?",
+    "options": [
+      "Expresivní výrazy",
+      "Neutrální výrazy a slang",
+      "Cizí přejatá slova",
+      "Historické archaismy a neologismy ze 14. století"
+    ],
+    "correctAnswer": "Historické archaismy a neologismy ze 14. století",
+    "explanation": "Text výslovně zmiňuje expresivní, neutrální, slangové výrazy a cizí přejatá slova."
+  },
+  {
+    "id": "dilo_obsah_motivy",
+    "type": "multiple_choice",
+    "tags": ["dilo_obsah", "seznam_all", "seznam_marian", "seznam_vu"],
+    "importance": 7,
+    "question": "Které z následujících motivů se v díle vyskytují vedle těch hlavních?",
+    "options": [
+      "Láska k rodné vlasti a boj za krále.",
+      "Agrese, odcizení, udavačství, ale také znovunalezené svědomí a odvaha.",
+      "Náboženský fanatismus a upalování čarodějnic.",
+      "Honba za bohatstvím a pirátské výpravy."
+    ],
+    "correctAnswer": "Agrese, odcizení, udavačství, ale také znovunalezené svědomí a odvaha.",
+    "explanation": "Text uvádí motivy jako agrese, odcizení, udavačství, znovunalezené svědomí, odvaha, naděje a odhodlání."
+  },
+  {
+    "id": "dilo_obsah_utek_z_mesta",
+    "type": "flashcard",
+    "tags": ["dilo_obsah", "seznam_all", "seznam_marian", "seznam_vu"],
+    "importance": 8,
+    "question": "Co udělá Montag bezprostředně poté, co zabije kapitána Beattyho plamenometem?",
+    "options": [],
+    "correctAnswer": "Dá se na útěk z města.",
+    "explanation": "Po zabití Beattyho se Montag dá na útěk."
+  },
+  {
+    "id": "dilo_obsah_faber_pomoc",
+    "type": "multiple_choice",
+    "tags": ["dilo_obsah", "seznam_all", "seznam_marian", "seznam_vu"],
+    "importance": 7,
+    "question": "S čím přesně pomůže profesor Faber hlavnímu hrdinovi?",
+    "options": [
+      "Pomůže mu postavit novou telestěnu.",
+      "Pomůže mu pochopit knihy a organizovat útěk.",
+      "Pomůže mu zabít kapitána Beattyho.",
+      "Pomůže mu zachránit jeho manželku Mildred."
+    ],
+    "correctAnswer": "Pomůže mu pochopit knihy a organizovat útěk.",
+    "explanation": "Faber pomůže Montagovi pochopit knihy a organizovat útěk."
+  },
+  {
+    "id": "dilo_obsah_konec_civilizace",
+    "type": "flashcard",
+    "tags": ["dilo_obsah", "seznam_all", "seznam_marian", "seznam_vu"],
+    "importance": 8,
+    "question": "Proč musí podle závěru románu bezduchá civilizace skončit?",
+    "options": [],
+    "correctAnswer": "Aby svobodní myslící lidé mohli začít znovu a lépe.",
+    "explanation": "Civilizace musí skončit s tím, že svobodní myslící lidé mohou začít znovu a lépe."
+  },
+  {
+    "id": "jazyk_a_styl_tropy",
+    "type": "multiple_choice",
+    "tags": ["jazyk_a_styl", "seznam_all", "seznam_marian", "seznam_vu"],
+    "importance": 7,
+    "question": "Které literární tropy jsou typické pro poetické pasáže v tomto románu?",
+    "options": [
+      "Metonymie a synekdocha",
+      "Epizeuxis a anafora",
+      "Metafory a přirovnání",
+      "Oxymóron a ironie"
+    ],
+    "correctAnswer": "Metafory a přirovnání",
+    "explanation": "Text je proložen poetickými pasážemi s četným využitím metafor a přirovnání."
+  },
+  {
+    "id": "rozbor_textu_styl_postup_informacni",
+    "type": "text_analysis",
+    "tags": ["rozbor_textu", "gramatika", "seznam_all", "seznam_marian", "seznam_vu"],
+    "importance": 5,
+    "question": "Pro co je určen informační slohový postup?",
+    "options": [
+      "Pro suchá fakta.",
+      "Pro zachycení příčin a následků.",
+      "Pro kladení otázek.",
+      "Pro vyprávění děje."
+    ],
+    "correctAnswer": "Pro suchá fakta.",
+    "explanation": "Informační slohový postup se využívá pro suchá fakta."
+  },
+  {
+    "id": "rozbor_textu_styl_postup_vypraveci",
+    "type": "text_analysis",
+    "tags": ["rozbor_textu", "gramatika", "seznam_all", "seznam_marian", "seznam_vu"],
+    "importance": 5,
+    "question": "Který slohový postup má za cíl zprostředkovat děj?",
+    "options": [
+      "Informační",
+      "Výkladový",
+      "Úvahový",
+      "Vyprávěcí"
+    ],
+    "correctAnswer": "Vyprávěcí",
+    "explanation": "Vyprávěcí postup slouží pro zprostředkování děje."
+  },
+  {
+    "id": "rozbor_textu_styl_administrativni",
+    "type": "text_analysis",
+    "tags": ["rozbor_textu", "gramatika", "seznam_all", "seznam_marian", "seznam_vu"],
+    "importance": 5,
+    "question": "Který funkční styl plní primárně úřední potřebu?",
+    "options": [
+      "Prostěsdělovací",
+      "Odborný",
+      "Publicistický",
+      "Administrativní"
+    ],
+    "correctAnswer": "Administrativní",
+    "explanation": "Administrativní styl plní úřední potřebu."
+  },
+  {
+    "id": "dilo_obsah_zmena_montaga_duvod",
+    "type": "multiple_choice",
+    "tags": ["dilo_obsah", "seznam_all", "seznam_marian", "seznam_vu"],
+    "importance": 8,
+    "question": "Co primárně spustí Montagovu vnitřní pochybnost a změnu?",
+    "options": [
+      "Nalezení tajného dopisu od jeho otce.",
+      "Vliv dívky Clarissy, profesora Fabera a drsných událostí (jako upálení staré ženy).",
+      "Rozkaz zničit největší knihovnu ve městě.",
+      "Povýšení na kapitána hasičů."
+    ],
+    "correctAnswer": "Vliv dívky Clarissy, profesora Fabera a drsných událostí (jako upálení staré ženy).",
+    "explanation": "Psychologický vývoj je spuštěn pod vlivem Clarissy, Fabera a drsných událostí."
+  },
+  {
+    "id": "dilo_postavy_beatty_provokace",
+    "type": "flashcard",
+    "tags": ["dilo_postavy", "seznam_all", "seznam_marian", "seznam_vu"],
+    "importance": 8,
+    "question": "Až kam vyprovokuje kapitán Beatty Montaga?",
+    "options": [],
+    "correctAnswer": "Až k hranici, kdy je jím zabit.",
+    "explanation": "Beatty sám provokuje Montaga až k hranici, kdy je zabit."
+  },
+  {
+    "id": "dilo_obsah_absence_komunikace",
+    "type": "flashcard",
+    "tags": ["dilo_obsah", "seznam_all", "seznam_marian", "seznam_vu"],
+    "importance": 7,
+    "question": "Jaký sociální fenomén, vedle pálení knih, je jedním z hlavních témat románu?",
+    "options": [],
+    "correctAnswer": "Absence komunikace (a otupělost).",
+    "explanation": "Mezi hlavní témata patří i absence komunikace a otupělost."
+  },
+  {
+    "id": "rozbor_textu_styl_prostesdelovaci",
+    "type": "text_analysis",
+    "tags": ["rozbor_textu", "gramatika", "seznam_all", "seznam_marian", "seznam_vu"],
+    "importance": 5,
+    "question": "Který funkční styl má za cíl pouze rychle sdělit informaci?",
+    "options": [
+      "Prostěsdělovací",
+      "Odborný",
+      "Publicistický",
+      "Administrativní"
+    ],
+    "correctAnswer": "Prostěsdělovací",
+    "explanation": "Prostěsdělovací styl má za cíl pouze rychle sdělit informaci."
+  },
+  {
+    "id": "dilo_titul_cislo",
+    "type": "flashcard",
+    "tags": ["dilo_titul", "seznam_all", "seznam_marian", "seznam_vu"],
+    "importance": 7,
+    "question": "Je podle textu přesný fyzikální význam čísla v názvu knihy (451) ve zdrojích exaktně popsán?",
+    "options": [],
+    "correctAnswer": "Ne, není exaktně popsán.",
+    "explanation": "Ačkoliv přesný význam samotného fyzikálního čísla není ve zdrojích exaktně popsán, motiv spalování dílem prolíná."
+  },
+  {
+    "id": "dilo_postavy_zbabelec_kdo",
+    "type": "flashcard",
+    "tags": ["dilo_postavy", "seznam_all", "seznam_marian", "seznam_vu"],
+    "importance": 5,
+    "question": "Která postava se ohlíží za minulostí s tím, že tiše trpěla a nepostavila se totalitě?",
+    "options": [],
+    "correctAnswer": "Profesor Faber",
+    "explanation": "Profesor Faber se v minulosti totalitě nepostavil a tiše trpěl."
+  },
+  {
+    "id": "dilo_obsah_hrdina_cteni",
+    "type": "flashcard",
+    "tags": ["dilo_obsah", "seznam_all", "seznam_marian", "seznam_vu"],
+    "importance": 7,
+    "question": "Kromě samotného zachraňování knih z ohně, co dalšího zakázaného s nimi Montag začne jako rebel dělat?",
+    "options": [],
+    "correctAnswer": "Začne je číst.",
+    "explanation": "Začne knihy nejen zachraňovat, ale i číst."
+  },
+  {
+    "id": "dilo_postavy_mildred_pycha",
+    "type": "multiple_choice",
+    "tags": ["dilo_postavy", "seznam_all", "seznam_marian", "seznam_vu"],
+    "importance": 7,
+    "question": "Na co je zmanipulovaná občanka Mildred navenek pyšná, ačkoliv uvnitř trpí?",
+    "options": [
+      "Na svou práci hasičky.",
+      "Na své \"štěstí\".",
+      "Na své děti.",
+      "Na svou bohatou slovní zásobu."
+    ],
+    "correctAnswer": "Na své \"štěstí\".",
+    "explanation": "Ač je navenek pyšná na své 'štěstí', podvědomě trpí."
+  },
+  {
+    "id": "dilo_obsah_clarissa_otazky_typ",
+    "type": "flashcard",
+    "tags": ["dilo_postavy", "seznam_all", "seznam_marian", "seznam_vu"],
+    "importance": 7,
+    "question": "Na co přesně se ptá Clarissa, čímž vybočuje z normy společnosti?",
+    "options": [],
+    "correctAnswer": "Ptá se „proč“, a ne „jak“.",
+    "explanation": "Vybočuje tím, že klade hluboké otázky (ptá se „proč“, a ne „jak“)."
+  },
+  {
+    "id": "dilo_postavy_beatty_cituje",
+    "type": "flashcard",
+    "tags": ["dilo_postavy", "seznam_all", "seznam_marian", "seznam_vu"],
+    "importance": 7,
+    "question": "Čím disponuje kapitán Beatty navzdory tomu, že knihy hluboce nenávidí?",
+    "options": [],
+    "correctAnswer": "Disponuje mnoha načtenými citáty.",
+    "explanation": "Je zjevně vzdělaný a disponuje mnoha načtenými citáty."
+  },
+  {
+    "id": "dilo_postavy_beatty_nevyrovnanost",
+    "type": "multiple_choice",
+    "tags": ["dilo_postavy", "seznam_all", "seznam_marian", "seznam_vu"],
+    "importance": 8,
+    "question": "Jak je charakterizována postava kapitána Beattyho po psychologické stránce?",
+    "options": [
+      "Jako zcela plochá a jednoznačně zlá bez jakýchkoliv pochybností.",
+      "Jako velice nejednoznačná a nevyrovnaná.",
+      "Jako klidná a racionálně uvažující za všech okolností.",
+      "Jako tajný sympatizant s rebely, který je celou dobu chrání."
+    ],
+    "correctAnswer": "Jako velice nejednoznačná a nevyrovnaná.",
+    "explanation": "Jde o velice nejednoznačnou a nevyrovnanou postavu."
+  },
+  {
+    "id": "jazyk_a_styl_kratke_vety",
+    "type": "flashcard",
+    "tags": ["jazyk_a_styl", "seznam_all", "seznam_marian", "seznam_vu"],
+    "importance": 5,
+    "question": "Jaký typ syntaktických konstrukcí (např. větné ekvivalenty) využívá autor k dokreslení naléhavosti situací?",
+    "options": [],
+    "correctAnswer": "Krátké věty.",
+    "explanation": "K dokreslení naléhavosti situací používá autor krátké věty."
+  },
+  {
+    "id": "jazyk_a_styl_poeticke_pasaze",
+    "type": "flashcard",
+    "tags": ["jazyk_a_styl", "seznam_all", "seznam_marian", "seznam_vu"],
+    "importance": 6,
+    "question": "Čím je text románu proložen, aby v něm vynikly použité metafory a přirovnání?",
+    "options": [],
+    "correctAnswer": "Poetickými pasážemi.",
+    "explanation": "Text je proložen poetickými pasážemi s četným využitím metafor."
+  },
+  {
+    "id": "dilo_obsah_zavorkova_synonyma",
+    "type": "flashcard",
+    "tags": ["dilo_obsah", "seznam_all", "seznam_marian", "seznam_vu"],
+    "importance": 6,
+    "question": "Jaké technologie suplují lidské vztahy v dystopické atmosféře díla?",
+    "options": [],
+    "correctAnswer": "Bezduchá zábava (interaktivní telestěny a poslechové mušle).",
+    "explanation": "Bezduchá zábava supluje lidské vztahy."
+  },
+  {
+    "id": "dilo_obsah_odriznuti",
+    "type": "flashcard",
+    "tags": ["dilo_obsah", "seznam_all", "seznam_marian", "seznam_vu"],
+    "importance": 7,
+    "question": "Jak se Montag v závěru vypořádá se svým starým životem?",
+    "options": [],
+    "correctAnswer": "Zcela se od něj odřízne (geograficky i duševně prchá z města).",
+    "explanation": "Montag se zcela odřízne od svého starého života, geograficky i duševně prchá."
+  },
+  {
+    "id": "rozbor_textu_neumel_analyza",
+    "type": "sorting",
+    "tags": ["rozbor_textu", "seznam_all", "seznam_marian", "seznam_vu"],
+    "importance": 5,
+    "question": "Seřaďte tyto slohové postupy od nejvíce faktického k nejvíce dějovému (jak jsou řazeny v textu):",
+    "options": [
+      "Úvahový",
+      "Vyprávěcí",
+      "Výkladový",
+      "Informační"
+    ],
+    "correctAnswer": [
+      "Informační",
+      "Výkladový",
+      "Úvahový",
+      "Vyprávěcí"
+    ],
+    "explanation": "Text je řadí v tomto logickém pořadí od faktů po děj: informační, výkladový, úvahový, vyprávěcí."
+  }
+]

@@ -1,0 +1,670 @@
+[
+  {
+    "id": "autor_zivot_narozeni",
+    "type": "multiple_choice",
+    "tags": ["autor_zivot", "seznam_all", "seznam_miro", "seznam_vu"],
+    "importance": 2,
+    "question": "Z jakého rodinného zázemí a prostředí pocházel Viktor Dyk?",
+    "options": [
+      "Pocházel z rodiny hospodářského správce u Mělníka.",
+      "Narodil se do rodiny bohatého pražského továrníka.",
+      "Pocházel z chudé dělnické rodiny z Kladenska.",
+      "Vyrůstal v rodině potulných herců na jižní Moravě."
+    ],
+    "correctAnswer": "Pocházel z rodiny hospodářského správce u Mělníka.",
+    "explanation": "Viktor Dyk (1877–1931) pocházel z rodiny hospodářského správce u Mělníka."
+  },
+  {
+    "id": "autor_zivot_studium_povolani",
+    "type": "multiple_choice",
+    "tags": ["autor_zivot", "seznam_all", "seznam_miro", "seznam_vu"],
+    "importance": 4,
+    "question": "Jaký obor Viktor Dyk vystudoval a jakému povolání se následně reálně věnoval?",
+    "options": [
+      "Vystudoval práva, ale působil jako novinář a politik.",
+      "Vystudoval medicínu, ale stal se profesionálním vojákem.",
+      "Vystudoval filozofii a celý život působil jako univerzitní profesor.",
+      "Vystudoval teologii, ale věnoval se výhradně psaní poezie."
+    ],
+    "correctAnswer": "Vystudoval práva, ale působil jako novinář a politik.",
+    "explanation": "Dyk sice vystudoval práva, ale nikdy se jim nevěnoval. Živil se jako novinář (Lumír, Národní listy) a působil v politice."
+  },
+  {
+    "id": "autor_zivot_valka_vezeni",
+    "type": "multiple_choice",
+    "tags": ["autor_zivot", "seznam_all", "seznam_miro", "seznam_vu"],
+    "importance": 6,
+    "question": "Jaký dopad měla na Viktora Dyka jeho politická činnost během 1. světové války?",
+    "options": [
+      "Za svou politickou činnost a boj za národní práva byl vězněn.",
+      "Byl jmenován do čela rakousko-uherské cenzurní komise.",
+      "Musel trvale emigrovat do Francie, odkud řídil odboj.",
+      "Byl povýšen do šlechtického stavu za věrnost monarchii."
+    ],
+    "correctAnswer": "Za svou politickou činnost a boj za národní práva byl vězněn.",
+    "explanation": "Dyk aktivně bojoval za národní práva Čechů, za což byl během 1. světové války vězněn."
+  },
+  {
+    "id": "autor_zivot_umrti",
+    "type": "multiple_choice",
+    "tags": ["autor_zivot", "seznam_all", "seznam_miro", "seznam_vu"],
+    "importance": 3,
+    "question": "Za jakých okolností Viktor Dyk zemřel?",
+    "options": [
+      "Zemřel tragicky na srdeční mrtvici při koupání v Jaderském moři.",
+      "Byl popraven po vykonstruovaném politickém procesu.",
+      "Podlehl zraněním, která utrpěl na frontě během 1. světové války.",
+      "Spáchal sebevraždu skokem do propasti, podobně jako postava z jeho knihy."
+    ],
+    "correctAnswer": "Zemřel tragicky na srdeční mrtvici při koupání v Jaderském moři.",
+    "explanation": "Jeho život skončil tragicky na srdeční mrtvici při koupání v Jaderském moři v roce 1931."
+  },
+  {
+    "id": "autor_zivot_literarni_smer",
+    "type": "multiple_choice",
+    "tags": ["literarni_teorie", "seznam_all", "seznam_miro", "seznam_vu"],
+    "importance": 10,
+    "question": "K jakému literárnímu směru je tvorba Viktora Dyka primárně řazena?",
+    "options": [
+      "K anarchistickým buřičům.",
+      "K ruchovcům a lumírovcům.",
+      "K českému poetismu a surrealismu.",
+      "K socialistickému realismu."
+    ],
+    "correctAnswer": "K anarchistickým buřičům.",
+    "explanation": "Jeho tvorba z přelomu 19. a 20. století patří k anarchistickým buřičům, kteří se vymezovali odporem proti společnosti a autoritám."
+  },
+  {
+    "id": "literarni_teorie_smer_prvky",
+    "type": "multiple_choice",
+    "tags": ["literarni_teorie", "rozbor_textu", "seznam_all", "seznam_miro", "seznam_vu"],
+    "importance": 7,
+    "question": "Které další umělecké prvky vykazuje Dykova novela Krysař kromě vlivu anarchistických buřičů?",
+    "options": [
+      "Prvky dekadence, symbolismu a novoromantismu.",
+      "Prvky naturalismu, expresionismu a existencialismu.",
+      "Prvky magického realismu a postmoderny.",
+      "Prvky osvícenství a klasicismu."
+    ],
+    "correctAnswer": "Prvky dekadence, symbolismu a novoromantismu.",
+    "explanation": "Dykův Krysař je kromě buřičského postoje ovlivněn také dekadencí, symbolismem a novoromantismem."
+  },
+  {
+    "id": "literarni_teorie_kontext_doby",
+    "type": "multiple_choice",
+    "tags": ["literarni_teorie", "seznam_all", "seznam_miro", "seznam_vu"],
+    "importance": 6,
+    "question": "Jaký byl společenský a politický kontext doby, ve které Dyk Krysaře tvořil (přelom 19. a 20. století)?",
+    "options": [
+      "Rychlý průmyslový rozvoj, nacionalismus a snaha Čechů o autonomii v Rakousku-Uhersku.",
+      "Období budování komunistické společnosti a kolektivizace venkova.",
+      "Hluboký mír a prosperita v nově vzniklé samostatné Československé republice.",
+      "Doba pobělohorská, charakteristická silnou rekatolizací a germanizací."
+    ],
+    "correctAnswer": "Rychlý průmyslový rozvoj, nacionalismus a snaha Čechů o autonomii v Rakousku-Uhersku.",
+    "explanation": "Bylo to období před 1. světovou válkou, spojené s průmyslovým rozvojem, sociálním pnutím a snahou o českou autonomii."
+  },
+  {
+    "id": "autor_zivot_dalsi_dila",
+    "type": "matching",
+    "tags": ["autor_zivot", "seznam_all", "seznam_miro", "seznam_vu"],
+    "importance": 5,
+    "question": "Přiřaďte další díla Viktora Dyka k jejich příslušným literárním formám a žánrům podle studijního materiálu.",
+    "options": [
+      "Milá sedmi loupežníků",
+      "Zmoudření Dona Quijota",
+      "A porta inferi"
+    ],
+    "correctAnswer": [
+      "Milá sedmi loupežníků == Lyrickoepická balada",
+      "Zmoudření Dona Quijota == Drama",
+      "A porta inferi == Básnická sbírka"
+    ],
+    "explanation": "Dyk psal napříč žánry: Milá sedmi loupežníků je balada, Zmoudření Dona Quijota je drama a A porta inferi básnická sbírka."
+  },
+  {
+    "id": "literarni_teorie_srovnani_erben",
+    "type": "multiple_choice",
+    "tags": ["literarni_teorie", "rozbor_textu", "seznam_all", "seznam_miro", "seznam_vu"],
+    "importance": 8,
+    "question": "V čem spočívá hlavní rozdíl mezi motivem trestu v Erbenově Kytici a v Dykově Krysaři?",
+    "options": [
+      "V Kytici je osud dán vyšším řádem, zatímco Krysař vykonává trest jako osobní pomstu a revoltu.",
+      "V Kytici je trest výsledkem osobní msty hrdiny, zatímco Krysař je nástrojem boží vůle.",
+      "V Kytici chybí jakýkoli trest za provinění, zatímco Krysař trestá i sebemenší chyby.",
+      "V Kytici je trestem vždy vyhnanství, zatímco Krysař trestá výhradně smrtí oběšením."
+    ],
+    "correctAnswer": "V Kytici je osud dán vyšším řádem, zatímco Krysař vykonává trest jako osobní pomstu a revoltu.",
+    "explanation": "U Erbena je vzpoura proti vyššímu či přírodnímu řádu marná. Dykův Krysař naopak bere spravedlnost do vlastních rukou (osobní revolta)."
+  },
+  {
+    "id": "literarni_teorie_srovnani_kafka",
+    "type": "multiple_choice",
+    "tags": ["literarni_teorie", "rozbor_textu", "seznam_all", "seznam_miro", "seznam_vu"],
+    "importance": 8,
+    "question": "Jak se liší postoj ke společnosti a prostředí u hrdinů Kafkovy Proměny a Dykova Krysaře?",
+    "options": [
+      "Řehoř Samsa ztělesňuje absurdní úpadek v rodině a práci, zatímco magický Krysař svádí dominantní souboj s maloměšťáckou společností.",
+      "Řehoř Samsa bojuje proti politickému režimu, zatímco Krysař řeší pouze osobní rodinné konflikty.",
+      "Oba hrdinové se nakonec úspěšně integrují zpět do společnosti a najdou v ní štěstí.",
+      "Řehoř Samsa disponuje magickou silou, kterou zničí svou rodinu, zatímco Krysař je pasivní obětí."
+    ],
+    "correctAnswer": "Řehoř Samsa ztělesňuje absurdní úpadek v rodině a práci, zatímco magický Krysař svádí dominantní souboj s maloměšťáckou společností.",
+    "explanation": "Kafkovo dílo se zaobírá úpadkem a odcizením primárně v rodinném a pracovním kruhu, zatímco Dykův Krysař vystupuje silně a magicky proti zkaženému městu."
+  },
+  {
+    "id": "literarni_teorie_druh_zanr_forma",
+    "type": "matching",
+    "tags": ["literarni_teorie", "seznam_all", "seznam_miro", "seznam_vu"],
+    "importance": 9,
+    "question": "Přiřaďte správně základní literární zařazení díla Krysař.",
+    "options": [
+      "Literární druh",
+      "Literární žánr",
+      "Literární forma"
+    ],
+    "correctAnswer": [
+      "Literární druh == Epika s lyrickými prvky",
+      "Literární žánr == Novela",
+      "Literární forma == Próza"
+    ],
+    "explanation": "Krysař je epika (s lyrickými prvky), žánrově se jedná o novelu a je psán formou prózy."
+  },
+  {
+    "id": "rozbor_textu_casoprostor_misto",
+    "type": "multiple_choice",
+    "tags": ["dilo_obsah", "seznam_all", "seznam_miro", "seznam_vu"],
+    "importance": 9,
+    "question": "Kde přesně se odehrává děj novely Krysař?",
+    "options": [
+      "Ve středověkém hanzovním městě Hameln v Německu a na přilehlé hoře Koppel.",
+      "V renesanční Praze v okolí Staroměstského náměstí a Pražského hradu.",
+      "V anglickém průmyslovém městě Londýn během viktoriánské éry.",
+      "V odlehlé horské vesnici v rakouských Alpách na úpatí hory Koppel."
+    ],
+    "correctAnswer": "Ve středověkém hanzovním městě Hameln v Německu a na přilehlé hoře Koppel.",
+    "explanation": "Děj se odehrává v německém městě Hameln a na hoře Koppel."
+  },
+  {
+    "id": "rozbor_textu_casoprostor_cas",
+    "type": "multiple_choice",
+    "tags": ["dilo_obsah", "seznam_all", "seznam_miro", "seznam_vu"],
+    "importance": 7,
+    "question": "Do jaké historické doby je děj Krysaře zasazen a proč?",
+    "options": [
+      "Je historicky neurčitý (odkazuje na 13. století), což dotváří pohádkově temnou náladu.",
+      "Odehrává se přesně v roce 1914, aby reflektoval začátek první světové války.",
+      "Je zasazen do antického Řecka, aby zdůraznil fatalismus podobný antickým tragédiím.",
+      "Odehrává se v daleké budoucnosti po globální katastrofě."
+    ],
+    "correctAnswer": "Je historicky neurčitý (odkazuje na 13. století), což dotváří pohádkově temnou náladu.",
+    "explanation": "Čas je historicky neurčitý (s odkazem na 13. století), čímž autor dosahuje temné, pohádkové a mytické atmosféry."
+  },
+  {
+    "id": "rozbor_textu_dej_duvod_prichodu",
+    "type": "flashcard",
+    "tags": ["dilo_obsah", "seznam_all", "seznam_miro", "seznam_vu"],
+    "importance": 9,
+    "question": "Z jakého důvodu přichází Krysař do města Hameln?",
+    "options": [],
+    "correctAnswer": "Aby pomocí své kouzelné píšťaly odvedl z města přemnožené krysy.",
+    "explanation": "Krysař je najat zamořeným městem Hameln, aby je pomocí své magické píšťaly zbavil krys (odvedl je do řeky)."
+  },
+  {
+    "id": "rozbor_textu_dej_zrada_radnich",
+    "type": "flashcard",
+    "tags": ["dilo_obsah", "seznam_all", "seznam_miro", "seznam_vu"],
+    "importance": 9,
+    "question": "Jak se radní města zachovají ke Krysařovi poté, co splní svůj úkol?",
+    "options": [],
+    "correctAnswer": "Odmítnou mu vyplatit slíbenou odměnu.",
+    "explanation": "Chamtiví radní (Frosch a Strumm) nesplní svou dohodu a odmítnou mu zaplatit za odvedenou práci."
+  },
+  {
+    "id": "rozbor_textu_dej_agnes_tehotenstvi",
+    "type": "multiple_choice",
+    "tags": ["dilo_obsah", "seznam_all", "seznam_miro", "seznam_vu"],
+    "importance": 8,
+    "question": "Jaký zásadní zvrat vede k sebevraždě Agnes?",
+    "options": [
+      "Zjistí, že čeká dítě s nečestným měšťanem Kristiánem, a neunese své zoufalství.",
+      "Zjistí, že ji Krysař celou dobu podváděl s jinou ženou z města.",
+      "Radní ji odsoudí k trestu smrti za to, že se stýká s potulným cizincem.",
+      "Onemocní morem, který do města přinesly krysy, a skočí ze skály, aby nenakazila Krysaře."
+    ],
+    "correctAnswer": "Zjistí, že čeká dítě s nečestným měšťanem Kristiánem, a neunese své zoufalství.",
+    "explanation": "Agnes se zamiluje do Krysaře, ale je těhotná se svým bývalým milencem, prospěchářským měšťanem Kristiánem. Zoufalství vyřeší skokem do propasti."
+  },
+  {
+    "id": "rozbor_textu_dej_pomsta",
+    "type": "flashcard",
+    "tags": ["dilo_obsah", "seznam_all", "seznam_miro", "seznam_vu"],
+    "importance": 10,
+    "question": "Jakým způsobem se Krysař nakonec městu pomstí za smrt Agnes?",
+    "options": [],
+    "correctAnswer": "Použije svou magickou píšťalu a odvede obyvatele města do propasti na hoře Koppel, kde zahynou.",
+    "explanation": "Žalem a hněvem zlomený Krysař zahraje na píšťalu naplno a dovede všechny obyvatele k propasti, do které skočí."
+  },
+  {
+    "id": "rozbor_textu_dej_prezivsi",
+    "type": "multiple_choice",
+    "tags": ["dilo_obsah", "dilo_postavy", "seznam_all", "seznam_miro", "seznam_vu"],
+    "importance": 9,
+    "question": "Kdo jako jediný z obyvatel města přežije hromadný odchod do propasti a proč?",
+    "options": [
+      "Prosťáček Sepp Jörgen, protože je duševně pomalý a magická píšťala na něj působí až se zpožděním.",
+      "Měšťan Kristián, protože si včas ucpal uši voskem.",
+      "Radní Frosch, protože se schoval v hlubokém sklepení pod radnicí.",
+      "Starý farář, kterého před mocí píšťaly ochránila modlitba a kříž."
+    ],
+    "correctAnswer": "Prosťáček Sepp Jörgen, protože je duševně pomalý a magická píšťala na něj působí až se zpožděním.",
+    "explanation": "Jediným přeživším dospělým je prostoduchý rybář Sepp Jörgen, protože jeho mysl je pomalá a volání píšťaly ho dostihne, až když je pozdě a on místo skoku najde opuštěné dítě."
+  },
+  {
+    "id": "rozbor_textu_dej_zaver",
+    "type": "flashcard",
+    "tags": ["dilo_obsah", "seznam_all", "seznam_miro", "seznam_vu"],
+    "importance": 8,
+    "question": "Co symbolizuje samotný závěr novely s nalezeným dítětem?",
+    "options": [],
+    "correctAnswer": "Otevřenou naději a symbol nového, nezkaženého života po tragédii.",
+    "explanation": "Zatímco smrt obyvatel je osudově uzavřená, Seppovo rozhodnutí najít ženu, která dá dítěti napít, představuje naději a nový začátek."
+  },
+  {
+    "id": "rozbor_textu_trideni_deje",
+    "type": "sorting",
+    "tags": ["dilo_obsah", "seznam_all", "seznam_miro", "seznam_vu"],
+    "importance": 6,
+    "question": "Seřaďte klíčové události z děje novely Krysař chronologicky od první po poslední.",
+    "options": [
+      "Krysař přichází do zamořeného města Hameln.",
+      "Krysař odvede krysy, ale radní mu odmítnou zaplatit.",
+      "Agnes zjistí, že čeká dítě s Kristiánem a spáchá sebevraždu.",
+      "Krysař odvede obyvatele města do propasti.",
+      "Sepp Jörgen nachází opuštěné dítě a hledá pro něj pomoc."
+    ],
+    "correctAnswer": [
+      "Krysař přichází do zamořeného města Hameln.",
+      "Krysař odvede krysy, ale radní mu odmítnou zaplatit.",
+      "Agnes zjistí, že čeká dítě s Kristiánem a spáchá sebevraždu.",
+      "Krysař odvede obyvatele města do propasti.",
+      "Sepp Jörgen nachází opuštěné dítě a hledá pro něj pomoc."
+    ],
+    "explanation": "Příběh začíná příchodem a splněním úkolu, následuje zrada radních. Láska se mění v tragédii smrtí Agnes, následuje Krysařova pomsta a příběh uzavírá záchrana dítěte Seppem Jörgenem."
+  },
+  {
+    "id": "rozbor_textu_temata",
+    "type": "multiple_choice",
+    "tags": ["dilo_obsah", "seznam_all", "seznam_miro", "seznam_vu"],
+    "importance": 8,
+    "question": "Která z následujících možností nejlépe shrnuje hlavní témata a motivy novely Krysař?",
+    "options": [
+      "Láska a zklamání, touha po spravedlnosti a odplata, korupce a povrchní maloměšťáctví. Motivy: píšťala, propast, osamělost.",
+      "Boj za záchranu přírody, kritika industrializace a oslava venkovského života. Motivy: les, zvířata, továrny.",
+      "Válka a její nesmyslnost, ztracená generace a traumatické vzpomínky z fronty. Motivy: zbraně, zákopy, nemocnice.",
+      "Absurdita byrokracie, odcizení jedince ve velkoměstě a noční můry. Motivy: nekonečné chodby, razítka, anonymita."
+    ],
+    "correctAnswer": "Láska a zklamání, touha po spravedlnosti a odplata, korupce a povrchní maloměšťáctví. Motivy: píšťala, propast, osamělost.",
+    "explanation": "Ústředními tématy jsou spravedlnost, láska, pomsta, osamělost a kritika maloměšťáctví. Mezi hlavní motivy patří píšťala, propast, domov a sebevražda."
+  },
+  {
+    "id": "dilo_titul_vysvetleni",
+    "type": "flashcard",
+    "tags": ["dilo_titul", "seznam_all", "seznam_miro", "seznam_vu"],
+    "importance": 7,
+    "question": "Z čeho vychází název díla a koho označuje slovo 'Krysař'?",
+    "options": [],
+    "correctAnswer": "Vychází ze staroněmecké pověsti a nese jméno hlavní postavy, bezejmenného, osamělého cizince s magickou mocí.",
+    "explanation": "Název odkazuje na hlavního hrdinu a na fakt, že příběh vychází ze staré středověké německé pověsti o krysaři z Hamelnu."
+  },
+  {
+    "id": "rozbor_textu_atmosfera",
+    "type": "multiple_choice",
+    "tags": ["jazyk_a_styl", "seznam_all", "seznam_miro", "seznam_vu"],
+    "importance": 6,
+    "question": "Jakými slovy lze nejlépe popsat celkovou atmosféru novely Krysař?",
+    "options": [
+      "Temná, ponurá, melancholická, symbolická a fatální.",
+      "Veselá, idylická, humorná a oslavující život.",
+      "Absurdní, chaotická, plná černého humoru a sarkasmu.",
+      "Realistická, objektivní, strohá a vědecky přesná."
+    ],
+    "correctAnswer": "Temná, ponurá, melancholická, symbolická a fatální.",
+    "explanation": "Atmosféra je typicky novoromantická a dekadentní: temná, fatální a symbolická."
+  },
+  {
+    "id": "dilo_postavy_krysar_vyvoj",
+    "type": "multiple_choice",
+    "tags": ["dilo_postavy", "seznam_all", "seznam_miro", "seznam_vu"],
+    "importance": 9,
+    "question": "Jakým psychologickým vývojem projde v novele hlavní postava Krysaře?",
+    "options": [
+      "Z chladného vyvrhele se díky lásce mění v člověka toužícího po domově a odpuštění, ale po ztrátě Agnes se stává nesmlouvavým mstitelem.",
+      "Od začátku je milující a naivní, ale vliv korupce ve městě z něj postupně udělá chamtivého radního.",
+      "Zpočátku touží po pomstě, ale díky víře v Boha a přátelství se Seppem Jörgenem se z něj stane světec.",
+      "Jeho charakter se nijak nevyvíjí, od začátku do konce je pouze mechanickým nástrojem božího hněvu bez emocí."
+    ],
+    "correctAnswer": "Z chladného vyvrhele se díky lásce mění v člověka toužícího po domově a odpuštění, ale po ztrátě Agnes se stává nesmlouvavým mstitelem.",
+    "explanation": "Krysařův vývoj je zásadní: od lhostejnosti přes lásku a touhu odpustit radním až po absolutní zklamání a sebezničující pomstu."
+  },
+  {
+    "id": "dilo_postavy_kristian",
+    "type": "flashcard",
+    "tags": ["dilo_postavy", "seznam_all", "seznam_miro", "seznam_vu"],
+    "importance": 7,
+    "question": "Koho nebo co v příběhu ztělesňuje postava Kristiána?",
+    "options": [],
+    "correctAnswer": "Je to bývalý milenec Agnes a prospěchář, který symbolizuje povrchní život hnaný touhou po majetku (maloměšťáctví).",
+    "explanation": "Kristián je typický zástupce zkaženého Hamelnu, prospěchář žijící pro materiální zisky."
+  },
+  {
+    "id": "dilo_postavy_radni",
+    "type": "flashcard",
+    "tags": ["dilo_postavy", "seznam_all", "seznam_miro", "seznam_vu"],
+    "importance": 7,
+    "question": "Jak se jmenují dva hlavní radní v Hamelnu a jaké mají charakterové vlastnosti?",
+    "options": [],
+    "correctAnswer": "Jmenují se Frosch a Strumm. Jsou to chamtiví, podlí a zkorumpovaní představitelé moci.",
+    "explanation": "Radní Frosch a Strumm symbolizují zkorumpovanost a chamtivost vedení města."
+  },
+  {
+    "id": "jazyk_a_styl_vypravec",
+    "type": "multiple_choice",
+    "tags": ["jazyk_a_styl", "rozbor_textu", "seznam_all", "seznam_miro", "seznam_vu"],
+    "importance": 8,
+    "question": "Jaký typ vypravěče autor v Krysaři využívá?",
+    "options": [
+      "Využívá er-formu, vypravěč funguje jako nestranný pozorovatel ve třetí osobě.",
+      "Využívá ich-formu, příběh je vyprávěn výhradně z pohledu samotného Krysaře.",
+      "Využívá du-formu, vypravěč neustále oslovuje a obviňuje čtenáře.",
+      "Využívá střídání deníkových záznamů jednotlivých obyvatel Hamelnu."
+    ],
+    "correctAnswer": "Využívá er-formu, vypravěč funguje jako nestranný pozorovatel ve třetí osobě.",
+    "explanation": "Příběh vypráví nestranný pozorovatel ve třetí osobě (er-forma)."
+  },
+  {
+    "id": "jazyk_a_styl_vrstvy_archaismy",
+    "type": "multiple_choice",
+    "tags": ["jazyk_a_styl", "seznam_all", "seznam_miro", "seznam_vu"],
+    "importance": 7,
+    "question": "Které jazykové prostředky jsou charakteristické pro Dykova Krysaře?",
+    "options": [
+      "Spisovný jazyk s vysokou poetickou rovinou, využívající archaismy (přechodníky, infinitivy na -ti) a knižní výrazy.",
+      "Nespisovný jazyk, hojné využití slangu, vulgarismů a argotu podsvětí.",
+      "Výhradně hovorová čeština s prvky pražského dialektu.",
+      "Strohý, publicistický jazyk připomínající suchou novinovou reportáž bez příkras."
+    ],
+    "correctAnswer": "Spisovný jazyk s vysokou poetickou rovinou, využívající archaismy (přechodníky, infinitivy na -ti) a knižní výrazy.",
+    "explanation": "Text je vysoce estetický a poetický, plný archaismů (např. infinitivy zakončené na -ti) a knižních slov."
+  },
+  {
+    "id": "jazyk_a_styl_kompozice",
+    "type": "flashcard",
+    "tags": ["jazyk_a_styl", "seznam_all", "seznam_miro", "seznam_vu"],
+    "importance": 6,
+    "question": "Jak je text kompozičně a syntakticky členěn pro dosažení typické tajuplné atmosféry?",
+    "options": [],
+    "correctAnswer": "Děj je chronologicky rozdělen do 26 krátkých kapitol. Autor užívá inverzi, krátké odstavce a úsečné věty, což text přibližuje básnické próze.",
+    "explanation": "Rytmus a atmosféru vytvářejí krátké věty, časté opakování (epizeuxis) a inverze ve 26 krátkých kapitolách."
+  },
+  {
+    "id": "neumelecky_text_funkcni_styl",
+    "type": "text_analysis",
+    "tags": ["rozbor_textu", "seznam_all", "seznam_miro", "seznam_vu"],
+    "importance": 5,
+    "question": "Při analýze neuměleckého textu (např. článku o historii města Hameln) – jaký by se v něm s největší pravděpodobností uplatnil funkční styl?",
+    "options": [
+      "Odborný nebo prostěsdělovací / publicistický (např. cestopisná reportáž).",
+      "Umělecký a esejistický.",
+      "Výhradně řečnický styl.",
+      "Administrativní styl zaměřený na předpisy a normy."
+    ],
+    "correctAnswer": "Odborný nebo prostěsdělovací / publicistický (např. cestopisná reportáž).",
+    "explanation": "Neumělecký text předávající fakta by byl odborný (historická studie) nebo publicistický (reportáž)."
+  },
+  {
+    "id": "neumelecky_text_sloh_postup",
+    "type": "text_analysis",
+    "tags": ["rozbor_textu", "seznam_all", "seznam_miro", "seznam_vu"],
+    "importance": 5,
+    "question": "Jaké slohové postupy by převládaly v neuměleckém textu popisujícím původ legendy o Krysaři?",
+    "options": [
+      "Informační (předávání faktů) nebo výkladový (analyzuje vztahy a původ mýtu).",
+      "Vyprávěcí a úvahový.",
+      "Popisný a charakterizační.",
+      "Příkazový a apelativní."
+    ],
+    "correctAnswer": "Informační (předávání faktů) nebo výkladový (analyzuje vztahy a původ mýtu).",
+    "explanation": "Cílem textu by bylo sdělit fakta (informační) nebo vysvětlit souvislosti vzniku mýtu (výkladový postup)."
+  },
+  {
+    "id": "definice_epika",
+    "type": "flashcard",
+    "tags": ["definice", "literarni_teorie", "seznam_all", "seznam_miro", "seznam_vu"],
+    "importance": 10,
+    "question": "Definujte termín 'Epika' podle studijního materiálu.",
+    "options": [],
+    "correctAnswer": "Literární druh založený na vyprávění děje nebo příběhu s určitou zápletkou.",
+    "explanation": "Epika je jeden ze tří základních literárních druhů, vyznačuje se dějovostí."
+  },
+  {
+    "id": "definice_novela",
+    "type": "flashcard",
+    "tags": ["definice", "literarni_teorie", "seznam_all", "seznam_miro", "seznam_vu"],
+    "importance": 10,
+    "question": "Definujte termín 'Novela' podle studijního materiálu.",
+    "options": [],
+    "correctAnswer": "Literární žánr kratšího rozsahu. Soustředí se zpravidla na jednu dějovou linii a končí nečekaným, často až fatálním (výrazným) zvratem (pointou).",
+    "explanation": "Novela je epický žánr s ostrou pointou na konci."
+  },
+  {
+    "id": "definice_proza",
+    "type": "flashcard",
+    "tags": ["definice", "literarni_teorie", "seznam_all", "seznam_miro", "seznam_vu"],
+    "importance": 10,
+    "question": "Definujte termín 'Próza' podle studijního materiálu.",
+    "options": [],
+    "correctAnswer": "Literární forma psaná volně, jež se neřídí pravidly rytmu a rýmu (přirozené členění na věty a odstavce).",
+    "explanation": "Próza je nekomplikovaná běžná řeč uspořádaná do vět a odstavců, opak poezie."
+  },
+  {
+    "id": "definice_anarchisticti_burici",
+    "type": "flashcard",
+    "tags": ["definice", "literarni_teorie", "seznam_all", "seznam_miro", "seznam_vu"],
+    "importance": 10,
+    "question": "Definujte termín 'Anarchističtí buřiči' podle studijního materiálu.",
+    "options": [],
+    "correctAnswer": "Generace umělců na přelomu 19. a 20. století vyznačující se odporem vůči společnosti a institucím. Hájili svobodu jednotlivce a odmítali maloměšťáctví.",
+    "explanation": "Generace autorů (včetně Dyka), která revoltovala proti tehdejším společenským konvencím."
+  },
+  {
+    "id": "definice_dekadence",
+    "type": "flashcard",
+    "tags": ["definice", "literarni_teorie", "seznam_all", "seznam_miro", "seznam_vu"],
+    "importance": 10,
+    "question": "Definujte termín 'Dekadence' podle studijního materiálu.",
+    "options": [],
+    "correctAnswer": "Umělecký směr zdůrazňující pocity marnosti, smutku, úpadku a odporu k tehdejší společnosti.",
+    "explanation": "Dekadence (z francouzského 'úpadek') se projevuje pesimismem a morbidními motivy."
+  },
+  {
+    "id": "definice_symbolismus",
+    "type": "flashcard",
+    "tags": ["definice", "literarni_teorie", "seznam_all", "seznam_miro", "seznam_vu"],
+    "importance": 10,
+    "question": "Definujte termín 'Symbolismus' podle studijního materiálu.",
+    "options": [],
+    "correctAnswer": "Literární směr využívající symbolů a náznaků k vyjádření skrytých významů a abstraktních idejí.",
+    "explanation": "Směr pracující s mnohoznačností symbolů (např. píšťala v Krysaři)."
+  },
+  {
+    "id": "definice_novoromantismus",
+    "type": "flashcard",
+    "tags": ["definice", "literarni_teorie", "seznam_all", "seznam_miro", "seznam_vu"],
+    "importance": 10,
+    "question": "Definujte termín 'Novoromantismus' podle studijního materiálu.",
+    "options": [],
+    "correctAnswer": "Směr navazující na romantismus; klade důraz na tajemno, mystiku, silné emoce a výjimečné osudy.",
+    "explanation": "Směr oživující romantické ideály - hrdina vyvrhel, temná atmosféra a silná osudovost."
+  },
+  {
+    "id": "definice_lyrickoepicka_balada",
+    "type": "flashcard",
+    "tags": ["definice", "literarni_teorie", "seznam_all", "seznam_miro", "seznam_vu"],
+    "importance": 10,
+    "question": "Definujte termín 'Lyrickoepická balada' podle studijního materiálu.",
+    "options": [],
+    "correctAnswer": "Básnický útvar s ponurým dějem, rychlým spádem a obvykle tragickým koncem (spojuje epický děj s lyrickým cítěním).",
+    "explanation": "Příkladem v Dykove tvorbě je Milá sedmi loupežníků."
+  },
+  {
+    "id": "definice_drama",
+    "type": "flashcard",
+    "tags": ["definice", "literarni_teorie", "seznam_all", "seznam_miro", "seznam_vu"],
+    "importance": 10,
+    "question": "Definujte termín 'Drama' podle studijního materiálu.",
+    "options": [],
+    "correctAnswer": "Literární druh primárně určený k předvádění na jevišti, založený na dialozích a monolozích postav.",
+    "explanation": "Vedle epiky a lyriky jde o třetí základní literární druh (např. Zmoudření Dona Quijota)."
+  },
+  {
+    "id": "definice_er_forma",
+    "type": "flashcard",
+    "tags": ["definice", "literarni_teorie", "seznam_all", "seznam_miro", "seznam_vu"],
+    "importance": 10,
+    "question": "Definujte termín 'Er-forma' podle studijního materiálu.",
+    "options": [],
+    "correctAnswer": "Způsob vyprávění, při němž vypravěč referuje o postavách a událostech ve 3. osobě a sám nebývá aktérem děje.",
+    "explanation": "Objektivní vyprávěcí perspektiva, využitá i v Krysaři."
+  },
+  {
+    "id": "definice_archaismus",
+    "type": "flashcard",
+    "tags": ["definice", "gramatika", "seznam_all", "seznam_miro", "seznam_vu"],
+    "importance": 10,
+    "question": "Definujte termín 'Archaismus' podle studijního materiálu.",
+    "options": [],
+    "correctAnswer": "Zastaralý jazykový prostředek, slovo, které bylo v současném jazyce vytlačeno synonymem novějším.",
+    "explanation": "Dyk archaismy (např. infinitivy na -ti) dotváří historický dojem."
+  },
+  {
+    "id": "definice_personifikace",
+    "type": "flashcard",
+    "tags": ["definice", "literarni_teorie", "seznam_all", "seznam_miro", "seznam_vu"],
+    "importance": 10,
+    "question": "Definujte termín 'Personifikace (Zosobnění)' podle studijního materiálu.",
+    "options": [],
+    "correctAnswer": "Přenesení lidských vlastností a chování na neživé předměty nebo přírodní jevy.",
+    "explanation": "Příklad z Krysaře: 'měsíční svit jako by naslouchal'."
+  },
+  {
+    "id": "definice_metafora",
+    "type": "flashcard",
+    "tags": ["definice", "literarni_teorie", "seznam_all", "seznam_miro", "seznam_vu"],
+    "importance": 10,
+    "question": "Definujte termín 'Metafora' podle studijního materiálu.",
+    "options": [],
+    "correctAnswer": "Přenesení významu na základě vnější podobnosti (např. 'cesta bez návratu').",
+    "explanation": "Základní básnický tropus založený na vizuální nebo významové podobnosti."
+  },
+  {
+    "id": "definice_ironie",
+    "type": "flashcard",
+    "tags": ["definice", "literarni_teorie", "seznam_all", "seznam_miro", "seznam_vu"],
+    "importance": 10,
+    "question": "Definujte termín 'Ironie' podle studijního materiálu.",
+    "options": [],
+    "correctAnswer": "Výrazový prostředek, při kterém se použijí slova v opačném významu k dosažení posměšného či kritického účinku.",
+    "explanation": "Způsob, jak říci opak toho, co se myslí, často pro kritiku postav (radních)."
+  },
+  {
+    "id": "definice_oxymoron",
+    "type": "flashcard",
+    "tags": ["definice", "literarni_teorie", "seznam_all", "seznam_miro", "seznam_vu"],
+    "importance": 10,
+    "question": "Definujte termín 'Oxymóron' podle studijního materiálu.",
+    "options": [],
+    "correctAnswer": "Básnický přívlastek (nebo spojení slov), kde dochází k logickému rozporu (např. 'živá mrtvola').",
+    "explanation": "Spojení slov s protichůdným významem. V Krysaři např. 'tvář tvrdá jako kámen, oči plné smutku' (ačkoli zde jde spíše o kontrast, materiál zmiňuje oxymóron jako prvek)."
+  },
+  {
+    "id": "definice_epizeuxis",
+    "type": "flashcard",
+    "tags": ["definice", "literarni_teorie", "seznam_all", "seznam_miro", "seznam_vu"],
+    "importance": 10,
+    "question": "Definujte termín 'Epizeuxis' podle studijního materiálu.",
+    "options": [],
+    "correctAnswer": "Stylistická figura založená na opakování stejného slova nebo slovních spojení bezprostředně za sebou.",
+    "explanation": "Slouží k vyvolání rytmu a naléhavosti sdělení."
+  },
+  {
+    "id": "definice_recnicka_otazka",
+    "type": "flashcard",
+    "tags": ["definice", "literarni_teorie", "seznam_all", "seznam_miro", "seznam_vu"],
+    "importance": 10,
+    "question": "Definujte termín 'Řečnická otázka' podle studijního materiálu.",
+    "options": [],
+    "correctAnswer": "Otázka, na kterou se nečeká odpověď; slouží spíše k zamyšlení nebo ke zdůraznění sdělení.",
+    "explanation": "Často užívaná vypravěčem k vtažení čtenáře do filozofických úvah."
+  },
+  {
+    "id": "definice_inverze",
+    "type": "flashcard",
+    "tags": ["definice", "gramatika", "seznam_all", "seznam_miro", "seznam_vu"],
+    "importance": 10,
+    "question": "Definujte termín 'Inverze' podle studijního materiálu.",
+    "options": [],
+    "correctAnswer": "Změněný (obrácený) slovosled. Využívá se často v poezii a zlyrizované próze pro zesílení uměleckého účinku.",
+    "explanation": "Přispívá k rytmizaci textu a zarchaičtění projevu."
+  },
+  {
+    "id": "definice_chronologicka_kompozice",
+    "type": "flashcard",
+    "tags": ["definice", "literarni_teorie", "seznam_all", "seznam_miro", "seznam_vu"],
+    "importance": 10,
+    "question": "Definujte termín 'Chronologická kompozice' podle studijního materiálu.",
+    "options": [],
+    "correctAnswer": "Uspořádání děje tak, jak na sebe události přirozeně navazují v čase od začátku do konce.",
+    "explanation": "Události jsou líčeny popořadě bez časových skoků vzad (retrospektivy)."
+  },
+  {
+    "id": "definice_odborny_styl",
+    "type": "flashcard",
+    "tags": ["definice", "rozbor_textu", "seznam_all", "seznam_miro", "seznam_vu"],
+    "importance": 10,
+    "question": "Definujte termín 'Odborný styl' podle studijního materiálu.",
+    "options": [],
+    "correctAnswer": "Funkční styl užívaný ve vědě a odborné literatuře, typický svou přesností, objektivitou a užitím terminologie.",
+    "explanation": "Styl vyžadující jednoznačná a doložitelná fakta, bez citového zabarvení."
+  },
+  {
+    "id": "definice_publicisticky_styl",
+    "type": "flashcard",
+    "tags": ["definice", "rozbor_textu", "seznam_all", "seznam_miro", "seznam_vu"],
+    "importance": 10,
+    "question": "Definujte termín 'Publicistický styl' podle studijního materiálu.",
+    "options": [],
+    "correctAnswer": "Styl novin, časopisů a médií; jeho cílem je informovat veřejnost, přesvědčovat a zaujmout.",
+    "explanation": "Styl masmédií, který kromě informací může obsahovat i hodnocení a působit na čtenáře."
+  },
+  {
+    "id": "definice_informacni_postup",
+    "type": "flashcard",
+    "tags": ["definice", "rozbor_textu", "seznam_all", "seznam_miro", "seznam_vu"],
+    "importance": 10,
+    "question": "Definujte termín 'Informační postup' podle studijního materiálu.",
+    "options": [],
+    "correctAnswer": "Slohový postup zaměřený na prosté a věcné sdělení faktů (kdo, co, kdy, kde).",
+    "explanation": "Základní slohový postup užívaný ve zprávách a oznámeních."
+  },
+  {
+    "id": "definice_vykladovy_postup",
+    "type": "flashcard",
+    "tags": ["definice", "rozbor_textu", "seznam_all", "seznam_miro", "seznam_vu"],
+    "importance": 10,
+    "question": "Definujte termín 'Výkladový postup' podle studijního materiálu.",
+    "options": [],
+    "correctAnswer": "Slohový postup, který do hloubky vysvětluje podstatu jevů, jejich příčiny a vnitřní souvislosti.",
+    "explanation": "Složitější postup odpovídající na otázky 'proč' a 'jak'."
+  }
+]

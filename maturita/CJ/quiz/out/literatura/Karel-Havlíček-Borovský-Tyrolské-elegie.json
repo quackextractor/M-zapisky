@@ -1,0 +1,756 @@
+[
+  {
+    "id": "autor_zivot_narozeni_umrti",
+    "type": "flashcard",
+    "tags": ["autor_zivot", "seznam_all", "seznam_vu"],
+    "importance": 3,
+    "question": "Ve kterých letech žil Karel Havlíček Borovský?",
+    "options": [],
+    "correctAnswer": "1821–1856",
+    "explanation": "Karel Havlíček Borovský žil v letech 1821 až 1856."
+  },
+  {
+    "id": "autor_zivot_puvod",
+    "type": "multiple_choice",
+    "tags": ["autor_zivot", "seznam_all", "seznam_vu"],
+    "importance": 4,
+    "question": "Z jakého rodinného zázemí pocházel Karel Havlíček Borovský?",
+    "options": [
+      "Ze zámožné kupecké rodiny",
+      "Z chudé rolnické rodiny",
+      "Z rodiny zchudlého šlechtice",
+      "Z rodiny vojenského důstojníka"
+    ],
+    "correctAnswer": "Ze zámožné kupecké rodiny",
+    "explanation": "Narodil se do zámožné kupecké rodiny v Borové u Přibyslavi."
+  },
+  {
+    "id": "autor_zivot_misto_narozeni",
+    "type": "flashcard",
+    "tags": ["autor_zivot", "seznam_all", "seznam_vu"],
+    "importance": 3,
+    "question": "Ve které obci se narodil Karel Havlíček Borovský?",
+    "options": [],
+    "correctAnswer": "V Borové u Přibyslavi",
+    "explanation": "Pocházel z Borové u Přibyslavi, což je součástí jeho jména."
+  },
+  {
+    "id": "autor_zivot_studium_gymnazium",
+    "type": "flashcard",
+    "tags": ["autor_zivot", "seznam_all", "seznam_vu"],
+    "importance": 4,
+    "question": "Ve kterém městě studoval K. H. Borovský gymnázium?",
+    "options": [],
+    "correctAnswer": "V Německém Brodě",
+    "explanation": "Studoval gymnázium v Německém Brodě (dnes Havlíčkův Brod)."
+  },
+  {
+    "id": "autor_zivot_vylouceni_seminar",
+    "type": "multiple_choice",
+    "tags": ["autor_zivot", "seznam_all", "seznam_vu"],
+    "importance": 5,
+    "question": "Proč byl K. H. Borovský vyloučen z kněžského semináře v Praze?",
+    "options": [
+      "Pro odpor k církvi a protičeským postojům",
+      "Kvůli krádeži cenných teologických knih",
+      "Pro neschopnost naučit se latinsky a řecky",
+      "Kvůli tajnému sňatku a založení rodiny"
+    ],
+    "correctAnswer": "Pro odpor k církvi a protičeským postojům",
+    "explanation": "Z pražského semináře byl vyloučen, protože se netajil odporem k církvi a jejímu tehdejšímu protičeskému postoji."
+  },
+  {
+    "id": "autor_zivot_cesta_do_ruska",
+    "type": "multiple_choice",
+    "tags": ["autor_zivot", "seznam_all", "seznam_vu"],
+    "importance": 6,
+    "question": "V jaké roli odjel K. H. Borovský v roce 1842 do Ruska?",
+    "options": [
+      "Jako vychovatel",
+      "Jako vojenský zpravodaj",
+      "Jako velvyslanec rakouského císařství",
+      "Jako překladatel děl N. V. Gogola"
+    ],
+    "correctAnswer": "Jako vychovatel",
+    "explanation": "Do Ruska odcestoval v roce 1842 jako vychovatel do rodiny ruského šlechtice."
+  },
+  {
+    "id": "autor_zivot_poznani_ruska",
+    "type": "flashcard",
+    "tags": ["autor_zivot", "seznam_all", "seznam_vu"],
+    "importance": 8,
+    "question": "Co si K. H. Borovský uvědomil během svého pobytu v Rusku o tamním politickém systému?",
+    "options": [],
+    "correctAnswer": "Že carský absolutismus je stejně nepřátelský jako ten rakouský.",
+    "explanation": "V Rusku ztratil iluze o všeslovanské vzájemnosti a pochopil, že ruský carský absolutismus utlačuje lidi stejně jako ten rakouský."
+  },
+  {
+    "id": "autor_zivot_zatceni_rok",
+    "type": "flashcard",
+    "tags": ["autor_zivot", "seznam_all", "seznam_vu"],
+    "importance": 3,
+    "question": "Na konci kterého roku byl K. H. Borovský zatčen a deportován do Brixenu?",
+    "options": [],
+    "correctAnswer": "1851",
+    "explanation": "K zatčení a následné deportaci došlo koncem roku 1851."
+  },
+  {
+    "id": "autor_zivot_misto_deportace",
+    "type": "flashcard",
+    "tags": ["autor_zivot", "seznam_all", "seznam_vu"],
+    "importance": 9,
+    "question": "Do jakého města byl K. H. Borovský internován (deportován) za svou kritiku monarchie?",
+    "options": [],
+    "correctAnswer": "Do Brixenu (v Tyrolsku)",
+    "explanation": "Rakouské úřady jej za kritiku internovaly do alpského města Brixen."
+  },
+  {
+    "id": "autor_zivot_navrat_rok",
+    "type": "flashcard",
+    "tags": ["autor_zivot", "seznam_all", "seznam_vu"],
+    "importance": 3,
+    "question": "Kdy (měsíc a rok) se směl K. H. Borovský z Brixenu vrátit do Čech?",
+    "options": [],
+    "correctAnswer": "V dubnu 1855",
+    "explanation": "Návrat mu byl umožněn až v dubnu roku 1855, krátce před smrtí."
+  },
+  {
+    "id": "autor_zivot_pricina_smrti",
+    "type": "multiple_choice",
+    "tags": ["autor_zivot", "seznam_all", "seznam_vu"],
+    "importance": 6,
+    "question": "Na jakou nemoc zemřel Karel Havlíček Borovský v roce 1856?",
+    "options": [
+      "Na souchotiny (tuberkulózu)",
+      "Na morovou nákazu",
+      "Na následky policejního mučení",
+      "Na zápal plic ze zamrzlých Alp"
+    ],
+    "correctAnswer": "Na souchotiny (tuberkulózu)",
+    "explanation": "Zanedlouho po svém návratu do Čech zemřel v roce 1856 na tuberkulózu (tehdy nazývanou souchotiny)."
+  },
+  {
+    "id": "literarni_teorie_obdobi",
+    "type": "multiple_choice",
+    "tags": ["literarni_teorie", "seznam_all", "seznam_vu"],
+    "importance": 9,
+    "question": "Do jakého literárního období spadá tvorba K. H. Borovského?",
+    "options": [
+      "Počátky českého realismu (1. polovina 19. století)",
+      "Český romantismus (1. polovina 19. století)",
+      "Generace buřičů (počátek 20. století)",
+      "Barokní literatura (17. století)"
+    ],
+    "correctAnswer": "Počátky českého realismu (1. polovina 19. století)",
+    "explanation": "Havlíček Borovský představuje svými díly počátky českého realismu v první polovině 19. století."
+  },
+  {
+    "id": "rozbor_textu_kontext_doby",
+    "type": "flashcard",
+    "tags": ["rozbor_textu", "seznam_all", "seznam_vu"],
+    "importance": 9,
+    "question": "Jakým termínem se označuje období politického útlaku po revoluci 1848, proti kterému Havlíček bojoval?",
+    "options": [],
+    "correctAnswer": "Bachův absolutismus",
+    "explanation": "Doba silné cenzury a policejního dohledu se označuje jako Bachův absolutismus, pojmenovaný podle ministra Alexandra Bacha."
+  },
+  {
+    "id": "rozbor_textu_znaky_doby",
+    "type": "multiple_choice",
+    "tags": ["rozbor_textu", "seznam_all", "seznam_vu"],
+    "importance": 7,
+    "question": "Co bylo typickým znakem Bachova absolutismu, na který dílo reaguje?",
+    "options": [
+      "Silná cenzura, policejní dohled a potlačování svobody",
+      "Úplná svoboda tisku a vznik mnoha politických stran",
+      "Industrializace, zakládání továren a úpadek venkova",
+      "Masivní podpora česky psané literatury a divadla ze strany státu"
+    ],
+    "correctAnswer": "Silná cenzura, policejní dohled a potlačování svobody",
+    "explanation": "Doba se vyznačovala omezováním občanských práv, cenzurou a tajnou policií, která pronásledovala kritiky."
+  },
+  {
+    "id": "rozbor_textu_dalsi_dila_nazvy",
+    "type": "matching",
+    "tags": ["rozbor_textu", "seznam_all", "seznam_vu"],
+    "importance": 6,
+    "question": "Přiřaďte k sobě správně díla K. H. Borovského a jejich charakteristiku:",
+    "options": [
+      "Král Lávra",
+      "Křest svatého Vladimíra",
+      "Epigramy"
+    ],
+    "correctAnswer": [
+      "Král Lávra == Další autorova satirická skladba",
+      "Křest svatého Vladimíra == Nedokončená satirická skladba z ruského prostředí",
+      "Epigramy == Krátké a útočné satirické básně"
+    ],
+    "explanation": "Havlíček napsal satirické básně Král Lávra a Křest sv. Vladimíra a byl mistrem krátkých epigramů."
+  },
+  {
+    "id": "rozbor_textu_srovnani_gogol",
+    "type": "multiple_choice",
+    "tags": ["rozbor_textu", "seznam_all", "seznam_vu"],
+    "importance": 8,
+    "question": "S jakým dílem od Nikolaje V. Gogola lze myšlenkově srovnat Tyrolské elegie?",
+    "options": [
+      "Revizor",
+      "Mrtvé duše",
+      "Kytice",
+      "Farma zvířat"
+    ],
+    "correctAnswer": "Revizor",
+    "explanation": "S Gogolovým Revizorem dílo spojuje kritika byrokracie a prohnilého úřednického aparátu z 19. století."
+  },
+  {
+    "id": "rozbor_textu_gogol_rozdil",
+    "type": "multiple_choice",
+    "tags": ["rozbor_textu", "seznam_all", "seznam_vu"],
+    "importance": 7,
+    "question": "Jaký je formální rozdíl mezi Gogolovým Revizorem a Havlíčkovými Tyrolskými elegiemi?",
+    "options": [
+      "Revizor je divadelní komedie v próze, zatímco Elegie jsou satirická báseň ve verších.",
+      "Revizor je milostný román v dopisech, zatímco Elegie jsou filozofický traktát.",
+      "Revizor je historický epos, zatímco Elegie jsou moderní divadelní hra.",
+      "Revizor je sbírka epigramů, zatímco Elegie jsou rozsáhlý román."
+    ],
+    "correctAnswer": "Revizor je divadelní komedie v próze, zatímco Elegie jsou satirická báseň ve verších.",
+    "explanation": "Ačkoli obě díla kritizují úřady (Gogol v Rusku, Havlíček v Rakousku), Gogol napsal prozaickou divadelní hru a Havlíček veršovanou báseň."
+  },
+  {
+    "id": "rozbor_textu_srovnani_hasek",
+    "type": "multiple_choice",
+    "tags": ["rozbor_textu", "seznam_all", "seznam_vu"],
+    "importance": 8,
+    "question": "S jakým dílem české literatury ze začátku 20. století se Tyrolské elegie často srovnávají díky kritice rakouského systému a užití humoru?",
+    "options": [
+      "Jaroslav Hašek: Osudy dobrého vojáka Švejka...",
+      "Karel Čapek: R.U.R.",
+      "Ladislav Fuks: Spalovač mrtvol",
+      "Viktor Dyk: Krysař"
+    ],
+    "correctAnswer": "Jaroslav Hašek: Osudy dobrého vojáka Švejka...",
+    "explanation": "Obě díla útočí humorem a satirou na byrokracii a neschopnost rakouského/rakousko-uherského státního a policejního aparátu."
+  },
+  {
+    "id": "rozbor_textu_hasek_rozdil",
+    "type": "multiple_choice",
+    "tags": ["rozbor_textu", "seznam_all", "seznam_vu"],
+    "importance": 7,
+    "question": "V čem se zásadně liší Haškův Švejk od Havlíčkových Tyrolských elegií?",
+    "options": [
+      "Švejk je prozaický román z 20. st. (reaguje na 1. sv. válku), Elegie jsou báseň z 19. st. (reaguje na Bachův absolutismus).",
+      "Švejk byl napsán v exilu v Rusku, zatímco Elegie tajně v Praze.",
+      "Švejk je vážné drama, zatímco Elegie jsou humorná povídka.",
+      "Švejk je psán čistě spisovně, zatímco Elegie pouze v argotu."
+    ],
+    "correctAnswer": "Švejk je prozaický román z 20. st. (reaguje na 1. sv. válku), Elegie jsou báseň z 19. st. (reaguje na Bachův absolutismus).",
+    "explanation": "Haškovo dílo je próza z počátku 20. století reagující na světovou válku, Havlíčkovo dílo je poezie z 19. století reagující na absolutismus."
+  },
+  {
+    "id": "literarni_teorie_literarni_druh",
+    "type": "flashcard",
+    "tags": ["literarni_teorie", "seznam_all", "seznam_vu"],
+    "importance": 9,
+    "question": "Jaký je literární druh díla Tyrolské elegie?",
+    "options": [],
+    "correctAnswer": "Epika",
+    "explanation": "Dílo vypráví ucelený příběh cesty do Brixenu, řadí se tedy do epiky (případně lyricko-epiky)."
+  },
+  {
+    "id": "literarni_teorie_literarni_zanr",
+    "type": "flashcard",
+    "tags": ["literarni_teorie", "seznam_all", "seznam_vu"],
+    "importance": 9,
+    "question": "Jaký je literární žánr díla Tyrolské elegie?",
+    "options": [],
+    "correctAnswer": "Satirická báseň",
+    "explanation": "Jedná se o satirickou (výsměšnou) báseň."
+  },
+  {
+    "id": "literarni_teorie_literarni_forma",
+    "type": "flashcard",
+    "tags": ["literarni_teorie", "seznam_all", "seznam_vu"],
+    "importance": 9,
+    "question": "Jaká je literární forma díla Tyrolské elegie?",
+    "options": [],
+    "correctAnswer": "Poezie",
+    "explanation": "Dílo je psáno ve verších, literární formou je proto poezie."
+  },
+  {
+    "id": "dilo_obsah_cas",
+    "type": "flashcard",
+    "tags": ["dilo_obsah", "seznam_all", "seznam_vu"],
+    "importance": 6,
+    "question": "V jakém ročním období a roce se odehrává děj Tyrolských elegií?",
+    "options": [],
+    "correctAnswer": "Před Vánoci roku 1851",
+    "explanation": "Děj knihy je situován do doby autorovy deportace před Vánoci roku 1851."
+  },
+  {
+    "id": "dilo_obsah_prostor_zacatek",
+    "type": "flashcard",
+    "tags": ["dilo_obsah", "seznam_all", "seznam_vu"],
+    "importance": 6,
+    "question": "Ve kterém městě začíná děj díla (místo Havlíčkova zatčení)?",
+    "options": [],
+    "correctAnswer": "Německý Brod",
+    "explanation": "Autor byl zatčen ve svém domě v Německém Brodě."
+  },
+  {
+    "id": "dilo_obsah_prostor_konec",
+    "type": "flashcard",
+    "tags": ["dilo_obsah", "seznam_all", "seznam_vu"],
+    "importance": 9,
+    "question": "Kde končí trasa deportace v Tyrolských elegiích?",
+    "options": [],
+    "correctAnswer": "V Brixenu (Tyrolsko)",
+    "explanation": "Cesta kočárem končí příjezdem do vyhnanství v rakouském Brixenu."
+  },
+  {
+    "id": "dilo_obsah_zatykac_bach",
+    "type": "multiple_choice",
+    "tags": ["dilo_obsah", "seznam_all", "seznam_vu"],
+    "importance": 8,
+    "question": "Jakým způsobem paroduje Havlíček v textu doručený zatykač od ministra Bacha?",
+    "options": [
+      "Interpretuje ho jako lékařský předpis doktora Bacha na cestu na „zdravé povětří“.",
+      "Popisuje ho jako falešnou pozvánku na královský ples ve Vídni.",
+      "Líčí ho jako nečitelný list, který policisté drží vzhůru nohama.",
+      "Předstírá, že zatykač je milostný dopis od neznámé obdivovatelky."
+    ],
+    "correctAnswer": "Interpretuje ho jako lékařský předpis doktora Bacha na cestu na „zdravé povětří“.",
+    "explanation": "Vláda se tvářila, že se stará o Havlíčkovo zdraví, on to proto ironicky paroduje jako léčebný pobyt nařízený „doktorem Bachem“."
+  },
+  {
+    "id": "dilo_postavy_komisar_dedera",
+    "type": "flashcard",
+    "tags": ["dilo_postavy", "seznam_all", "seznam_vu"],
+    "importance": 8,
+    "question": "Jak se jmenuje komisař, který vede policejní eskortu a zatýká K. H. Borovského?",
+    "options": [],
+    "correctAnswer": "Dedera",
+    "explanation": "Policejní eskortu velí komisař Dedera, který ztělesňuje tupost a zbabělost systému."
+  },
+  {
+    "id": "dilo_obsah_vrchol_deje",
+    "type": "multiple_choice",
+    "tags": ["dilo_obsah", "seznam_all", "seznam_vu"],
+    "importance": 9,
+    "question": "K jaké události dojde během cesty v 8. zpěvu (vrchol děje)?",
+    "options": [
+      "Splaší se koně, policisté ze strachu vyskočí z vozu a Havlíček dojede do bezpečí sám.",
+      "Vůz je přepaden loupežníky a Havlíček zachrání komisaři Dederovi život.",
+      "Havlíček se pokusí o útěk, ale je chycen při brodění přes alpskou řeku.",
+      "Kočár uvízne ve sněhové vánici a Havlíček musí dojít do Brixenu pěšky."
+    ],
+    "correctAnswer": "Splaší se koně, policisté ze strachu vyskočí z vozu a Havlíček dojede do bezpečí sám.",
+    "explanation": "Při průjezdu Alpami se splaší koně. Zatímco udatní policisté s Dederou raději vyskočí ven, Havlíček převezme opratě a dojede do stanice."
+  },
+  {
+    "id": "dilo_obsah_prijezd_brixen",
+    "type": "flashcard",
+    "tags": ["dilo_obsah", "seznam_all", "seznam_vu"],
+    "importance": 4,
+    "question": "Ve kterém zpěvu končí dílo popisem příjezdu do Brixenu?",
+    "options": [],
+    "correctAnswer": "V 9. zpěvu",
+    "explanation": "Devátý a zároveň poslední zpěv popisuje ranní příjezd do města Brixen."
+  },
+  {
+    "id": "dilo_obsah_zaver",
+    "type": "multiple_choice",
+    "tags": ["dilo_obsah", "seznam_all", "seznam_vu"],
+    "importance": 7,
+    "question": "Jak lze charakterizovat závěr Tyrolských elegií?",
+    "options": [
+      "Je uzavřený, děj v knize vyznívá odlehčeně a výsměšně, přestože maskuje tragédii.",
+      "Je otevřený, čtenář se nedozví, zda Havlíček cestu do Alp vůbec přežil.",
+      "Je čistě tragický, Havlíček v závěru umírá přímo ve voze na následky mrazu.",
+      "Je absurdní, Havlíček se probudí v Brodě a zjistí, že šlo jen o zlý sen."
+    ],
+    "correctAnswer": "Je uzavřený, děj v knize vyznívá odlehčeně a výsměšně, přestože maskuje tragédii.",
+    "explanation": "Autor v závěru dojede do Brixenu (uzavřený děj). Atmosféra zůstává satirická a výsměšná, ačkoli šlo de facto o osobní i národní tragédii."
+  },
+  {
+    "id": "dilo_obsah_hlavni_myslenka",
+    "type": "multiple_choice",
+    "tags": ["dilo_obsah", "seznam_all", "seznam_vu"],
+    "importance": 9,
+    "question": "Co je hlavní myšlenkou a tématem díla?",
+    "options": [
+      "Kritika bachovského absolutismu, neschopnosti policie a pokrytectví vlády.",
+      "Oslava krás alpské přírody a tyrolského obyvatelstva.",
+      "Hledání smyslu lidského bytí prostřednictvím samoty v horské chatě.",
+      "Historický epos o budování železnice z Německého Brodu do Vídně."
+    ],
+    "correctAnswer": "Kritika bachovského absolutismu, neschopnosti policie a pokrytectví vlády.",
+    "explanation": "Dílo otevřeně kritizuje policejní stát v Rakousku a hloupost jeho představitelů."
+  },
+  {
+    "id": "dilo_titul_tyrolske",
+    "type": "flashcard",
+    "tags": ["dilo_titul", "seznam_all", "seznam_vu"],
+    "importance": 7,
+    "question": "Proč se dílo jmenuje „Tyrolské“ elegie?",
+    "options": [],
+    "correctAnswer": "Odkazuje na alpskou oblast v Rakousku, do které byl autor deportován.",
+    "explanation": "Město Brixen leží v Tyrolsku (historická alpská země)."
+  },
+  {
+    "id": "dilo_titul_elegie_ironie",
+    "type": "multiple_choice",
+    "tags": ["dilo_titul", "seznam_all", "seznam_vu"],
+    "importance": 9,
+    "question": "Proč použil Havlíček v názvu slovo „elegie“ (žalozpěv)?",
+    "options": [
+      "Použil ho ironicky, protože skladba není plačtivá, ale výsměšná a satirická.",
+      "Protože chtěl u čtenářů vyvolat hluboký pláč nad svým zkaženým zdravím.",
+      "Protože takto vláda označovala oficiální typy zatykačů.",
+      "Protože báseň původně napsal na melodii tehdejší smuteční písně."
+    ],
+    "correctAnswer": "Použil ho ironicky, protože skladba není plačtivá, ale výsměšná a satirická.",
+    "explanation": "Elegie normálně znamená smutný žalozpěv, ale Havlíček ho použil jako parodii, celá báseň je sarkastická."
+  },
+  {
+    "id": "dilo_postavy_psychologie_khb",
+    "type": "multiple_choice",
+    "tags": ["dilo_postavy", "seznam_all", "seznam_vu"],
+    "importance": 8,
+    "question": "Jaký je psychologický vývoj Havlíčka jako hlavní postavy během cesty?",
+    "options": [
+      "Odmítá podlehnout smutku a strachu, přemáhá osobní trpkost nezlomným optimismem a humorem.",
+      "Cestou postupně upadá do hluboké deprese a v závěru prosí strážné o milost.",
+      "Z počáteční agrese přechází k úplné lhostejnosti k osudu českého národa.",
+      "Začne věřit, že ministr Bach je ve skutečnosti hodný a cesta mu má pomoci."
+    ],
+    "correctAnswer": "Odmítá podlehnout smutku a strachu, přemáhá osobní trpkost nezlomným optimismem a humorem.",
+    "explanation": "Udržuje si hrdost a intelektuální převahu. Z poklidného občana se stane nebojácný kritik moci, který se policistům vysmívá."
+  },
+  {
+    "id": "dilo_postavy_mesicek",
+    "type": "flashcard",
+    "tags": ["dilo_postavy", "seznam_all", "seznam_vu"],
+    "importance": 7,
+    "question": "Které neživé bytosti ztělesněné na obloze Havlíček vypráví svůj příběh (jeho společník)?",
+    "options": [],
+    "correctAnswer": "Měsíčku na obloze",
+    "explanation": "Celá báseň je koncipována jako důvěrné vyprávění měsíčku svítícímu na cestu."
+  },
+  {
+    "id": "dilo_postavy_policie",
+    "type": "multiple_choice",
+    "tags": ["dilo_postavy", "seznam_all", "seznam_vu"],
+    "importance": 7,
+    "question": "Co symbolizuje rakouská policie (komisař Dedera a strážníci) v díle?",
+    "options": [
+      "Ztělesňuje zbabělost, podřízenost a tupost státního režimu.",
+      "Je symbolem ochrany, pořádku a neústupné statečnosti.",
+      "Představuje jedinou vzdělanou vrstvu tehdejší rakouské říše.",
+      "Funguje jako tajné protirakouské hnutí, které Havlíčkovi potají pomáhá."
+    ],
+    "correctAnswer": "Ztělesňuje zbabělost, podřízenost a tupost státního režimu.",
+    "explanation": "Policisté v díle vystupují jako hloupí poskoci, kteří při prvním nebezpečí (splašení koně) utečou."
+  },
+  {
+    "id": "jazyk_a_styl_vypravec",
+    "type": "flashcard",
+    "tags": ["jazyk_a_styl", "seznam_all", "seznam_vu"],
+    "importance": 9,
+    "question": "Jaký typ vypravěče autor využívá v Tyrolských elegiích?",
+    "options": [],
+    "correctAnswer": "Ich-forma",
+    "explanation": "Autor vypráví svůj vlastní příběh v první osobě („já“)."
+  },
+  {
+    "id": "jazyk_a_styl_jazykove_vrstvy",
+    "type": "multiple_choice",
+    "tags": ["jazyk_a_styl", "seznam_all", "seznam_vu"],
+    "importance": 8,
+    "question": "Z jakých vrstev jazyka je složena slovní zásoba básně?",
+    "options": [
+      "Autor užívá lidový jazyk, hovorové výrazy a germanismy.",
+      "Báseň je psána výhradně knižním stylem a patetickými výrazy z latiny.",
+      "Skladba využívá moderní vědecké termíny a publicistická klišé.",
+      "Autor používá výhradně brněnský hantec bez jakýchkoli cizích vlivů."
+    ],
+    "correctAnswer": "Autor užívá lidový jazyk, hovorové výrazy a germanismy.",
+    "explanation": "Snaží se přiblížit prostému čtenáři (např. *dobrýtro*, *špiritus*), proto zapojuje hovorovou češtinu a německá slova (germanismy)."
+  },
+  {
+    "id": "jazyk_a_styl_kompozice",
+    "type": "flashcard",
+    "tags": ["jazyk_a_styl", "seznam_all", "seznam_vu"],
+    "importance": 8,
+    "question": "Jaký se nazývá kompoziční postup, při kterém je děj podáván zpětně (autor vzpomíná)?",
+    "options": [],
+    "correctAnswer": "Retrospektivní kompozice (retrospektiva)",
+    "explanation": "Havlíček děj vypráví s odstupem času (již z Brixenu zpětně líčí svou cestu)."
+  },
+  {
+    "id": "jazyk_a_styl_zpevy",
+    "type": "flashcard",
+    "tags": ["jazyk_a_styl", "seznam_all", "seznam_vu"],
+    "importance": 4,
+    "question": "Do kolika zpěvů je báseň Tyrolské elegie formálně členěna?",
+    "options": [],
+    "correctAnswer": "Do 9 zpěvů",
+    "explanation": "Skladba je rozdělena na 9 zpěvů, každá sloka má 4 verše."
+  },
+  {
+    "id": "jazyk_a_styl_sloky",
+    "type": "flashcard",
+    "tags": ["jazyk_a_styl", "seznam_all", "seznam_vu"],
+    "importance": 3,
+    "question": "Z kolika veršů se skládá každá sloka v básni?",
+    "options": [],
+    "correctAnswer": "Ze 4 veršů",
+    "explanation": "Báseň má pravidelnou strukturu čtyřveršových slok."
+  },
+  {
+    "id": "jazyk_a_styl_rytmus_rym",
+    "type": "matching",
+    "tags": ["jazyk_a_styl", "seznam_all", "seznam_vu"],
+    "importance": 8,
+    "question": "Přiřaďte správně typ metra a rýmu použitého v básni:",
+    "options": [
+      "Básnický rytmus (metrum)",
+      "Typ rýmu"
+    ],
+    "correctAnswer": [
+      "Básnický rytmus (metrum) == Trochej",
+      "Typ rýmu == Přerývaný rým (ABCB)"
+    ],
+    "explanation": "Skladba využívá trochejské metrum a přerývaný rým, kdy se rýmují pouze sudé verše (schéma ABCB)."
+  },
+  {
+    "id": "jazyk_a_styl_ukazka_apostrofa",
+    "type": "multiple_choice",
+    "tags": ["jazyk_a_styl", "seznam_all", "seznam_vu"],
+    "importance": 7,
+    "question": "Co z literárního hlediska představuje verš: „Sviť, měsíčku, polehoučku“?",
+    "options": [
+      "Apostrofu (oslovení neživé věci)",
+      "Přirovnání (vlastnost přes slovo jak/jako)",
+      "Germanismus (přejaté cizí slovo)",
+      "Retrospektivu (návrat v čase)"
+    ],
+    "correctAnswer": "Apostrofu (oslovení neživé věci)",
+    "explanation": "Apostrofa je básnické oslovení nepřítomné osoby nebo neživé věci (zde měsíce)."
+  },
+  {
+    "id": "jazyk_a_styl_ukazka_prirovnani",
+    "type": "multiple_choice",
+    "tags": ["jazyk_a_styl", "seznam_all", "seznam_vu"],
+    "importance": 7,
+    "question": "Co z literárního hlediska představuje verš: „temná noc jak naše svatá církev“?",
+    "options": [
+      "Přirovnání se satirickým podtextem",
+      "Epigram",
+      "Apostrofu",
+      "Ich-formu"
+    ],
+    "correctAnswer": "Přirovnání se satirickým podtextem",
+    "explanation": "Přirovnání využívá slovo „jak/jako“ ke spojení dvou pojmů. Zde Havlíček satiricky srovnává temnotu noci s temnotou dobové církve."
+  },
+  {
+    "id": "rozbor_textu_razeni_udalosti",
+    "type": "sorting",
+    "tags": ["rozbor_textu", "seznam_all", "seznam_vu"],
+    "importance": 8,
+    "question": "Seřaďte události v Tyrolských elegiích tak, jak šly chronologicky po sobě:",
+    "options": [
+      "Příjezd strážníků s Dederou a zatykačem do Německého Brodu",
+      "Loučení K. H. Borovského s rodinou",
+      "Cesta eskorty a splašení koní během průjezdu Alpami",
+      "Příjezd vyhnance do tyrolského Brixenu"
+    ],
+    "correctAnswer": [
+      "Příjezd strážníků s Dederou a zatykačem do Německého Brodu",
+      "Loučení K. H. Borovského s rodinou",
+      "Cesta eskorty a splašení koní během průjezdu Alpami",
+      "Příjezd vyhnance do tyrolského Brixenu"
+    ],
+    "explanation": "Příběh postupuje od nočního probuzení u něj doma, přes cestu vozem až po konečný příjezd do místa internace."
+  },
+  {
+    "id": "text_analysis_funkcni_styly",
+    "type": "text_analysis",
+    "tags": ["rozbor_textu", "seznam_all", "seznam_vu"],
+    "importance": 5,
+    "question": "Jaký funkční styl bude mít text, který obsahuje strohý úřední zatykač nebo ministerský výnos (časté u státních dokumentů)?",
+    "options": [
+      "Administrativní",
+      "Prostěsdělovací",
+      "Odborný",
+      "Publicistický"
+    ],
+    "correctAnswer": "Administrativní",
+    "explanation": "Úřední listiny, předpisy a výnosy (včetně zatykače) využívají administrativní styl (strohý, bez emocí a metafor)."
+  },
+  {
+    "id": "text_analysis_slohove_postupy",
+    "type": "text_analysis",
+    "tags": ["rozbor_textu", "seznam_all", "seznam_vu"],
+    "importance": 5,
+    "question": "Pokud neumělecký text vysvětluje příčiny a následky v historii (např. proč vznikl Bachův absolutismus), jaký používá slohový postup?",
+    "options": [
+      "Výkladový",
+      "Informační",
+      "Popisný",
+      "Vyprávěcí"
+    ],
+    "correctAnswer": "Výkladový",
+    "explanation": "Výkladový postup vysvětluje logické vztahy, příčiny, následky a souvislosti daného problému."
+  },
+  {
+    "id": "definice_epika",
+    "type": "flashcard",
+    "tags": ["definice", "literarni_teorie", "seznam_all", "seznam_vu"],
+    "importance": 10,
+    "question": "Definujte termín 'Epika'.",
+    "options": [],
+    "correctAnswer": "Literární druh, který se zaměřuje na vyprávění příběhu s důrazem na děj.",
+    "explanation": "Epika je jeden ze základních literárních druhů vyznačující se dějovostí."
+  },
+  {
+    "id": "definice_poezie",
+    "type": "flashcard",
+    "tags": ["definice", "literarni_teorie", "seznam_all", "seznam_vu"],
+    "importance": 10,
+    "question": "Definujte termín 'Poezie'.",
+    "options": [],
+    "correctAnswer": "Literární forma psaná ve verších, rytmicky organizovaná.",
+    "explanation": "Poezie je text vázaný rytmem a rýmem, strukturovaný do veršů a strof."
+  },
+  {
+    "id": "definice_elegie",
+    "type": "flashcard",
+    "tags": ["definice", "literarni_teorie", "seznam_all", "seznam_vu"],
+    "importance": 10,
+    "question": "Definujte termín 'Elegie'.",
+    "options": [],
+    "correctAnswer": "Lyrická báseň, která má obvykle smutné ladění či melancholický nádech.",
+    "explanation": "Elegie neboli žalozpěv, u Havlíčka je tento termín využit ironicky."
+  },
+  {
+    "id": "definice_satira",
+    "type": "flashcard",
+    "tags": ["definice", "literarni_teorie", "seznam_all", "seznam_vu"],
+    "importance": 10,
+    "question": "Definujte termín 'Satira'.",
+    "options": [],
+    "correctAnswer": "Literární dílo zesměšňující negativní jevy, nedostatky nebo lidské chyby ve společnosti.",
+    "explanation": "Satira je hlavní zbraní Havlíčka i např. Gogola při kritice zkaženého systému."
+  },
+  {
+    "id": "definice_ironie",
+    "type": "flashcard",
+    "tags": ["definice", "literarni_teorie", "seznam_all", "seznam_vu"],
+    "importance": 10,
+    "question": "Definujte termín 'Ironie'.",
+    "options": [],
+    "correctAnswer": "Jemný výsměch; posměšné, vtipné vyjádření, většinou s použitím slov opačného významu.",
+    "explanation": "Ironie funguje na principu říkání opaku toho, co je ve skutečnosti myšleno."
+  },
+  {
+    "id": "definice_sarkasmus",
+    "type": "flashcard",
+    "tags": ["definice", "literarni_teorie", "seznam_all", "seznam_vu"],
+    "importance": 10,
+    "question": "Definujte termín 'Sarkasmus'.",
+    "options": [],
+    "correctAnswer": "Ironie vystupňovaná až do jízlivého, hrubého a nenávistného posměšku.",
+    "explanation": "Jde o nejtvrdší a nejpřímější způsob slovního útoku s posměšným záměrem."
+  },
+  {
+    "id": "definice_parodie",
+    "type": "flashcard",
+    "tags": ["definice", "literarni_teorie", "seznam_all", "seznam_vu"],
+    "importance": 10,
+    "question": "Definujte termín 'Parodie'.",
+    "options": [],
+    "correctAnswer": "Literární útvar, který zesměšňuje jiné dílo (nebo např. úřední dokument) tím, že zvýrazní či přežene jeho typické znaky.",
+    "explanation": "V Elegiích Havlíček takto paroduje ministerský přípis, když z něj dělá doktorský recept na „zdravé povětří“."
+  },
+  {
+    "id": "definice_ich_forma",
+    "type": "flashcard",
+    "tags": ["definice", "literarni_teorie", "seznam_all", "seznam_vu"],
+    "importance": 10,
+    "question": "Definujte termín 'Ich-forma'.",
+    "options": [],
+    "correctAnswer": "Vyprávění realizované v 1. osobě jednotného čísla (vypravěč vystupuje jako \"já\").",
+    "explanation": "V ich-formě vypravěč (zde Havlíček) líčí události, jichž je sám přímým účastníkem."
+  },
+  {
+    "id": "definice_apostrofa",
+    "type": "flashcard",
+    "tags": ["definice", "literarni_teorie", "seznam_all", "seznam_vu"],
+    "importance": 10,
+    "question": "Definujte termín 'Apostrofa'.",
+    "options": [],
+    "correctAnswer": "Básnické oslovení neživé věci nebo nepřítomné osoby.",
+    "explanation": "Typickým příkladem z knihy je „Sviť, měsíčku...“."
+  },
+  {
+    "id": "definice_prirovnani",
+    "type": "flashcard",
+    "tags": ["definice", "literarni_teorie", "seznam_all", "seznam_vu"],
+    "importance": 10,
+    "question": "Definujte termín 'Přirovnání'.",
+    "options": [],
+    "correctAnswer": "Pojmenování, kdy je vlastnost nějakého jevu vyjádřena pomocí příměru za pomoci slov *jak, jako*.",
+    "explanation": "Slouží ke zvýšení názornosti (např. noc *jako* církev)."
+  },
+  {
+    "id": "definice_retrospektiva",
+    "type": "flashcard",
+    "tags": ["definice", "literarni_teorie", "seznam_all", "seznam_vu"],
+    "importance": 10,
+    "question": "Definujte termín 'Retrospektiva'.",
+    "options": [],
+    "correctAnswer": "Kompoziční postup, při kterém je děj řazen zpětně (od následku k příčinám).",
+    "explanation": "Vypravěč je již na konci cesty a vzpomíná na její počátky a průběh."
+  },
+  {
+    "id": "definice_realismus",
+    "type": "flashcard",
+    "tags": ["definice", "literarni_teorie", "seznam_all", "seznam_vu"],
+    "importance": 10,
+    "question": "Definujte termín 'Realismus'.",
+    "options": [],
+    "correctAnswer": "Literární směr usilující o pravdivý a kritický obraz skutečnosti bez přikrášlování.",
+    "explanation": "Havlíček patří svými satirami k zakladatelům literárního realismu u nás."
+  },
+  {
+    "id": "definice_germanismus",
+    "type": "flashcard",
+    "tags": ["definice", "literarni_teorie", "seznam_all", "seznam_vu"],
+    "importance": 10,
+    "question": "Definujte termín 'Germanismus'.",
+    "options": [],
+    "correctAnswer": "Slovo nebo slovní spojení přejaté z němčiny.",
+    "explanation": "Havlíček taková slova záměrně vkládá do hovorové vrstvy jazyka."
+  },
+  {
+    "id": "definice_trochej",
+    "type": "flashcard",
+    "tags": ["definice", "literarni_teorie", "seznam_all", "seznam_vu"],
+    "importance": 10,
+    "question": "Definujte termín 'Trochej'.",
+    "options": [],
+    "correctAnswer": "Básnická stopa dvouslabičná, skládající se z první slabiky přízvučné a druhé nepřízvučné.",
+    "explanation": "Tvoří pravidelný rytmus mnoha českých básní (přízvučná - nepřízvučná)."
+  },
+  {
+    "id": "definice_preryvany_rym",
+    "type": "flashcard",
+    "tags": ["definice", "literarni_teorie", "seznam_all", "seznam_vu"],
+    "importance": 10,
+    "question": "Definujte termín 'Přerývaný rým'.",
+    "options": [],
+    "correctAnswer": "Způsob rýmování, při kterém se rýmují pouze sudé verše (schéma ABCB).",
+    "explanation": "Přerývaný rým se typicky projevuje u čtyřveršové sloky jako v Tyrolských elegiích."
+  }
+]

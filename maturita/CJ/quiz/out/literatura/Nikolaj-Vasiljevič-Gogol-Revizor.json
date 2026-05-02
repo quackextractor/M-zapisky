@@ -1,0 +1,527 @@
+[
+  {
+    "id": "autor_zivot_gogol_narozeni",
+    "type": "multiple_choice",
+    "tags": ["autor_zivot", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "importance": 4,
+    "question": "Kde se narodil Nikolaj Vasiljevič Gogol?",
+    "options": [
+      "Na Ukrajině do šlechtické rodiny.",
+      "V Petrohradě do úřednické rodiny.",
+      "V Anglii do chudých poměrů.",
+      "V Římě, kde prožil celé mládí."
+    ],
+    "correctAnswer": "Na Ukrajině do šlechtické rodiny.",
+    "explanation": "Gogol se narodil do šlechtické rodiny na Ukrajině a až později odešel do Petrohradu."
+  },
+  {
+    "id": "autor_zivot_gogol_smrt_rukopis",
+    "type": "multiple_choice",
+    "tags": ["autor_zivot", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "importance": 6,
+    "question": "K jakému radikálnímu činu dohnaly Gogola jeho těžké deprese a psychické problémy těsně před smrtí?",
+    "options": [
+      "Spálil některé své rukopisy, včetně druhého dílu Mrtvých duší.",
+      "Spáchal sebevraždu skokem z mostu v Petrohradě.",
+      "Rozdal veškerý svůj majetek chudým a odešel žít do Jeruzaléma.",
+      "Odmítl vydat hru Revizor a zničil všechny její kopie."
+    ],
+    "correctAnswer": "Spálil některé své rukopisy, včetně druhého dílu Mrtvých duší.",
+    "explanation": "Gogol trpěl silnými depresemi, které ho vedly k tomu, že před smrtí spálil rukopisy, mimo jiné druhý díl svého vrcholného románu Mrtvé duše."
+  },
+  {
+    "id": "literarni_teorie_gogol_obdobi",
+    "type": "multiple_choice",
+    "tags": ["literarni_teorie", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "importance": 9,
+    "question": "Do jakého literárního směru se primárně řadí vrcholná tvorba N. V. Gogola, i když dříve využíval i jiné prvky?",
+    "options": [
+      "K průkopníkům realismu (či kritického realismu).",
+      "K vrcholnému romantismu s temnými prvky.",
+      "K novoromantismu a symbolismu.",
+      "K naturalismu a existencialismu."
+    ],
+    "correctAnswer": "K průkopníkům realismu (či kritického realismu).",
+    "explanation": "Literárně vyšel z romantismu, ale jeho vrcholná tvorba spadá k průkopníkům realismu, obohaceného o absurditu a grotesku."
+  },
+  {
+    "id": "autor_zivot_gogol_kontext_doby",
+    "type": "multiple_choice",
+    "tags": ["autor_zivot", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "importance": 7,
+    "question": "Jaká byla politická a společenská situace v Rusku v době, kdy Gogol tvořil?",
+    "options": [
+      "Vládl car Mikuláš I., fungovala tuhá cenzura a těžkopádná, zkorumpovaná byrokracie (tzv. bachovský absolutismus).",
+      "Probíhala demokratizace společnosti, uvolňování cenzury a svoboda slova.",
+      "Vládla uvolněná atmosféra poválečného období, podobně jako v dílech E. M. Remarqua.",
+      "Země byla rozdělena občanskou válkou a panovala absolutní anarchie bez úředníků."
+    ],
+    "correctAnswer": "Vládl car Mikuláš I., fungovala tuhá cenzura a těžkopádná, zkorumpovaná byrokracie (tzv. bachovský absolutismus).",
+    "explanation": "Gogol psal za vlády cara Mikuláše I. během tuhé cenzury a extrémně zkorumpované úřednické byrokracie."
+  },
+  {
+    "id": "autor_zivot_gogol_inspirace_puskin",
+    "type": "flashcard",
+    "tags": ["autor_zivot", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "importance": 5,
+    "question": "Který slavný ruský básník a Gogolův přítel mu údajně vnukl námět na hru o falešném revizorovi?",
+    "options": [],
+    "correctAnswer": "A. S. Puškin",
+    "explanation": "Námět na hru mu podle studijního materiálu vnukl A. S. Puškin."
+  },
+  {
+    "id": "dilo_obsah_gogol_mrtve_duse",
+    "type": "multiple_choice",
+    "tags": ["dilo_obsah", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "importance": 6,
+    "question": "O čem pojednává Gogolův román Mrtvé duše?",
+    "options": [
+      "Hlavní hrdina kupuje jména zemřelých nevolníků pro osobní obohacení.",
+      "Starý mládenec utíká z plánované svatby kvůli strachu ze závazků.",
+      "Skupina venkovanů prožívá romantické příběhy s ukrajinským folklórem.",
+      "Obyčejný člověk se jednoho rána probudí proměněn v obřího brouka."
+    ],
+    "correctAnswer": "Hlavní hrdina kupuje jména zemřelých nevolníků pro osobní obohacení.",
+    "explanation": "Mrtvé duše je román, kde hlavní hrdina pro svůj zisk kupuje „mrtvé duše“ (jména mrtvých nevolníků)."
+  },
+  {
+    "id": "literarni_teorie_srovnani_dickens",
+    "type": "multiple_choice",
+    "tags": ["literarni_teorie", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "importance": 8,
+    "question": "V čem spočívá hlavní rozdíl mezi sociální kritikou Gogola (Revizor) a Charlese Dickense (Oliver Twist), přestože oba patří k realismu 19. století?",
+    "options": [
+      "Dickens využívá prvků tklivého sentimentu i temného dramatu, zatímco Gogol se spoléhá výhradně na absurdní grotesku a satiru.",
+      "Gogol zasazuje děj do sci-fi dystopie, zatímco Dickens vychází z historických faktů reálné Anglie.",
+      "Dickens kritizuje byrokracii pomocí nespolehlivého vypravěče v ich-formě, Gogol používá veršovanou komedii.",
+      "Dickens řeší osobní autobiografické křivdy, zatímco Gogol se omezuje na překlady cizích dramat."
+    ],
+    "correctAnswer": "Dickens využívá prvků tklivého sentimentu i temného dramatu, zatímco Gogol se spoléhá výhradně na absurdní grotesku a satiru.",
+    "explanation": "Oba kritizují prohnilost institucí, ale Dickens tak činí s tklivým sentimentem, kdežto Gogol čistě přes satiru a grotesku."
+  },
+  {
+    "id": "literarni_teorie_srovnani_dyk",
+    "type": "multiple_choice",
+    "tags": ["literarni_teorie", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "importance": 8,
+    "question": "Jak se liší Revizor od Krysaře (Viktor Dyk), ačkoliv obě díla kritizují chamtivé a vypočítavé radní?",
+    "options": [
+      "Krysař je temný novoromantický příběh vrcholící hromadnou smrtí, zatímco Revizor zůstává komedií bez tragického konce.",
+      "Revizor se odehrává v daleké budoucnosti, zatímco Krysař je historický epos z 19. století.",
+      "Krysař kritizuje radní pomocí ironické nadsázky a končí smírem, Revizor je zakončen popravou hejtmana.",
+      "Revizor využívá zvířecí alegorii, zatímco Krysař je čistě civilní, bez jakýchkoliv nadpřirozených prvků."
+    ],
+    "correctAnswer": "Krysař je temný novoromantický příběh vrcholící hromadnou smrtí, zatímco Revizor zůstává komedií bez tragického konce.",
+    "explanation": "Krysař je novoromantická tragédie, kdežto Revizor je komedie nedorozumění, kde nedochází k úmrtím."
+  },
+  {
+    "id": "literarni_teorie_srovnani_havlicek",
+    "type": "multiple_choice",
+    "tags": ["literarni_teorie", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "importance": 8,
+    "question": "Oba autoři, N. V. Gogol i Karel Havlíček Borovský, využívají k ostré kritice státní správy satiru. Jaký je však rozdíl v jejich autorském postoji?",
+    "options": [
+      "Havlíček kritizuje z osobní, autobiografické pozice stíhaného vyhnance, Gogol si udržuje autorský odstup od smyšlené zápletky.",
+      "Gogol psal svá díla ve vyhnanství, zatímco Havlíček se těšil přízni císařského dvora.",
+      "Havlíček využíval výhradně čistou prózu, zatímco Gogol psal výlučně veršovaná dramata.",
+      "Gogol cílí na policii v Tyrolsku, zatímco Havlíček kritizuje primárně ruskou šlechtu."
+    ],
+    "correctAnswer": "Havlíček kritizuje z osobní, autobiografické pozice stíhaného vyhnance, Gogol si udržuje autorský odstup od smyšlené zápletky.",
+    "explanation": "K. H. Borovský (Tyrolské elegie) kritizuje nespravedlnost z vlastní zkušenosti, zatímco Gogolův Revizor je fikce s odstupem."
+  },
+  {
+    "id": "literarni_teorie_revizor_druh",
+    "type": "flashcard",
+    "tags": ["literarni_teorie", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "importance": 9,
+    "question": "K jakému literárnímu druhu patří dílo Revizor?",
+    "options": [],
+    "correctAnswer": "Drama",
+    "explanation": "Text výslovně uvádí, že literární druh Revizora je drama."
+  },
+  {
+    "id": "literarni_teorie_revizor_zanr",
+    "type": "multiple_choice",
+    "tags": ["literarni_teorie", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "importance": 9,
+    "question": "Jaký je literární žánr Gogolova Revizora?",
+    "options": [
+      "Satirická komedie",
+      "Společenský román",
+      "Historická tragédie",
+      "Balada"
+    ],
+    "correctAnswer": "Satirická komedie",
+    "explanation": "Žánr je satirická komedie, protože se zaměřuje na výsměch nešvarům společnosti bez tragického konce."
+  },
+  {
+    "id": "dilo_obsah_casoprostor",
+    "type": "multiple_choice",
+    "tags": ["dilo_obsah", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "importance": 9,
+    "question": "Jaký je časoprostor, ve kterém se odehrává děj Revizora?",
+    "options": [
+      "Nejmenované provinční městečko v Rusku, počátek 30. let 19. století, děj trvá 24 hodin.",
+      "Petrohrad, konec 18. století, děj se táhne přes celý jeden rok.",
+      "Moskva, 2. polovina 19. století, události probíhají během jednoho týdne.",
+      "Londýnský chudobinec, 1. polovina 19. století, děj sleduje dětství hlavního hrdiny."
+    ],
+    "correctAnswer": "Nejmenované provinční městečko v Rusku, počátek 30. let 19. století, děj trvá 24 hodin.",
+    "explanation": "Děj se odehrává ve fiktivním malém ruském městečku během pouhých 24 hodin v 1. polovině 19. století."
+  },
+  {
+    "id": "dilo_obsah_serazeni_deje",
+    "type": "sorting",
+    "tags": ["dilo_obsah", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "importance": 9,
+    "question": "Seřaďte události v Revizorovi tak, jak šly chronologicky po sobě:",
+    "options": [
+      "Hejtman a úředníci zachytí zprávu o blížícím se revizorovi.",
+      "Vystrašené představitelstvo uvěří, že zadlužený Chlestakov je tajný kontrolor.",
+      "Chlestakov si užívá úplatky a pod záminkou město opustí.",
+      "Poštmistr zadrží dopis, ve kterém se Chlestakov všem vysmívá.",
+      "Přijíždí posel a oznamuje příchod skutečného revizora."
+    ],
+    "correctAnswer": [
+      "Hejtman a úředníci zachytí zprávu o blížícím se revizorovi.",
+      "Vystrašené představitelstvo uvěří, že zadlužený Chlestakov je tajný kontrolor.",
+      "Chlestakov si užívá úplatky a pod záminkou město opustí.",
+      "Poštmistr zadrží dopis, ve kterém se Chlestakov všem vysmívá.",
+      "Přijíždí posel a oznamuje příchod skutečného revizora."
+    ],
+    "explanation": "Zápletka začíná obavou z příjezdu, pokračuje záměnou, úplatky a Chlestakovovým útěkem. Následuje odhalení lži skrze dopis a úplný konec tvoří oznámení o příjezdu pravého revizora."
+  },
+  {
+    "id": "dilo_obsah_zaver_hry",
+    "type": "multiple_choice",
+    "tags": ["dilo_obsah", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "importance": 9,
+    "question": "Jakým způsobem končí hra Revizor a co to znamená pro úředníky?",
+    "options": [
+      "Závěr je otevřený (nevíme, jaký trest je po příjezdu skutečného revizora čeká) a hra končí tzv. němým výjevem.",
+      "Závěr je uzavřený a tragický, všichni úředníci i hejtman páchají hromadnou sebevraždu.",
+      "Hra končí tím, že Chlestakov je odhalen, zatčen a popraven na náměstí.",
+      "Závěr končí happy endem, úředníci se napraví, omluví a založí nové, spravedlivé město."
+    ],
+    "correctAnswer": "Závěr je otevřený (nevíme, jaký trest je po příjezdu skutečného revizora čeká) a hra končí tzv. němým výjevem.",
+    "explanation": "Závěr u úředníků zůstává otevřený pro čtenářovu fantazii a jevištně graduje pověstným „němým výjevem“."
+  },
+  {
+    "id": "dilo_titul_vysvetleni",
+    "type": "flashcard",
+    "tags": ["dilo_titul", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "importance": 8,
+    "question": "Kdo nebo co je to podle studijního materiálu 'revizor', podle kterého je dílo pojmenováno?",
+    "options": [],
+    "correctAnswer": "Státní úředník z hlavního města provádějící kontrolu.",
+    "explanation": "Název odkazuje na státního úředníka provádějícího kontrolu, z něhož mají místní zkorumpovaní představitelé panický strach."
+  },
+  {
+    "id": "dilo_postavy_chlestakov",
+    "type": "multiple_choice",
+    "tags": ["dilo_postavy", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "importance": 9,
+    "question": "Jak lze nejlépe charakterizovat hlavní postavu, Ivana Alexandroviče Chlestakova?",
+    "options": [
+      "Mladý, líný a zadlužený petrohradský úředníček, jehož lži jsou jen spontánní reakcí na absurdní situaci, nikoliv promyšlený plán.",
+      "Geniální a chladnokrevný podvodník, který si od začátku svůj příjezd do městečka pečlivě naplánoval.",
+      "Tajný carský špion, který předstírá hloupost, aby odhalil korupci místního hejtmana.",
+      "Chudý, ale poctivý romantický hrdina, který se snaží zachránit hejtmanovu dceru před domluveným sňatkem."
+    ],
+    "correctAnswer": "Mladý, líný a zadlužený petrohradský úředníček, jehož lži jsou jen spontánní reakcí na absurdní situaci, nikoliv promyšlený plán.",
+    "explanation": "Chlestakov není génius. Je to povrchní úředníček bez peněz a zpočátku má sám strach z vězení pro dlužníky. Jeho drzost roste až jako reakce na chování ostatních."
+  },
+  {
+    "id": "dilo_postavy_hejtman_vyvoj",
+    "type": "multiple_choice",
+    "tags": ["dilo_postavy", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "importance": 8,
+    "question": "Jaký je psychologický vývoj Hejtmana v průběhu hry?",
+    "options": [
+      "Z arogantního despoti propadá panice z revize, poté mu naroste ego kvůli domnělému úspěchu a nakonec zažije strmý pád po přečtení dopisu.",
+      "Z ustrašeného chudáka se postupně stává sebevědomý vůdce, který město nakonec úspěšně vyvede z byrokratické krize.",
+      "Během celé hry zůstává naprosto klidný, protože od začátku ví, že Chlestakov je podvodník a jen s ním hraje hru.",
+      "Jeho postava se vůbec nevyvíjí, od prvního do pátého dějství je jen naivním a dobrosrdečným úředníkem."
+    ],
+    "correctAnswer": "Z arogantního despoti propadá panice z revize, poté mu naroste ego kvůli domnělému úspěchu a nakonec zažije strmý pád po přečtení dopisu.",
+    "explanation": "Hejtmanův vývoj kopíruje absurditu situace: od despocie, přes ustrašenou paniku a obludné egoistické plánování až po finální kruté probuzení do reality."
+  },
+  {
+    "id": "dilo_postavy_vedlejsi_osip",
+    "type": "flashcard",
+    "tags": ["dilo_postavy", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "importance": 7,
+    "question": "Jak se jmenuje Chlestakovův sluha, který je oproti svému pánovi mazanější, zachová chladnou hlavu a donutí ho včas odjet?",
+    "options": [],
+    "correctAnswer": "Osip",
+    "explanation": "Osip je sluhou Chlestakova a představuje racionální prvek, díky kterému podvodník stihne utéct před odhalením."
+  },
+  {
+    "id": "dilo_postavy_vedlejsi_urednici",
+    "type": "matching",
+    "tags": ["dilo_postavy", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "importance": 7,
+    "question": "Spojte vedlejší postavy městských úředníků s jejich typickým vládním prohřeškem, jak jej popisuje text:",
+    "options": [
+      "Soudce",
+      "Poštmistr",
+      "Hejtman"
+    ],
+    "correctAnswer": [
+      "Soudce == Bere úplatky",
+      "Poštmistr == Z nudy čte cizí dopisy",
+      "Hejtman == Je zkorumpovaný despota"
+    ],
+    "explanation": "Dílo karikuje úředníky. Poštmistr je známý tím, že si čte cizí dopisy, soudce přijímá úplatky a hejtman vládne despoticky."
+  },
+  {
+    "id": "jazyk_a_styl_vypravec",
+    "type": "multiple_choice",
+    "tags": ["jazyk_a_styl", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "importance": 8,
+    "question": "Jaký typ vypravěče se objevuje v dramatu Revizor?",
+    "options": [
+      "Žádný klasický vypravěč zde nevystupuje, děj se posouvá prostřednictvím dialogů postav a scénických poznámek.",
+      "Vševědoucí vypravěč (er-forma), který detailně popisuje psychologii i minulost všech úředníků.",
+      "Ich-forma, děj je vyprávěn retrospektivně z pohledu samotného Chlestakova po jeho útěku.",
+      "Dílo využívá nespolehlivého vypravěče v podobě Chlestakovova sluhy Osipa."
+    ],
+    "correctAnswer": "Žádný klasický vypravěč zde nevystupuje, děj se posouvá prostřednictvím dialogů postav a scénických poznámek.",
+    "explanation": "Jelikož se jedná o klasické drama, klasický vyprávěcí hlas chybí a nahrazují ho promluvy postav a scénické poznámky autora."
+  },
+  {
+    "id": "jazyk_a_styl_vrstvy",
+    "type": "multiple_choice",
+    "tags": ["jazyk_a_styl", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "importance": 7,
+    "question": "Jaký je primární důvod, proč autor v textu mísí spisovnou češtinu (v překladu) s hovorovými a zlidovělými výrazy?",
+    "options": [
+      "K docílení jazykové komiky a autentičnosti, pramenící z kontrastu venkovského projevu s pokusy o aristokratickou mluvu.",
+      "Protože Gogol neovládal tehdejší spisovný jazyk a neuměl postavy vyjadřovat jinak než zlidověle.",
+      "Jde o typický znak naturalismu, kdy všechny postavy musí mluvit výhradně argotem a slangem.",
+      "Má to v divácích vyvolat temný, tragický pocit z úpadku ruského jazyka během absolutismu."
+    ],
+    "correctAnswer": "K docílení jazykové komiky a autentičnosti, pramenící z kontrastu venkovského projevu s pokusy o aristokratickou mluvu.",
+    "explanation": "Záměrem mísení vrstev je jazyková komika a ukázka toho, jak se buranští venkovští úředníci marně a vtipně snaží napodobit řeč vysoké společnosti."
+  },
+  {
+    "id": "jazyk_a_styl_kompozice",
+    "type": "flashcard",
+    "tags": ["jazyk_a_styl", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "importance": 6,
+    "question": "Jak se nazývá typ kompozice děje, který Gogol v Revizorovi používá a který probíhá lineárně během jednoho dne (do 5 dějství)?",
+    "options": [],
+    "correctAnswer": "Chronologická kompozice.",
+    "explanation": "Děj je přísně chronologický, události jdou za sebou."
+  },
+  {
+    "id": "rozbor_textu_styl",
+    "type": "text_analysis",
+    "tags": ["rozbor_textu", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "importance": 5,
+    "question": "Představte si, že doplňkovým neuměleckým textem u maturity je úřední oběžník ministerstva nařizující provedení daňové revize. O jaký funkční styl se s největší pravděpodobností jedná?",
+    "options": [
+      "Administrativní styl",
+      "Publicistický styl",
+      "Odborný styl",
+      "Umělecký styl"
+    ],
+    "correctAnswer": "Administrativní styl",
+    "explanation": "Úřední oběžníky, formuláře a vyhlášky spadají do administrativního funkčního stylu, který je přesný a heslovitý."
+  },
+  {
+    "id": "rozbor_textu_postup",
+    "type": "text_analysis",
+    "tags": ["rozbor_textu", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "importance": 5,
+    "question": "Pokud by doplňkový text tvořil novinový komentář rozebírající příčiny a celospolečenské dopady korupce, jaký slohový postup by v textu dominoval?",
+    "options": [
+      "Úvahový postup",
+      "Informační postup",
+      "Popisný postup",
+      "Vyprávěcí postup"
+    ],
+    "correctAnswer": "Úvahový postup",
+    "explanation": "Komentář hledající příčiny a následky (dopady korupce) a přinášející autorovo zamyšlení je typický pro úvahový slohový postup."
+  },
+  {
+    "id": "literarni_teorie_def_drama",
+    "type": "flashcard",
+    "tags": ["literarni_teorie", "definice", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "importance": 10,
+    "question": "Definujte pojem: Drama",
+    "options": [],
+    "correctAnswer": "Literární druh, jehož děj se odvíjí prostřednictvím promluv (dialogů/monologů) postav a je primárně určen pro jevištní provedení.",
+    "explanation": "Dle studijní šablony je to text s dějem založeným na promluvách, určený na jeviště."
+  },
+  {
+    "id": "literarni_teorie_def_proza",
+    "type": "flashcard",
+    "tags": ["literarni_teorie", "definice", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "importance": 10,
+    "question": "Definujte pojem: Próza",
+    "options": [],
+    "correctAnswer": "Literární forma psaná volnou řečí, nečleněná do veršů a rýmů (využívá běžné věty a odstavce).",
+    "explanation": "Dle studijní šablony jde o formu psanou volnou řečí, bez veršů a rýmů."
+  },
+  {
+    "id": "literarni_teorie_def_komedie",
+    "type": "flashcard",
+    "tags": ["literarni_teorie", "definice", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "importance": 10,
+    "question": "Definujte pojem: Komedie",
+    "options": [],
+    "correctAnswer": "Dramatický žánr s humorným prvkem. Klade důraz na veselé vyznění situace a nekončí fatální smrtí hlavních hrdinů.",
+    "explanation": "Dle studijní šablony se jedná o humorný žánr bez fatálních úmrtí na konci."
+  },
+  {
+    "id": "literarni_teorie_def_satira",
+    "type": "flashcard",
+    "tags": ["literarni_teorie", "definice", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "importance": 10,
+    "question": "Definujte pojem: Satira",
+    "options": [],
+    "correctAnswer": "Umělecká forma využívající humoru, ironie a výsměchu k zesměšnění a poukázání na společenské nedostatky (korupce, byrokracie).",
+    "explanation": "Dle studijní šablony slouží satira k poukázání na nedostatky přes výsměch."
+  },
+  {
+    "id": "literarni_teorie_def_realismus",
+    "type": "flashcard",
+    "tags": ["literarni_teorie", "definice", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "importance": 10,
+    "question": "Definujte pojem: Realismus",
+    "options": [],
+    "correctAnswer": "Literární směr usilující o věrné, objektivní zobrazení skutečné podoby společnosti bez příkras a iluzí.",
+    "explanation": "Dle studijní šablony realismus zobrazuje svět objektivně, bez iluzí."
+  },
+  {
+    "id": "literarni_teorie_def_romantismus",
+    "type": "flashcard",
+    "tags": ["literarni_teorie", "definice", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "importance": 10,
+    "question": "Definujte pojem: Romantismus",
+    "options": [],
+    "correctAnswer": "Umělecký směr klouzající po citech, fantazii, individualismu a obdivu k tajemnu či nadpřirozenu.",
+    "explanation": "Dle studijní šablony jde o směr založený na citech, fantazii a tajemnu, z něhož Gogol vyšel."
+  },
+  {
+    "id": "literarni_teorie_def_groteska",
+    "type": "flashcard",
+    "tags": ["literarni_teorie", "definice", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "importance": 10,
+    "question": "Definujte pojem: Groteska",
+    "options": [],
+    "correctAnswer": "Postup, který záměrně zveličuje a deformuje skutečnost až na hranici bizarnosti k zesílení absurdní komiky.",
+    "explanation": "Dle studijní šablony groteska záměrně deformuje realitu do bizarnosti."
+  },
+  {
+    "id": "literarni_teorie_def_scenicka_poznamka",
+    "type": "flashcard",
+    "tags": ["literarni_teorie", "definice", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "importance": 10,
+    "question": "Definujte pojem: Scénická poznámka",
+    "options": [],
+    "correctAnswer": "Drobný text autora v dramatu, který se nečte nahlas, ale instruuje herce (gesta, emoce) a režiséry (podoba scény).",
+    "explanation": "Dle studijní šablony jsou to instrukce pro herce/režiséry v textu dramatu."
+  },
+  {
+    "id": "literarni_teorie_def_chronologicka_kompozice",
+    "type": "flashcard",
+    "tags": ["literarni_teorie", "definice", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "importance": 10,
+    "question": "Definujte pojem: Chronologická kompozice",
+    "options": [],
+    "correctAnswer": "Struktura děje, kde události plynou lineárně po sobě přesně tak, jak se staly v čase, bez návratů do minulosti.",
+    "explanation": "Dle studijní šablony události v tomto typu kompozice plynou lineárně bez návratů."
+  },
+  {
+    "id": "literarni_teorie_def_ironie",
+    "type": "flashcard",
+    "tags": ["literarni_teorie", "definice", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "importance": 10,
+    "question": "Definujte pojem: Ironie",
+    "options": [],
+    "correctAnswer": "Záměrné použití slov v opačném významu, než je myšleno, pro zdůraznění absurdity nebo neupřímnosti situace.",
+    "explanation": "Dle studijní šablony to znamená použití slov v opačném významu pro ukázání absurdity."
+  },
+  {
+    "id": "literarni_teorie_def_metafora",
+    "type": "flashcard",
+    "tags": ["literarni_teorie", "definice", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "importance": 10,
+    "question": "Definujte pojem: Metafora",
+    "options": [],
+    "correctAnswer": "Obrazné pojmenování založené na vnější podobnosti předmětů nebo jevů (např. 'rána do čepice').",
+    "explanation": "Dle studijní šablony jde o přenesení významu na základě vnější podobnosti."
+  },
+  {
+    "id": "literarni_teorie_def_personifikace",
+    "type": "flashcard",
+    "tags": ["literarni_teorie", "definice", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "importance": 10,
+    "question": "Definujte pojem: Personifikace",
+    "options": [],
+    "correctAnswer": "Zosobnění; přenášení lidských vlastností a činností na zvířata nebo neživé věci.",
+    "explanation": "Dle studijní šablony je to zosobnění, čili přenos lidských vlastností."
+  },
+  {
+    "id": "literarni_teorie_def_hyperbola",
+    "type": "flashcard",
+    "tags": ["literarni_teorie", "definice", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "importance": 10,
+    "question": "Definujte pojem: Hyperbola",
+    "options": [],
+    "correctAnswer": "Nadsázka; záměrné zveličení určitého rysu, jevu nebo události pro dosažení silnějšího emocionálního účinku.",
+    "explanation": "Dle studijní šablony je to záměrná nadsázka či zveličení."
+  },
+  {
+    "id": "literarni_teorie_def_elipsa",
+    "type": "flashcard",
+    "tags": ["literarni_teorie", "definice", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "importance": 10,
+    "question": "Definujte pojem: Elipsa",
+    "options": [],
+    "correctAnswer": "Výpustka; vynechání části věty, která je z kontextu zřejmá (často využívaná v rychlém, panickém dialogu).",
+    "explanation": "Dle studijní šablony jde o vynechání zřejmé části věty."
+  },
+  {
+    "id": "rozbor_textu_def_publicisticky",
+    "type": "flashcard",
+    "tags": ["rozbor_textu", "definice", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "importance": 10,
+    "question": "Definujte pojem z neuměleckého textu: Publicistický styl",
+    "options": [],
+    "correctAnswer": "Funkční styl sdělovacích prostředků (noviny, zprávy), jehož cílem je rychle a efektivně informovat nebo přesvědčit veřejnost.",
+    "explanation": "Dle studijní šablony je to styl určený pro zprávy a noviny k informování/přesvědčování."
+  },
+  {
+    "id": "rozbor_textu_def_administrativni",
+    "type": "flashcard",
+    "tags": ["rozbor_textu", "definice", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "importance": 10,
+    "question": "Definujte pojem z neuměleckého textu: Administrativní styl",
+    "options": [],
+    "correctAnswer": "Funkční styl úředních dokumentů, vyhlášek a formulářů; vyznačuje se přesností, heslovitostí a ustálenými frázemi.",
+    "explanation": "Dle studijní šablony se vyznačuje přesností a heslovitostí u úředních textů."
+  },
+  {
+    "id": "rozbor_textu_def_informacni",
+    "type": "flashcard",
+    "tags": ["rozbor_textu", "definice", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "importance": 10,
+    "question": "Definujte pojem z neuměleckého textu: Informační postup",
+    "options": [],
+    "correctAnswer": "Slohový postup zaměřený na prosté a objektivní předání faktů (kdo, kdy, kde, co).",
+    "explanation": "Dle studijní šablony předává tento postup objektivně fakta."
+  },
+  {
+    "id": "rozbor_textu_def_uvahovy",
+    "type": "flashcard",
+    "tags": ["rozbor_textu", "definice", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "importance": 10,
+    "question": "Definujte pojem z neuměleckého textu: Úvahový postup",
+    "options": [],
+    "correctAnswer": "Slohový postup vyjadřující autorovo zamyšlení, hodnocení, hledání příčin a následků daného jevu.",
+    "explanation": "Dle studijní šablony v něm autor hodnotí a hledá příčiny/následky."
+  }
+]

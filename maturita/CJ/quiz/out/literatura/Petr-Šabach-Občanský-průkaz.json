@@ -1,0 +1,553 @@
+[
+  {
+    "id": "literarni_teorie_epika",
+    "type": "flashcard",
+    "tags": ["literarni_teorie", "definice", "seznam_all", "seznam_marian", "seznam_vu"],
+    "importance": 10,
+    "question": "Definujte pojem: Epika.",
+    "options": [],
+    "correctAnswer": "Literární druh postavený na vyprávění děje s konkrétní zápletkou a časovým posunem.",
+    "explanation": "Tato přesná definice vychází z části 'Vysvětlení termínů' ve studijním průvodci."
+  },
+  {
+    "id": "literarni_teorie_proza",
+    "type": "flashcard",
+    "tags": ["literarni_teorie", "definice", "seznam_all", "seznam_marian", "seznam_vu"],
+    "importance": 10,
+    "question": "Definujte pojem: Próza.",
+    "options": [],
+    "correctAnswer": "Souvislá forma textu psaná v přirozených odstavcích a větách, není organizována do veršů.",
+    "explanation": "Tato přesná definice vychází z části 'Vysvětlení termínů' ve studijním průvodci."
+  },
+  {
+    "id": "literarni_teorie_autobiograficka_novela",
+    "type": "flashcard",
+    "tags": ["literarni_teorie", "definice", "seznam_all", "seznam_marian", "seznam_vu"],
+    "importance": 10,
+    "question": "Definujte pojem: Autobiografická novela.",
+    "options": [],
+    "correctAnswer": "Středně rozsáhlý epický žánr, do kterého autor silně promítá zážitky, osoby a události z vlastního reálného života.",
+    "explanation": "Tato přesná definice vychází z části 'Vysvětlení termínů' ve studijním průvodci."
+  },
+  {
+    "id": "literarni_teorie_ich_forma",
+    "type": "flashcard",
+    "tags": ["literarni_teorie", "definice", "seznam_all", "seznam_marian", "seznam_vu"],
+    "importance": 10,
+    "question": "Definujte pojem: Ich-forma.",
+    "options": [],
+    "correctAnswer": "Vyprávění z perspektivy 1. osoby jednotného čísla, kdy čtenář vidí svět výhradně očima samotné postavy.",
+    "explanation": "Tato přesná definice vychází z části 'Vysvětlení termínů' ve studijním průvodci."
+  },
+  {
+    "id": "literarni_teorie_hyperbola",
+    "type": "flashcard",
+    "tags": ["literarni_teorie", "definice", "seznam_all", "seznam_marian", "seznam_vu"],
+    "importance": 10,
+    "question": "Definujte pojem: Hyperbola.",
+    "options": [],
+    "correctAnswer": "Nadsázka – zveličení určitého rysu, události či faktu pro dosažení silnějšího emocionálního nebo komického efektu.",
+    "explanation": "Tato přesná definice vychází z části 'Vysvětlení termínů' ve studijním průvodci."
+  },
+  {
+    "id": "literarni_teorie_slang",
+    "type": "flashcard",
+    "tags": ["literarni_teorie", "definice", "seznam_all", "seznam_marian", "seznam_vu"],
+    "importance": 10,
+    "question": "Definujte pojem: Slang.",
+    "options": [],
+    "correctAnswer": "Nespisovná vrstva jazyka typická pro určitou zájmovou či věkovou skupinu (zde mládež a studenti).",
+    "explanation": "Tato přesná definice vychází z části 'Vysvětlení termínů' ve studijním průvodci."
+  },
+  {
+    "id": "literarni_teorie_argot",
+    "type": "flashcard",
+    "tags": ["literarni_teorie", "definice", "seznam_all", "seznam_marian", "seznam_vu"],
+    "importance": 10,
+    "question": "Definujte pojem: Argot.",
+    "options": [],
+    "correctAnswer": "Tajná mluva podsvětí či okrajových vrstev společnosti (např. zlodějů a překupníků) určená k utajení komunikace.",
+    "explanation": "Tato přesná definice vychází z části 'Vysvětlení termínů' ve studijním průvodci."
+  },
+  {
+    "id": "literarni_teorie_totalita",
+    "type": "flashcard",
+    "tags": ["literarni_teorie", "definice", "seznam_all", "seznam_marian", "seznam_vu"],
+    "importance": 10,
+    "question": "Definujte pojem: Totalita / totalitní režim.",
+    "options": [],
+    "correctAnswer": "Společenský a politický systém absolutně potlačující osobní svobodu, v knize vyobrazen skrze komunistickou moc, cenzuru a policejní útlak.",
+    "explanation": "Tato přesná definice vychází z části 'Vysvětlení termínů' ve studijním průvodci."
+  },
+  {
+    "id": "literarni_teorie_normalizace",
+    "type": "flashcard",
+    "tags": ["literarni_teorie", "definice", "seznam_all", "seznam_marian", "seznam_vu"],
+    "importance": 10,
+    "question": "Definujte pojem: Normalizace.",
+    "options": [],
+    "correctAnswer": "Historické období po roce 1968 spojené s tvrdým utužováním komunistického režimu.",
+    "explanation": "Tato přesná definice vychází z části 'Vysvětlení termínů' ve studijním průvodci."
+  },
+  {
+    "id": "literarni_teorie_cenzura",
+    "type": "flashcard",
+    "tags": ["literarni_teorie", "definice", "seznam_all", "seznam_marian", "seznam_vu"],
+    "importance": 10,
+    "question": "Definujte pojem: Cenzura.",
+    "options": [],
+    "correctAnswer": "Státní omezování a kontrola informací (v tisku, umění, literatuře).",
+    "explanation": "Tato přesná definice vychází z části 'Vysvětlení termínů' ve studijním průvodci."
+  },
+  {
+    "id": "literarni_teorie_antiutopie",
+    "type": "flashcard",
+    "tags": ["literarni_teorie", "definice", "seznam_all", "seznam_marian", "seznam_vu"],
+    "importance": 10,
+    "question": "Definujte pojem: Antiutopie.",
+    "options": [],
+    "correctAnswer": "Fiktivní společenství s totalitními a negativními rysy, opozitum ideální utopie.",
+    "explanation": "Tato přesná definice vychází z části 'Vysvětlení termínů' ve studijním průvodci."
+  },
+  {
+    "id": "literarni_teorie_ironie",
+    "type": "flashcard",
+    "tags": ["literarni_teorie", "definice", "seznam_all", "seznam_marian", "seznam_vu"],
+    "importance": 10,
+    "question": "Definujte pojem: Ironie.",
+    "options": [],
+    "correctAnswer": "Záměrné vyjádření opaku toho, co se skutečně myslí, pro docílení komického či satirického nádechu.",
+    "explanation": "Tato přesná definice vychází z části 'Vysvětlení termínů' ve studijním průvodci."
+  },
+  {
+    "id": "literarni_teorie_vnitrni_monolog",
+    "type": "flashcard",
+    "tags": ["literarni_teorie", "definice", "seznam_all", "seznam_marian", "seznam_vu"],
+    "importance": 10,
+    "question": "Definujte pojem: Vnitřní monolog.",
+    "options": [],
+    "correctAnswer": "Stylistický prostředek; souvislá a nepronesená myšlenková promluva postavy, kterou čtenář může \"slyšet\".",
+    "explanation": "Tato přesná definice vychází z části 'Vysvětlení termínů' ve studijním průvodci."
+  },
+  {
+    "id": "literarni_teorie_chronologicka_kompozice",
+    "type": "flashcard",
+    "tags": ["literarni_teorie", "definice", "seznam_all", "seznam_marian", "seznam_vu"],
+    "importance": 10,
+    "question": "Definujte pojem: Chronologická kompozice / stavba.",
+    "options": [],
+    "correctAnswer": "Děj postupuje přirozeně a popořadě tak, jak plynul čas (od nejstaršího po nejnovější události).",
+    "explanation": "Tato přesná definice vychází z části 'Vysvětlení termínů' ve studijním průvodci."
+  },
+  {
+    "id": "literarni_teorie_administrativni_styl",
+    "type": "flashcard",
+    "tags": ["literarni_teorie", "definice", "seznam_all", "seznam_marian", "seznam_vu"],
+    "importance": 10,
+    "question": "Definujte pojem: Administrativní styl.",
+    "options": [],
+    "correctAnswer": "Funkční styl využívaný pro úřední formuláře, žádosti a hlášení; vyznačuje se objektivitou a absencí emocí.",
+    "explanation": "Tato přesná definice vychází z části 'Vysvětlení termínů' ve studijním průvodci."
+  },
+  {
+    "id": "literarni_teorie_odborny_styl",
+    "type": "flashcard",
+    "tags": ["literarni_teorie", "definice", "seznam_all", "seznam_marian", "seznam_vu"],
+    "importance": 10,
+    "question": "Definujte pojem: Odborný styl.",
+    "options": [],
+    "correctAnswer": "Funkční styl využívaný pro přesné a jednoznačné vědecké i naučné texty, oproštěný od uměleckých vyjádření.",
+    "explanation": "Tato přesná definice vychází z části 'Vysvětlení termínů' ve studijním průvodci."
+  },
+  {
+    "id": "literarni_teorie_informacni_postup",
+    "type": "flashcard",
+    "tags": ["literarni_teorie", "definice", "seznam_all", "seznam_marian", "seznam_vu"],
+    "importance": 10,
+    "question": "Definujte pojem: Informační slohový postup.",
+    "options": [],
+    "correctAnswer": "Nejsnazší slohový postup; suché předávání holých faktů (kdo, co, kdy, kde, jak).",
+    "explanation": "Tato přesná definice vychází z části 'Vysvětlení termínů' ve studijním průvodci."
+  },
+  {
+    "id": "literarni_teorie_popisny_postup",
+    "type": "flashcard",
+    "tags": ["literarni_teorie", "definice", "seznam_all", "seznam_marian", "seznam_vu"],
+    "importance": 10,
+    "question": "Definujte pojem: Popisný slohový postup.",
+    "options": [],
+    "correctAnswer": "Slohový postup zaměřený na detailní popis vlastností, znaků a částí osob, věcí nebo dějů.",
+    "explanation": "Tato přesná definice vychází z části 'Vysvětlení termínů' ve studijním průvodci."
+  },
+  {
+    "id": "autor_zivot_narozeni_umrti",
+    "type": "multiple_choice",
+    "tags": ["autor_zivot", "seznam_all", "seznam_marian", "seznam_vu"],
+    "importance": 3,
+    "question": "V jakých letech žil Petr Šabach?",
+    "options": [
+      "1951–2017",
+      "1920–1999",
+      "1890–1938",
+      "1936–2011"
+    ],
+    "correctAnswer": "1951–2017",
+    "explanation": "Petr Šabach se narodil v roce 1951 a zemřel v roce 2017, řadí se tak k autorům současné české literatury."
+  },
+  {
+    "id": "autor_zivot_puvod_rodina",
+    "type": "multiple_choice",
+    "tags": ["autor_zivot", "seznam_all", "seznam_marian", "seznam_vu"],
+    "importance": 5,
+    "question": "Do jaké rodiny se Petr Šabach narodil?",
+    "options": [
+      "Do rodiny vojáka z povolání.",
+      "Do rodiny disidentů a spisovatelů.",
+      "Do rodiny továrníka.",
+      "Do rodiny britského úředníka v Indii."
+    ],
+    "correctAnswer": "Do rodiny vojáka z povolání.",
+    "explanation": "Text výslovně uvádí, že se Petr Šabach narodil v Praze do rodiny vojáka z povolání."
+  },
+  {
+    "id": "autor_zivot_vzdelani",
+    "type": "matching",
+    "tags": ["autor_zivot", "seznam_all", "seznam_marian", "seznam_vu"],
+    "importance": 5,
+    "question": "Přiřaďte správně informace z autorova životopisu (Petr Šabach):",
+    "options": [
+      "Vzdělání",
+      "Povolání po roce 2001",
+      "Další zaměstnání z minulosti"
+    ],
+    "correctAnswer": [
+      "Vzdělání == Knihovnická škola a kulturologie na FF UK",
+      "Povolání po roce 2001 == Spisovatel na volné noze a učitel tvůrčího psaní",
+      "Další zaměstnání z minulosti == Noční hlídač, metodik, odborný referent"
+    ],
+    "explanation": "Tyto životopisné detaily se objevují v sekci 'Jméno autora a základní životopis'."
+  },
+  {
+    "id": "rozbor_textu_literarni_obdobi",
+    "type": "multiple_choice",
+    "tags": ["rozbor_textu", "seznam_all", "seznam_marian", "seznam_vu"],
+    "importance": 9,
+    "question": "Do jakého literárního období primárně řadíme tvorbu Petra Šabacha?",
+    "options": [
+      "Česká próza 2. poloviny 20. století a současnosti",
+      "Světová a česká literatura 19. století",
+      "Česká meziválečná poezie",
+      "Česká dekadence a symbolismus"
+    ],
+    "correctAnswer": "Česká próza 2. poloviny 20. století a současnosti",
+    "explanation": "Šabach je současný český spisovatel spadající do české prózy 2. poloviny 20. století a současnosti."
+  },
+  {
+    "id": "autor_zivot_typicke_rysy",
+    "type": "multiple_choice",
+    "tags": ["autor_zivot", "rozbor_textu", "seznam_all", "seznam_marian", "seznam_vu"],
+    "importance": 8,
+    "question": "Které znaky jsou typické pro tvorbu Petra Šabacha?",
+    "options": [
+      "Výrazná autobiografičnost, humor, volné propojování anekdot a nespisovný jazyk",
+      "Tvorba temných antiutopií s přesnou strukturovanou kompozicí a vědeckými termíny",
+      "Lyrická poezie oslavující rodnou krajinu a rolnický život",
+      "Dramatická tvorba zaměřená na existenciální krizi a absurdní situace bez humoru"
+    ],
+    "correctAnswer": "Výrazná autobiografičnost, humor, volné propojování anekdot a nespisovný jazyk",
+    "explanation": "Díla Petra Šabacha se vyznačují autobiografičností, nespisovným jazykem, humorem a anekdotickou stavbou."
+  },
+  {
+    "id": "autor_zivot_dalsi_dila",
+    "type": "matching",
+    "tags": ["autor_zivot", "seznam_all", "seznam_marian", "seznam_vu"],
+    "importance": 6,
+    "question": "Přiřaďte k dílům Petra Šabacha jejich specifikum či filmovou adaptaci zmíněnou v textu:",
+    "options": [
+      "Šakalí léta",
+      "Hovno hoří",
+      "Opilé banány"
+    ],
+    "correctAnswer": [
+      "Šakalí léta == Novela autora",
+      "Hovno hoří == Předloha pro film Pelíšky",
+      "Opilé banány == Předloha pro film Pupendo"
+    ],
+    "explanation": "Tato spojení mezi knihami a filmy jsou explicitně popsána v sekci 'Další autorova díla'."
+  },
+  {
+    "id": "rozbor_textu_srovnani_hrabal",
+    "type": "multiple_choice",
+    "tags": ["rozbor_textu", "seznam_all", "seznam_marian", "seznam_vu"],
+    "importance": 8,
+    "question": "S jakým českým autorem je Petr Šabach ve studijním materiálu přímo srovnáván kvůli užití hovorové češtiny a střídání tragiky s humorem?",
+    "options": [
+      "S Bohumilem Hrabalem (Ostře sledované vlaky)",
+      "S Karlem Čapkem (R.U.R.)",
+      "S Ladislavem Fuksem (Spalovač mrtvol)",
+      "S Františkem Halasem (Torzo naděje)"
+    ],
+    "correctAnswer": "S Bohumilem Hrabalem (Ostře sledované vlaky)",
+    "explanation": "Text uvádí Bohumila Hrabala jako podobného autora, který rovněž zpracovává téma obyčejného člověka na pozadí pohnuté doby s užitím hovorové češtiny."
+  },
+  {
+    "id": "rozbor_textu_srovnani_orwell",
+    "type": "multiple_choice",
+    "tags": ["rozbor_textu", "seznam_all", "seznam_marian", "seznam_vu"],
+    "importance": 8,
+    "question": "V čem spočívá hlavní rozdíl mezi přístupem Petra Šabacha a George Orwella k tématu totality, jak jej popisuje studijní text?",
+    "options": [
+      "Orwell tvoří temné, fiktivní antiutopie, zatímco Šabach přistupuje k totalitě přes realistický, nostalgický a humoristický pohled mládeže.",
+      "Šabach svá díla zasazuje do období druhé světové války, zatímco Orwell popisuje převážně komunistickou normalizaci v Československu.",
+      "Oba autoři píší výhradně v er-formě, ale Orwell používá častěji nespisovnou češtinu a argot.",
+      "Orwell se soustředí na autobiografický humor, zatímco Šabach využívá přísně strukturované vědecké traktáty."
+    ],
+    "correctAnswer": "Orwell tvoří temné, fiktivní antiutopie, zatímco Šabach přistupuje k totalitě přes realistický, nostalgický a humoristický pohled mládeže.",
+    "explanation": "Zatímco Orwell rozebírá utlačující moc skrz temné fiktivní antiutopie (1984), Šabach k totalitě přistupuje odlehčeně a nostalgicky očima dospívajících."
+  },
+  {
+    "id": "dilo_obsah_casoprostor",
+    "type": "multiple_choice",
+    "tags": ["dilo_obsah", "seznam_all", "seznam_marian", "seznam_vu"],
+    "importance": 9,
+    "question": "Kde a kdy se kniha Občanský průkaz odehrává?",
+    "options": [
+      "V totalitním Československu (v Praze), od 60. do 90. let 20. století.",
+      "V Anglii během druhé světové války a bezprostředně po ní.",
+      "Ve smyšlené budoucnosti ovládané Velkým bratrem.",
+      "V českém venkovském prostředí na počátku 19. století."
+    ],
+    "correctAnswer": "V totalitním Československu (v Praze), od 60. do 90. let 20. století.",
+    "explanation": "Příběh je zasazen do Československa (zejména Prahy) během období normalizace a doby před revolucí (60. až 90. léta)."
+  },
+  {
+    "id": "dilo_obsah_strana_13",
+    "type": "multiple_choice",
+    "tags": ["dilo_obsah", "seznam_all", "seznam_marian", "seznam_vu"],
+    "importance": 9,
+    "question": "Na čem se patnáctiletí kamarádi na protest proti komunistickému režimu dohodnou?",
+    "options": [
+      "Že si ze svých nových občanských průkazů vytrhnou stranu číslo 13.",
+      "Že společně utečou za hranice do Kanady za učitelkou Pivoňkovou.",
+      "Že zapálí budovu Veřejné bezpečnosti, kde slouží Rusňák.",
+      "Že vstoupí do armády a provedou uvnitř ní sabotáž."
+    ],
+    "correctAnswer": "Že si ze svých nových občanských průkazů vytrhnou stranu číslo 13.",
+    "explanation": "Chlapci si v rámci rebelie domluví, že z průkazu vytrhnou stranu číslo 13, která symbolizuje 13. sjezd KSČ."
+  },
+  {
+    "id": "dilo_obsah_petr_ztrata",
+    "type": "flashcard",
+    "tags": ["dilo_obsah", "seznam_all", "seznam_marian", "seznam_vu"],
+    "importance": 9,
+    "question": "Co se stane vypravěči Petrovi záhy poté, co obdrží svůj občanský průkaz, což mu způsobuje opakované problémy s policií?",
+    "options": [],
+    "correctAnswer": "Svůj občanský průkaz ztratí.",
+    "explanation": "Ztráta dokladu vede k neustálým perzekucím a kontrolám ze strany příslušníka Rusňáka."
+  },
+  {
+    "id": "dilo_postavy_mita_vojna",
+    "type": "multiple_choice",
+    "tags": ["dilo_postavy", "dilo_obsah", "seznam_all", "seznam_marian", "seznam_vu"],
+    "importance": 9,
+    "question": "Jak se snaží postava jménem Míťa vyhnout povinné vojenské službě a jaký to má následek?",
+    "options": [
+      "Prochladne úmyslně ve sněhu za účelem zisku modré knížky a umírá.",
+      "Předstírá psychickou poruchu a zbytek života tráví na psychiatrii.",
+      "Ukradne cenné mince a je poslán do vězení, čímž se vojně vyhne.",
+      "Podepíše spolupráci se Státní bezpečností a získá odklad."
+    ],
+    "correctAnswer": "Prochladne úmyslně ve sněhu za účelem zisku modré knížky a umírá.",
+    "explanation": "Míťa volí extrémní cestu pro získání modré knížky (úmyslné podchlazení), což končí jeho tragickou smrtí."
+  },
+  {
+    "id": "dilo_obsah_petr_vojna",
+    "type": "multiple_choice",
+    "tags": ["dilo_postavy", "seznam_all", "seznam_marian", "seznam_vu"],
+    "importance": 8,
+    "question": "Jakým způsobem hlavní hrdina Petr nakonec unikne povinné vojenské službě?",
+    "options": [
+      "Pobytem na psychiatrii.",
+      "Útěkem do emigrace.",
+      "Díky přímluvě policisty Rusňáka.",
+      "Vstupem na práva jako jeho kamarád Aleš."
+    ],
+    "correctAnswer": "Pobytem na psychiatrii.",
+    "explanation": "Petr úspěšně proklouzne vojně díky tomu, že stráví nějaký čas na psychiatrii."
+  },
+  {
+    "id": "dilo_obsah_zaver",
+    "type": "multiple_choice",
+    "tags": ["dilo_obsah", "seznam_all", "seznam_marian", "seznam_vu"],
+    "importance": 9,
+    "question": "Jak lze charakterizovat závěr knihy Občanský průkaz?",
+    "options": [
+      "Závěr je uzavřený, nostalgický a smířlivý. Hlavní postavy dospějí a rekapitulují svůj život po revoluci.",
+      "Závěr je otevřený a tragický. Hlavní hrdina umírá ve vězení po střetu s policií.",
+      "Kniha končí snovou sekvencí, ve které není jasné, zda se události vůbec staly.",
+      "Závěr je přísně moralizující, všechny záporné postavy jsou potrestány a zavřeny do vězení."
+    ],
+    "correctAnswer": "Závěr je uzavřený, nostalgický a smířlivý. Hlavní postavy dospějí a rekapitulují svůj život po revoluci.",
+    "explanation": "Závěr není primárně tragický; postavy dospívají, zpětně hodnotí, kdo donášel, a Petr projevuje velkou míru smíření a nadhledu."
+  },
+  {
+    "id": "dilo_titul_vyznam",
+    "type": "multiple_choice",
+    "tags": ["dilo_titul", "rozbor_textu", "seznam_all", "seznam_marian", "seznam_vu"],
+    "importance": 8,
+    "question": "Co v knize symbolizuje samotný 'občanský průkaz'?",
+    "options": [
+      "Představuje nejen krok do dospělosti, ale především hrůzu vyvolávající nástroj absolutní kontroly státu a policejní šikany.",
+      "Je to magický předmět, který hrdinům umožňuje cestovat časem do svobodnějších let.",
+      "Představuje pouze byrokratickou nutnost, které se hlavní hrdinové po celou knihu jen vysmívají bez jakýchkoliv následků.",
+      "Symbolizuje přihlášku ke studiu na vysoké škole a s tím spojený kariérní postup."
+    ],
+    "correctAnswer": "Představuje nejen krok do dospělosti, ale především hrůzu vyvolávající nástroj absolutní kontroly státu a policejní šikany.",
+    "explanation": "Vyjití bez dokladu mohlo mít v tehdejší době fatální následky, občanka tak reprezentuje utlačující státní moc."
+  },
+  {
+    "id": "dilo_postavy_petr_vyvoj",
+    "type": "sorting",
+    "tags": ["dilo_postavy", "seznam_all", "seznam_marian", "seznam_vu"],
+    "importance": 8,
+    "question": "Seřaďte chronologicky psychologický a životní vývoj hlavní postavy Petra od začátku do konce knihy:",
+    "options": [
+      "Mladý muž čelící nespravedlnosti a ztrátám (smrt Míti)",
+      "Moudrý a reflektující dospělý spisovatel, který ztrácí nenávist a umí odpouštět",
+      "Bezstarostný, mírně naivní rebel, který tráví čas v hospodách a nesnáší policii"
+    ],
+    "correctAnswer": [
+      "Bezstarostný, mírně naivní rebel, který tráví čas v hospodách a nesnáší policii",
+      "Mladý muž čelící nespravedlnosti a ztrátám (smrt Míti)",
+      "Moudrý a reflektující dospělý spisovatel, který ztrácí nenávist a umí odpouštět"
+    ],
+    "explanation": "Vývoj postavy od naivního mládí přes setkání se smrtí kamaráda až k dospělému smíření."
+  },
+  {
+    "id": "dilo_postavy_charakteristika",
+    "type": "matching",
+    "tags": ["dilo_postavy", "seznam_all", "seznam_marian", "seznam_vu"],
+    "importance": 8,
+    "question": "Přiřaďte k postavám z knihy Občanský průkaz jejich správnou charakteristiku či osud:",
+    "options": [
+      "Aleš",
+      "Venca Jehlička",
+      "Příslušník Rusňák",
+      "Daniel Pačes",
+      "Učitelka Pivoňková"
+    ],
+    "correctAnswer": [
+      "Aleš == Vtipálek s duší básníka, napíše provokativní říkanku do občanky, vystuduje práva",
+      "Venca Jehlička == Impulzivní, kvůli krádeži mincí musí na vojnu",
+      "Příslušník Rusňák == Nenáviděný policista (VB), který šikanuje Petra, ale na Silvestra mu přijde popřát",
+      "Daniel Pačes == Udavač a prospěchář, který to dotáhne až na ministra",
+      "Učitelka Pivoňková == Drží nad chlapci ochrannou ruku, nakonec je propuštěna a emigruje do Kanady"
+    ],
+    "explanation": "Identifikace a spárování vedlejších postav knihy na základě sekce 'Analýza postav'."
+  },
+  {
+    "id": "jazyk_a_styl_vypravec",
+    "type": "multiple_choice",
+    "tags": ["jazyk_a_styl", "seznam_all", "seznam_marian", "seznam_vu"],
+    "importance": 9,
+    "question": "V jaké formě a z jaké perspektivy je příběh Občanského průkazu vyprávěn?",
+    "options": [
+      "V ich-formě (vypráví hlavní hrdina Petr).",
+      "V er-formě (vševědoucí vypravěč).",
+      "V du-formě (vypravěč se obrací přímo na čtenáře jako by byl aktérem).",
+      "Příběh je psán výhradně formou policejních protokolů bez přímého vypravěče."
+    ],
+    "correctAnswer": "V ich-formě (vypráví hlavní hrdina Petr).",
+    "explanation": "Kniha je autobiografickou novelou, u které je typické vyprávění v 1. osobě, z pozice hlavního hrdiny (Petra)."
+  },
+  {
+    "id": "jazyk_a_styl_jazykove_vrstvy",
+    "type": "multiple_choice",
+    "tags": ["jazyk_a_styl", "seznam_all", "seznam_marian", "seznam_vu"],
+    "importance": 9,
+    "question": "Jakou jazykovou vrstvu autor nejčastěji záměrně využívá a jak se jazyk v průběhu díla mění?",
+    "options": [
+      "Využívá nespisovnou a hovorovou češtinu, studentský slang a argot. S dospíváním postav pronikají do promluv i tvary spisovné a odborné.",
+      "Kniha je napsána přísně spisovným jazykem, pouze u policistů se objevuje slang.",
+      "Využívá výhradně knižní a archaický jazyk 19. století pro kontrast s moderní dobou.",
+      "Celý text je psán ve verších bez využití běžné prózy a hovorových výrazů."
+    ],
+    "correctAnswer": "Využívá nespisovnou a hovorovou češtinu, studentský slang a argot. S dospíváním postav pronikají do promluv i tvary spisovné a odborné.",
+    "explanation": "Šabach je známý pro věrné zobrazení mluvy postav, od studentského slangu v mládí až po sofistikovanější mluvu v dospělosti."
+  },
+  {
+    "id": "jazyk_a_styl_kompozice",
+    "type": "multiple_choice",
+    "tags": ["jazyk_a_styl", "rozbor_textu", "seznam_all", "seznam_marian", "seznam_vu"],
+    "importance": 8,
+    "question": "Jaká je kompozice knihy Občanský průkaz?",
+    "options": [
+      "Má chronologickou stavbu, ale samotné vyprávění tvoří volný sled anekdotických příběhů v nepojmenovaných kapitolách.",
+      "Děj je striktně retrospektivní, hrdina vypráví celý příběh od konce ke svému dětství.",
+      "Jedná se o rámcovou kompozici, kde několik postav vypráví různé příběhy u táboráku.",
+      "Kniha se skládá z prolínajících se časových rovin, které na sebe nenavazují."
+    ],
+    "correctAnswer": "Má chronologickou stavbu, ale samotné vyprávění tvoří volný sled anekdotických příběhů v nepojmenovaných kapitolách.",
+    "explanation": "Děj sice plyne chronologicky (od mládí po dospělost), ale je koncipován jako volnější série historek a hospodských vyprávění."
+  },
+  {
+    "id": "text_analysis_neumelecky_funkcni_styl",
+    "type": "text_analysis",
+    "tags": ["rozbor_textu", "seznam_all", "seznam_marian", "seznam_vu"],
+    "importance": 5,
+    "question": "Pokud byste měli analyzovat zástupný neumělecký text (např. policejní hlášení SNB o poškození průkazu), o jaký funkční styl by se jednalo?",
+    "options": [
+      "Administrativní styl",
+      "Prostěsdělovací styl",
+      "Publicistický styl",
+      "Umělecký styl"
+    ],
+    "correctAnswer": "Administrativní styl",
+    "explanation": "Úřední formuláře, protokoly a hlášení Veřejné bezpečnosti patří do funkčního stylu administrativního."
+  },
+  {
+    "id": "text_analysis_neumelecky_postup",
+    "type": "text_analysis",
+    "tags": ["rozbor_textu", "seznam_all", "seznam_marian", "seznam_vu"],
+    "importance": 5,
+    "question": "Jaký slohový postup by převažoval v policejním protokolu uvádějícím holá fakta (kdo poškodil doklad, kdy a kde byl zadržen)?",
+    "options": [
+      "Informační postup",
+      "Úvahový postup",
+      "Výkladový postup",
+      "Vyprávěcí postup"
+    ],
+    "correctAnswer": "Informační postup",
+    "explanation": "Rychlé a suché předání faktů (kdo, co, kdy, kde) je typickým znakem informačního slohového postupu."
+  },
+  {
+    "id": "literarni_teorie_literarni_druh",
+    "type": "flashcard",
+    "tags": ["literarni_teorie", "seznam_all", "seznam_marian", "seznam_vu"],
+    "importance": 9,
+    "question": "Jaký je literární druh knihy Občanský průkaz?",
+    "options": [],
+    "correctAnswer": "Epika",
+    "explanation": "Základní literárně teoretické zařazení díla zmíněné v sekci 'Literární dílo'."
+  },
+  {
+    "id": "literarni_teorie_literarni_zanr",
+    "type": "flashcard",
+    "tags": ["literarni_teorie", "seznam_all", "seznam_marian", "seznam_vu"],
+    "importance": 9,
+    "question": "Jaký je literární žánr knihy Občanský průkaz?",
+    "options": [],
+    "correctAnswer": "Autobiografická novela",
+    "explanation": "Základní literárně teoretické zařazení díla zmíněné v sekci 'Literární dílo'."
+  },
+  {
+    "id": "literarni_teorie_literarni_forma",
+    "type": "flashcard",
+    "tags": ["literarni_teorie", "seznam_all", "seznam_marian", "seznam_vu"],
+    "importance": 9,
+    "question": "Jaká je literární forma knihy Občanský průkaz?",
+    "options": [],
+    "correctAnswer": "Próza",
+    "explanation": "Základní literárně teoretické zařazení díla zmíněné v sekci 'Literární dílo'."
+  }
+]

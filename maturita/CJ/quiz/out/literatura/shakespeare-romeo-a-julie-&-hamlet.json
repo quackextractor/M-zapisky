@@ -1,0 +1,820 @@
+[
+  {
+    "id": "autor_zivot_shakespeare_narozeni",
+    "type": "flashcard",
+    "tags": ["autor_zivot", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "importance": 5,
+    "question": "Ve kterém anglickém městě se narodil William Shakespeare?",
+    "options": [],
+    "correctAnswer": "Ve Stratfordu nad Avonou.",
+    "explanation": "Základní životopisný údaj o původu největšího anglického dramatika."
+  },
+  {
+    "id": "autor_zivot_shakespeare_rodina",
+    "type": "multiple_choice",
+    "tags": ["autor_zivot", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "importance": 6,
+    "question": "Jaká osobní tragédie silně zasáhla Williama Shakespeara a ovlivnila jeho tvorbu?",
+    "options": [
+      "Smrt jeho syna v 11 letech.",
+      "Předčasná smrt jeho manželky Anne Hathawayové.",
+      "Vyhoštění z Londýna kvůli politickým názorům.",
+      "Požár divadla Globe, při kterém přišel o všechen majetek."
+    ],
+    "correctAnswer": "Smrt jeho syna v 11 letech.",
+    "explanation": "Shakespeare měl s manželkou Anne Hathawayovou tři děti, přičemž smrt jeho syna v 11 letech jej hluboce zasáhla a odrazila se v jeho díle."
+  },
+  {
+    "id": "autor_zivot_shakespeare_divadlo",
+    "type": "flashcard",
+    "tags": ["autor_zivot", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "importance": 9,
+    "question": "Jak se jmenovalo slavné londýnské divadlo, jehož se stal Shakespeare spolumajitelem?",
+    "options": [],
+    "correctAnswer": "Divadlo Globe.",
+    "explanation": "Shakespeare v Londýně působil jako uznávaný herec, dramatik a stal se spolumajitelem proslulého alžbětinského divadla Globe."
+  },
+  {
+    "id": "literarni_teorie_obdobi",
+    "type": "multiple_choice",
+    "tags": ["literarni_teorie", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "importance": 10,
+    "question": "Do jakého literárního období a myšlenkového směru řadíme tvorbu Williama Shakespeara?",
+    "options": [
+      "Do období renesance a humanismu.",
+      "Do období romantismu a národního obrození.",
+      "Do období osvícenství a klasicismu.",
+      "Do období středověké mystiky a gotiky."
+    ],
+    "correctAnswer": "Do období renesance a humanismu.",
+    "explanation": "Shakespeare tvořil na přelomu 16. a 17. století v období renesance a humanismu (tzv. alžbětinské divadlo)."
+  },
+  {
+    "id": "literarni_teorie_renesance_vs_humanismus",
+    "type": "matching",
+    "tags": ["literarni_teorie", "definice", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "importance": 9,
+    "question": "Přiřaďte správnou charakteristiku k pojmům renesance a humanismus podle Shakespearova literárního kontextu.",
+    "options": [
+      "Renesance",
+      "Humanismus"
+    ],
+    "correctAnswer": [
+      "Renesance == Kladla důraz na obrození antických ideálů, lidskou individualitu, emoce a pozemský život.",
+      "Humanismus == Odkláněl se od náboženství k vědě a rozumu."
+    ],
+    "explanation": "Oba směry se prolínaly, ale renesance se soustředila více na umělecké ideály, individualitu a pozemský život, zatímco humanismus na rozum, vzdělání a vědu."
+  },
+  {
+    "id": "autor_zivot_panovnici",
+    "type": "multiple_choice",
+    "tags": ["autor_zivot", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "importance": 6,
+    "question": "Za vlády kterých anglických panovníků Shakespeare převážně tvořil?",
+    "options": [
+      "Alžběty I. a Jakuba I.",
+      "Jindřicha VIII. a Marie Tudorovny.",
+      "Viktorie a Eduarda VII.",
+      "Jiřího III. a Karla I."
+    ],
+    "correctAnswer": "Alžběty I. a Jakuba I.",
+    "explanation": "Jeho tvorba spadá do tzv. alžbětinského divadla a pokračovala za vlády Jakuba I., což byla éra zámořských objevů a rozvoje vědeckého poznání."
+  },
+  {
+    "id": "autor_zivot_pocet_del",
+    "type": "flashcard",
+    "tags": ["autor_zivot", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "importance": 4,
+    "question": "Kolik divadelních her a kolik sonetů přibližně napsal William Shakespeare?",
+    "options": [],
+    "correctAnswer": "Napsal 37 her a 154 sonetů.",
+    "explanation": "Tyto počty představují celkový zachovaný objem jeho dramatického a básnického díla."
+  },
+  {
+    "id": "autor_zivot_dila_rozdeleni",
+    "type": "matching",
+    "tags": ["dilo_obsah", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "importance": 7,
+    "question": "Rozřaďte následující Shakespearova díla do správných žánrů (tragédie vs. komedie).",
+    "options": [
+      "Othello",
+      "Macbeth",
+      "Sen noci svatojánské",
+      "Zkrocení zlé ženy",
+      "Král Lear"
+    ],
+    "correctAnswer": [
+      "Othello == Tragédie",
+      "Macbeth == Tragédie",
+      "Sen noci svatojánské == Komedie",
+      "Zkrocení zlé ženy == Komedie",
+      "Král Lear == Tragédie"
+    ],
+    "explanation": "Kromě Romea a Julie a Hamleta napsal Shakespeare mnoho dalších her. Macbeth, Othello a Král Lear jsou slavné tragédie, Sen noci svatojánské a Zkrocení zlé ženy jsou komedie."
+  },
+  {
+    "id": "rozbor_textu_srovnani_vrchlicky",
+    "type": "multiple_choice",
+    "tags": ["rozbor_textu", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "importance": 8,
+    "question": "Jaký je hlavní rozdíl mezi dramaty Shakespeara a dílem Noc na Karlštejně od Jaroslava Vrchlického?",
+    "options": [
+      "Vrchlického dílo je komedie s úsměvným koncem z 19. století, zatímco probíraná díla Shakespeara jsou renesanční tragédie končící smrtí.",
+      "Vrchlického dílo je psáno formou epické básně, zatímco Shakespeare psal výhradně divadelní scénáře v próze.",
+      "Vrchlický se zaměřoval na kritiku měšťácké společnosti, zatímco Shakespeare psal pouze oslavné hry pro krále.",
+      "Vrchlického dílo končí fatální smrtí hlavních hrdinů, zatímco Romeo a Julie má otevřený, smířlivý konec."
+    ],
+    "correctAnswer": "Vrchlického dílo je komedie s úsměvným koncem z 19. století, zatímco probíraná díla Shakespeara jsou renesanční tragédie končící smrtí.",
+    "explanation": "Obě díla jsou sice dramata z historických kulis řešící konflikt lidských tužeb a pravidel, ale Noc na Karlštejně je česká komedie 19. století s dobrým koncem, narozdíl od renesančních tragédií."
+  },
+  {
+    "id": "rozbor_textu_srovnani_erben",
+    "type": "multiple_choice",
+    "tags": ["rozbor_textu", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "importance": 8,
+    "question": "V čem spočívá podobnost a zásadní formální rozdíl mezi Shakespearovými tragédiemi a Kyticí Karla Jaromíra Erbena?",
+    "options": [
+      "Oba autoři pracují s osudovostí, vinou a tragickým koncem, ale Erben psal romantické balady (poezii), zatímco Shakespeare tvořil dramata pro jeviště.",
+      "Obě díla jsou určená pro divadlo, ale Erben se zaměřuje na antické mýty, zatímco Shakespeare na anglickou historii.",
+      "Oba autoři se soustředí na existenciální monology, ale Shakespeare používá výhradně hovorový jazyk z ulice.",
+      "Erbenova díla mají vždy pozitivní rozuzlení skrze víru v Boha, zatímco Shakespeare nechává hrdiny zemřít."
+    ],
+    "correctAnswer": "Oba autoři pracují s osudovostí, vinou a tragickým koncem, ale Erben psal romantické balady (poezii), zatímco Shakespeare tvořil dramata pro jeviště.",
+    "explanation": "Erbenova Kytice i Shakespearovy tragédie obsahují motivy viny, trestu a podlehnutí vyšší moci/osudu. Rozdíl je v literárním druhu: romantická poezie (balady) vs. divadelní hry."
+  },
+  {
+    "id": "rozbor_textu_srovnani_shaw",
+    "type": "multiple_choice",
+    "tags": ["rozbor_textu", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "importance": 8,
+    "question": "Jaký je hlavní rozdíl mezi probíranými hrami Shakespeara a dílem Pygmalion od George Bernarda Shawa?",
+    "options": [
+      "Pygmalion je moderní satirická komedie 20. století s otevřeným netragickým koncem kritizující společenské třídy, zatímco Shakespearova díla jsou renesanční tragédie.",
+      "Pygmalion je historická tragédie z období humanismu, zatímco Shakespeare psal výhradně komedie pro londýnský lid.",
+      "Oba autoři píší tragédie, ale Shaw zasazuje děj do budoucnosti s prvky sci-fi.",
+      "Shawova hra je psána v blankversu, zatímco Shakespeare používal ve svých tragédiích výhradně prózu."
+    ],
+    "correctAnswer": "Pygmalion je moderní satirická komedie 20. století s otevřeným netragickým koncem kritizující společenské třídy, zatímco Shakespearova díla jsou renesanční tragédie.",
+    "explanation": "Oba jsou mistři anglického dramatu, ale Shawův Pygmalion je komedie 20. století s otevřeným koncem zaměřená na sociální satiru."
+  },
+  {
+    "id": "dilo_obsah_rj_druh_zanr",
+    "type": "multiple_choice",
+    "tags": ["literarni_teorie", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "importance": 10,
+    "question": "Do jakého literárního druhu a žánru spadá Romeo a Julie?",
+    "options": [
+      "Druh: Drama, Žánr: Tragédie.",
+      "Druh: Epika, Žánr: Román.",
+      "Druh: Lyrika, Žánr: Elegie.",
+      "Druh: Drama, Žánr: Satirická komedie."
+    ],
+    "correctAnswer": "Druh: Drama, Žánr: Tragédie.",
+    "explanation": "Dílo je určeno pro jeviště a odvíjí se skrze promluvy (drama) a má vážný děj končící smrtí hrdinů (tragédie)."
+  },
+  {
+    "id": "jazyk_a_styl_rj_forma",
+    "type": "flashcard",
+    "tags": ["jazyk_a_styl", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "importance": 9,
+    "question": "Jakou literární formu Shakespeare používá v Romeovi a Julii (i v Hamletovi)?",
+    "options": [],
+    "correctAnswer": "Kombinaci prózy a poezie (střídá verš s hovorovou prózou).",
+    "explanation": "Shakespeare typicky střídá blankvers (vznešené postavy) s hovorovou prózou u postav z lidu."
+  },
+  {
+    "id": "dilo_obsah_rj_casoprostor",
+    "type": "multiple_choice",
+    "tags": ["dilo_obsah", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "importance": 9,
+    "question": "Kde a kdy se odehrává děj tragédie Romeo a Julie?",
+    "options": [
+      "V italských městech Verona a Mantova v 16. století.",
+      "Na dánském hradě Elsinor v 17. století.",
+      "V Londýně a okolí za vlády Alžběty I.",
+      "V Paříži a na francouzském venkově v 19. století."
+    ],
+    "correctAnswer": "V italských městech Verona a Mantova v 16. století.",
+    "explanation": "Děj je zasazen do italských měst Verona a Mantova v období vrcholné renesance (16. století)."
+  },
+  {
+    "id": "dilo_obsah_rj_razeni_deje",
+    "type": "sorting",
+    "tags": ["dilo_obsah", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "importance": 9,
+    "question": "Seřaďte chronologicky dějové momenty v Romeovi a Julii od začátku do konce.",
+    "options": [
+      "Romeo a Julie se setkávají na plese a zamilují se.",
+      "Otec Lorenzo milence tajně oddá.",
+      "Romeo v šarvátce zabíjí Tybalta jako pomstu za smrt Merkucia a je vyhoštěn do Mantovy.",
+      "Julie vypije lektvar od otce Lorenza, aby unikla sňatku s Parisem.",
+      "Romeo najde Julii zdánlivě mrtvou, vypije jed a následně se Julie probodne jeho dýkou."
+    ],
+    "correctAnswer": [
+      "Romeo a Julie se setkávají na plese a zamilují se.",
+      "Otec Lorenzo milence tajně oddá.",
+      "Romeo v šarvátce zabíjí Tybalta jako pomstu za smrt Merkucia a je vyhoštěn do Mantovy.",
+      "Julie vypije lektvar od otce Lorenza, aby unikla sňatku s Parisem.",
+      "Romeo najde Julii zdánlivě mrtvou, vypije jed a následně se Julie probodne jeho dýkou."
+    ],
+    "explanation": "Od seznámení přes tajný sňatek, vyhoštění, lest s lektvarem až po tragické nedorozumění v hrobce."
+  },
+  {
+    "id": "dilo_obsah_rj_rody",
+    "type": "flashcard",
+    "tags": ["dilo_obsah", "dilo_postavy", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "importance": 9,
+    "question": "Jaká dvě italská rodová jména nesou znepřátelené rodiny v Romeovi a Julii?",
+    "options": [],
+    "correctAnswer": "Montekové (rod Romea) a Kapuleti (rod Julie).",
+    "explanation": "Mezi rody Monteků a Kapuletů panuje krevní msta, která tvoří hlavní překážku v lásce hlavních hrdinů."
+  },
+  {
+    "id": "dilo_postavy_rj_kdo_zabil",
+    "type": "matching",
+    "tags": ["dilo_postavy", "dilo_obsah", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "importance": 8,
+    "question": "Přiřaďte k sobě postavy z Romea a Julie tak, aby odpovídalo, kdo koho zabil v pouliční šarvátce.",
+    "options": [
+      "Zabil Merkucia",
+      "Zabil Tybalta"
+    ],
+    "correctAnswer": [
+      "Zabil Merkucia == Tybalt",
+      "Zabil Tybalta == Romeo"
+    ],
+    "explanation": "Tybalt zabil Romeova přítele Merkucia. Romeo se následně pomstil tím, že zabil Tybalta, za což byl vyhoštěn z Verony."
+  },
+  {
+    "id": "dilo_obsah_rj_vyhosteni",
+    "type": "flashcard",
+    "tags": ["dilo_obsah", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "importance": 6,
+    "question": "Do kterého města je Romeo vyhoštěn poté, co zabije Tybalta?",
+    "options": [],
+    "correctAnswer": "Do Mantovy.",
+    "explanation": "Poté, co se Romeo pomstí za Merkucia zabitím Tybalta, je nucen opustit Veronu a je vyhoštěn do Mantovy."
+  },
+  {
+    "id": "dilo_obsah_rj_plan_s_lektvarem",
+    "type": "multiple_choice",
+    "tags": ["dilo_obsah", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "importance": 7,
+    "question": "Proč dá otec Lorenzo Julii vypít speciální lektvar?",
+    "options": [
+      "Aby vypadala jako mrtvá a vyhnula se tak nucenému sňatku s Parisem.",
+      "Aby získala odvahu utéct v noci za Romeem do Mantovy.",
+      "Aby se otrávila a nemusela dál snášet nenávist obou rodů.",
+      "Aby ztratila paměť a zapomněla na Romea, jak si přáli její rodiče."
+    ],
+    "correctAnswer": "Aby vypadala jako mrtvá a vyhnula se tak nucenému sňatku s Parisem.",
+    "explanation": "Lorenzo vymyslí plán: lektvar způsobí, že Julie vypadá jako mrtvá, čímž unikne svatbě s Parisem. Romeo se o tom měl dozvědět z dopisu, který ale nedorazí."
+  },
+  {
+    "id": "dilo_obsah_rj_zaver_dusledek",
+    "type": "flashcard",
+    "tags": ["dilo_obsah", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "importance": 9,
+    "question": "Jaký společenský důsledek má tragická smrt Romea a Julie v samotném závěru hry?",
+    "options": [],
+    "correctAnswer": "Jejich smrt vede k usmíření znepřátelených rodů (Monteků a Kapuletů).",
+    "explanation": "Závěr je tragický, ale smrt obou hrdinů ukončí krevní mstu a obě rodiny se nad jejich hroby usmíří."
+  },
+  {
+    "id": "jazyk_a_styl_rj_atmosfera",
+    "type": "multiple_choice",
+    "tags": ["jazyk_a_styl", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "importance": 7,
+    "question": "Jak se v průběhu hry mění atmosféra v Romeovi a Julii?",
+    "options": [
+      "Zpočátku je zrychlená, lyrická a vášnivá, avšak postupně graduje do tísnivé, beznadějné a temné tragiky.",
+      "Od začátku do konce převládá depresivní, pochmurná a filozofická nálada bez jakýchkoliv světlejších momentů.",
+      "Začíná temným, fatalistickým úvodem a postupně přechází v uvolněnou komedii plnou nedorozumění.",
+      "Atmosféra je po celou dobu satirická s prvky drsného černého humoru a kritiky církve."
+    ],
+    "correctAnswer": "Zpočátku je zrychlená, lyrická a vášnivá, avšak postupně graduje do tísnivé, beznadějné a temné tragiky.",
+    "explanation": "První polovina se nese ve znamení vášnivé lásky a rýmů (lyrika), po Tybaltově smrti se děj zlomí v temnou tragédii bez naděje na únik."
+  },
+  {
+    "id": "dilo_postavy_rj_vyvoj_postav",
+    "type": "multiple_choice",
+    "tags": ["dilo_postavy", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "importance": 8,
+    "question": "Jak se psychologicky vyvíjejí postavy Romea a Julie během děje?",
+    "options": [
+      "Romeo se z romantického snílka mění v odhodlaného muže a třináctiletá, poslušná Julie bleskově dospívá, získává odvahu a vzepře se rodině.",
+      "Oba jsou zpočátku krutí a manipulativní a láska je postupně změkčí až k úplné pasivitě a naivitě.",
+      "Romeo se od začátku jeví jako cynický vrah a Julie jako naivní oběť, jejich charaktery se během hry nijak nezmění.",
+      "Julie se z hrdé a agresivní vůdkyně rodu mění v poslušnou a bojácnou dívku, zatímco Romeo se pomátne a zešílí."
+    ],
+    "correctAnswer": "Romeo se z romantického snílka mění v odhodlaného muže a třináctiletá, poslušná Julie bleskově dospívá, získává odvahu a vzepře se rodině.",
+    "explanation": "Láska oba hrdiny donutí rychle dospět. Z naivního mladíka a poslušné dívky se stávají nezávislé osobnosti ochotné zemřít za své rozhodnutí."
+  },
+  {
+    "id": "dilo_postavy_rj_vedlejsi_postavy",
+    "type": "matching",
+    "tags": ["dilo_postavy", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "importance": 8,
+    "question": "Přiřaďte správnou charakteristiku k vedlejším postavám z Romea a Julie.",
+    "options": [
+      "Merkucio",
+      "Tybalt",
+      "Otec Lorenzo",
+      "Chůva"
+    ],
+    "correctAnswer": [
+      "Merkucio == Vtipný a ironický přítel Romea.",
+      "Tybalt == Juliin výbušný a agresivní bratranec.",
+      "Otec Lorenzo == Moudrý, oddá hrdiny ve snaze usmířit rody.",
+      "Chůva == Prostá, komická postava."
+    ],
+    "explanation": "Tyto vedlejší postavy tvoří klíčový kontext: Merkucio a Chůva zajišťují komiku, Tybalt kolizi, a otec Lorenzo osudovou zápletku."
+  },
+  {
+    "id": "jazyk_a_styl_vypravec_drama",
+    "type": "multiple_choice",
+    "tags": ["jazyk_a_styl", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "importance": 9,
+    "question": "Jaký typ vypravěče se uplatňuje v obou probíraných divadelních hrách (Romeo a Julie, Hamlet)?",
+    "options": [
+      "Klasický vypravěč chybí, děj se odvíjí prostřednictvím dialogů, monologů a scénických poznámek.",
+      "Díla jsou vyprávěna v ich-formě z pohledu hlavní postavy, která vše retrospektivně hodnotí.",
+      "Díla jsou vyprávěna vševědoucím vypravěčem v er-formě, který detailně popisuje myšlenky všech postav.",
+      "Vypravěčem je v obou hrách postava šaška, který ironicky komentuje dění na jevišti."
+    ],
+    "correctAnswer": "Klasický vypravěč chybí, děj se odvíjí prostřednictvím dialogů, monologů a scénických poznámek.",
+    "explanation": "Jelikož jde o literární druh drama, klasický narativní vypravěč (jako u prózy) zde neexistuje."
+  },
+  {
+    "id": "jazyk_a_styl_vrstvy_postav",
+    "type": "multiple_choice",
+    "tags": ["jazyk_a_styl", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "importance": 8,
+    "question": "Jak Shakespeare rozlišuje sociální vrstvy postav prostřednictvím jazyka (např. šlechta vs. chůva, hrobníci)?",
+    "options": [
+      "Střídá spisovnou češtinu ve verších u vznešených postav s hovorovou prózou u postav z lidu.",
+      "Postavy z lidu mluví latinsky, zatímco šlechta mluví výhradně anglickým argotem.",
+      "Všichni bez rozdílu mluví veršovaným blankversem, aby byla zachována umělecká vznešenost hry.",
+      "Šlechta používá krátké prozaické věty, zatímco prostý lid mluví v bohatých sonetech."
+    ],
+    "correctAnswer": "Střídá spisovnou češtinu ve verších u vznešených postav s hovorovou prózou u postav z lidu.",
+    "explanation": "Způsob vyjadřování odráží postavení. Šlechtici (Romeo, Julie, Hamlet) se vyjadřují bohatými verši, prostý lid (chůva, hrobníci) obyčejnou prózou."
+  },
+  {
+    "id": "dilo_obsah_kompozice_drama",
+    "type": "flashcard",
+    "tags": ["jazyk_a_styl", "literarni_teorie", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "importance": 7,
+    "question": "Jak se nazývá kompozice, kterou jsou díla tvořena, a z kolika dějství se klasické Shakespearovské drama skládá?",
+    "options": [],
+    "correctAnswer": "Kompozice je chronologická s vnitřní dramatickou stavbou o pěti dějstvích (expozice, kolize, krize, peripetie, katastrofa).",
+    "explanation": "Základní schéma klasického dramatu: děj jde za sebou a graduje v 5 stupních od úvodu (expozice) k tragickému závěru (katastrofě)."
+  },
+  {
+    "id": "dilo_obsah_hamlet_casoprostor",
+    "type": "flashcard",
+    "tags": ["dilo_obsah", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "importance": 9,
+    "question": "Kde a kdy se odehrává děj Shakespearovy tragédie Hamlet?",
+    "options": [],
+    "correctAnswer": "Na dánském hradě Elsinor na počátku 17. století (či v neurčitém středověku).",
+    "explanation": "Zasazení do Dánska na hrad Elsinor je klíčovým geografickým rámcem celého příběhu."
+  },
+  {
+    "id": "dilo_obsah_hamlet_zjeveni_ducha",
+    "type": "multiple_choice",
+    "tags": ["dilo_obsah", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "importance": 9,
+    "question": "Co se Hamlet dozví hned v úvodu hry od ducha svého otce?",
+    "options": [
+      "Že byl zavražděn svým bratrem Claudiem, který si následně vzal Hamletovu matku a usedl na trůn.",
+      "Že v Dánsku vypukne brzy válka s Norskem a on musí ihned převzít velení armády.",
+      "Že jeho láska Ofélie je mu nevěrná s Horaciem a on se s ní musí rozejít.",
+      "Že musí utéct do Anglie, protože se na něj chystá atentát."
+    ],
+    "correctAnswer": "Že byl zavražděn svým bratrem Claudiem, který si následně vzal Hamletovu matku a usedl na trůn.",
+    "explanation": "Tato informace funguje jako expozice/kolize, která spustí Hamletovu touhu po pomstě a jeho vnitřní rozpolcenost."
+  },
+  {
+    "id": "dilo_obsah_hamlet_silenstvi",
+    "type": "flashcard",
+    "tags": ["dilo_postavy", "dilo_obsah", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "importance": 8,
+    "question": "Jakou obrannou a strategickou pózu zaujme Hamlet poté, co se rozhodne pro pomstu otce?",
+    "options": [],
+    "correctAnswer": "Začne předstírat šílenství.",
+    "explanation": "Předstírání šílenství umožňuje Hamletovi získat čas, volněji mluvit a zamaskovat své skutečné úmysly při zkoumání Claudiovy viny."
+  },
+  {
+    "id": "dilo_obsah_hamlet_potulni_herci",
+    "type": "multiple_choice",
+    "tags": ["dilo_obsah", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "importance": 8,
+    "question": "Jakým způsobem získá Hamlet definitivní důkaz o strýcově vině?",
+    "options": [
+      "Pomocí představení potulných herců, kterým přikáže zahrát scénu napodobující otcovu vraždu.",
+      "Nalezne skrytý dopis, ve kterém se Claudius přiznává Gertrudě k otrávení bývalého krále.",
+      "Vyslechne tajný rozhovor Polonia a Claudia schovaný za oponou.",
+      "Vymámí přiznání z matky pod hrozbou použití zbraně."
+    ],
+    "correctAnswer": "Pomocí představení potulných herců, kterým přikáže zahrát scénu napodobující otcovu vraždu.",
+    "explanation": "Tzv. divadlo na divadle. Hamlet nechá herce zahrát vraždu krále a sleduje Claudiovu reakci. Claudius uteče, čímž potvrdí svou vinu."
+  },
+  {
+    "id": "dilo_obsah_hamlet_smrt_polonia",
+    "type": "flashcard",
+    "tags": ["dilo_obsah", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "importance": 7,
+    "question": "Koho zabije Hamlet nedopatřením přes oponu ve spleti intrik, v domnění, že se tam schovává král?",
+    "options": [],
+    "correctAnswer": "Polonia (otce Ofélie a Laerta).",
+    "explanation": "Poloniova smrt roztočí další kola tragédie – Ofélie zešílí a Laertes se touží Hamletovi pomstít."
+  },
+  {
+    "id": "dilo_obsah_hamlet_ofelie",
+    "type": "multiple_choice",
+    "tags": ["dilo_postavy", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "importance": 8,
+    "question": "Jaký tragický osud potká Ofélii, Hamletovu životní lásku?",
+    "options": [
+      "Neschopnost prosadit svou lásku k Hamletovi a smrt jejího otce ji doženou k šílenství a nakonec se utopí.",
+      "Je otrávena králem Claudiem, aby nemohla svědčit proti němu před soudem.",
+      "Vdá se z donucení za norského prince Fortinbrase a navždy opustí Dánsko.",
+      "Spáchá sebevraždu stejnou dýkou jako Julie ze žalu poté, co Hamlet zabije jejího bratra."
+    ],
+    "correctAnswer": "Neschopnost prosadit svou lásku k Hamletovi a smrt jejího otce ji doženou k šílenství a nakonec se utopí.",
+    "explanation": "Naivní a bojácná dívka neustojí nátlak okolí a kumulované neštěstí; pomátne se a utopí v řece."
+  },
+  {
+    "id": "dilo_obsah_hamlet_razeni_deje",
+    "type": "sorting",
+    "tags": ["dilo_obsah", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "importance": 9,
+    "question": "Seřaďte události v Hamletovi tak, jak po sobě chronologicky následovaly.",
+    "options": [
+      "Duch mrtvého krále prozradí Hamletovi, že byl zavražděn Claudiem.",
+      "Hamlet potvrdí strýcovu vinu pomocí představení potulných herců.",
+      "Hamlet omylem zabije Polonia schovaného za oponou.",
+      "Claudius pošle Hamleta do Anglie, aby tam byl popraven, ten ale unikne.",
+      "Dojde k osudovému souboji mezi Hamletem a Laertem za použití otráveného meče a vína."
+    ],
+    "correctAnswer": [
+      "Duch mrtvého krále prozradí Hamletovi, že byl zavražděn Claudiem.",
+      "Hamlet potvrdí strýcovu vinu pomocí představení potulných herců.",
+      "Hamlet omylem zabije Polonia schovaného za oponou.",
+      "Claudius pošle Hamleta do Anglie, aby tam byl popraven, ten ale unikne.",
+      "Dojde k osudovému souboji mezi Hamletem a Laertem za použití otráveného meče a vína."
+    ],
+    "explanation": "Toto je základní kostra děje o pěti dějstvích od kolize (duch) až ke katastrofě (souboj)."
+  },
+  {
+    "id": "dilo_obsah_hamlet_zaver_vladce",
+    "type": "flashcard",
+    "tags": ["dilo_obsah", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "importance": 7,
+    "question": "Komu Hamlet ze svých posledních sil předává vládu nad Dánskem po smrti drtivé většiny postav?",
+    "options": [],
+    "correctAnswer": "Norskému princi Fortinbrasovi.",
+    "explanation": "Zatímco dvůr na Elsinoru vnitřně vyhnije a zemře, vládu od zvenčí přebírá zdravá síla mladého Fortinbrase."
+  },
+  {
+    "id": "dilo_obsah_hamlet_temata",
+    "type": "multiple_choice",
+    "tags": ["dilo_obsah", "rozbor_textu", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "importance": 9,
+    "question": "Jaká jsou hlavní témata a motivy v tragédii Hamlet?",
+    "options": [
+      "Váhání, složitost svědomí, touha po moci, pomsta, intriky a zkaženost společnosti.",
+      "Kritika zmechanizované výroby, vzpoura umělé inteligence a zánik lidstva.",
+      "Oslava venkovského života, folkloru a smíření s Bohem skrze odpuštění.",
+      "Kritika novinářské etiky, satira společenských vrstev a marnivost šlechty."
+    ],
+    "correctAnswer": "Váhání, složitost svědomí, touha po moci, pomsta, intriky a zkaženost společnosti.",
+    "explanation": "Celé dílo se točí kolem existenciálního váhání ('Být, či nebýt') v prohnilém, intrikářském prostředí královského dvora."
+  },
+  {
+    "id": "dilo_postavy_hamlet_psychologie",
+    "type": "multiple_choice",
+    "tags": ["dilo_postavy", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "importance": 10,
+    "question": "Jaký typ postavy ztělesňuje Hamlet?",
+    "options": [
+      "Typ rozpolceného intelektuála a renesančního filozofa, který neustále sebezpytuje, což mu brání v činech.",
+      "Typ hrdinného vojevůdce, který bez emocí a váhání řeší problémy silou a brutálním násilím.",
+      "Typ prostého, komického prosťáčka, který svými hloupostmi odhaluje nedostatky společnosti.",
+      "Typ romantického milence, pro kterého je jediným hnacím motorem sňatek s milovanou osobou."
+    ],
+    "correctAnswer": "Typ rozpolceného intelektuála a renesančního filozofa, který neustále sebezpytuje, což mu brání v činech.",
+    "explanation": "Hamlet je prototypem myslitele. Na rozdíl od primitivní krevní msty zkoumá morální a filozofické důsledky svých činů, proto neustále váhá."
+  },
+  {
+    "id": "dilo_postavy_hamlet_vedlejsi",
+    "type": "matching",
+    "tags": ["dilo_postavy", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "importance": 8,
+    "question": "Přiřaďte vlastnosti a dějové role k vedlejším postavám z Hamleta.",
+    "options": [
+      "Claudius",
+      "Gertruda",
+      "Polonius",
+      "Horacio"
+    ],
+    "correctAnswer": [
+      "Claudius == Zrádný a cynický vrah, uzurpátor trůnu.",
+      "Gertruda == Matka, vnitřně rozpolcená a ovladatelná.",
+      "Polonius == Povýšený a intrikářský otec Ofélie a Laerta.",
+      "Horacio == Čestný a rozvážný přítel."
+    ],
+    "explanation": "Claudius zosobňuje zlo a korupci, Polonius byrokracii a lživost, Gertruda slabost a Horacio představuje jediný morální a přátelský pilíř Hamleta."
+  },
+  {
+    "id": "jazyk_a_styl_hamlet_monology",
+    "type": "multiple_choice",
+    "tags": ["jazyk_a_styl", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "importance": 9,
+    "question": "Které stylistické prvky jsou pro Hamleta nejvíce dominantní a charakteristické?",
+    "options": [
+      "Existenciální a filozofické monology o smyslu života, doprovázené znatelnou ironií a sarkasmem.",
+      "Krátké úderné prozaické dialogy připomínající moderní žurnalistiku bez použití metafor.",
+      "Výhradně komické a vulgární písně odlehčující tragický děj v každém dějství.",
+      "Rozsáhlé popisy přírodních scenerií za pomoci lidové slovesnosti."
+    ],
+    "correctAnswer": "Existenciální a filozofické monology o smyslu života, doprovázené znatelnou ironií a sarkasmem.",
+    "explanation": "Hamlet svými promluvami analyzuje samotnou existenci člověka a na účet dvora používá sarkastické slovní hříčky."
+  },
+  {
+    "id": "rozbor_textu_neumelecky_tema",
+    "type": "multiple_choice",
+    "tags": ["rozbor_textu", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "importance": 5,
+    "question": "Jaká je tematická souvislost mezi připraveným neuměleckým textem a hrou Hamlet?",
+    "options": [
+      "Dánsko tvoří geografický a historický prostor, v němž se Hamlet odehrává, a texty pojednávají o Dánsku a inscenacích her na festivalech.",
+      "Neumělecký text pojednává o výrobě divadelních kostýmů ze 16. století, které měl Hamlet na sobě.",
+      "Neumělecký text je dobovou lékařskou zprávou, která vědecky analyzuje Oféliino psychické selhání.",
+      "Neumělecký text se zabývá zákony krevní msty v Itálii, což tvoří hlavní dějovou linku Hamleta."
+    ],
+    "correctAnswer": "Dánsko tvoří geografický a historický prostor, v němž se Hamlet odehrává, a texty pojednávají o Dánsku a inscenacích her na festivalech.",
+    "explanation": "Zatímco Romeo je zasazen do Itálie, Hamlet je dánským princem. Neumělecký text analyzuje Dánsko a inscenování Shakespeara."
+  },
+  {
+    "id": "rozbor_textu_neumelecky_styly",
+    "type": "text_analysis",
+    "tags": ["rozbor_textu", "jazyk_a_styl", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "importance": 6,
+    "question": "Určete dominantní funkční styly obou ukázek z neuměleckého textu (encyklopedické heslo o Dánsku a rozhovor).",
+    "options": [
+      "Prostěsdělovací/Odborný styl (encyklopedie) a Publicistický styl (rozhovor).",
+      "Umělecký styl (encyklopedie) a Odborný styl (rozhovor).",
+      "Řečnický styl (encyklopedie) a Administrativní styl (rozhovor).",
+      "Publicistický styl (encyklopedie) a Umělecký styl (rozhovor)."
+    ],
+    "correctAnswer": "Prostěsdělovací/Odborný styl (encyklopedie) a Publicistický styl (rozhovor).",
+    "explanation": "Encyklopedie podává exaktní data (odborný/prostěsdělovací s informačním a popisným postupem). Rozhovor (interview) je žánrem publicistiky."
+  },
+  {
+    "id": "rozbor_textu_neumelecky_gramatika",
+    "type": "multiple_choice",
+    "tags": ["gramatika", "rozbor_textu", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "importance": 4,
+    "question": "Jaké gramatické a lexikální jevy se objevují v textech (v encyklopedii o Dánsku)?",
+    "options": [
+      "Slova cizího původu/vlastní jména (Kodaň, Amager), přídavná jména ve 3. stupni (nejzelenější) a číslovky.",
+      "Výhradně historické archaismy a neologismy tvořené autorem textu.",
+      "Veršovaný rytmus, nářeční výrazy a vulgarismy.",
+      "Zvukomalebná slova (onomatopoia) a slovesa v trpném rodě v přítomném čase."
+    ],
+    "correctAnswer": "Slova cizího původu/vlastní jména (Kodaň, Amager), přídavná jména ve 3. stupni (nejzelenější) a číslovky.",
+    "explanation": "Encyklopedický text popisující fakta, lokace a rekordy často využívá číslovky a 3. stupeň přídavných jmen pro zdůraznění 'nej' faktů."
+  },
+  {
+    "id": "definice_drama",
+    "type": "flashcard",
+    "tags": ["definice", "literarni_teorie", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "importance": 10,
+    "question": "Definujte termín 'Drama' (na základě Vysvětlení termínů).",
+    "options": [],
+    "correctAnswer": "Jeden ze tří literárních druhů. Dílo, jehož děj se odvíjí prostřednictvím promluv postav (dialogů a monologů) a je primárně určeno pro divadelní jeviště.",
+    "explanation": "Základní definice divadelního literárního druhu."
+  },
+  {
+    "id": "definice_tragedie",
+    "type": "flashcard",
+    "tags": ["definice", "literarni_teorie", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "importance": 10,
+    "question": "Definujte termín 'Tragédie'.",
+    "options": [],
+    "correctAnswer": "Dramatický žánr s vážným dějem, ve kterém hlavní hrdinové bojují s nepřekonatelnými překážkami a jejich osud končí fatálně (smrtí).",
+    "explanation": "Základní definice vážného divadelního žánru končícího smrtí."
+  },
+  {
+    "id": "definice_komedie",
+    "type": "flashcard",
+    "tags": ["definice", "literarni_teorie", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "importance": 9,
+    "question": "Definujte termín 'Komedie'.",
+    "options": [],
+    "correctAnswer": "Dramatický žánr s veselým, často komickým dějem a šťastným či úsměvným koncem.",
+    "explanation": "Protiklad tragédie s veselým rozuzlením."
+  },
+  {
+    "id": "definice_blankvers",
+    "type": "flashcard",
+    "tags": ["definice", "literarni_teorie", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "importance": 10,
+    "question": "Definujte termín 'Blankvers'.",
+    "options": [],
+    "correctAnswer": "Nerýmovaný pětistopý jambický verš; jedná se o typickou básnickou formu, kterou Shakespeare psal svá dramata.",
+    "explanation": "Stěžejní metrická definice pro zkoušení z Shakespeara."
+  },
+  {
+    "id": "definice_renesance",
+    "type": "flashcard",
+    "tags": ["definice", "literarni_teorie", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "importance": 10,
+    "question": "Definujte pojem 'Renesance'.",
+    "options": [],
+    "correctAnswer": "Kulturní hnutí 14. až 17. století, které se inspirovalo antikou, odvratem od boha a příklonem k pozemskému životu, rozumu a kráse lidské individuality.",
+    "explanation": "Základní myšlenkový rámec Shakespearovy tvorby."
+  },
+  {
+    "id": "definice_humanismus",
+    "type": "flashcard",
+    "tags": ["definice", "literarni_teorie", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "importance": 10,
+    "question": "Definujte pojem 'Humanismus'.",
+    "options": [],
+    "correctAnswer": "Myšlenkový a historický směr zdůrazňující lidský rozum, vzdělání a odklon od církevních dogmat směrem k vědeckému poznání.",
+    "explanation": "Filozofický základ doby, ve které Shakespeare působil."
+  },
+  {
+    "id": "definice_balada",
+    "type": "flashcard",
+    "tags": ["definice", "literarni_teorie", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "importance": 9,
+    "question": "Definujte termín 'Balada'.",
+    "options": [],
+    "correctAnswer": "Lyricko-epický žánr, který se vyznačuje ponurým dějem a většinou tragickým koncem.",
+    "explanation": "Žánr typický například pro zmíněného K. J. Erbena."
+  },
+  {
+    "id": "definice_sonet",
+    "type": "flashcard",
+    "tags": ["definice", "literarni_teorie", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "importance": 9,
+    "question": "Definujte termín 'Sonet' (a specifikujte shakespearovský typ).",
+    "options": [],
+    "correctAnswer": "Lyrická báseň o 14 verších s pevnou strukturou. Shakespearovský typ se skládá ze tří čtyřverší a závěrečného dvojverší s pointou.",
+    "explanation": "Kromě divadelních her psal Shakespeare i sonety se specifickou anglickou strukturou (4,4,4,2)."
+  },
+  {
+    "id": "definice_poezie",
+    "type": "flashcard",
+    "tags": ["definice", "literarni_teorie", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "importance": 9,
+    "question": "Definujte pojem 'Poezie'.",
+    "options": [],
+    "correctAnswer": "Literární forma psaná ve verších, rytmicky a melodicky organizovaná.",
+    "explanation": "Základní formální definice."
+  },
+  {
+    "id": "definice_proza",
+    "type": "flashcard",
+    "tags": ["definice", "literarni_teorie", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "importance": 9,
+    "question": "Definujte pojem 'Próza'.",
+    "options": [],
+    "correctAnswer": "Literární forma psaná volně v běžných větách a odstavcích (nevázaná rytmem a rýmem).",
+    "explanation": "Protiklad k poezii."
+  },
+  {
+    "id": "definice_kompozice_chrono",
+    "type": "flashcard",
+    "tags": ["definice", "literarni_teorie", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "importance": 9,
+    "question": "Definujte 'Chronologickou kompozici'.",
+    "options": [],
+    "correctAnswer": "Způsob uspořádání děje, ve kterém události plynou v přímé časové následnosti za sebou, od začátku do konce.",
+    "explanation": "Tuto strukturu využívá jak Romeo a Julie, tak i Hamlet."
+  },
+  {
+    "id": "definice_monolog",
+    "type": "flashcard",
+    "tags": ["definice", "literarni_teorie", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "importance": 9,
+    "question": "Definujte literární termín 'Monolog'.",
+    "options": [],
+    "correctAnswer": "Souvislá promluva jediné postavy, která zpravidla odhaluje divákovi její nejhlubší vnitřní úvahy a myšlenky.",
+    "explanation": "Zejména v Hamletovi jsou existenciální monology stěžejním prvkem celého díla."
+  },
+  {
+    "id": "definice_metafora",
+    "type": "flashcard",
+    "tags": ["definice", "literarni_teorie", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "importance": 10,
+    "question": "Definujte termín 'Metafora'.",
+    "options": [],
+    "correctAnswer": "Literární tropus (obrazné pojmenování) spočívající v přenesení významu na základě vnější podobnosti.",
+    "explanation": "Základní poetický nástroj, využívaný hojně například ve vyznáních Romea (Julie jako slunce)."
+  },
+  {
+    "id": "definice_oxymoron",
+    "type": "flashcard",
+    "tags": ["definice", "literarni_teorie", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "importance": 10,
+    "question": "Definujte termín 'Oxymóron'.",
+    "options": [],
+    "correctAnswer": "Spojení slov, jejichž významy se navzájem vylučují (např. 'živá mrtvola', 'zdravý nemocný').",
+    "explanation": "Užíván k vyjádření zmatku a protichůdných citů hrdinů."
+  },
+  {
+    "id": "definice_personifikace",
+    "type": "flashcard",
+    "tags": ["definice", "literarni_teorie", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "importance": 9,
+    "question": "Definujte termín 'Personifikace'.",
+    "options": [],
+    "correctAnswer": "Zosobnění; přisuzování lidských vlastností a schopností neživým věcem nebo abstraktním pojmům.",
+    "explanation": "V Romeovi je často personifikována smrt nebo láska."
+  },
+  {
+    "id": "definice_ironie",
+    "type": "flashcard",
+    "tags": ["definice", "literarni_teorie", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "importance": 9,
+    "question": "Definujte termín 'Ironie'.",
+    "options": [],
+    "correctAnswer": "Záměrné užití slov v opačném významu, než je jejich doslovný smysl, často za účelem pobavení nebo lehkého zesměšnění.",
+    "explanation": "Typický vyjadřovací prostředek Hamleta k matení dvora."
+  },
+  {
+    "id": "definice_sarkasmus",
+    "type": "flashcard",
+    "tags": ["definice", "literarni_teorie", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "importance": 9,
+    "question": "Definujte pojem 'Sarkasmus'.",
+    "options": [],
+    "correctAnswer": "Kousavá, zraňující a ostře vystupňovaná ironie.",
+    "explanation": "Hamlet používá sarkasmus jako zbraň proti Poloniovi a Claudiovi."
+  },
+  {
+    "id": "definice_styl_prostesdelovaci",
+    "type": "flashcard",
+    "tags": ["definice", "gramatika", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "importance": 9,
+    "question": "Definujte 'Prostěsdělovací styl'.",
+    "options": [],
+    "correctAnswer": "Funkční styl běžné každodenní komunikace, zaměřený na prosté předání základní informace.",
+    "explanation": "Pojem vysvětlující vrstvy neuměleckého textu."
+  },
+  {
+    "id": "definice_styl_odborny",
+    "type": "flashcard",
+    "tags": ["definice", "gramatika", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "importance": 9,
+    "question": "Definujte 'Odborný styl'.",
+    "options": [],
+    "correctAnswer": "Funkční styl určený pro přesné sdělování vědeckých, technických a odborných poznatků.",
+    "explanation": "Užití například v encyklopediích (heslo Dánsko)."
+  },
+  {
+    "id": "definice_styl_publicisticky",
+    "type": "flashcard",
+    "tags": ["definice", "gramatika", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "importance": 9,
+    "question": "Definujte 'Publicistický styl'.",
+    "options": [],
+    "correctAnswer": "Funkční styl médií a tisku, jehož cílem je informovat veřejnost, poučit ji a případně přesvědčit.",
+    "explanation": "Užití např. pro rozhovory a reportáže."
+  },
+  {
+    "id": "definice_postup_informacni",
+    "type": "flashcard",
+    "tags": ["definice", "gramatika", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "importance": 9,
+    "question": "Co je to 'Informační slohový postup'?",
+    "options": [],
+    "correctAnswer": "Podává prostá fakta a údaje o tom, co se stalo, děje nebo stane.",
+    "explanation": "Jeden ze slohových postupů vyskytující se v encyklopediích a zprávách."
+  },
+  {
+    "id": "definice_postup_popisny",
+    "type": "flashcard",
+    "tags": ["definice", "gramatika", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "importance": 9,
+    "question": "Co je to 'Popisný slohový postup'?",
+    "options": [],
+    "correctAnswer": "Podrobně vystihuje znaky, vlastnosti a části osob, zvířat, předmětů nebo dějů.",
+    "explanation": "Slouží k vyobrazení daného objektu v textu."
+  },
+  {
+    "id": "definice_postup_uvahovy",
+    "type": "flashcard",
+    "tags": ["definice", "gramatika", "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"],
+    "importance": 9,
+    "question": "Co je to 'Úvahový slohový postup'?",
+    "options": [],
+    "correctAnswer": "Vyjadřuje osobní názory, hodnocení a zamyšlení autora nad daným tématem, aniž by přinášel nová vědecká fakta.",
+    "explanation": "Subjektivní zamyšlení aplikované např. v interview nebo recenzích."
+  }
+]   

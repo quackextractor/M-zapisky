@@ -1,0 +1,1107 @@
+[
+  {
+    "id": "autor_zivot_pavel_vlastni_jmeno",
+    "type": "multiple_choice",
+    "tags": [
+      "autor_zivot",
+      "seznam_all",
+      "seznam_miro"
+    ],
+    "importance": 9,
+    "question": "Jaké bylo vlastní (původní občanské) jméno autora Oty Pavla?",
+    "options": [
+      "Otto Popper",
+      "Karel Čapek",
+      "Ladislav Fuks",
+      "Erich Maria Remarque"
+    ],
+    "correctAnswer": "Otto Popper",
+    "explanation": "Ota Pavel se vlastním jménem jmenoval Otto Popper."
+  },
+  {
+    "id": "autor_zivot_pavel_datum_narozeni",
+    "type": "multiple_choice",
+    "tags": [
+      "autor_zivot",
+      "seznam_all",
+      "seznam_miro"
+    ],
+    "importance": 2,
+    "question": "V jakém přesném datu se narodil Ota Pavel?",
+    "options": [
+      "2. července 1930",
+      "31. března 1973",
+      "15. dubna 1925",
+      "28. října 1918"
+    ],
+    "correctAnswer": "2. července 1930",
+    "explanation": "Ota Pavel se narodil 2. července 1930 v Praze."
+  },
+  {
+    "id": "autor_zivot_pavel_misto_narozeni",
+    "type": "multiple_choice",
+    "tags": [
+      "autor_zivot",
+      "seznam_all",
+      "seznam_miro"
+    ],
+    "importance": 4,
+    "question": "Kde se narodil a kde také zemřel Ota Pavel?",
+    "options": [
+      "v Praze",
+      "v Buštěhradě",
+      "v Kladně",
+      "v Terezíně"
+    ],
+    "correctAnswer": "v Praze",
+    "explanation": "Ota Pavel se narodil i zemřel v Praze, ačkoliv rodina během války žila v Buštěhradě."
+  },
+  {
+    "id": "autor_zivot_pavel_datum_umrti",
+    "type": "multiple_choice",
+    "tags": [
+      "autor_zivot",
+      "seznam_all",
+      "seznam_miro"
+    ],
+    "importance": 2,
+    "question": "Kdy přesně zemřel Ota Pavel?",
+    "options": [
+      "31. března 1973",
+      "2. července 1930",
+      "15. srpna 1984",
+      "17. listopadu 1989"
+    ],
+    "correctAnswer": "31. března 1973",
+    "explanation": "Ota Pavel zemřel 31. března 1973."
+  },
+  {
+    "id": "autor_zivot_pavel_povolani",
+    "type": "multiple_choice",
+    "tags": [
+      "autor_zivot",
+      "seznam_all",
+      "seznam_miro"
+    ],
+    "importance": 6,
+    "question": "Jaké bylo hlavní občanské povolání Oty Pavla vedle psaní prózy?",
+    "options": [
+      "Sportovní reportér",
+      "Obchodní cestující s ledničkami",
+      "Vojenský lékař na frontě",
+      "Úředník v krematoriu"
+    ],
+    "correctAnswer": "Sportovní reportér",
+    "explanation": "Ota Pavel byl český sportovní reportér a redaktor časopisů."
+  },
+  {
+    "id": "autor_zivot_pavel_casopisy",
+    "type": "multiple_choice",
+    "tags": [
+      "autor_zivot",
+      "seznam_all",
+      "seznam_miro"
+    ],
+    "importance": 3,
+    "question": "Ve kterých časopisech působil Ota Pavel jako redaktor?",
+    "options": [
+      "Stadion a Československý voják",
+      "Lidové noviny a Národní listy",
+      "Mladý svět a Květy",
+      "Rudé právo a Haló noviny"
+    ],
+    "correctAnswer": "Stadion a Československý voják",
+    "explanation": "Působil jako redaktor časopisů Stadion a Československý voják."
+  },
+  {
+    "id": "autor_zivot_pavel_bydliste_valka",
+    "type": "multiple_choice",
+    "tags": [
+      "autor_zivot",
+      "seznam_all",
+      "seznam_miro"
+    ],
+    "importance": 5,
+    "question": "Kde žila rodina Oty Pavla během nacistické okupace?",
+    "options": [
+      "V Buštěhradě",
+      "Přímo v centru Prahy",
+      "V Londýně v exilu",
+      "V Terezíně po celou dobu války"
+    ],
+    "correctAnswer": "V Buštěhradě",
+    "explanation": "Během nacistické okupace žila rodina v Buštěhradě."
+  },
+  {
+    "id": "autor_zivot_pavel_naborzenstvi_rodicu",
+    "type": "multiple_choice",
+    "tags": [
+      "autor_zivot",
+      "seznam_all",
+      "seznam_miro"
+    ],
+    "importance": 8,
+    "question": "Jaký byl náboženský původ rodičů Oty Pavla?",
+    "options": [
+      "Tatínek byl Žid a maminka křesťanka",
+      "Oba rodiče byli ortodoxní Židé",
+      "Oba rodiče byli katolíci",
+      "Tatínek byl křesťan a maminka Židovka"
+    ],
+    "correctAnswer": "Tatínek byl Žid a maminka křesťanka",
+    "explanation": "Tatínek Oty Pavla byl Žid, zatímco maminka byla křesťanka."
+  },
+  {
+    "id": "autor_zivot_pavel_koncentracni_tabor",
+    "type": "multiple_choice",
+    "tags": [
+      "autor_zivot",
+      "seznam_all",
+      "seznam_miro"
+    ],
+    "importance": 9,
+    "question": "Kteří rodinní příslušníci Oty Pavla byli během druhé světové války odveleni do koncentračního tábora?",
+    "options": [
+      "Jeho otec a starší bratři",
+      "Jeho maminka a sestry",
+      "Pouze jeho starší bratři, otec se ukrýval",
+      "Sám Ota Pavel a jeho maminka"
+    ],
+    "correctAnswer": "Jeho otec a starší bratři",
+    "explanation": "Jeho otec a starší bratři byli během války odveleni do koncentračního tábora."
+  },
+  {
+    "id": "autor_zivot_pavel_pritel_lustig",
+    "type": "multiple_choice",
+    "tags": [
+      "autor_zivot",
+      "seznam_all",
+      "seznam_miro"
+    ],
+    "importance": 6,
+    "question": "Se kterým známým spisovatelem se Ota Pavel po válce přátelil a který mu nabídl práci v rozhlase?",
+    "options": [
+      "S Arnoštem Lustigem",
+      "S Karlem Čapkem",
+      "S Ladislavem Fuksem",
+      "S Bohumilem Hrabalem"
+    ],
+    "correctAnswer": "S Arnoštem Lustigem",
+    "explanation": "Pavel se po válce přátelil s Arnoštem Lustigem, který se znal s jeho bratry z Terezína a nabídl mu práci v rozhlase."
+  },
+  {
+    "id": "literarni_teorie_obdobi",
+    "type": "multiple_choice",
+    "tags": [
+      "literarni_teorie",
+      "seznam_all",
+      "seznam_miro"
+    ],
+    "importance": 9,
+    "question": "Do jakého literárního období a proudu se nejčastěji řadí dílo Oty Pavla Smrt krásných srnců?",
+    "options": [
+      "Česká próza 2. poloviny 20. století s tematikou druhé světové války a osudů Židů",
+      "Česká literatura národního obrození v 19. století",
+      "Meziválečná demokratická próza z období 1. republiky",
+      "Světová sci-fi a dystopie 20. století"
+    ],
+    "correctAnswer": "Česká próza 2. poloviny 20. století s tematikou druhé světové války a osudů Židů",
+    "explanation": "Ota Pavel patří do české prózy 2. pol. 20. stol., která reflektuje 2. světovou válku a osudy Židů."
+  },
+  {
+    "id": "literarni_teorie_kontext_doby",
+    "type": "multiple_choice",
+    "tags": [
+      "literarni_teorie",
+      "seznam_all",
+      "seznam_miro"
+    ],
+    "importance": 8,
+    "question": "Jaká historická období přímo zachycuje kniha Smrt krásných srnců?",
+    "options": [
+      "Období první republiky, léta nacistické okupace a poválečnou dobu (nástup totality)",
+      "Pouze období druhé světové války a koncentračních táborů",
+      "Výhradně poválečné období a komunistický režim",
+      "První světovou válku a následnou hospodářskou krizi"
+    ],
+    "correctAnswer": "Období první republiky, léta nacistické okupace a poválečnou dobu (nástup totality)",
+    "explanation": "Dílo zachycuje život rodiny před vypuknutím války (1. republika), během okupace a následně i v poválečných letech."
+  },
+  {
+    "id": "dilo_obsah_casoprostor_trideni",
+    "type": "sorting",
+    "tags": [
+      "dilo_obsah",
+      "seznam_all",
+      "seznam_miro"
+    ],
+    "importance": 8,
+    "question": "Seřaďte historická období tak, jak chronologicky probíhají na pozadí povídek ve sbírce Smrt krásných srnců:",
+    "options": [
+      "Předválečné období první republiky (dovolené u Proška, úspěch v Elektroluxu)",
+      "Těžká léta nacistické okupace (ztráta majetku, shánění masa, transporty)",
+      "Poválečné roky a nástup totalitního režimu (stárnutí tatínka)"
+    ],
+    "correctAnswer": [
+      "Předválečné období první republiky (dovolené u Proška, úspěch v Elektroluxu)",
+      "Těžká léta nacistické okupace (ztráta majetku, shánění masa, transporty)",
+      "Poválečné roky a nástup totalitního režimu (stárnutí tatínka)"
+    ],
+    "explanation": "Děj je kompozičně chronologický: nejprve bezstarostná první republika, poté útrapy okupace a na závěr poválečné stáří tatínka."
+  },
+  {
+    "id": "autor_zivot_dalsi_dila_sport",
+    "type": "multiple_choice",
+    "tags": [
+      "autor_zivot",
+      "seznam_all",
+      "seznam_miro"
+    ],
+    "importance": 5,
+    "question": "Které z následujících děl napsal Ota Pavel a čerpá ze sportovního prostředí?",
+    "options": [
+      "Dukla mezi mrakodrapy",
+      "Spalovač mrtvol",
+      "Bílá nemoc",
+      "Kytice"
+    ],
+    "correctAnswer": "Dukla mezi mrakodrapy",
+    "explanation": "Ota Pavel je autorem sportovní reportážní knihy Dukla mezi mrakodrapy (1964)."
+  },
+  {
+    "id": "autor_zivot_dalsi_dila_pohar",
+    "type": "multiple_choice",
+    "tags": [
+      "autor_zivot",
+      "seznam_all",
+      "seznam_miro"
+    ],
+    "importance": 4,
+    "question": "Jak se jmenuje další sportovní kniha Oty Pavla vydaná v roce 1971?",
+    "options": [
+      "Pohár od Pánaboha",
+      "R.U.R.",
+      "Velký Gatsby",
+      "Ostře sledované vlaky"
+    ],
+    "correctAnswer": "Pohár od Pánaboha",
+    "explanation": "Kniha se jmenuje Pohár od Pánaboha."
+  },
+  {
+    "id": "autor_zivot_dalsi_dila_ryby",
+    "type": "multiple_choice",
+    "tags": [
+      "autor_zivot",
+      "seznam_all",
+      "seznam_miro"
+    ],
+    "importance": 6,
+    "question": "Jak se jmenuje proslulá vzpomínková kniha Oty Pavla (z roku 1974), která tematicky volně navazuje na Smrt krásných srnců?",
+    "options": [
+      "Jak jsem potkal ryby",
+      "Na západní frontě klid",
+      "Osudy dobrého vojáka Švejka za světové války",
+      "Farma zvířat"
+    ],
+    "correctAnswer": "Jak jsem potkal ryby",
+    "explanation": "Další významnou autobiografickou a rybářskou knihou Oty Pavla je Jak jsem potkal ryby."
+  },
+  {
+    "id": "literarni_teorie_srovnani_fuks",
+    "type": "multiple_choice",
+    "tags": [
+      "literarni_teorie",
+      "seznam_all",
+      "seznam_miro"
+    ],
+    "importance": 8,
+    "question": "V čem spočívá hlavní rozdíl ve zpracování tématu druhé světové války a židovské otázky mezi Otou Pavlem (Smrt krásných srnců) a Ladislavem Fuksem (Spalovač mrtvol)?",
+    "options": [
+      "Pavel píše nostalgicky a s laskavým humorem, zatímco Fuks tvoří psychologický horor zaměřený na rozpad osobnosti vlivem nacistické ideologie.",
+      "Pavel popisuje přímé boje vojáků v zákopech, zatímco Fuks analyzuje pouze život v koncentračních táborech.",
+      "Fuks používá výhradně objektivní historická fakta, zatímco Pavel tvoří dystopickou sci-fi z budoucnosti.",
+      "Pavel ukazuje bezproblémové soužití Židů a nacistů, zatímco Fuks se zaměřuje na poválečnou emigraci."
+    ],
+    "correctAnswer": "Pavel píše nostalgicky a s laskavým humorem, zatímco Fuks tvoří psychologický horor zaměřený na rozpad osobnosti vlivem nacistické ideologie.",
+    "explanation": "Zatímco Ota Pavel zpracovává těžké téma pomocí poetických vzpomínek a jemného humoru, Ladislav Fuks vytváří psychologický horor a grotesku zkoumající zfanatizování hlavní postavy."
+  },
+  {
+    "id": "literarni_teorie_srovnani_remarque",
+    "type": "multiple_choice",
+    "tags": [
+      "literarni_teorie",
+      "seznam_all",
+      "seznam_miro"
+    ],
+    "importance": 7,
+    "question": "Jaký je hlavní rozdíl v zobrazení války u Oty Pavla ve srovnání s románem Na západní frontě klid od E. M. Remarqua?",
+    "options": [
+      "Remarque zachycuje přímý pohled vojáků v zákopech 1. světové války, zatímco Pavel se soustředí na domovské zázemí a civilní útrapy rodiny během 2. světové války.",
+      "Remarque píše humorné příběhy z týlu, zatímco Pavel podrobně popisuje krvavé bitvy a vojenskou strategii německé armády.",
+      "Remarque zpracovává osudy židovských rodin v Praze, zatímco Pavel píše o amerických vojácích na plážích v Normandii.",
+      "Oba autoři se zcela vyhýbají popisu války a zaměřují se výhradně na milostné vztahy hlavních hrdinů v mírových dobách."
+    ],
+    "correctAnswer": "Remarque zachycuje přímý pohled vojáků v zákopech 1. světové války, zatímco Pavel se soustředí na domovské zázemí a civilní útrapy rodiny během 2. světové války.",
+    "explanation": "Společným tématem je absurdita války, ale Remarque ji ukazuje přímo v boji v první světové, zatímco Pavel ukazuje civilní dopad z pohledu chlapce ve druhé světové válce."
+  },
+  {
+    "id": "literarni_teorie_druh_epika",
+    "type": "flashcard",
+    "tags": [
+      "literarni_teorie",
+      "seznam_all",
+      "seznam_miro"
+    ],
+    "importance": 10,
+    "question": "Jaký je literární druh knihy Smrt krásných srnců?",
+    "options": [],
+    "correctAnswer": "Epika.",
+    "explanation": "Literární druh díla je epika (vypráví dějový příběh)."
+  },
+  {
+    "id": "literarni_teorie_zanr_povidky",
+    "type": "multiple_choice",
+    "tags": [
+      "literarni_teorie",
+      "seznam_all",
+      "seznam_miro"
+    ],
+    "importance": 9,
+    "question": "Jaký je literární žánr knihy Smrt krásných srnců?",
+    "options": [
+      "Sbírka krátkých autobiografických povídek",
+      "Rozsáhlý psychologický román",
+      "Divadelní hra - tragikomedie",
+      "Epická báseň (epos)"
+    ],
+    "correctAnswer": "Sbírka krátkých autobiografických povídek",
+    "explanation": "Dílo je sbírkou krátkých autobiografických povídek."
+  },
+  {
+    "id": "literarni_teorie_forma_proza",
+    "type": "flashcard",
+    "tags": [
+      "literarni_teorie",
+      "seznam_all",
+      "seznam_miro"
+    ],
+    "importance": 10,
+    "question": "Jakou literární formou je psána sbírka Smrt krásných srnců?",
+    "options": [],
+    "correctAnswer": "Próza.",
+    "explanation": "Kniha je psána v próze (nevešovaný text členěný na odstavce a kapitolky)."
+  },
+  {
+    "id": "dilo_obsah_casoprostor_lokace",
+    "type": "multiple_choice",
+    "tags": [
+      "dilo_obsah",
+      "seznam_all",
+      "seznam_miro"
+    ],
+    "importance": 8,
+    "question": "Ve kterých konkrétních lokacích se převážně odehrává děj povídek?",
+    "options": [
+      "V Buštěhradě, v křivoklátských lesích a u řeky Berounky",
+      "Na farmě v Anglii a v dystopickém Londýně",
+      "V zákopech západní fronty a v Berlíně",
+      "Výhradně v pražském krematoriu a jeho okolí"
+    ],
+    "correctAnswer": "V Buštěhradě, v křivoklátských lesích a u řeky Berounky",
+    "explanation": "Časoprostor příběhů je úzce spjat s Buštěhradem a přírodou Křivoklátska kolem řeky Berounky."
+  },
+  {
+    "id": "dilo_obsah_pocet_povidek",
+    "type": "multiple_choice",
+    "tags": [
+      "dilo_obsah",
+      "seznam_all",
+      "seznam_miro"
+    ],
+    "importance": 3,
+    "question": "Z kolika povídek se skládá soubor Smrt krásných srnců?",
+    "options": [
+      "Z osmi povídek",
+      "Z pěti povídek",
+      "Ze dvanácti povídek",
+      "Z patnácti povídek"
+    ],
+    "correctAnswer": "Z osmi povídek",
+    "explanation": "Soubor tvoří přesně osm chronologicky seřazených povídek."
+  },
+  {
+    "id": "dilo_obsah_povidky_predvalecne",
+    "type": "multiple_choice",
+    "tags": [
+      "dilo_obsah",
+      "seznam_all",
+      "seznam_miro"
+    ],
+    "importance": 5,
+    "question": "O čem převážně pojednávají úvodní předválečné povídky sbírky (např. Nejdražší ve střední Evropě, Ve službách Švédska)?",
+    "options": [
+      "O tom, jak tatínek pracoval jako zástupce švédské firmy Elektrolux, prodával ledničky a často unikal k rybaření.",
+      "O tom, jak se tatínek stal vojákem a bojoval v první světové válce proti Švédsku.",
+      "O skrývání rodiny v lesích Křivoklátska před nacistickým pronásledováním.",
+      "O poválečném budování socialismu a zestátnění tatínkova rybníka."
+    ],
+    "correctAnswer": "O tom, jak tatínek pracoval jako zástupce švédské firmy Elektrolux, prodával ledničky a často unikal k rybaření.",
+    "explanation": "První povídky představují tatínka jako úspěšného obchodního zástupce Elektroluxu v období blahobytu."
+  },
+  {
+    "id": "dilo_obsah_povidky_valecne",
+    "type": "multiple_choice",
+    "tags": [
+      "dilo_obsah",
+      "seznam_all",
+      "seznam_miro"
+    ],
+    "importance": 6,
+    "question": "Co je hlavním motivem válečných povídek (např. Smrt krásných srnců, Kapři pro Wehrmacht)?",
+    "options": [
+      "Rodina přichází o majetek (i rybník) a otec zoufale bojuje o přežití, shání maso a kapry pro své syny.",
+      "Tatínek získává vysoké postavení ve wehrmachtu jako překladatel.",
+      "Ota Pavel vstupuje do armády a účastní se přímých bojů na frontě.",
+      "Rodina emigruje do Švédska za pomocí ředitele Korálka."
+    ],
+    "correctAnswer": "Rodina přichází o majetek (i rybník) a otec zoufale bojuje o přežití, shání maso a kapry pro své syny.",
+    "explanation": "Ve válečné části (Smrt krásných srnců, Kapři pro Wehrmacht) rodina chudne a otec musí shánět jídlo, často nelegálně."
+  },
+  {
+    "id": "dilo_obsah_povidky_povalecne",
+    "type": "multiple_choice",
+    "tags": [
+      "dilo_obsah",
+      "seznam_all",
+      "seznam_miro"
+    ],
+    "importance": 4,
+    "question": "Jaké období zachycují povídky z konce sbírky (např. Jak jsme se střetli s Vlky, Prase nebude!)?",
+    "options": [
+      "Poválečné osudy rodiny a stárnutí tatínka",
+      "Tatínkovo dětství a jeho první rybářské úspěchy",
+      "Zážitky Oty Pavla z jeho působení v rozhlase s Arnoštem Lustigem",
+      "Nástup tatínka do funkce ředitele Elektroluxu"
+    ],
+    "correctAnswer": "Poválečné osudy rodiny a stárnutí tatínka",
+    "explanation": "Závěrečné povídky popisují stárnoucího otce v období po skončení druhé světové války."
+  },
+  {
+    "id": "dilo_obsah_zaver_dila",
+    "type": "multiple_choice",
+    "tags": [
+      "dilo_obsah",
+      "seznam_all",
+      "seznam_miro"
+    ],
+    "importance": 9,
+    "question": "Jak lze charakterizovat závěr celé sbírky?",
+    "options": [
+      "Je jasně uzavřený a přestože je nostalgický a tatínek umírá, není primárně tragický, protože zdůrazňuje tatínkovu nerezignaci a vnitřní sílu.",
+      "Je zcela otevřený, čtenář se nedozví, zda tatínek válku přežil, či nikoliv.",
+      "Je hluboce tragický, rodina je kompletně vyvražděna v koncentračním táboře.",
+      "Je komický a absurdní, otec zázračně omládne a vrací se k prodeji ledniček."
+    ],
+    "correctAnswer": "Je jasně uzavřený a přestože je nostalgický a tatínek umírá, není primárně tragický, protože zdůrazňuje tatínkovu nerezignaci a vnitřní sílu.",
+    "explanation": "Závěr je uzavřený, nostalgicky reflektuje stárnutí a smrt otce, avšak hlavní poselství je pozitivní – otec si zachoval odhodlání a nikdy nerezignoval."
+  },
+  {
+    "id": "dilo_titul_vysvetleni",
+    "type": "multiple_choice",
+    "tags": [
+      "dilo_titul",
+      "seznam_all",
+      "seznam_miro"
+    ],
+    "importance": 10,
+    "question": "Co symbolizuje a k čemu konkrétně odkazuje název knihy 'Smrt krásných srnců'?",
+    "options": [
+      "K válečné události, kdy tatínek ilegálně loví srnce pro své syny před jejich transportem, a symbolicky ke konci bezstarostné krásy dětství zničené válkou.",
+      "K tragické nehodě v křivoklátských lesích, kdy pes Holan omylem zabil stádo vzácných srnců patřících firmě Elektrolux.",
+      "K tatínkovu loveckému koníčku před válkou, kdy sbíral srnčí parohy do své sbírky.",
+      "Je to pouze metafora pro zabavené kapry, které tatínek musel odevzdat wehrmachtu."
+    ],
+    "correctAnswer": "K válečné události, kdy tatínek ilegálně loví srnce pro své syny před jejich transportem, a symbolicky ke konci bezstarostné krásy dětství zničené válkou.",
+    "explanation": "Název odkazuje na obětavý čin otce, který nasadil život, aby sehnal srnčí maso synům odcházejícím do koncentračního tábora, a zároveň to symbolizuje konec nevinného dětství."
+  },
+  {
+    "id": "jazyk_a_styl_atmosfera",
+    "type": "multiple_choice",
+    "tags": [
+      "jazyk_a_styl",
+      "seznam_all",
+      "seznam_miro"
+    ],
+    "importance": 8,
+    "question": "Jaká atmosféra je pro dílo Smrt krásných srnců typická?",
+    "options": [
+      "Něžně nostalgická, poetická a komorní, doplněná o jemný a laskavý humor i v kontextu tragické okupace.",
+      "Chladně odtažitá, objektivní a přísně reportážní, s využitím surových popisů násilí.",
+      "Hrozivá, dystopická a beznadějná, evokující neustálý strach z všudypřítomné policie (psychologický horor).",
+      "Zcela komická, absurdní a satirická bez jakéhokoliv vážného podtextu."
+    ],
+    "correctAnswer": "Něžně nostalgická, poetická a komorní, doplněná o jemný a laskavý humor i v kontextu tragické okupace.",
+    "explanation": "Kniha vyniká něžně nostalgickou a poetickou atmosférou s laskavým humorem navzdory tíživému období."
+  },
+  {
+    "id": "dilo_postavy_leo_popper_charakteristika",
+    "type": "multiple_choice",
+    "tags": [
+      "dilo_postavy",
+      "seznam_all",
+      "seznam_miro"
+    ],
+    "importance": 9,
+    "question": "Jaké vlastnosti nejlépe vystihují postavu tatínka Lea Poppera před vypuknutím války?",
+    "options": [
+      "Velký snílek, dobrodruh, energický obchodní cestující s humorem, který vášnivě miloval rybaření a ženy.",
+      "Uzavřený, asketický a tichý úředník, který se bál jakéhokoliv risku.",
+      "Zákeřný pokrytec, který se snažil udávat své sousedy nacistům.",
+      "Chladný generální ředitel nadnárodní firmy, který pohrdal přírodou."
+    ],
+    "correctAnswer": "Velký snílek, dobrodruh, energický obchodní cestující s humorem, který vášnivě miloval rybaření a ženy.",
+    "explanation": "Tatínek byl před válkou energický snílek, úspěšný obchodník, vášnivý rybář a milovník života i žen."
+  },
+  {
+    "id": "dilo_postavy_leo_popper_hlaska",
+    "type": "multiple_choice",
+    "tags": [
+      "dilo_postavy",
+      "seznam_all",
+      "seznam_miro"
+    ],
+    "importance": 6,
+    "question": "Jakou charakteristickou větu velmi rád říkal tatínek Leo Popper?",
+    "options": [
+      "„Vyděláme na tom majlant!“",
+      "„Válka je mír, svoboda je otroctví.“",
+      "„Čím hůře, tím lépe.“",
+      "„Všechno je marnost, ryby nevyjímaje.“"
+    ],
+    "correctAnswer": "„Vyděláme na tom majlant!“",
+    "explanation": "Tatínek jako věčný obchodník a snílek s oblibou opakoval větu: „Vyděláme na tom majlant!“"
+  },
+  {
+    "id": "dilo_postavy_leo_popper_vyvoj",
+    "type": "multiple_choice",
+    "tags": [
+      "dilo_postavy",
+      "seznam_all",
+      "seznam_miro"
+    ],
+    "importance": 9,
+    "question": "Jakým psychologickým vývojem projde tatínek Leo Popper během děje knihy?",
+    "options": [
+      "Z marnotratného snílka a obchodníka se vlivem okupace mění ve statečného a obětavého otce schopného riskovat život pro rodinu.",
+      "Z milujícího otce se pod vlivem stresu stane udavač, který zradí vlastní rodinu.",
+      "Z chudého rybáře se postupně vypracuje na bohatého ředitele firmy Elektrolux ve Švédsku.",
+      "Z neustále smutného pesimisty se díky válce stane bezstarostný a veselý komik."
+    ],
+    "correctAnswer": "Z marnotratného snílka a obchodníka se vlivem okupace mění ve statečného a obětavého otce schopného riskovat život pro rodinu.",
+    "explanation": "Psychologický vývoj postavy spočívá v proměně z výstředního obchodníka za blahobytu na obětavého a statečného otce za války."
+  },
+  {
+    "id": "dilo_postavy_vypravec_identita",
+    "type": "multiple_choice",
+    "tags": [
+      "dilo_postavy",
+      "seznam_all",
+      "seznam_miro"
+    ],
+    "importance": 8,
+    "question": "Kdo je vypravěčem příběhů ve sbírce Smrt krásných srnců a jakou má v rodině přezdívku?",
+    "options": [
+      "Nejmladší syn Ota, nazývaný „Prdelka“.",
+      "Tatínek Leo Popper, nazývaný „Švéd“.",
+      "Strejda Prošek, nazývaný „Král pytláků“.",
+      "Maminka Hermína, nazývaná „Paní ředitelová“."
+    ],
+    "correctAnswer": "Nejmladší syn Ota, nazývaný „Prdelka“.",
+    "explanation": "Vypravěčem je sám Ota Pavel, tehdy nejmladší syn přezdívaný „Prdelka“."
+  },
+  {
+    "id": "dilo_postavy_vypravec_vyvoj",
+    "type": "multiple_choice",
+    "tags": [
+      "dilo_postavy",
+      "seznam_all",
+      "seznam_miro"
+    ],
+    "importance": 7,
+    "question": "Jaký je psychologický vývoj vypravěče (Oty) v průběhu povídek?",
+    "options": [
+      "Z naivního, bezstarostného chlapce předčasně dospívá a s vděčností reflektuje hrdinství a útrapy svého otce i rodiny.",
+      "Z ustrašeného chlapce se stává brutálním mstitelem, který s puškou odchází na frontu.",
+      "Zpočátku otce obdivuje, ale po válce ho začne hluboce nenávidět pro jeho chyby.",
+      "Z chudého venkovana se vypracuje v elitního funkcionáře totalitní strany a zřekne se rodiny."
+    ],
+    "correctAnswer": "Z naivního, bezstarostného chlapce předčasně dospívá a s vděčností reflektuje hrdinství a útrapy svého otce i rodiny.",
+    "explanation": "Vlivem válečných událostí Ota předčasně dospívá a uvědomuje si s respektem statečnost svých rodičů."
+  },
+  {
+    "id": "dilo_postavy_maminka",
+    "type": "multiple_choice",
+    "tags": [
+      "dilo_postavy",
+      "seznam_all",
+      "seznam_miro"
+    ],
+    "importance": 8,
+    "question": "Jak lze charakterizovat postavu maminky Hermíny v knize Smrt krásných srnců?",
+    "options": [
+      "Laskavá, tolerantní křesťanka, která manželovi odpouští jeho prohřešky a vede děti k lásce k vlasti. Dříve snila o Itálii.",
+      "Přísná a panovačná žena židovského původu, která nesnáší pobyt v přírodě a zakazuje otci rybařit.",
+      "Nezodpovědná marnotratnice, která rodinu zadluží nákupy drahých spotřebičů od firmy Elektrolux.",
+      "Zákeřná a žárlivá manželka, která otce nakonec udá okupačním úřadům."
+    ],
+    "correctAnswer": "Laskavá, tolerantní křesťanka, která manželovi odpouští jeho prohřešky a vede děti k lásce k vlasti. Dříve snila o Itálii.",
+    "explanation": "Maminka Hermína je křesťanka, mimořádně tolerantní a odpouštějící žena, jejímž snem byla dovolená v Itálii."
+  },
+  {
+    "id": "dilo_postavy_prosek",
+    "type": "multiple_choice",
+    "tags": [
+      "dilo_postavy",
+      "seznam_all",
+      "seznam_miro"
+    ],
+    "importance": 8,
+    "question": "Kdo byl ve sbírce strejda Prošek?",
+    "options": [
+      "Kamarád rodiny z Luhu pod Bánovem, sžitý s přírodou u Berounky, 'král pytláků' s věrným psem Holanem.",
+      "Vysoký důstojník wehrmachtu, který rodině tajně pomáhal s úkrytem majetku.",
+      "Bohatý ředitel firmy Elektrolux, který tatínka zaměstnal.",
+      "Vzdálený příbuzný z otcovy strany, který emigroval před válkou do Švédska."
+    ],
+    "correctAnswer": "Kamarád rodiny z Luhu pod Bánovem, sžitý s přírodou u Berounky, 'král pytláků' s věrným psem Holanem.",
+    "explanation": "Strejda Prošek byl rodinný přítel z Křivoklátska, král pytláků a majitel psa Holana, který tatínkovi pomohl získat srnce."
+  },
+  {
+    "id": "dilo_postavy_koralek",
+    "type": "multiple_choice",
+    "tags": [
+      "dilo_postavy",
+      "seznam_all",
+      "seznam_miro"
+    ],
+    "importance": 6,
+    "question": "Kdo byl František Korálek v povídkách Oty Pavla?",
+    "options": [
+      "Bohatý generální ředitel firmy Elektrolux, jehož krásná manželka Irma tatínka přitahovala.",
+      "Soused v Buštěhradě, který tatínkovi zabavil rybník s kapry.",
+      "Rozhlasový redaktor a nadřízený Oty Pavla po druhé světové válce.",
+      "Místní četník v Křivoklátských lesích, který pronásledoval strejdu Proška za pytláctví."
+    ],
+    "correctAnswer": "Bohatý generální ředitel firmy Elektrolux, jehož krásná manželka Irma tatínka přitahovala.",
+    "explanation": "Korálek byl ředitel firmy Elektrolux, pro niž tatínek před válkou pracoval jako prodejce."
+  },
+  {
+    "id": "jazyk_a_styl_vypravec",
+    "type": "flashcard",
+    "tags": [
+      "jazyk_a_styl",
+      "seznam_all",
+      "seznam_miro"
+    ],
+    "importance": 10,
+    "question": "Jaký typ vypravěče je primárně využit ve sbírce Smrt krásných srnců?",
+    "options": [],
+    "correctAnswer": "Subjektivní ich-forma (příběhy vypráví sám autor jako postava Ota).",
+    "explanation": "Kniha je vyprávěna v subjektivní ich-formě z pohledu Oty Pavla."
+  },
+  {
+    "id": "jazyk_a_styl_vrstvy_matching",
+    "type": "matching",
+    "tags": [
+      "jazyk_a_styl",
+      "seznam_all",
+      "seznam_miro"
+    ],
+    "importance": 7,
+    "question": "Přiřaďte příklady z textu ke správné jazykové vrstvě či prostředku použitému Otou Pavlem:",
+    "options": [
+      "„embéčka“, „strejda“, „po čuchu“",
+      "„made in Sweden“",
+      "„jděte do prdele s takovým zázrakem“",
+      "místy se objevující česko-židovská mluva"
+    ],
+    "correctAnswer": [
+      "„embéčka“, „strejda“, „po čuchu“ == hovorová čeština",
+      "„made in Sweden“ == cizí slova",
+      "„jděte do prdele s takovým zázrakem“ == vulgarismy",
+      "místy se objevující česko-židovská mluva == slang / hantýrka obchodníků"
+    ],
+    "explanation": "Ota Pavel mísí spisovný jazyk s hovorovou češtinou, vulgarismy, cizími slovy i obchodním slangem."
+  },
+  {
+    "id": "jazyk_a_styl_tropy",
+    "type": "multiple_choice",
+    "tags": [
+      "jazyk_a_styl",
+      "seznam_all",
+      "seznam_miro"
+    ],
+    "importance": 7,
+    "question": "Které stylistické prostředky jsou charakteristické pro styl Oty Pavla v tomto díle?",
+    "options": [
+      "Silně subjektivní text, časté využití metafor, citově zabarvených slov a typické prolínání tragiky a komiky (tragikomedie).",
+      "Přísně objektivní zpravodajský jazyk bez jakýchkoliv emocí, metafor a s absolutní absencí humoru.",
+      "Využití složitých archaismů z 19. století a dlouhých lyrických vsuvek, psaných v blankversu.",
+      "Výhradní použití vulgárního argotu podsvětí a slangových výrazů pro navození kriminální atmosféry."
+    ],
+    "correctAnswer": "Silně subjektivní text, časté využití metafor, citově zabarvených slov a typické prolínání tragiky a komiky (tragikomedie).",
+    "explanation": "Pro Pavla je typická citovost, metaforičnost a tragikomedie (smísení smutku s úsměvností)."
+  },
+  {
+    "id": "jazyk_a_styl_kompozice",
+    "type": "multiple_choice",
+    "tags": [
+      "jazyk_a_styl",
+      "seznam_all",
+      "seznam_miro"
+    ],
+    "importance": 7,
+    "question": "Jaká kompozice (uspořádání děje) je využita napříč celou sbírkou osmi povídek?",
+    "options": [
+      "Chronologická kompozice",
+      "Retrospektivní kompozice",
+      "Rámcová kompozice",
+      "Paralelní kompozice"
+    ],
+    "correctAnswer": "Chronologická kompozice",
+    "explanation": "Povídky jsou seřazeny chronologicky (od předválečných časů, přes válku, až po poválečné osudy)."
+  },
+  {
+    "id": "rozbor_textu_neumelecky_tema",
+    "type": "multiple_choice",
+    "tags": [
+      "rozbor_textu",
+      "seznam_all",
+      "seznam_miro"
+    ],
+    "importance": 5,
+    "question": "Jak tematicky souvisí druhý (neumělecký) text rozebírající fotbalový zápas Dukly s osobou Oty Pavla?",
+    "options": [
+      "Souvisí s jeho povoláním, protože Ota Pavel byl sportovní reportér (psal pro časopis Stadion a knihu Dukla mezi mrakodrapy).",
+      "Ota Pavel se ve svém volném čase věnoval profesionálně fotbalu a byl brankářem týmu Dukla.",
+      "Tatínek Lea Poppera za války tajně zásoboval fotbalový klub Dukla kapry a masem.",
+      "Neumělecký text s autorem nesouvisí, jedná se o historický omyl."
+    ],
+    "correctAnswer": "Souvisí s jeho povoláním, protože Ota Pavel byl sportovní reportér (psal pro časopis Stadion a knihu Dukla mezi mrakodrapy).",
+    "explanation": "Text souvisí s Pavlem skrz sportovní tematiku, neboť byl profesí sportovní reportér a autor sportovních knih."
+  },
+  {
+    "id": "rozbor_textu_neumelecky_styl",
+    "type": "text_analysis",
+    "tags": [
+      "rozbor_textu",
+      "seznam_all",
+      "seznam_miro"
+    ],
+    "importance": 6,
+    "question": "Jaký funkční styl převažuje ve druhém (neuměleckém) textu, který komentuje sportovní události na internetové či čtenářské diskuzi?",
+    "options": [
+      "Publicistický styl (s přesahy do prostěsdělovacího)",
+      "Odborný styl",
+      "Umělecký styl",
+      "Administrativní styl"
+    ],
+    "correctAnswer": "Publicistický styl (s přesahy do prostěsdělovacího)",
+    "explanation": "Text má znaky publicistiky (komentuje a přesvědčuje o události) kombinované s neformálností prostěsdělovací diskuse."
+  },
+  {
+    "id": "rozbor_textu_neumelecky_postup",
+    "type": "text_analysis",
+    "tags": [
+      "rozbor_textu",
+      "seznam_all",
+      "seznam_miro"
+    ],
+    "importance": 6,
+    "question": "Jaký je převládající slohový postup v neuměleckém textu, kde autor klade řečnické otázky a formuluje názory na chyby týmu (např. 'Jak je možné, že dostáváme tolik branek...')?",
+    "options": [
+      "Úvahový ve spojení s informačním",
+      "Výhradně vyprávěcí",
+      "Popisný (popis statického předmětu)",
+      "Charakterizační"
+    ],
+    "correctAnswer": "Úvahový ve spojení s informačním",
+    "explanation": "Text hodnotí situaci, zamyšlí se a argumentuje, což jsou znaky úvahového postupu (spolu se základním informováním o zápase)."
+  },
+  {
+    "id": "rozbor_textu_neumelecky_slang",
+    "type": "multiple_choice",
+    "tags": [
+      "rozbor_textu",
+      "seznam_all",
+      "seznam_miro"
+    ],
+    "importance": 4,
+    "question": "Které jazykové prostředky z neuměleckého textu („Dukláci“, „vápno“, „křídlo“, „včasné dostupování“) řadíme do specifické neoficiální mluvy?",
+    "options": [
+      "Do sportovního slangu",
+      "Do profesního argotu",
+      "Do knižních archaismů",
+      "Mezi poetismy"
+    ],
+    "correctAnswer": "Do sportovního slangu",
+    "explanation": "Tyto termíny představují sportovní slang, neoficiální mluvu zájmové skupiny fotbalistů a fanoušků."
+  },
+  {
+    "id": "rozbor_textu_neumelecky_chyba",
+    "type": "multiple_choice",
+    "tags": [
+      "rozbor_textu",
+      "seznam_all",
+      "seznam_miro"
+    ],
+    "importance": 3,
+    "question": "Jak se klasifikuje výraz „ze standartních situací“, který se objevuje v diskusním neuměleckém textu?",
+    "options": [
+      "Jako gramaticky nespisovný tvar (pravopisná chyba, správně je standardních).",
+      "Jako vysoce spisovný odborný termín z oblasti balistiky.",
+      "Jako nářeční výraz ze severních Čech.",
+      "Jako umělecký neologismus (nové slovo vymyšlené autorem)."
+    ],
+    "correctAnswer": "Jako gramaticky nespisovný tvar (pravopisná chyba, správně je standardních).",
+    "explanation": "Pojem se správně píše se „d“ (standardních). Ve tvaru „standartních“ (s „t“) jde o nespisovnou/pravopisnou chybu typickou pro diskuse."
+  },
+  {
+    "id": "literarni_teorie_definice_epika",
+    "type": "flashcard",
+    "tags": [
+      "definice",
+      "seznam_all",
+      "seznam_miro"
+    ],
+    "importance": 10,
+    "question": "Definujte termín z literární teorie: Epika",
+    "options": [],
+    "correctAnswer": "Literární druh, jehož podstatou je vyprávění příběhu a zachycení konkrétního děje.",
+    "explanation": "Epika je definována jako literární druh zaměřený na vyprávění příběhu a děje."
+  },
+  {
+    "id": "literarni_teorie_definice_povidka",
+    "type": "flashcard",
+    "tags": [
+      "definice",
+      "seznam_all",
+      "seznam_miro"
+    ],
+    "importance": 10,
+    "question": "Definujte termín z literární teorie: Povídka",
+    "options": [],
+    "correctAnswer": "Kratší či středně dlouhý prozaický útvar, jenž má zpravidla jednoduchý děj a málo odboček.",
+    "explanation": "Povídka je kratší až středně dlouhý prozaický text s jednoduchým dějem."
+  },
+  {
+    "id": "literarni_teorie_definice_autobio",
+    "type": "flashcard",
+    "tags": [
+      "definice",
+      "seznam_all",
+      "seznam_miro"
+    ],
+    "importance": 10,
+    "question": "Definujte termín z literární teorie: Autobiografická novela/povídka",
+    "options": [],
+    "correctAnswer": "Literární dílo, v němž autor ztvárňuje (byť částečně beletrizované) události a vzpomínky z vlastního života.",
+    "explanation": "Autobiografie zachycuje autorovy vlastní životní události a vzpomínky."
+  },
+  {
+    "id": "literarni_teorie_definice_proza",
+    "type": "flashcard",
+    "tags": [
+      "definice",
+      "seznam_all",
+      "seznam_miro"
+    ],
+    "importance": 10,
+    "question": "Definujte termín z literární teorie: Próza",
+    "options": [],
+    "correctAnswer": "Přirozená forma jazyka (text není členěn na verše a rýmy), která se člení do odstavců a kapitol.",
+    "explanation": "Próza je přirozená nevešovaná řeč členěná na odstavce."
+  },
+  {
+    "id": "literarni_teorie_definice_ichforma",
+    "type": "flashcard",
+    "tags": [
+      "definice",
+      "seznam_all",
+      "seznam_miro"
+    ],
+    "importance": 10,
+    "question": "Definujte termín z literární teorie: Ich-forma",
+    "options": [],
+    "correctAnswer": "Typ vyprávění z pohledu první osoby jednotného čísla (já). Vypravěč je přímým účastníkem a subjektivním komentátorem událostí.",
+    "explanation": "Ich-forma znamená vyprávění v 1. osobě, vypravěč je většinou postavou děje."
+  },
+  {
+    "id": "literarni_teorie_definice_slang",
+    "type": "flashcard",
+    "tags": [
+      "definice",
+      "seznam_all",
+      "seznam_miro"
+    ],
+    "importance": 10,
+    "question": "Definujte jazykovědný termín: Slang",
+    "options": [],
+    "correctAnswer": "Nespisovná vrstva slovní zásoby, již využívá specifická zájmová nebo profesní skupina pro rychlejší (či stylovou) komunikaci.",
+    "explanation": "Slang využívají specifické skupiny (sportovci, studenti apod.) k mluvě."
+  },
+  {
+    "id": "literarni_teorie_definice_metafora",
+    "type": "flashcard",
+    "tags": [
+      "definice",
+      "seznam_all",
+      "seznam_miro"
+    ],
+    "importance": 10,
+    "question": "Definujte termín z literární teorie: Metafora",
+    "options": [],
+    "correctAnswer": "Obrazné pojmenování (tropus) spočívající v přenesení významu na základě vnější podoby nebo podobnosti.",
+    "explanation": "Metafora přenáší význam na základě vizuální či jiné vnější podobnosti."
+  },
+  {
+    "id": "literarni_teorie_definice_publicistika",
+    "type": "flashcard",
+    "tags": [
+      "definice",
+      "seznam_all",
+      "seznam_miro"
+    ],
+    "importance": 10,
+    "question": "Definujte termín z nauky o slohu: Publicistický styl",
+    "options": [],
+    "correctAnswer": "Funkční styl využívaný primárně v médiích (noviny, reportáže, komentáře), jehož cílem je informovat, zaujmout a přesvědčit čtenáře o určitém postoji.",
+    "explanation": "Publicistický styl se vyskytuje v médiích, má informovat i přesvědčovat."
+  },
+  {
+    "id": "literarni_teorie_definice_uvaha",
+    "type": "flashcard",
+    "tags": [
+      "definice",
+      "seznam_all",
+      "seznam_miro"
+    ],
+    "importance": 10,
+    "question": "Definujte termín z nauky o slohu: Úvahový postup",
+    "options": [],
+    "correctAnswer": "Slohový postup užívaný v momentě, kdy autor hodnotí situaci, zamyšlí se, argumentuje a hledá na své otázky odpovědi.",
+    "explanation": "Úvahový postup stojí na zamyšlení, hodnocení a argumentaci autora."
+  },
+  {
+    "id": "literarni_teorie_definice_chronologie",
+    "type": "flashcard",
+    "tags": [
+      "definice",
+      "seznam_all",
+      "seznam_miro"
+    ],
+    "importance": 10,
+    "question": "Definujte termín z literární teorie: Chronologická kompozice",
+    "options": [],
+    "correctAnswer": "Uspořádání děje přísně podle časové posloupnosti, jak události následovaly za sebou.",
+    "explanation": "Chronologický postup zachovává přirozený tok času."
+  },
+  {
+    "id": "literarni_teorie_definice_hovorova_cestina",
+    "type": "flashcard",
+    "tags": [
+      "definice",
+      "seznam_all",
+      "seznam_miro"
+    ],
+    "importance": 10,
+    "question": "Definujte jazykovědný termín: Hovorová čeština",
+    "options": [],
+    "correctAnswer": "Mluvená podoba spisovného jazyka, užívaná v běžné, neoficiální komunikaci.",
+    "explanation": "Hovorová čeština je stále součástí spisovného jazyka, ale v uvolněnější, mluvené podobě."
+  },
+  {
+    "id": "literarni_teorie_definice_vulgarismus",
+    "type": "flashcard",
+    "tags": [
+      "definice",
+      "seznam_all",
+      "seznam_miro"
+    ],
+    "importance": 10,
+    "question": "Definujte jazykovědný termín: Vulgarismus",
+    "options": [],
+    "correctAnswer": "Hrubý, neslušný či tabuizovaný výraz.",
+    "explanation": "Vulgarismy jsou nespisovná, urážlivá či hrubá slova."
+  },
+  {
+    "id": "literarni_teorie_definice_tragikomedie",
+    "type": "flashcard",
+    "tags": [
+      "definice",
+      "seznam_all",
+      "seznam_miro"
+    ],
+    "importance": 10,
+    "question": "Definujte termín z literární teorie: Tragikomedie",
+    "options": [],
+    "correctAnswer": "Žánr či stylistický prvek, který spojuje vážné, smutné a tragické momenty s prvky humoru a komiky.",
+    "explanation": "Tragikomedie kombinuje komické prvky s hluboce smutným a tragickým podkladem."
+  },
+  {
+    "id": "literarni_teorie_definice_groteska",
+    "type": "flashcard",
+    "tags": [
+      "definice",
+      "seznam_all",
+      "seznam_miro"
+    ],
+    "importance": 10,
+    "question": "Definujte termín z literární teorie: Groteska",
+    "options": [],
+    "correctAnswer": "Literární útvar nebo prvek využívající nadsázku, deformaci reality a spojení děsivého s komickým.",
+    "explanation": "Groteska staví na deformaci, absurditě a bizarním spojení hrůzy a smíchu."
+  },
+  {
+    "id": "literarni_teorie_definice_prostesdelovaci",
+    "type": "flashcard",
+    "tags": [
+      "definice",
+      "seznam_all",
+      "seznam_miro"
+    ],
+    "importance": 10,
+    "question": "Definujte termín z nauky o slohu: Prostěsdělovací styl",
+    "options": [],
+    "correctAnswer": "Styl běžné každodenní komunikace, sloužící k rychlé výměně informací.",
+    "explanation": "Prostěsdělovací styl se používá v běžném, každodenním hovoru."
+  },
+  {
+    "id": "literarni_teorie_definice_informacni",
+    "type": "flashcard",
+    "tags": [
+      "definice",
+      "seznam_all",
+      "seznam_miro"
+    ],
+    "importance": 10,
+    "question": "Definujte termín z nauky o slohu: Informační postup",
+    "options": [],
+    "correctAnswer": "Slohový postup, který pouze stručně a věcně předkládá fakta (informuje), aniž by je detailně vysvětloval nebo hodnotil.",
+    "explanation": "Informační postup slouží k pouhému a rychlému výčtu faktů."
+  },
+  {
+    "id": "literarni_teorie_definice_lidova_slovesnost",
+    "type": "flashcard",
+    "tags": [
+      "definice",
+      "seznam_all",
+      "seznam_miro"
+    ],
+    "importance": 10,
+    "question": "Definujte termín z literární teorie: Lidová slovesnost",
+    "options": [],
+    "correctAnswer": "Ústně předávaná lidová tvorba, která nepodléhá přísným autorským právům a odráží moudrost či kulturu obyčejného lidu.",
+    "explanation": "Lidová slovesnost zahrnuje např. pořekadla, písně či pohádky předávané z generace na generaci."
+  }
+]

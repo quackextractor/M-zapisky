@@ -1,0 +1,692 @@
+[
+  {
+    "id": "autor_zivot_ryan_puvod",
+    "type": "multiple_choice",
+    "tags": ["autor_zivot", "seznam_all", "seznam_marian"],
+    "importance": 5,
+    "question": "Jakého původu byl anglický prozaik Patrick Ryan?",
+    "options": [
+      "Irského",
+      "Skotského",
+      "Velšského",
+      "Amerického"
+    ],
+    "correctAnswer": "Irského",
+    "explanation": "Text uvádí, že Patrick Ryan byl anglický prozaik irského původu."
+  },
+  {
+    "id": "autor_zivot_ryan_valka",
+    "type": "multiple_choice",
+    "tags": ["autor_zivot", "seznam_all", "seznam_marian"],
+    "importance": 4,
+    "question": "Ve kterých oblastech sloužil Patrick Ryan během 2. světové války?",
+    "options": [
+      "V severní Africe, Itálii a Řecku.",
+      "V Barmě a Indii.",
+      "Na západní frontě ve Francii a Belgii.",
+      "V tichomořských oblastech a Japonsku."
+    ],
+    "correctAnswer": "V severní Africe, Itálii a Řecku.",
+    "explanation": "Během 2. světové války sloužil v britské armádě a zúčastnil se akcí v severní Africe, Itálii a Řecku."
+  },
+  {
+    "id": "autor_zivot_ryan_povolani",
+    "type": "multiple_choice",
+    "tags": ["autor_zivot", "seznam_all", "seznam_marian"],
+    "importance": 4,
+    "question": "Jaká povolání vykonával Patrick Ryan poté, co se po válce usadil v Leedsu?",
+    "options": [
+      "Pracoval jako manažer a později jako poštmistr.",
+      "Sloužil jako imperiální policista.",
+      "Pracoval jako úředník v dělnické úrazové pojišťovně.",
+      "Byl novinářem a válečným korespondentem."
+    ],
+    "correctAnswer": "Pracoval jako manažer a později jako poštmistr.",
+    "explanation": "Po válce se usadil v Leedsu, pracoval jako manažer a později jako poštmistr."
+  },
+  {
+    "id": "autor_zivot_ryan_casopisy",
+    "type": "multiple_choice",
+    "tags": ["autor_zivot", "seznam_all", "seznam_marian"],
+    "importance": 3,
+    "question": "Do jakých humoristických časopisů začal Patrick Ryan přispívat?",
+    "options": [
+      "Punch, Playboy či Holiday",
+      "The Times a The Guardian",
+      "Tribuna a Národní listy",
+      "Pravda a Izvestija"
+    ],
+    "correctAnswer": "Punch, Playboy či Holiday",
+    "explanation": "Během svého civilního povolání začal přispívat do humoristických časopisů jako Punch, Playboy či Holiday."
+  },
+  {
+    "id": "literarni_teorie_obdobi",
+    "type": "multiple_choice",
+    "tags": ["literarni_teorie", "seznam_all", "seznam_marian"],
+    "importance": 9,
+    "question": "Do jakého literárního období a směru řadíme dílo Jak jsem vyhrál válku?",
+    "options": [
+      "Světová literatura 2. poloviny 20. století, protiválečná satira.",
+      "Světová literatura 19. století, kritický realismus.",
+      "Světová literatura 1. poloviny 20. století, ztracená generace.",
+      "Česká literatura 20. století, legionářská literatura."
+    ],
+    "correctAnswer": "Světová literatura 2. poloviny 20. století, protiválečná satira.",
+    "explanation": "Dílo spadá do světové literatury 2. poloviny 20. století a patří mezi protiválečnou literaturu využívající satiru."
+  },
+  {
+    "id": "autor_zivot_dila_dalsi",
+    "type": "multiple_choice",
+    "tags": ["autor_zivot", "seznam_all", "seznam_marian"],
+    "importance": 4,
+    "question": "Které z následujících děl také napsal Patrick Ryan?",
+    "options": [
+      "How I Became a Yorkshireman",
+      "Farma zvířat",
+      "Na západní frontě klid",
+      "Spalovač mrtvol"
+    ],
+    "correctAnswer": "How I Became a Yorkshireman",
+    "explanation": "Mezi další Ryanova díla patří např. How I Became a Yorkshireman (1967)."
+  },
+  {
+    "id": "rozbor_textu_hasek_srovnani",
+    "type": "multiple_choice",
+    "tags": ["rozbor_textu", "dilo_obsah", "seznam_all", "seznam_marian"],
+    "importance": 8,
+    "question": "V čem spočívá hlavní rozdíl mezi postavami Josefa Švejka a Ernesta Goodbodyho?",
+    "options": [
+      "Švejk je prostý voják, jehož prostoduchost může být obrana, zatímco Goodbody je důstojník, který předpisům naivně a upřímně věří.",
+      "Švejk bojuje ve 2. světové válce, zatímco Goodbody v 1. světové válce.",
+      "Švejk je tragická postava umírající na frontě, zatímco Goodbody válku přežije bez zranění.",
+      "Švejk se snaží stát důstojníkem, zatímco Goodbody touží být degradován na prostého vojína."
+    ],
+    "correctAnswer": "Švejk je prostý voják, jehož prostoduchost může být obrana, zatímco Goodbody je důstojník, který předpisům naivně a upřímně věří.",
+    "explanation": "Text uvádí, že Švejk je prostý voják s domnělou prostoduchostí, zatímco Goodbody je britský důstojník, který všem předpisům skutečně naivně věří."
+  },
+  {
+    "id": "rozbor_textu_remarque_srovnani",
+    "type": "multiple_choice",
+    "tags": ["rozbor_textu", "dilo_obsah", "seznam_all", "seznam_marian"],
+    "importance": 8,
+    "question": "Jaký je hlavní rozdíl v pojetí války mezi E. M. Remarquem a Patrickem Ryanem?",
+    "options": [
+      "Remarque volí tragické a realistické pojetí, zatímco Ryan využívá grotesku, parodii a nadsázku.",
+      "Remarque popisuje druhou světovou válku, zatímco Ryan první světovou válku.",
+      "Remarque glorifikuje válečné hrdinství, zatímco Ryan válku odsuzuje.",
+      "Remarque píše formou administrativního nařízení, zatímco Ryan formou deníku."
+    ],
+    "correctAnswer": "Remarque volí tragické a realistické pojetí, zatímco Ryan využívá grotesku, parodii a nadsázku.",
+    "explanation": "Zatímco Remarque (Na západní frontě klid) volí tragické, realistické pojetí, Ryan popisuje válku skrze prizma grotesky, parodie a nadsázky."
+  },
+  {
+    "id": "literarni_teorie_druh",
+    "type": "flashcard",
+    "tags": ["literarni_teorie", "definice", "seznam_all", "seznam_marian"],
+    "importance": 9,
+    "question": "Jaký je literární druh díla Jak jsem vyhrál válku?",
+    "options": [],
+    "correctAnswer": "Epika.",
+    "explanation": "Dílo má děj, postavy a časoprostor, jedná se o epiku."
+  },
+  {
+    "id": "literarni_teorie_zanr",
+    "type": "flashcard",
+    "tags": ["literarni_teorie", "definice", "seznam_all", "seznam_marian"],
+    "importance": 9,
+    "question": "Jaký je literární žánr díla Jak jsem vyhrál válku?",
+    "options": [],
+    "correctAnswer": "Protiválečný humoristický román.",
+    "explanation": "Žánrově se jedná o protiválečný humoristický román."
+  },
+  {
+    "id": "literarni_teorie_forma",
+    "type": "flashcard",
+    "tags": ["literarni_teorie", "definice", "seznam_all", "seznam_marian"],
+    "importance": 9,
+    "question": "Jaká je literární forma díla Jak jsem vyhrál válku?",
+    "options": [],
+    "correctAnswer": "Próza.",
+    "explanation": "Text je psán ve formě prózy, nečlení se na verše."
+  },
+  {
+    "id": "dilo_obsah_casoprostor_geografie",
+    "type": "multiple_choice",
+    "tags": ["dilo_obsah", "seznam_all", "seznam_marian"],
+    "importance": 7,
+    "question": "Odkud kam geograficky mapuje román cestu britské jednotky?",
+    "options": [
+      "Od Středozemního moře až k Baltu.",
+      "Od britských ostrovů po Moskvu.",
+      "Z Normandie do Berlína.",
+      "Ze severní Afriky do Japonska."
+    ],
+    "correctAnswer": "Od Středozemního moře až k Baltu.",
+    "explanation": "Román mapuje cestu jednotky od Středozemního moře až k Baltu (Alžírsko, Tunisko, Itálie, Řecko, Francie a Německo)."
+  },
+  {
+    "id": "dilo_obsah_jednotka",
+    "type": "multiple_choice",
+    "tags": ["dilo_obsah", "seznam_all", "seznam_marian"],
+    "importance": 6,
+    "question": "Jak se jmenuje vojenská jednotka, které velí Ernest Goodbody?",
+    "options": [
+      "12. četa 4. mušketýrského pluku.",
+      "91. pluk britské námořní pěchoty.",
+      "101. výsadková divize.",
+      "11. batalion irské gardy."
+    ],
+    "correctAnswer": "12. četa 4. mušketýrského pluku.",
+    "explanation": "Příběh líčí vojenskou anabázi poručíka Goodbodyho a jeho 12. čety 4. mušketýrského pluku."
+  },
+  {
+    "id": "dilo_obsah_recko_epizoda",
+    "type": "multiple_choice",
+    "tags": ["dilo_obsah", "seznam_all", "seznam_marian"],
+    "importance": 6,
+    "question": "Čím uklidňuje Ernest Goodbody stěžující si vesničany v Řecku?",
+    "options": [
+      "Deklamuje jim pravidla kriketu.",
+      "Zpívá jim britskou hymnu.",
+      "Čte jim úryvky ze Shakespeara.",
+      "Slibuje jim britské občanství."
+    ],
+    "correctAnswer": "Deklamuje jim pravidla kriketu.",
+    "explanation": "Mezi známé epizody patří situace, kdy v Řecku Ernest uklidňuje stěžující si vesničany deklamováním pravidel kriketu."
+  },
+  {
+    "id": "dilo_obsah_zakopy_epizoda",
+    "type": "multiple_choice",
+    "tags": ["dilo_obsah", "seznam_all", "seznam_marian"],
+    "importance": 6,
+    "question": "Co se stane s luxusními dvoupatrovými zákopy, které Goodbody donutí svou četu vykopat podle příručky?",
+    "options": [
+      "Zničí je déšť a četa je musí celé předělávat.",
+      "Obsadí je německá armáda.",
+      "Major Arkdust do nich spadne a zlomí si nohu.",
+      "Jsou vybombardovány spojeneckým letectvem."
+    ],
+    "correctAnswer": "Zničí je déšť a četa je musí celé předělávat.",
+    "explanation": "Po vykopání luxusních dvoupatrových zákopů s ložnicemi podle příručky je zničí déšť a četa je musí předělávat."
+  },
+  {
+    "id": "dilo_obsah_zaver",
+    "type": "flashcard",
+    "tags": ["dilo_obsah", "seznam_all", "seznam_marian"],
+    "importance": 8,
+    "question": "Jaký typ závěru má román Jak jsem vyhrál válku (otevřený, nebo uzavřený)?",
+    "options": [],
+    "correctAnswer": "Uzavřený.",
+    "explanation": "Závěr románu je uzavřený, neboť děj je prezentován jako hrdinovo zpětné ohlédnutí za absolvovaným válečným tažením."
+  },
+  {
+    "id": "dilo_obsah_hlavni_myslenka",
+    "type": "multiple_choice",
+    "tags": ["dilo_obsah", "seznam_all", "seznam_marian"],
+    "importance": 9,
+    "question": "Jaká je hlavní myšlenka a poselství knihy Jak jsem vyhrál válku?",
+    "options": [
+      "Válka je beznadějně směšnou záležitostí a smích je to jediné, čím ji lze porazit.",
+      "Válka je hrdinský čin, který z chlapců dělá muže.",
+      "Totalitní systémy zničí lidskou individualitu prostřednictvím newspeaku.",
+      "Pokrok vědy a techniky, jako jsou roboti, nakonec zničí lidstvo."
+    ],
+    "correctAnswer": "Válka je beznadějně směšnou záležitostí a smích je to jediné, čím ji lze porazit.",
+    "explanation": "Hlavní myšlenkou je obžaloba války v tom smyslu, že je beznadějně směšnou záležitostí a smích je jedinou zbraní proti ní."
+  },
+  {
+    "id": "dilo_titul_vysvetleni",
+    "type": "multiple_choice",
+    "tags": ["dilo_titul", "seznam_all", "seznam_marian"],
+    "importance": 8,
+    "question": "Proč je název knihy Jak jsem vyhrál válku hluboce ironický?",
+    "options": [
+      "Reflektuje naivní přesvědčení hrdiny, že právě on svou posedlostí předpisy a nesmyslnou disciplínou válku vyhrál.",
+      "Hrdina se celou dobu válce vyhýbal a nikdy nebyl na frontě.",
+      "Kniha končí prohrou Spojenců, takže nikdo válku nevyhrál.",
+      "Hrdina byl ve skutečnosti německý špion."
+    ],
+    "correctAnswer": "Reflektuje naivní přesvědčení hrdiny, že právě on svou posedlostí předpisy a nesmyslnou disciplínou válku vyhrál.",
+    "explanation": "Název reflektuje Goodbodyho naivní iluzi o vlastní důležitosti, kdy si myslí, že on a jeho předpisy vyhráli válku."
+  },
+  {
+    "id": "dilo_postavy_goodbody_motivace",
+    "type": "multiple_choice",
+    "tags": ["dilo_postavy", "seznam_all", "seznam_marian"],
+    "importance": 7,
+    "question": "Z jakého důvodu se Ernest Goodbody původně přihlásil na vojnu?",
+    "options": [
+      "Protože se mu děvčata smála, že z ní má strach.",
+      "Protože chtěl pomstít smrt svého bratra.",
+      "Protože mu hrozilo vězení za krádež.",
+      "Protože pocházel z dlouhé linie vojenských generálů."
+    ],
+    "correctAnswer": "Protože se mu děvčata smála, že z ní má strach.",
+    "explanation": "Na vojnu se původně přihlásil jen proto, že se mu děvčata smála, že z ní má strach."
+  },
+  {
+    "id": "dilo_postavy_goodbody_vyvoj",
+    "type": "multiple_choice",
+    "tags": ["dilo_postavy", "seznam_all", "seznam_marian"],
+    "importance": 8,
+    "question": "Jaký je psychologický vývoj postavy Ernesta Goodbodyho v průběhu románu?",
+    "options": [
+      "Postava se nevyvíjí k žádnému prozření; uchovává si naivní pohled a iluzi o vlastní důležitosti.",
+      "Na konci knihy dojde k hluboké deziluzi a začne nenávidět armádu.",
+      "Z naivního důstojníka se stane ostřílený a cynický voják, který ignoruje pravidla.",
+      "Zblázní se z hrůz války a skončí v psychiatrické léčebně."
+    ],
+    "correctAnswer": "Postava se nevyvíjí k žádnému prozření; uchovává si naivní pohled a iluzi o vlastní důležitosti.",
+    "explanation": "Psychologický vývoj: Postava se nevyvíjí k žádnému prozření či deziluzi; Ernest si po celou dobu uchovává svůj naivní pohled."
+  },
+  {
+    "id": "dilo_postavy_serzant_transom",
+    "type": "multiple_choice",
+    "tags": ["dilo_postavy", "seznam_all", "seznam_marian"],
+    "importance": 7,
+    "question": "Jakou funkci plní v příběhu seržant Transom?",
+    "options": [
+      "Musí absurdní rozkazy velitele tlumočit mužstvu a prakticky řešit realitu války.",
+      "Je to vrchní velitel, který se snaží Goodbodyho degradovat.",
+      "Je to německý zajatec, který se spřátelí s hlavní postavou.",
+      "Je to vojenský lékař, který hodnotí psychický stav vojáků."
+    ],
+    "correctAnswer": "Musí absurdní rozkazy velitele tlumočit mužstvu a prakticky řešit realitu války.",
+    "explanation": "Seržant Transom je podřízený, který plní funkci toho, kdo musí absurdní rozkazy svého velitele tlumočit mužstvu a prakticky řešit realitu."
+  },
+  {
+    "id": "jazyk_a_styl_vypravec",
+    "type": "flashcard",
+    "tags": ["jazyk_a_styl", "definice", "seznam_all", "seznam_marian"],
+    "importance": 9,
+    "question": "Jaký typ vypravěče je použit v románu Jak jsem vyhrál válku?",
+    "options": [],
+    "correctAnswer": "Ich-forma.",
+    "explanation": "Román využívá ich-formu, vypravěčem je samotný Ernest Goodbody."
+  },
+  {
+    "id": "jazyk_a_styl_jazykove_vrstvy",
+    "type": "multiple_choice",
+    "tags": ["jazyk_a_styl", "seznam_all", "seznam_marian"],
+    "importance": 8,
+    "question": "Jaký je kontrast v jazykových vrstvách mezi vypravěčem a přímou řečí vojáků?",
+    "options": [
+      "Jazyk vypravěče je spisovný, zatímco v přímé řeči vojáků je užita obecná čeština a vulgarismy.",
+      "Vypravěč používá výhradně vojenský slang, zatímco vojáci mluví přísně spisovně.",
+      "Celý text je psán pouze v obecné češtině bez jakéhokoliv spisovného jazyka.",
+      "Vypravěč mluví německy, zatímco vojáci mluví anglicky."
+    ],
+    "correctAnswer": "Jazyk vypravěče je spisovný, zatímco v přímé řeči vojáků je užita obecná čeština a vulgarismy.",
+    "explanation": "Jazyk vypravěče (mimo přímou řeč) je spisovný, zatímco pro dosažení autentičnosti je v přímé řeči vojáků užívána obecná čeština a vulgarismy."
+  },
+  {
+    "id": "jazyk_a_styl_tropy",
+    "type": "multiple_choice",
+    "tags": ["jazyk_a_styl", "seznam_all", "seznam_marian"],
+    "importance": 7,
+    "question": "Jaké stylistické prostředky jsou v knize pro dosažení humoru hojně využívány (např. 'hladkej jako ouhoř')?",
+    "options": [
+      "Přirovnání.",
+      "Epizeuxis.",
+      "Apostrofa.",
+      "Oxymóron."
+    ],
+    "correctAnswer": "Přirovnání.",
+    "explanation": "Kniha stojí na ironii a parodii, často jsou využívána originální a humorná přirovnání."
+  },
+  {
+    "id": "jazyk_a_styl_kompozice",
+    "type": "flashcard",
+    "tags": ["jazyk_a_styl", "definice", "seznam_all", "seznam_marian"],
+    "importance": 9,
+    "question": "Jaký typ kompozice děje (z hlediska řazení událostí) je použit v díle Jak jsem vyhrál válku?",
+    "options": [],
+    "correctAnswer": "Chronologická.",
+    "explanation": "Děj je řazen chronologicky (postupně v čase)."
+  },
+  {
+    "id": "jazyk_a_styl_kapitoly_citace",
+    "type": "multiple_choice",
+    "tags": ["jazyk_a_styl", "seznam_all", "seznam_marian"],
+    "importance": 7,
+    "question": "Čím je specificky uvozena každá z 20 kapitol románu?",
+    "options": [
+      "Skutečným historickým citátem (např. od generála Eisenhowera), který parodicky kontrastuje s jednáním vojáků v kapitole.",
+      "Básní o válečném hrdinství, kterou napsal sám Ernest Goodbody.",
+      "Statistickými údaji o počtu padlých v dané oblasti.",
+      "Úryvkem z vojenského administrativního řádu o čistotě zbraní."
+    ],
+    "correctAnswer": "Skutečným historickým citátem (např. od generála Eisenhowera), který parodicky kontrastuje s jednáním vojáků v kapitole.",
+    "explanation": "Každá z těchto kapitol je specificky uvozena skutečným historickým citátem (např. od Eisenhowera), který pak v dané kapitole ostře a parodicky kontrastuje s nehrdinským jednáním britských vojáků."
+  },
+  {
+    "id": "rozbor_textu_film_adaptace",
+    "type": "multiple_choice",
+    "tags": ["rozbor_textu", "seznam_all", "seznam_marian"],
+    "importance": 5,
+    "question": "Kdo hrál ve filmové adaptaci Jak jsem vyhrál válku (1967) od režiséra Richarda Lestera?",
+    "options": [
+      "John Lennon",
+      "George Orwell",
+      "Charlie Chaplin",
+      "Winston Churchill"
+    ],
+    "correctAnswer": "John Lennon",
+    "explanation": "Text zmiňuje, že ve filmové adaptaci z roku 1967 od režiséra Richarda Lestera hrál John Lennon."
+  },
+  {
+    "id": "rozbor_textu_neumel_styl_recenze",
+    "type": "text_analysis",
+    "tags": ["rozbor_textu", "seznam_all", "seznam_marian"],
+    "importance": 6,
+    "question": "Do jakého funkčního stylu by patřila ukázka neuměleckého textu, pokud by se jednalo o filmovou recenzi či článek do novin?",
+    "options": [
+      "Publicistický styl",
+      "Administrativní styl",
+      "Prostě sdělovací styl",
+      "Odborný styl"
+    ],
+    "correctAnswer": "Publicistický styl",
+    "explanation": "Pokud se jedná o recenzi či článek do novin, jde o styl publicistický."
+  },
+  {
+    "id": "rozbor_textu_neumel_styl_rozkaz",
+    "type": "text_analysis",
+    "tags": ["rozbor_textu", "seznam_all", "seznam_marian"],
+    "importance": 6,
+    "question": "Do jakého funkčního stylu by patřila ukázka neuměleckého textu, pokud by obsahovala armádní rozkaz nebo nařízení?",
+    "options": [
+      "Administrativní styl",
+      "Publicistický styl",
+      "Odborný styl",
+      "Umělecký styl"
+    ],
+    "correctAnswer": "Administrativní styl",
+    "explanation": "Pokud by ukázka obsahovala armádní rozkaz nebo nařízení, šlo by o styl administrativní."
+  },
+  {
+    "id": "rozbor_textu_neumel_postup_recenze",
+    "type": "text_analysis",
+    "tags": ["rozbor_textu", "seznam_all", "seznam_marian"],
+    "importance": 6,
+    "question": "Jaké slohové postupy kombinuje názorová recenze na knihu?",
+    "options": [
+      "Informační a úvahový.",
+      "Popisný a vyprávěcí.",
+      "Výkladový a popisný.",
+      "Pouze informační."
+    ],
+    "correctAnswer": "Informační a úvahový.",
+    "explanation": "Názorová recenze na knihu kombinuje postup informační a úvahový."
+  },
+  {
+    "id": "definice_epika",
+    "type": "flashcard",
+    "tags": ["literarni_teorie", "definice", "seznam_all", "seznam_marian"],
+    "importance": 10,
+    "question": "Jak zní definice pojmu 'Epika' podle studijního průvodce?",
+    "options": [],
+    "correctAnswer": "Literární druh založený na vyprávění příběhu s dějovou linií, postavami a časoprostorem.",
+    "explanation": "Slovníček pojmů přesně definuje epiku jako literární druh založený na vyprávění příběhu s dějovou linií, postavami a časoprostorem."
+  },
+  {
+    "id": "definice_proza",
+    "type": "flashcard",
+    "tags": ["literarni_teorie", "definice", "seznam_all", "seznam_marian"],
+    "importance": 10,
+    "question": "Jak zní definice pojmu 'Próza' podle studijního průvodce?",
+    "options": [],
+    "correctAnswer": "Literární forma odpovídající běžné řeči (nečlení se na verše a strofy), je tvořena větami a odstavci.",
+    "explanation": "Slovníček definuje prózu jako formu běžné řeči tvořenou větami a odstavci, bez veršů a strof."
+  },
+  {
+    "id": "definice_roman",
+    "type": "flashcard",
+    "tags": ["literarni_teorie", "definice", "seznam_all", "seznam_marian"],
+    "importance": 10,
+    "question": "Jak zní definice pojmu 'Román' podle studijního průvodce?",
+    "options": [],
+    "correctAnswer": "Rozsáhlý epický žánr s velkým množstvím postav a složitějším, často vícevrstvým dějem.",
+    "explanation": "Román je definován jako rozsáhlý epický žánr s množstvím postav a složitějším dějem."
+  },
+  {
+    "id": "definice_protivalecny_roman",
+    "type": "flashcard",
+    "tags": ["literarni_teorie", "definice", "seznam_all", "seznam_marian"],
+    "importance": 10,
+    "question": "Jak zní definice pojmu 'Protiválečný román' podle studijního průvodce?",
+    "options": [],
+    "correctAnswer": "Rozsáhlý epický žánr, jehož cílem je poukázat na zbytečnost a nesmyslnost válečného konfliktu a degradaci lidství.",
+    "explanation": "Definice uvádí, že cílem žánru je poukázat na zbytečnost a nesmyslnost konfliktu a degradaci lidství."
+  },
+  {
+    "id": "definice_ich_forma",
+    "type": "flashcard",
+    "tags": ["literarni_teorie", "definice", "seznam_all", "seznam_marian"],
+    "importance": 10,
+    "question": "Jak zní definice pojmu 'Ich-forma' podle studijního průvodce?",
+    "options": [],
+    "correctAnswer": "Vypravěčský postup, kdy je příběh vyprávěn v první osobě jednotného čísla (já). Vypravěč je přímým účastníkem děje.",
+    "explanation": "Slovníček definuje Ich-formu jako vyprávění v 1. osobě jednotného čísla, kde je vypravěč účastníkem děje."
+  },
+  {
+    "id": "definice_antihrdina",
+    "type": "flashcard",
+    "tags": ["literarni_teorie", "definice", "seznam_all", "seznam_marian"],
+    "importance": 10,
+    "question": "Jak zní definice pojmu 'Antihrdina' podle studijního průvodce?",
+    "options": [],
+    "correctAnswer": "Literární postava, která stojí v centru dění, ale chybí jí tradiční ctnosti a vlastnosti hrdiny, jako jsou statečnost, síla či bystrý úsudek.",
+    "explanation": "Antihrdina je postava v centru dění bez tradičních ctností hrdiny."
+  },
+  {
+    "id": "definice_ironie",
+    "type": "flashcard",
+    "tags": ["literarni_teorie", "definice", "seznam_all", "seznam_marian"],
+    "importance": 10,
+    "question": "Jak zní definice pojmu 'Ironie' podle studijního průvodce?",
+    "options": [],
+    "correctAnswer": "Obrazné vyjádření, při kterém pisatel (či mluvčí) záměrně používá slova v opačném smyslu, než jak je obvykle chápán, za účelem výsměchu.",
+    "explanation": "Ironie je definována jako použití slov v opačném smyslu za účelem výsměchu."
+  },
+  {
+    "id": "definice_satira",
+    "type": "flashcard",
+    "tags": ["literarni_teorie", "definice", "seznam_all", "seznam_marian"],
+    "importance": 10,
+    "question": "Jak zní definice pojmu 'Satira' podle studijního průvodce?",
+    "options": [],
+    "correctAnswer": "Literární dílo, které využívá humoru, komiky a ironie k ostré kritice a zesměšnění společenských nedostatků nebo lidských chyb (v tomto případě vojenské byrokracie).",
+    "explanation": "Satira využívá humoru a ironie ke kritice společenských nebo lidských chyb."
+  },
+  {
+    "id": "definice_parodie",
+    "type": "flashcard",
+    "tags": ["literarni_teorie", "definice", "seznam_all", "seznam_marian"],
+    "importance": 10,
+    "question": "Jak zní definice pojmu 'Parodie' podle studijního průvodce?",
+    "options": [],
+    "correctAnswer": "Komická nebo satirická nápodoba určitého díla, žánru či stylu, která zveličuje a zesměšňuje jeho typické rysy.",
+    "explanation": "Parodie je komická nápodoba, která zveličuje a zesměšňuje typické rysy díla či žánru."
+  },
+  {
+    "id": "definice_groteska",
+    "type": "flashcard",
+    "tags": ["literarni_teorie", "definice", "seznam_all", "seznam_marian"],
+    "importance": 10,
+    "question": "Jak zní definice pojmu 'Groteska' podle studijního průvodce?",
+    "options": [],
+    "correctAnswer": "Žánrový nebo stylistický prvek vyznačující se krajní nadsázkou, spojováním neslučitelného a situacemi dovedenými ad absurdum.",
+    "explanation": "Groteska je prvek s krajní nadsázkou, spojující neslučitelné a dovedené do absurdity."
+  },
+  {
+    "id": "definice_prirovnani",
+    "type": "flashcard",
+    "tags": ["literarni_teorie", "definice", "seznam_all", "seznam_marian"],
+    "importance": 10,
+    "question": "Jak zní definice pojmu 'Přirovnání' podle studijního průvodce?",
+    "options": [],
+    "correctAnswer": "Stylistický prostředek zakládající se na hledání podobnosti mezi dvěma jevy (často za pomoci spojky \"jako\").",
+    "explanation": "Přirovnání je prostředek zakládající se na hledání podobnosti, často pomocí spojky jako."
+  },
+  {
+    "id": "definice_obecna_cestina",
+    "type": "flashcard",
+    "tags": ["gramatika", "definice", "seznam_all", "seznam_marian"],
+    "importance": 10,
+    "question": "Jak zní definice pojmu 'Obecná čeština' podle studijního průvodce?",
+    "options": [],
+    "correctAnswer": "Nespisovný, avšak nejrozšířenější nadnářeční (interdialektický) útvar českého národního jazyka užívaný v běžné mluvě, vyznačující se specifickými koncovkami a tvary (např. dobrej, mlíko).",
+    "explanation": "Slovníček uvádí, že je to nespisovný nejrozšířenější interdialekt běžné mluvy."
+  },
+  {
+    "id": "definice_vulgarismy",
+    "type": "flashcard",
+    "tags": ["gramatika", "definice", "seznam_all", "seznam_marian"],
+    "importance": 10,
+    "question": "Jak zní definice pojmu 'Vulgarismy' podle studijního průvodce?",
+    "options": [],
+    "correctAnswer": "Hrubé a nespisovné, silně citově zabarvené (expresivní) výrazy s hanlivým účelem.",
+    "explanation": "Slovníček je definuje jako hrubé, nespisovné a hanlivé expresivní výrazy."
+  },
+  {
+    "id": "definice_slang",
+    "type": "flashcard",
+    "tags": ["gramatika", "definice", "seznam_all", "seznam_marian"],
+    "importance": 10,
+    "question": "Jak zní definice pojmu 'Slang / profesní vrstva jazyka' podle studijního průvodce?",
+    "options": [],
+    "correctAnswer": "Nespisovná mluva specifická pro určitou zájmovou nebo profesní skupinu (např. vojenský slang).",
+    "explanation": "Slang je definován jako nespisovná mluva specifická pro zájmovou nebo profesní skupinu."
+  },
+  {
+    "id": "definice_chronologicka_kompozice",
+    "type": "flashcard",
+    "tags": ["literarni_teorie", "definice", "seznam_all", "seznam_marian"],
+    "importance": 10,
+    "question": "Jak zní definice pojmu 'Chronologická kompozice' podle studijního průvodce?",
+    "options": [],
+    "correctAnswer": "Způsob řazení děje, při kterém události následují plynule za sebou tak, jak se odehrály v čase.",
+    "explanation": "Chronologická kompozice znamená řazení děje tak, jak se události odehrály v čase."
+  },
+  {
+    "id": "definice_retrospektiva",
+    "type": "flashcard",
+    "tags": ["literarni_teorie", "definice", "seznam_all", "seznam_marian"],
+    "importance": 10,
+    "question": "Jak zní definice pojmu 'Retrospektiva' podle studijního průvodce?",
+    "options": [],
+    "correctAnswer": "Zpětné ohlédnutí, kdy se vypravěč z přítomnosti vrací k událostem, které se staly v minulosti.",
+    "explanation": "Slovníček to definuje jako zpětné ohlédnutí z přítomnosti do minulosti."
+  },
+  {
+    "id": "definice_publicisticky_styl",
+    "type": "flashcard",
+    "tags": ["rozbor_textu", "definice", "seznam_all", "seznam_marian"],
+    "importance": 10,
+    "question": "Jak zní definice pojmu 'Publicistický styl' podle studijního průvodce?",
+    "options": [],
+    "correctAnswer": "Funkční styl sdělovacích prostředků (noviny, časopisy); má za cíl informovat a zároveň ovlivňovat či přesvědčovat čtenáře.",
+    "explanation": "Slovníček uvádí, že je to styl sdělovacích prostředků s cílem informovat a ovlivňovat."
+  },
+  {
+    "id": "definice_administrativni_styl",
+    "type": "flashcard",
+    "tags": ["rozbor_textu", "definice", "seznam_all", "seznam_marian"],
+    "importance": 10,
+    "question": "Jak zní definice pojmu 'Administrativní styl' podle studijního průvodce?",
+    "options": [],
+    "correctAnswer": "Zaměřen na věcnou, přesnou a stručnou komunikaci v úředním styku (např. nařízení, formuláře, vojenské řády).",
+    "explanation": "Definice uvádí, že je zaměřen na věcnou a stručnou komunikaci v úředním styku."
+  },
+  {
+    "id": "definice_informacni_postup",
+    "type": "flashcard",
+    "tags": ["rozbor_textu", "definice", "seznam_all", "seznam_marian"],
+    "importance": 10,
+    "question": "Jak zní definice pojmu 'Informační slohový postup' podle studijního průvodce?",
+    "options": [],
+    "correctAnswer": "Přináší prostá, objektivní fakta a údaje bez hlubšího hodnocení.",
+    "explanation": "Přináší fakta a údaje bez hlubšího hodnocení."
+  },
+  {
+    "id": "definice_uvahovy_postup",
+    "type": "flashcard",
+    "tags": ["rozbor_textu", "definice", "seznam_all", "seznam_marian"],
+    "importance": 10,
+    "question": "Jak zní definice pojmu 'Úvahový slohový postup' podle studijního průvodce?",
+    "options": [],
+    "correctAnswer": "Vyjadřuje osobní názory, hodnocení a zamyšlení autora nad určitým problémem.",
+    "explanation": "Tento postup vyjadřuje osobní názory a zamyšlení autora."
+  },
+  {
+    "id": "definice_cislovky_zakladni_radove",
+    "type": "flashcard",
+    "tags": ["gramatika", "definice", "seznam_all", "seznam_marian"],
+    "importance": 10,
+    "question": "Jak zní definice pojmu 'Základní a řadové číslovky' podle studijního průvodce?",
+    "options": [],
+    "correctAnswer": "Základní číslovky vyjadřují počet (ptáme se na ně \"kolik?\"), řadové vyjadřují pořadí (ptáme se na ně \"kolikátý?\").",
+    "explanation": "Základní číslovky odpovídají na otázku kolik a řadové na kolikátý."
+  },
+  {
+    "id": "trideni_geografie_tazeni",
+    "type": "sorting",
+    "tags": ["dilo_obsah", "seznam_all", "seznam_marian"],
+    "importance": 6,
+    "question": "Seřaďte geograficky postup britské jednotky, jak je uveden v textu u popisu časoprostoru (od začátku do konce):",
+    "options": [
+      "Itálie",
+      "Francie",
+      "Řecko",
+      "Německo",
+      "Alžírsko",
+      "Tunisko"
+    ],
+    "correctAnswer": [
+      "Alžírsko",
+      "Tunisko",
+      "Itálie",
+      "Řecko",
+      "Francie",
+      "Německo"
+    ],
+    "explanation": "Román mapuje cestu britské jednotky od Středozemního moře až k Baltu přesně v tomto pořadí: Alžírsko, Tunisko, Itálie, Řecko, Francie a Německo."
+  },
+  {
+    "id": "prirazovani_postav_dilo",
+    "type": "matching",
+    "tags": ["dilo_postavy", "seznam_all", "seznam_marian"],
+    "importance": 7,
+    "question": "Přiřaďte postavy z díla Jak jsem vyhrál válku k jejich charakteristice:",
+    "options": [
+      "Ernest Goodbody",
+      "Seržant Transom",
+      "Major Arkdust"
+    ],
+    "correctAnswer": [
+      "Ernest Goodbody == Naivní anglický důstojník, který se snaží řídit válku podle příruček a vůbec nechápe její realitu.",
+      "Seržant Transom == Podřízený, který musí absurdní rozkazy svého velitele tlumočit mužstvu a prakticky řešit realitu války.",
+      "Major Arkdust == Nadřízený, který po zhlédnutí luxusních zákopů vzteky zahodí příručku do moře."
+    ],
+    "explanation": "Goodbody je naivní velitel, Transom jeho pravá ruka pro styk s realitou a major Arkdust je nadřízený konfrontovaný s Goodbodyho absurditou ohledně zákopů."
+  },
+  {
+    "id": "prirazovani_srovnani_autoru",
+    "type": "matching",
+    "tags": ["rozbor_textu", "seznam_all", "seznam_marian"],
+    "importance": 8,
+    "question": "Přiřaďte autora k jeho specifickému přístupu k zobrazení světové války, jak je srovnáváno v textu:",
+    "options": [
+      "Patrick Ryan",
+      "Erich Maria Remarque",
+      "Jaroslav Hašek"
+    ],
+    "correctAnswer": [
+      "Patrick Ryan == Popisuje druhou světovou válku skrze prizma grotesky, parodie a nadsázky.",
+      "Erich Maria Remarque == Volí tragické, realistické a drásavé pojetí první světové války.",
+      "Jaroslav Hašek == Využívá k boji proti absurditě první světové války humor přes postavu prostého vojáka z lidu s domnělou prostoduchostí."
+    ],
+    "explanation": "Ryan píše satiricky o WWII, Remarque tragicky o WWI, Hašek satiricky o WWI skrz obyčejného vojáka."
+  }
+]

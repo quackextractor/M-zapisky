@@ -1,0 +1,1190 @@
+[
+  {
+    "id": "autor_zivot_fuks_data",
+    "type": "flashcard",
+    "tags": [
+      "autor_zivot",
+      "seznam_all",
+      "seznam_common",
+      "seznam_marian",
+      "seznam_miro",
+      "seznam_vu"
+    ],
+    "importance": 2,
+    "question": "Ve kterých letech žil Ladislav Fuks?",
+    "options": [],
+    "correctAnswer": "1923–1994",
+    "explanation": "Ladislav Fuks se narodil v roce 1923 a zemřel roku 1994."
+  },
+  {
+    "id": "autor_zivot_povolani_otce",
+    "type": "multiple_choice",
+    "tags": [
+      "autor_zivot",
+      "seznam_all",
+      "seznam_common",
+      "seznam_marian",
+      "seznam_miro",
+      "seznam_vu"
+    ],
+    "importance": 4,
+    "question": "Jaké bylo povolání otce Ladislava Fukse?",
+    "options": [
+      "Policejní úředník",
+      "Pracovník v krematoriu",
+      "Lékař v psychiatrické léčebně",
+      "Voják z povolání"
+    ],
+    "correctAnswer": "Policejní úředník",
+    "explanation": "Text uvádí, že Ladislav Fuks pocházel z rodiny policejního úředníka."
+  },
+  {
+    "id": "autor_zivot_studium",
+    "type": "multiple_choice",
+    "tags": [
+      "autor_zivot",
+      "seznam_all",
+      "seznam_common",
+      "seznam_marian",
+      "seznam_miro",
+      "seznam_vu"
+    ],
+    "importance": 4,
+    "question": "Jaké obory vystudoval Ladislav Fuks na Filozofické fakultě UK?",
+    "options": [
+      "Filozofii, psychologii a dějiny umění",
+      "Český jazyk, literaturu a historii",
+      "Právo a veřejnou správu",
+      "Sociologii a politologii"
+    ],
+    "correctAnswer": "Filozofii, psychologii a dějiny umění",
+    "explanation": "Po nuceném nasazení za války vystudoval Fuks filozofii, psychologii a dějiny umění na FF UK."
+  },
+  {
+    "id": "autor_zivot_zamestnani",
+    "type": "multiple_choice",
+    "tags": [
+      "autor_zivot",
+      "seznam_all",
+      "seznam_common",
+      "seznam_marian",
+      "seznam_miro",
+      "seznam_vu"
+    ],
+    "importance": 4,
+    "question": "Kde Ladislav Fuks pracovně působil?",
+    "options": [
+      "Ve Státní památkové správě a Národní galerii",
+      "V pražském krematoriu a pohřebním ústavu",
+      "Jako novinář a redaktor v Lidových novinách",
+      "Na ministerstvu kultury a školství"
+    ],
+    "correctAnswer": "Ve Státní památkové správě a Národní galerii",
+    "explanation": "Autor působil ve Státní památkové správě a v Národní galerii."
+  },
+  {
+    "id": "autor_zivot_extravagance",
+    "type": "multiple_choice",
+    "tags": [
+      "autor_zivot",
+      "seznam_all",
+      "seznam_common",
+      "seznam_marian",
+      "seznam_miro",
+      "seznam_vu"
+    ],
+    "importance": 5,
+    "question": "Čím byla známá extravagantní povaha Ladislava Fukse v jeho osobním životě?",
+    "options": [
+      "Ve svém bytě přespával v rakvi a sbíral bizarní předměty se zvířecími kostrami.",
+      "Odmítal nosit civilní oblečení a chodil výhradně ve vojenské uniformě.",
+      "Choval ve svém bytě desítky toulavých psů, o které se staral.",
+      "Neustále se stěhoval a nikdy nebydlel na jednom místě déle než měsíc."
+    ],
+    "correctAnswer": "Ve svém bytě přespával v rakvi a sbíral bizarní předměty se zvířecími kostrami.",
+    "explanation": "Fuks byl extravagantní člověk, jeho byt byl plný bizarních předmětů a zvířecích koster, a dokonce přespával v rakvi."
+  },
+  {
+    "id": "autor_zivot_trauma",
+    "type": "multiple_choice",
+    "tags": [
+      "autor_zivot",
+      "seznam_all",
+      "seznam_common",
+      "seznam_marian",
+      "seznam_miro",
+      "seznam_vu"
+    ],
+    "importance": 6,
+    "question": "Jaká osobní skutečnost prohlubovala Fuksovo trauma z nacistické hrozby a mizení lidí v táborech?",
+    "options": [
+      "Byl homosexuál, což byla skupina nacisty rovněž pronásledovaná.",
+      "Jeho manželka byla poloviční židovka.",
+      "Byl aktivním členem komunistického odboje.",
+      "Jeho otec byl popraven za heydrichiády."
+    ],
+    "correctAnswer": "Byl homosexuál, což byla skupina nacisty rovněž pronásledovaná.",
+    "explanation": "Fuks si jako homosexuál uvědomoval hrozbu fašismu a traumatizovalo ho, že v táborech mizeli Židé, Romové a právě i homosexuálové."
+  },
+  {
+    "id": "rozbor_textu_obdobi",
+    "type": "multiple_choice",
+    "tags": [
+      "literarni_teorie",
+      "seznam_all",
+      "seznam_common",
+      "seznam_marian",
+      "seznam_miro",
+      "seznam_vu"
+    ],
+    "importance": 9,
+    "question": "Do jakého literárního období spadá tvorba Ladislava Fukse (zejména vydání Spalovače mrtvol v roce 1967)?",
+    "options": [
+      "Česká próza 2. poloviny 20. století",
+      "Česká meziválečná próza",
+      "Generace buřičů a dekadence",
+      "Česká literatura národního obrození"
+    ],
+    "correctAnswer": "Česká próza 2. poloviny 20. století",
+    "explanation": "Spalovač mrtvol vyšel v roce 1967, dílo tedy patří do české prózy 2. poloviny 20. století."
+  },
+  {
+    "id": "literarni_teorie_smer",
+    "type": "flashcard",
+    "tags": [
+      "literarni_teorie",
+      "seznam_all",
+      "seznam_common",
+      "seznam_marian",
+      "seznam_miro",
+      "seznam_vu"
+    ],
+    "importance": 7,
+    "question": "Za inspirátora jakého literárního směru v české literatuře je Ladislav Fuks považován?",
+    "options": [],
+    "correctAnswer": "České postmoderny",
+    "explanation": "Fuks bývá považován za jednoho z inspirátorů české postmoderny."
+  },
+  {
+    "id": "rozbor_textu_kontext",
+    "type": "multiple_choice",
+    "tags": [
+      "rozbor_textu",
+      "seznam_all",
+      "seznam_common",
+      "seznam_marian",
+      "seznam_miro",
+      "seznam_vu"
+    ],
+    "importance": 7,
+    "question": "Jaký je vztah mezi dobou vzniku románu a dobou, ve které se odehrává jeho děj?",
+    "options": [
+      "Vznikl v 60. letech 20. století (politické uvolnění), ale děj se vrací do konce 30. let a války k nástupu nacismu.",
+      "Vznikl přímo za druhé světové války jako odbojový text, děj reflektuje tehdejší současnost.",
+      "Vznikl v 80. letech v období normalizace a děj je zasazen do budoucnosti jako dystopie.",
+      "Vznikl v meziválečném období a varuje před nástupem komunismu v 50. letech."
+    ],
+    "correctAnswer": "Vznikl v 60. letech 20. století (politické uvolnění), ale děj se vrací do konce 30. let a války k nástupu nacismu.",
+    "explanation": "Román vznikl v 60. letech (doba uvolnění), ale vrací se k historickým událostem konce 30. let a období druhé světové války (nástup nacismu a holokaust)."
+  },
+  {
+    "id": "autor_zivot_dalsi_dila",
+    "type": "matching",
+    "tags": [
+      "autor_zivot",
+      "seznam_all",
+      "seznam_common",
+      "seznam_marian",
+      "seznam_miro",
+      "seznam_vu"
+    ],
+    "importance": 5,
+    "question": "Přiřaďte správně názvy dalších děl Ladislava Fukse k rokům jejich vydání (dle studijního textu):",
+    "options": [
+      "Pan Theodor Mundstock",
+      "Variace pro temnou strunu",
+      "Vévodkyně a kuchařka"
+    ],
+    "correctAnswer": [
+      "Pan Theodor Mundstock == 1963",
+      "Variace pro temnou strunu == 1966",
+      "Vévodkyně a kuchařka == 1983"
+    ],
+    "explanation": "Mezi další Fuksova díla patří Pan Theodor Mundstock (1963), Variace pro temnou strunu (1966) a Vévodkyně a kuchařka (1983)."
+  },
+  {
+    "id": "rozbor_textu_srovnani_pavel",
+    "type": "multiple_choice",
+    "tags": [
+      "rozbor_textu",
+      "seznam_all",
+      "seznam_common",
+      "seznam_marian",
+      "seznam_miro",
+      "seznam_vu"
+    ],
+    "importance": 8,
+    "question": "S jakým českým autorem a jakým jeho dílem je Spalovač mrtvol ve studijním textu porovnáván kvůli společnému tématu dopadů okupace na židovské rodiny?",
+    "options": [
+      "S Otou Pavlem a dílem Smrt krásných srnců.",
+      "S Karlem Čapkem a dílem Bílá nemoc.",
+      "S Bohumilem Hrabalem a dílem Ostře sledované vlaky.",
+      "S Ladislavem Fuksem a dílem Pan Theodor Mundstock."
+    ],
+    "correctAnswer": "S Otou Pavlem a dílem Smrt krásných srnců.",
+    "explanation": "Text uvádí srovnání s Otou Pavlem a jeho dílem Smrt krásných srnců, přičemž společným prvkem je historické ukotvení a téma dopadů okupace."
+  },
+  {
+    "id": "rozbor_textu_rozdil_pavel",
+    "type": "multiple_choice",
+    "tags": [
+      "rozbor_textu",
+      "seznam_all",
+      "seznam_common",
+      "seznam_marian",
+      "seznam_miro",
+      "seznam_vu"
+    ],
+    "importance": 8,
+    "question": "V čem spočívá hlavní rozdíl ve zpracování válečného tématu mezi Ladislavem Fuksem a Otou Pavlem?",
+    "options": [
+      "Ota Pavel píše poeticky s jemným humorem, zatímco Fuks tvoří temnou a děsivou groteskní fikci zaměřenou na rozpad psychiky.",
+      "Fuks píše autobiografické povídky plné nostalgie, zatímco Ota Pavel tvoří filozofické dystopie.",
+      "Ota Pavel se zaměřuje na objektivní dokumentární styl, zatímco Fuks využívá výhradně lyrickou poezii.",
+      "Fuks své příběhy zasazuje na vesnici, zatímco Ota Pavel popisuje výhradně městské prostředí Prahy."
+    ],
+    "correctAnswer": "Ota Pavel píše poeticky s jemným humorem, zatímco Fuks tvoří temnou a děsivou groteskní fikci zaměřenou na rozpad psychiky.",
+    "explanation": "Zatímco Ota Pavel píše poetické povídky plné jemného humoru, Fuks tvoří temnou, děsivou a groteskní fikci."
+  },
+  {
+    "id": "rozbor_textu_srovnani_orwell",
+    "type": "multiple_choice",
+    "tags": [
+      "rozbor_textu",
+      "seznam_all",
+      "seznam_common",
+      "seznam_marian",
+      "seznam_miro",
+      "seznam_vu"
+    ],
+    "importance": 8,
+    "question": "Který světový autor je ve studijním textu zmíněn pro srovnání s Fuksem díky společnému varování před totalitními režimy a manipulací myslí?",
+    "options": [
+      "George Orwell",
+      "Erich Maria Remarque",
+      "Ray Bradbury",
+      "Franz Kafka"
+    ],
+    "correctAnswer": "George Orwell",
+    "explanation": "Text porovnává Fukse s Georgem Orwellem a jeho díly 1984 a Farma zvířat pro společné varování před totalitou."
+  },
+  {
+    "id": "rozbor_textu_rozdil_orwell",
+    "type": "multiple_choice",
+    "tags": [
+      "rozbor_textu",
+      "seznam_all",
+      "seznam_common",
+      "seznam_marian",
+      "seznam_miro",
+      "seznam_vu"
+    ],
+    "importance": 8,
+    "question": "Jaký je formální rozdíl ve zpracování varování před totalitou mezi Fuksovým Spalovačem mrtvol a Orwellovými díly?",
+    "options": [
+      "Orwell volí dystopii nebo alegorickou bajku, zatímco Fuks psychologický horor s reálným historickým zasazením.",
+      "Fuks píše čistou sci-fi literaturu, zatímco Orwell vychází z magického realismu.",
+      "Orwell používá deníkové záznamy z koncentračních táborů, zatímco Fuks skládá poezii.",
+      "Fuks volí zvířecí alegorii, zatímco Orwell psychologickou studii pražského vraha."
+    ],
+    "correctAnswer": "Orwell volí dystopii nebo alegorickou bajku, zatímco Fuks psychologický horor s reálným historickým zasazením.",
+    "explanation": "Rozdílem je, že Orwell volí formu dystopie (1984) nebo alegorické bajky (Farma zvířat), zatímco Fuks psychologický horor."
+  },
+  {
+    "id": "literarni_teorie_druh",
+    "type": "multiple_choice",
+    "tags": [
+      "literarni_teorie",
+      "seznam_all",
+      "seznam_common",
+      "seznam_marian",
+      "seznam_miro",
+      "seznam_vu"
+    ],
+    "importance": 9,
+    "question": "Do jakého literárního druhu patří Spalovač mrtvol?",
+    "options": [
+      "Epika",
+      "Lyrika",
+      "Drama",
+      "Lyricko-epické pomezí"
+    ],
+    "correctAnswer": "Epika",
+    "explanation": "Literárním druhem Spalovače mrtvol je epika."
+  },
+  {
+    "id": "literarni_teorie_zanr",
+    "type": "multiple_choice",
+    "tags": [
+      "literarni_teorie",
+      "seznam_all",
+      "seznam_common",
+      "seznam_marian",
+      "seznam_miro",
+      "seznam_vu"
+    ],
+    "importance": 9,
+    "question": "Jaký je literární žánr Spalovače mrtvol?",
+    "options": [
+      "Moderní hororový psychologický román s rysy grotesky",
+      "Historický dobrodružný román",
+      "Autobiografická novela",
+      "Sci-fi dystopický román"
+    ],
+    "correctAnswer": "Moderní hororový psychologický román s rysy grotesky",
+    "explanation": "Spalovač mrtvol je moderní hororový psychologický román s rysy grotesky."
+  },
+  {
+    "id": "literarni_teorie_forma",
+    "type": "flashcard",
+    "tags": [
+      "literarni_teorie",
+      "seznam_all",
+      "seznam_common",
+      "seznam_marian",
+      "seznam_miro",
+      "seznam_vu"
+    ],
+    "importance": 9,
+    "question": "Jakou literární formou je dílo Spalovač mrtvol napsáno?",
+    "options": [],
+    "correctAnswer": "Próza",
+    "explanation": "Dílo je psáno ve formě prózy."
+  },
+  {
+    "id": "dilo_obsah_casoprostor_misto",
+    "type": "multiple_choice",
+    "tags": [
+      "dilo_obsah",
+      "seznam_all",
+      "seznam_common",
+      "seznam_marian",
+      "seznam_miro",
+      "seznam_vu"
+    ],
+    "importance": 9,
+    "question": "Kde přesně se primárně odehrává děj Spalovače mrtvol?",
+    "options": [
+      "V Praze, především v prostředí pražského krematoria.",
+      "Ve smyšleném totalitním státě jménem Oceánie.",
+      "V koncentračním táboře v Osvětimi.",
+      "V pohraniční vesnici během odsunu Němců."
+    ],
+    "correctAnswer": "V Praze, především v prostředí pražského krematoria.",
+    "explanation": "Děj se odehrává v Praze, a to především v prostředí pražského krematoria."
+  },
+  {
+    "id": "dilo_obsah_casoprostor_roky",
+    "type": "multiple_choice",
+    "tags": [
+      "dilo_obsah",
+      "seznam_all",
+      "seznam_common",
+      "seznam_marian",
+      "seznam_miro",
+      "seznam_vu"
+    ],
+    "importance": 5,
+    "question": "V jakých letech se odehrává hlavní děj Spalovače mrtvol (před závěrečným časovým skokem)?",
+    "options": [
+      "V letech 1937–1939",
+      "V letech 1914–1918",
+      "V roce 1945 a později",
+      "V období let 1968–1970"
+    ],
+    "correctAnswer": "V letech 1937–1939",
+    "explanation": "Děj se primárně odehrává v letech 1937–1939 s dějovým skokem do roku 1945."
+  },
+  {
+    "id": "dilo_postavy_hlavni_jmeno",
+    "type": "flashcard",
+    "tags": [
+      "dilo_postavy",
+      "seznam_all",
+      "seznam_common",
+      "seznam_marian",
+      "seznam_miro",
+      "seznam_vu"
+    ],
+    "importance": 10,
+    "question": "Jak se jmenuje hlavní postava románu Spalovač mrtvol?",
+    "options": [],
+    "correctAnswer": "Karel Kopfrkingl",
+    "explanation": "Hlavní postavou je pan Karel Kopfrkingl."
+  },
+  {
+    "id": "dilo_postavy_kopfrkingl_filozofie",
+    "type": "multiple_choice",
+    "tags": [
+      "dilo_postavy",
+      "seznam_all",
+      "seznam_common",
+      "seznam_marian",
+      "seznam_miro",
+      "seznam_vu"
+    ],
+    "importance": 9,
+    "question": "Jakou exotickou filozofií je ovlivněn Karel Kopfrkingl na začátku příběhu?",
+    "options": [
+      "Tibetským buddhismem",
+      "Radikálním islámem",
+      "Křesťanským mysticismem",
+      "Starořeckým stoicismem"
+    ],
+    "correctAnswer": "Tibetským buddhismem",
+    "explanation": "Jeho životní filozofie je ovlivněna tibetským buddhismem."
+  },
+  {
+    "id": "dilo_obsah_zpopelneni",
+    "type": "multiple_choice",
+    "tags": [
+      "dilo_obsah",
+      "seznam_all",
+      "seznam_common",
+      "seznam_marian",
+      "seznam_miro",
+      "seznam_vu"
+    ],
+    "importance": 9,
+    "question": "Jak Karel Kopfrkingl zpočátku nahlíží na proces zpopelnění v krematoriu?",
+    "options": [
+      "Vnímá ho jako očistu a osvobození lidské duše od pozemského utrpení.",
+      "Považuje ho za nutné zlo nařízené administrativou Protektorátu.",
+      "Vidí v něm trest pro hříšníky, kteří si nezaslouží klasický pohřeb.",
+      "Bere ho pouze jako způsob, jak dobře finančně zabezpečit rodinu."
+    ],
+    "correctAnswer": "Vnímá ho jako očistu a osvobození lidské duše od pozemského utrpení.",
+    "explanation": "Podle Kopfrkinglovy filozofie je zpopelnění očistou a osvobozením lidské duše."
+  },
+  {
+    "id": "dilo_postavy_willi_reinke",
+    "type": "flashcard",
+    "tags": [
+      "dilo_postavy",
+      "seznam_all",
+      "seznam_common",
+      "seznam_marian",
+      "seznam_miro",
+      "seznam_vu"
+    ],
+    "importance": 8,
+    "question": "Jak se jmenuje dávný přítel Karla Kopfrkingla, který ho zmanipuluje a přivede k fašismu?",
+    "options": [],
+    "correctAnswer": "Willi Reinke",
+    "explanation": "Jeho život naruší dávný přítel, přesvědčený nacista Willi Reinke."
+  },
+  {
+    "id": "dilo_postavy_willi_ideologie",
+    "type": "multiple_choice",
+    "tags": [
+      "dilo_postavy",
+      "seznam_all",
+      "seznam_common",
+      "seznam_marian",
+      "seznam_miro",
+      "seznam_vu"
+    ],
+    "importance": 8,
+    "question": "O čem Willi Reinke postupně přesvědčí Karla Kopfrkingla?",
+    "options": [
+      "O jeho německé krvi a rasové nadřazenosti.",
+      "O tom, že kremace jsou v rozporu s přírodou a musí s nimi přestat.",
+      "O tom, že jeho manželka je britská špionka.",
+      "O tom, že má odcestovat do Tibetu a stát se mnichem."
+    ],
+    "correctAnswer": "O jeho německé krvi a rasové nadřazenosti.",
+    "explanation": "Willi mu vštípí myšlenku o jeho německé krvi a rasové nadřazenosti."
+  },
+  {
+    "id": "dilo_postavy_lakme_puvod",
+    "type": "multiple_choice",
+    "tags": [
+      "dilo_postavy",
+      "seznam_all",
+      "seznam_common",
+      "seznam_marian",
+      "seznam_miro",
+      "seznam_vu"
+    ],
+    "importance": 8,
+    "question": "Z jakého původu pramenil konflikt ohledně Kopfrkinglovy kariéry a vedl nakonec k vraždě jeho manželky Lakmé?",
+    "options": [
+      "Byla poloviční židovka.",
+      "Byla členkou protifašistického odboje.",
+      "Měla německé předky, kteří byli prohlášeni za zrádce říše.",
+      "Pocházela ze silně komunistické rodiny."
+    ],
+    "correctAnswer": "Byla poloviční židovka.",
+    "explanation": "Lakmé byla poloviční židovka, což ohrožovalo Kopfrkinglův kariérní postup v nacistické straně."
+  },
+  {
+    "id": "dilo_obsah_vrazda_mili",
+    "type": "multiple_choice",
+    "tags": [
+      "dilo_obsah",
+      "seznam_all",
+      "seznam_common",
+      "seznam_marian",
+      "seznam_miro",
+      "seznam_vu"
+    ],
+    "importance": 9,
+    "question": "Kde a jak Kopfrkingl zavraždí svého syna Miliho?",
+    "options": [
+      "Umlátí ho v krematoriu.",
+      "Otráví ho jedem během rodinné večeře.",
+      "Utopí ho ve vaně doma v koupelně.",
+      "Zastřelí ho v lese za městem."
+    ],
+    "correctAnswer": "Umlátí ho v krematoriu.",
+    "explanation": "Kopfrkingl svého syna Miliho umlátí přímo v krematoriu."
+  },
+  {
+    "id": "dilo_obsah_halucinace",
+    "type": "multiple_choice",
+    "tags": [
+      "dilo_obsah",
+      "seznam_all",
+      "seznam_common",
+      "seznam_marian",
+      "seznam_miro",
+      "seznam_vu"
+    ],
+    "importance": 8,
+    "question": "K jaké události dojde ve chvíli, kdy se Kopfrkingl pokusí zavraždit svou dceru Zinu?",
+    "options": [
+      "Zažije halucinaci, zjeví se mu tibetský vyslanec a označí ho za nového Buddhu.",
+      "Je přistižen svým přítelem Willim a zatčen gestapem.",
+      "Zina se ubrání a Kopfrkingla v sebeobraně zabije.",
+      "Budova krematoria začne hořet a on z ní musí utéct."
+    ],
+    "correctAnswer": "Zažije halucinaci, zjeví se mu tibetský vyslanec a označí ho za nového Buddhu.",
+    "explanation": "Když se pokusí zavraždit dceru Zinu, zažije halucinaci – zjeví se mu tibetský vyslanec, označí ho za nového Buddhu a vybídne k nástupu na trůn."
+  },
+  {
+    "id": "dilo_obsah_andele",
+    "type": "multiple_choice",
+    "tags": [
+      "dilo_obsah",
+      "seznam_all",
+      "seznam_common",
+      "seznam_marian",
+      "seznam_miro",
+      "seznam_vu"
+    ],
+    "importance": 7,
+    "question": "Kdo jsou v románu metaforičtí „andělé“, kteří si nakonec pro Karla Kopfrkingla přijedou?",
+    "options": [
+      "Zdravotníci v sanitce, kteří ho odvezou do psychiatrické léčebny.",
+      "Důstojníci SS, kteří mu přinesou vyznamenání a povýšení.",
+      "Členové odboje převlečení za mnichy, kteří ho jdou zlikvidovat.",
+      "Skutečné přízraky zemřelých členů jeho rodiny."
+    ],
+    "correctAnswer": "Zdravotníci v sanitce, kteří ho odvezou do psychiatrické léčebny.",
+    "explanation": "Kopfrkingla odvedou „andělé“ (což jsou ve skutečnosti zdravotníci) v sanitce do psychiatrické léčebny."
+  },
+  {
+    "id": "dilo_obsah_zaver_vlak",
+    "type": "multiple_choice",
+    "tags": [
+      "dilo_obsah",
+      "seznam_all",
+      "seznam_common",
+      "seznam_marian",
+      "seznam_miro",
+      "seznam_vu"
+    ],
+    "importance": 8,
+    "question": "Co pozoruje šílený Karel Kopfrkingl v mrazivém závěru románu z okna vlaku v roce 1945?",
+    "options": [
+      "Vyhublé lidi vracející se z koncentračních táborů, přičemž si je jistý, že on je jejich spasitel.",
+      "Hořící Berlín, zatímco utíká před postupující Rudou armádou do Jižní Ameriky.",
+      "Zničené krematorium, které bylo vybombardováno spojenci.",
+      "Tibetskou krajinu, protože se domnívá, že skutečně odcestoval do Lhasy."
+    ],
+    "correctAnswer": "Vyhublé lidi vracející se z koncentračních táborů, přičemž si je jistý, že on je jejich spasitel.",
+    "explanation": "V roce 1945 z okna sanitního vlaku pozoruje vyhublé lidi z koncentračních táborů a ve svém šílenství si je stále jistý vlastním spasitelstvím."
+  },
+  {
+    "id": "dilo_obsah_razeni_deje",
+    "type": "sorting",
+    "tags": [
+      "dilo_obsah",
+      "seznam_all",
+      "seznam_common",
+      "seznam_marian",
+      "seznam_miro",
+      "seznam_vu"
+    ],
+    "importance": 9,
+    "question": "Seřaďte události děje Spalovače mrtvol chronologicky tak, jak po sobě následují:",
+    "options": [
+      "Setkání Karla s nacistou Willim Reinkem.",
+      "Vražda manželky Lakmé, jež je brána jako spása.",
+      "Vražda syna Miliho v krematoriu.",
+      "Halucinace o tibetském vyslanci a odvoz do léčebny.",
+      "Pohled z vlaku na vězně z táborů v roce 1945."
+    ],
+    "correctAnswer": [
+      "Setkání Karla s nacistou Willim Reinkem.",
+      "Vražda manželky Lakmé, jež je brána jako spása.",
+      "Vražda syna Miliho v krematoriu.",
+      "Halucinace o tibetském vyslanci a odvoz do léčebny.",
+      "Pohled z vlaku na vězně z táborů v roce 1945."
+    ],
+    "explanation": "Příběh začíná setkáním s Willim, následně Kopfrkingl zavraždí Lakmé, poté v krematoriu Miliho. Při pokusu o vraždu Ziny má halucinace a je odvezen do léčebny. Román končí scénou ve vlaku v roce 1945."
+  },
+  {
+    "id": "dilo_titul_vysvetleni",
+    "type": "flashcard",
+    "tags": [
+      "dilo_titul",
+      "seznam_all",
+      "seznam_common",
+      "seznam_marian",
+      "seznam_miro",
+      "seznam_vu"
+    ],
+    "importance": 8,
+    "question": "Jaký je význam a vysvětlení názvu Spalovač mrtvol dle studijního textu?",
+    "options": [],
+    "correctAnswer": "Název odkazuje na povolání pana Kopfrkingla a jeho patologické vnímání kremační pece jako prostředku, jímž lidi vysvobozuje z utrpení.",
+    "explanation": "Název přímo odkazuje na profesi postavy a její pokřivené přesvědčení, že zpopelňováním pomáhá a spasí lidi."
+  },
+  {
+    "id": "dilo_postavy_kopfrkingl_jmeno",
+    "type": "flashcard",
+    "tags": [
+      "dilo_postavy",
+      "seznam_all",
+      "seznam_common",
+      "seznam_marian",
+      "seznam_miro",
+      "seznam_vu"
+    ],
+    "importance": 6,
+    "question": "Jak si hlavní postava Karel Kopfrkingl sám rád říká (jaké si dal jméno)?",
+    "options": [],
+    "correctAnswer": "Roman",
+    "explanation": "V textu je uvedeno: Karel Kopfrkingl (sám si říká Roman)."
+  },
+  {
+    "id": "dilo_postavy_kopfrkingl_vlastnosti",
+    "type": "multiple_choice",
+    "tags": [
+      "dilo_postavy",
+      "seznam_all",
+      "seznam_common",
+      "seznam_marian",
+      "seznam_miro",
+      "seznam_vu"
+    ],
+    "importance": 7,
+    "question": "Jaké jsou původní (počáteční) charakterové rysy Karla Kopfrkingla, než podlehne fašismu?",
+    "options": [
+      "Je vlídný a slušný občan, abstinent a nekuřák, který miluje vážnou hudbu a štítí se násilí.",
+      "Je to agresivní opilec, který pravidelně bije svou ženu a děti.",
+      "Je to chladný byrokrat bez emocí, který nenávidí zvířata a lidi.",
+      "Je to podvodník, který zpronevěřuje peníze z krematoria pro vlastní obohacení."
+    ],
+    "correctAnswer": "Je vlídný a slušný občan, abstinent a nekuřák, který miluje vážnou hudbu a štítí se násilí.",
+    "explanation": "Na počátku vystupuje jako mimořádně jemný, slušný občan, vzorný otec, nekuřák a abstinent, který se štítí násilí."
+  },
+  {
+    "id": "dilo_postavy_zina_vek",
+    "type": "multiple_choice",
+    "tags": [
+      "dilo_postavy",
+      "seznam_all",
+      "seznam_common",
+      "seznam_marian",
+      "seznam_miro",
+      "seznam_vu"
+    ],
+    "importance": 5,
+    "question": "Kolik let je dceři Zině a v čem vyniká?",
+    "options": [
+      "Je jí 16 let a je talentovaná klavíristka.",
+      "Je jí 14 let a je výborná gymnastka.",
+      "Je jí 20 let a studuje medicínu.",
+      "Je jí 10 let a maluje obrazy."
+    ],
+    "correctAnswer": "Je jí 16 let a je talentovaná klavíristka.",
+    "explanation": "Text popisuje Zinu jako 16letou talentovanou klavíristku."
+  },
+  {
+    "id": "dilo_postavy_mili_vlastnosti",
+    "type": "multiple_choice",
+    "tags": [
+      "dilo_postavy",
+      "seznam_all",
+      "seznam_common",
+      "seznam_marian",
+      "seznam_miro",
+      "seznam_vu"
+    ],
+    "importance": 5,
+    "question": "Jak otec vnímá čtrnáctiletého syna Miliho, než ho zabije?",
+    "options": [
+      "Považuje ho za slabocha, protože je to šikanovaný a plachý chlapec.",
+      "Vidí v něm vzor dokonalé německé rasy a svého nástupce.",
+      "Vnímá ho jako génia a chce ho poslat na studia do Německa.",
+      "Myslí si, že je to nebezpečný židovský špion a revolucionář."
+    ],
+    "correctAnswer": "Považuje ho za slabocha, protože je to šikanovaný a plachý chlapec.",
+    "explanation": "Mili je šikanovaný, plachý chlapec, kterého otec považuje za slabocha."
+  },
+  {
+    "id": "dilo_postavy_prirazeni",
+    "type": "matching",
+    "tags": [
+      "dilo_postavy",
+      "seznam_all",
+      "seznam_common",
+      "seznam_marian",
+      "seznam_miro",
+      "seznam_vu"
+    ],
+    "importance": 9,
+    "question": "Přiřaďte správně postavy z románu k jejich popisu:",
+    "options": [
+      "Karel Kopfrkingl",
+      "Lakmé",
+      "Willi Reinke",
+      "Zina"
+    ],
+    "correctAnswer": [
+      "Karel Kopfrkingl == Udavač a vrah rodiny pod rouškou spasitelství",
+      "Lakmé == Milující manželka s částečně židovským původem",
+      "Willi Reinke == Fanatický nacista a manipulátor",
+      "Zina == Talentovaná klavíristka"
+    ],
+    "explanation": "Karel je hlavní postava (vrah), Lakmé je jeho židovská manželka, Willi je nacistický manipulátor a Zina je dcera (klavíristka)."
+  },
+  {
+    "id": "jazyk_a_styl_vypravec",
+    "type": "multiple_choice",
+    "tags": [
+      "jazyk_a_styl",
+      "seznam_all",
+      "seznam_common",
+      "seznam_marian",
+      "seznam_miro",
+      "seznam_vu"
+    ],
+    "importance": 9,
+    "question": "Jaký typ vypravěče je využit ve Spalovači mrtvol a jak se projevuje?",
+    "options": [
+      "Er-forma. Vypravěč chladně a objektivně zaznamenává události a záměrně je neinterpretuje.",
+      "Ich-forma. Kopfrkingl sám vysvětluje své činy a omlouvá se za ně čtenáři.",
+      "Du-forma. Vypravěč oslovuje přímo čtenáře a obviňuje ho z nečinnosti.",
+      "Ich-forma. Příběh je vyprávěn z pohledu dcery Ziny ve formě jejího deníku."
+    ],
+    "correctAnswer": "Er-forma. Vypravěč chladně a objektivně zaznamenává události a záměrně je neinterpretuje.",
+    "explanation": "Román je psán v er-formě, vypravěč je chladný, objektivní a události neinterpretuje."
+  },
+  {
+    "id": "jazyk_a_styl_vrstva",
+    "type": "multiple_choice",
+    "tags": [
+      "jazyk_a_styl",
+      "seznam_all",
+      "seznam_common",
+      "seznam_marian",
+      "seznam_miro",
+      "seznam_vu"
+    ],
+    "importance": 9,
+    "question": "Jaká jazyková vrstva je pro celou knihu typická a jaký vyvolává dojem?",
+    "options": [
+      "Jazyk je přísně spisovný, což působí uměle, strnule, děsivě a neosobně.",
+      "Kniha je psána výrazným pražským slangem a argotem, aby působila co nejvíce lidově.",
+      "Postavy mluví výhradně nespisovně a používají velké množství vulgarismů k dokreslení hrůz války.",
+      "Jazyk tvoří výhradně německé nářečí prolínající se s češtinou od samého začátku díla."
+    ],
+    "correctAnswer": "Jazyk je přísně spisovný, což působí uměle, strnule, děsivě a neosobně.",
+    "explanation": "Jazyk je po celou dobu přísně spisovný, a to i v mluvě postav. Tento projev působí uměle, děsivě a neosobně."
+  },
+  {
+    "id": "jazyk_a_styl_nemcina",
+    "type": "flashcard",
+    "tags": [
+      "jazyk_a_styl",
+      "seznam_all",
+      "seznam_common",
+      "seznam_marian",
+      "seznam_miro",
+      "seznam_vu"
+    ],
+    "importance": 8,
+    "question": "Jaké cizojazyčné výrazy a věty se začnou množit v závěru románu v souvislosti s rozpadem Kopfrkinglovy osobnosti a přerodem ve fašistu?",
+    "options": [],
+    "correctAnswer": "Německé",
+    "explanation": "V závěru se množí německé výrazy i celé německé věty."
+  },
+  {
+    "id": "jazyk_a_styl_monolog",
+    "type": "flashcard",
+    "tags": [
+      "jazyk_a_styl",
+      "seznam_all",
+      "seznam_common",
+      "seznam_marian",
+      "seznam_miro",
+      "seznam_vu"
+    ],
+    "importance": 7,
+    "question": "Jaký opakující se prvek v řeči (např. „Jsem abstinent, nepiji ani nekouřím“) Fuks využívá, aby ukázal, že se Kopfrkingl stává zmanipulovanou loutkou?",
+    "options": [],
+    "correctAnswer": "Opakování a variace těch samých frází (a dlouhých monologů)",
+    "explanation": "Autor hojně využívá opakování frází a monologů (např. „Jsem abstinent, nepiji ani nekouřím“)."
+  },
+  {
+    "id": "jazyk_a_styl_osloveni",
+    "type": "matching",
+    "tags": [
+      "jazyk_a_styl",
+      "seznam_all",
+      "seznam_common",
+      "seznam_marian",
+      "seznam_miro",
+      "seznam_vu"
+    ],
+    "importance": 8,
+    "question": "Přiřaďte zvláštní oslovení a epiteta k tomu, pro koho/co je Kopfrkingl v textu používá:",
+    "options": [
+      "Manželka",
+      "Děti",
+      "Krematorium"
+    ],
+    "correctAnswer": [
+      "Manželka == Lakmé (nebeská)",
+      "Děti == Čarokrásné",
+      "Krematorium == Chrám smrti"
+    ],
+    "explanation": "V textu se uvádí exotická oslovení: žena je Lakmé (nebeská), děti jsou čarokrásné, krematorium je chrám smrti."
+  },
+  {
+    "id": "jazyk_a_styl_motivy_kompozice",
+    "type": "multiple_choice",
+    "tags": [
+      "jazyk_a_styl",
+      "seznam_all",
+      "seznam_common",
+      "seznam_marian",
+      "seznam_miro",
+      "seznam_vu"
+    ],
+    "importance": 7,
+    "question": "Které místo hraje významnou kompoziční roli jako předobraz (foreshadowing) pozdějších skutečných vražd rodiny?",
+    "options": [
+      "Panoptikum (kde předváděné hrůzy mechanických loutek fungují jako předobraz).",
+      "Kavárna Slavia, kde se Kopfrkingl setkává s Willim.",
+      "Zahrada psychiatrické léčebny v Bohnicích.",
+      "Byt s rakví, ve které Kopfrkingl spí."
+    ],
+    "correctAnswer": "Panoptikum (kde předváděné hrůzy mechanických loutek fungují jako předobraz).",
+    "explanation": "Významnou kompoziční roli hraje návštěva panoptika, kde hrůzy loutek fungují jako předobraz vražd."
+  },
+  {
+    "id": "jazyk_a_styl_kompozice_typ",
+    "type": "flashcard",
+    "tags": [
+      "jazyk_a_styl",
+      "seznam_all",
+      "seznam_common",
+      "seznam_marian",
+      "seznam_miro",
+      "seznam_vu"
+    ],
+    "importance": 8,
+    "question": "Jaký typ kompozice rozdělené do 15 kapitol Fuks v románu využívá?",
+    "options": [],
+    "correctAnswer": "Chronologická kompozice",
+    "explanation": "Román má chronologickou strukturu a děj plyne chronologicky."
+  },
+  {
+    "id": "rozbor_textu_neumelecky_tema",
+    "type": "multiple_choice",
+    "tags": [
+      "rozbor_textu",
+      "seznam_all",
+      "seznam_common",
+      "seznam_marian",
+      "seznam_miro",
+      "seznam_vu"
+    ],
+    "importance": 5,
+    "question": "O čem by s největší pravděpodobností mohl pojednávat neumělecký text k této maturitní ukázce na základě tematických souvislostí?",
+    "options": [
+      "O historii holokaustu, nacismu, manipulaci s davy a pohřebnictví (kremacích).",
+      "O historii tibetského buddhismu a cestování do Lhasy v 19. století.",
+      "O vývoji české hudby a klavírní interpretaci za První republiky.",
+      "O architektuře pražských kaváren v 60. letech 20. století."
+    ],
+    "correctAnswer": "O historii holokaustu, nacismu, manipulaci s davy a pohřebnictví (kremacích).",
+    "explanation": "Neumělecký text může pojednávat o historii holokaustu, nacismu, pohřebnictví nebo o manipulaci s davy."
+  },
+  {
+    "id": "rozbor_textu_neumelecky_styl",
+    "type": "text_analysis",
+    "tags": [
+      "rozbor_textu",
+      "seznam_all",
+      "seznam_common",
+      "seznam_marian",
+      "seznam_miro",
+      "seznam_vu"
+    ],
+    "importance": 6,
+    "question": "Určete funkční styl: \"Nařízení o evidenci osob židovského původu vstupuje v platnost od 1. září. Všichni občané podléhající tomuto nařízení se musí hlásit na určených místech.\"",
+    "options": [
+      "Administrativní",
+      "Odborný",
+      "Publicistický",
+      "Umělecký"
+    ],
+    "correctAnswer": "Administrativní",
+    "explanation": "Jedná se o úřední/oficiální vyhlášku, která patří do administrativního stylu, jež je u Fukse v neuměleckých textech zmíněn."
+  },
+  {
+    "id": "rozbor_textu_neumelecky_postup",
+    "type": "text_analysis",
+    "tags": [
+      "rozbor_textu",
+      "seznam_all",
+      "seznam_common",
+      "seznam_marian",
+      "seznam_miro",
+      "seznam_vu"
+    ],
+    "importance": 6,
+    "question": "Určete slohový postup ukázky: \"Nástup fašismu v Evropě byl dán několika příčinami. Zaprvé to byla hospodářská krize, která oslabila demokracii. Zadruhé šlo o vliv zfanatizovaných davů a sliby o národní obrodě.\"",
+    "options": [
+      "Výkladový",
+      "Vyprávěcí",
+      "Popisný",
+      "Informační"
+    ],
+    "correctAnswer": "Výkladový",
+    "explanation": "Text vysvětluje logickou zákonitost a příčiny historických událostí, jde tedy o výkladový slohový postup."
+  },
+  {
+    "id": "literarni_teorie_epika",
+    "type": "flashcard",
+    "tags": [
+      "definice",
+      "literarni_teorie",
+      "seznam_all",
+      "seznam_common",
+      "seznam_marian",
+      "seznam_miro",
+      "seznam_vu"
+    ],
+    "importance": 10,
+    "question": "Jak zní definice termínu 'Epika' podle studijního textu?",
+    "options": [],
+    "correctAnswer": "Literární druh, jehož základem je děj (vyprávění příběhu), a který se rozvíjí v čase a prostoru.",
+    "explanation": "Epika je definována jako literární druh postavený na ději a vyprávění příběhu plynoucího v čase a prostoru."
+  },
+  {
+    "id": "literarni_teorie_proza",
+    "type": "flashcard",
+    "tags": [
+      "definice",
+      "literarni_teorie",
+      "seznam_all",
+      "seznam_common",
+      "seznam_marian",
+      "seznam_miro",
+      "seznam_vu"
+    ],
+    "importance": 10,
+    "question": "Jak zní definice termínu 'Próza' podle studijního textu?",
+    "options": [],
+    "correctAnswer": "Literární forma psaná volně, nečleněná do veršů (běžná řeč).",
+    "explanation": "Próza je literární forma psaná volně, jež není členěna do veršů."
+  },
+  {
+    "id": "literarni_teorie_roman",
+    "type": "flashcard",
+    "tags": [
+      "definice",
+      "literarni_teorie",
+      "seznam_all",
+      "seznam_common",
+      "seznam_marian",
+      "seznam_miro",
+      "seznam_vu"
+    ],
+    "importance": 10,
+    "question": "Jak zní definice termínu 'Román' podle studijního textu?",
+    "options": [],
+    "correctAnswer": "Rozsáhlý epický žánr v próze, obsahující velké množství postav, spletitý děj a detailnější prokreslení situací i charakterů.",
+    "explanation": "Román je definován jako rozsáhlý epický žánr se složitým dějem a mnoha postavami."
+  },
+  {
+    "id": "literarni_teorie_horor",
+    "type": "flashcard",
+    "tags": [
+      "definice",
+      "literarni_teorie",
+      "seznam_all",
+      "seznam_common",
+      "seznam_marian",
+      "seznam_miro",
+      "seznam_vu"
+    ],
+    "importance": 10,
+    "question": "Jak zní definice termínu 'Horor' podle studijního textu?",
+    "options": [],
+    "correctAnswer": "Žánr, jehož primárním estetickým cílem je u čtenáře či diváka záměrně vyvolat pocity napětí, děsu a hrůzy.",
+    "explanation": "Horor cílí na vyvolání napětí, děsu a hrůzy."
+  },
+  {
+    "id": "literarni_teorie_groteska",
+    "type": "flashcard",
+    "tags": [
+      "definice",
+      "literarni_teorie",
+      "seznam_all",
+      "seznam_common",
+      "seznam_marian",
+      "seznam_miro",
+      "seznam_vu"
+    ],
+    "importance": 10,
+    "question": "Jak zní definice termínu 'Groteska' podle studijního textu?",
+    "options": [],
+    "correctAnswer": "Umělecký postup, který záměrně komicky až nesmyslně zveličuje a deformuje realitu; často spojuje tragiku, komiku a absurdní či děsivé situace dohromady.",
+    "explanation": "Groteska je definována jako nesmyslné zveličování a spojování komiky s tragikou či děsem."
+  },
+  {
+    "id": "literarni_teorie_postmodernismus",
+    "type": "flashcard",
+    "tags": [
+      "definice",
+      "literarni_teorie",
+      "seznam_all",
+      "seznam_common",
+      "seznam_marian",
+      "seznam_miro",
+      "seznam_vu"
+    ],
+    "importance": 10,
+    "question": "Jak zní definice termínu 'Postmodernismus' podle studijního textu?",
+    "options": [],
+    "correctAnswer": "Literární směr 2. poloviny 20. století, pro který je typická relativizace hodnot, pluralita názorů, hra se čtenářem, ironie a stírání rozdílů mezi \"vysokým\" a \"nízkým\" uměním.",
+    "explanation": "Postmodernismus se vyznačuje relativizací, pluralitou, ironií a hrou se čtenářem."
+  },
+  {
+    "id": "literarni_teorie_er_forma",
+    "type": "flashcard",
+    "tags": [
+      "definice",
+      "literarni_teorie",
+      "seznam_all",
+      "seznam_common",
+      "seznam_marian",
+      "seznam_miro",
+      "seznam_vu"
+    ],
+    "importance": 10,
+    "question": "Jak zní definice termínu 'Er-forma' podle studijního textu?",
+    "options": [],
+    "correctAnswer": "Typ vyprávění ve třetí osobě, u nějž je vypravěč oddělen od postav a pouze referuje o událostech.",
+    "explanation": "Er-forma je vyprávění ve 3. osobě s vypravěčem odděleným od postav."
+  },
+  {
+    "id": "literarni_teorie_metafora",
+    "type": "flashcard",
+    "tags": [
+      "definice",
+      "literarni_teorie",
+      "seznam_all",
+      "seznam_common",
+      "seznam_marian",
+      "seznam_miro",
+      "seznam_vu"
+    ],
+    "importance": 10,
+    "question": "Jak zní definice termínu 'Metafora' podle studijního textu?",
+    "options": [],
+    "correctAnswer": "Obrazné (přenesené) pojmenování jedné skutečnosti jménem skutečnosti druhé na základě vnější podobnosti.",
+    "explanation": "Metafora je přenesení významu na základě vnější podobnosti."
+  },
+  {
+    "id": "literarni_teorie_epiteton",
+    "type": "flashcard",
+    "tags": [
+      "definice",
+      "literarni_teorie",
+      "seznam_all",
+      "seznam_common",
+      "seznam_marian",
+      "seznam_miro",
+      "seznam_vu"
+    ],
+    "importance": 10,
+    "question": "Jak zní definice termínu 'Epiteton' podle studijního textu?",
+    "options": [],
+    "correctAnswer": "Básnický přívlastek, který zdůrazňuje určitou vlastnost osoby, předmětu nebo jevu (např. čarokrásné, nebeská).",
+    "explanation": "Epiteton je básnický přívlastek zdůrazňující vlastnost."
+  },
+  {
+    "id": "literarni_teorie_chronologicka_kompozice",
+    "type": "flashcard",
+    "tags": [
+      "definice",
+      "literarni_teorie",
+      "seznam_all",
+      "seznam_common",
+      "seznam_marian",
+      "seznam_miro",
+      "seznam_vu"
+    ],
+    "importance": 10,
+    "question": "Jak zní definice termínu 'Chronologická kompozice' podle studijního textu?",
+    "options": [],
+    "correctAnswer": "Způsob uspořádání děje, kdy události plynou přesně za sebou tak, jak se odehrály v čase.",
+    "explanation": "Při chronologické kompozici události plynou za sebou přesně podle časové osy."
+  },
+  {
+    "id": "literarni_teorie_pojmy_prirazeni",
+    "type": "matching",
+    "tags": [
+      "definice",
+      "literarni_teorie",
+      "seznam_all",
+      "seznam_common",
+      "seznam_marian",
+      "seznam_miro",
+      "seznam_vu"
+    ],
+    "importance": 9,
+    "question": "Přiřaďte k sobě správně literární pojmy a jejich definice:",
+    "options": [
+      "Er-forma",
+      "Metafora",
+      "Epiteton",
+      "Groteska"
+    ],
+    "correctAnswer": [
+      "Er-forma == Typ vyprávění ve třetí osobě, u nějž je vypravěč oddělen od postav a pouze referuje o událostech.",
+      "Metafora == Obrazné (přenesené) pojmenování jedné skutečnosti jménem skutečnosti druhé na základě vnější podobnosti.",
+      "Epiteton == Básnický přívlastek, který zdůrazňuje určitou vlastnost osoby, předmětu nebo jevu.",
+      "Groteska == Umělecký postup, který záměrně komicky až nesmyslně zveličuje a deformuje realitu."
+    ],
+    "explanation": "Toto je souhrnné ověření znalosti klíčových termínů definovaných v sekci 7."
+  }
+]

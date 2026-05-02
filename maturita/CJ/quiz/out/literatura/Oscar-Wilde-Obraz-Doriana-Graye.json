@@ -1,0 +1,844 @@
+[
+  {
+    "id": "autor_zivot_puvod_studium",
+    "type": "flashcard",
+    "tags": ["autor_zivot", "seznam_all", "seznam_miro", "seznam_vu"],
+    "importance": 4,
+    "question": "Odkud původem pocházel Oscar Wilde a na jakých univerzitách vystudoval?",
+    "options": [],
+    "correctAnswer": "Pocházel z Irska a vystudoval na univerzitách v Dublinu a v Oxfordu.",
+    "explanation": "Podle textu se Wilde narodil v Irsku a svá studia strávil v Dublinu a následně na Oxfordu."
+  },
+  {
+    "id": "autor_zivot_datum_narozeni_umrti",
+    "type": "flashcard",
+    "tags": ["autor_zivot", "seznam_all", "seznam_miro", "seznam_vu"],
+    "importance": 2,
+    "question": "Ve kterých letech Oscar Wilde žil (narození a úmrtí)?",
+    "options": [],
+    "correctAnswer": "1854 – 1900",
+    "explanation": "Text uvádí přesné životopisné vročení autora jako 1854 – 1900."
+  },
+  {
+    "id": "autor_zivot_esteticke_hnuti",
+    "type": "flashcard",
+    "tags": ["autor_zivot", "seznam_all", "seznam_miro", "seznam_vu"],
+    "importance": 9,
+    "question": "Jakou vůdčí postavou kterého hnutí byl Oscar Wilde (kde je krása nadřazena morálce)?",
+    "options": [],
+    "correctAnswer": "Byl prominentní postavou estetického hnutí (tzv. lartpourtlartismus).",
+    "explanation": "Wilde zastával principy estetismu, kde byla krása a estetika nadřazena morálním a sociálním hodnotám."
+  },
+  {
+    "id": "autor_zivot_uvezneni",
+    "type": "multiple_choice",
+    "tags": ["autor_zivot", "seznam_all", "seznam_miro", "seznam_vu"],
+    "importance": 5,
+    "question": "Z jakého důvodu byl Oscar Wilde odsouzen na dva roky do vězení?",
+    "options": [
+      "Za otevřenou homosexualitu a vztah s lordem Alfredem Douglasem.",
+      "Za pobuřování proti státnímu zřízení a šíření zakázaných tiskovin.",
+      "Za neplacení obrovských dluhů, které si nadělal bohémským způsobem života.",
+      "Za veřejnou urážku královny a anglikánské církve ve svých hrách."
+    ],
+    "correctAnswer": "Za otevřenou homosexualitu a vztah s lordem Alfredem Douglasem.",
+    "explanation": "Viktoriánská společnost homosexualitu trestala, Wilde byl za vztah s Douglasem odsouzen ke dvěma letům vězení."
+  },
+  {
+    "id": "autor_zivot_de_profundis",
+    "type": "flashcard",
+    "tags": ["autor_zivot", "seznam_all", "seznam_miro", "seznam_vu"],
+    "importance": 6,
+    "question": "Jaké dílo napsal Oscar Wilde během svého pobytu ve vězení?",
+    "options": [],
+    "correctAnswer": "De Profundis",
+    "explanation": "Text výslovně zmiňuje, že během dvouletého trestu ve vězení sepsal dílo De Profundis."
+  },
+  {
+    "id": "autor_zivot_exil_umrti",
+    "type": "flashcard",
+    "tags": ["autor_zivot", "seznam_all", "seznam_miro", "seznam_vu"],
+    "importance": 4,
+    "question": "Kde žil Oscar Wilde po propuštění z vězení a ve kterém městě zemřel?",
+    "options": [],
+    "correctAnswer": "Žil v exilu ve Francii a zemřel v Paříži.",
+    "explanation": "Po propuštění z vězení se autor uchýlil do francouzského exilu, zemřel osamocen v Paříži."
+  },
+  {
+    "id": "literarni_teorie_obdobi",
+    "type": "multiple_choice",
+    "tags": ["literarni_teorie", "seznam_all", "seznam_miro", "seznam_vu"],
+    "importance": 9,
+    "question": "Do jakého literárního období a konkrétního směru je autorovo dílo nejčastěji řazeno?",
+    "options": [
+      "Literární moderna na konci 19. století, konkrétně dekadence.",
+      "Kritický realismus poloviny 19. století.",
+      "Romantismus přelomu 18. a 19. století.",
+      "Ztracená generace 20. let 20. století."
+    ],
+    "correctAnswer": "Literární moderna na konci 19. století, konkrétně dekadence.",
+    "explanation": "Dílo spadá do literární moderny konce 19. století a je typickým představitelem dekadence."
+  },
+  {
+    "id": "literarni_teorie_znaky_dekadence",
+    "type": "multiple_choice",
+    "tags": ["literarni_teorie", "seznam_all", "seznam_miro", "seznam_vu"],
+    "importance": 8,
+    "question": "Jaké jsou typické znaky dekadence zmíněné ve studijním materiálu?",
+    "options": [
+      "Skepse, zalíbení ve smutku, deprese, narcismus a mysticismus.",
+      "Oslava venkovského života, návrat k přírodě a folklorní motivy.",
+      "Víra v technický pokrok, objektivita a zaměření na sociální problémy.",
+      "Pravidelný rytmus, vlastenecké nadšení a oslava národních hrdinů."
+    ],
+    "correctAnswer": "Skepse, zalíbení ve smutku, deprese, narcismus a mysticismus.",
+    "explanation": "Průvodce uvádí, že směr se vyznačoval skepsí, depresí, mysticismem, narcismem a zalíbením ve smutku."
+  },
+  {
+    "id": "literarni_teorie_kontext_doby",
+    "type": "multiple_choice",
+    "tags": ["literarni_teorie", "seznam_all", "seznam_miro", "seznam_vu"],
+    "importance": 8,
+    "question": "Jaká společenská atmosféra vládla v Británii na konci 19. století (tzv. viktoriánská Anglie)?",
+    "options": [
+      "Společnost byla ovládána přísnou a často pokryteckou morálkou.",
+      "Společnost byla zcela uvolněná, prožívala rozkvět volné lásky a bohémského umění bez omezení.",
+      "Společnost byla zasažena přísnou cenzurou diktátorského režimu kontrolujícího veškerý jazyk.",
+      "Země byla vyčerpaná válečným konfliktem a umělci hledali útěchu v náboženství."
+    ],
+    "correctAnswer": "Společnost byla ovládána přísnou a často pokryteckou morálkou.",
+    "explanation": "Viktoriánská Anglie konce 19. století byla typická svou striktní a pokryteckou morálkou, proti níž Wilde protestoval."
+  },
+  {
+    "id": "autor_zivot_protest_proti_svazani",
+    "type": "flashcard",
+    "tags": ["autor_zivot", "seznam_all", "seznam_miro", "seznam_vu"],
+    "importance": 7,
+    "question": "Jakým způsobem protestovali Wilde a další dekadentní umělci proti pokrytecké morálce své doby?",
+    "options": [],
+    "correctAnswer": "Příklonem k hédonismu, bohémství a kultu krásy.",
+    "explanation": "Protestem dekadentů proti svázanému vnímání byl hédonismus, kult krásy a bohémství."
+  },
+  {
+    "id": "autor_zivot_dalsi_dila_komedie",
+    "type": "matching",
+    "tags": ["autor_zivot", "seznam_all", "seznam_miro", "seznam_vu"],
+    "importance": 5,
+    "question": "Přiřaďte názvy dalších děl Oscara Wilda k jejich správnému druhu:",
+    "options": [
+      "Jak je důležité míti Filipa",
+      "Ideální manžel",
+      "Vějíř lady Windermerové",
+      "Šťastný princ",
+      "Cantervillské strašidlo"
+    ],
+    "correctAnswer": [
+      "Jak je důležité míti Filipa == Divadelní komedie",
+      "Ideální manžel == Divadelní komedie",
+      "Vějíř lady Windermerové == Divadelní komedie",
+      "Šťastný princ == Pohádka",
+      "Cantervillské strašidlo == Pohádka"
+    ],
+    "explanation": "Text rozděluje Wildovu další tvorbu na populární divadelní komedie a pohádky."
+  },
+  {
+    "id": "rozbor_textu_podobnost_velky_gatsby",
+    "type": "multiple_choice",
+    "tags": ["rozbor_textu", "seznam_all", "seznam_miro", "seznam_vu"],
+    "importance": 7,
+    "question": "Se kterým románem americké literatury je Obraz Doriana Graye ve studijním textu srovnáván z hlediska povrchnosti a morálního pádu?",
+    "options": [
+      "S románem Velký Gatsby od Francise Scotta Fitzgeralda.",
+      "S románem Farma zvířat od George Orwella.",
+      "S románem Na západní frontě klid od E. M. Remarqua.",
+      "S románem 1984 od George Orwella."
+    ],
+    "correctAnswer": "S románem Velký Gatsby od Francise Scotta Fitzgeralda.",
+    "explanation": "Text přímo přirovnává Wildovo dílo k románu Velký Gatsby kvůli tématu luxusu, povrchnosti a sebedestrukce."
+  },
+  {
+    "id": "rozbor_textu_rozdil_velky_gatsby",
+    "type": "flashcard",
+    "tags": ["rozbor_textu", "seznam_all", "seznam_miro", "seznam_vu"],
+    "importance": 7,
+    "question": "V čem spočívá hlavní rozdíl mezi díly Obraz Doriana Graye a Velký Gatsby podle průvodce?",
+    "options": [],
+    "correctAnswer": "Liší se časoprostorem a literárním směrem (londýnská dekadence 19. stol. oproti ztracené generaci v USA ve 20. letech 20. století).",
+    "explanation": "Díla se liší zasazením a literárním hnutím autorů."
+  },
+  {
+    "id": "rozbor_textu_podobnost_krysar",
+    "type": "multiple_choice",
+    "tags": ["rozbor_textu", "seznam_all", "seznam_miro", "seznam_vu"],
+    "importance": 7,
+    "question": "Které dílo české literatury má podle textu blízko k literární moderně a sdílí s Obrazem Doriana Graye téma pomsty a tragické smrti jako trestu?",
+    "options": [
+      "Krysař od Viktora Dyka.",
+      "Spalovač mrtvol od Ladislava Fukse.",
+      "R.U.R. od Karla Čapka.",
+      "Bílá nemoc od Karla Čapka."
+    ],
+    "correctAnswer": "Krysař od Viktora Dyka.",
+    "explanation": "Text uvádí Krysaře od Viktora Dyka jako dílo blízké literární moderně s podobnými motivy zkaženosti a pomsty."
+  },
+  {
+    "id": "rozbor_textu_rozdil_krysar",
+    "type": "flashcard",
+    "tags": ["rozbor_textu", "seznam_all", "seznam_miro", "seznam_vu"],
+    "importance": 7,
+    "question": "Jaký je hlavní žánrový a tematický rozdíl mezi Krysařem a Obrazem Doriana Graye?",
+    "options": [],
+    "correctAnswer": "Krysař je symbolická novela o střetu jednotlivce s davem, zatímco Dorian Gray je společenský filozofický román o vnitřním rozkladu jednotlivce.",
+    "explanation": "Zatímco Dykův Krysař řeší spíše mýtus a konflikt s hamižným davem, Wilde se soustředí na psychologický rozpad jedince v luxusní společnosti."
+  },
+  {
+    "id": "literarni_teorie_druh",
+    "type": "flashcard",
+    "tags": ["literarni_teorie", "seznam_all", "seznam_miro", "seznam_vu"],
+    "importance": 9,
+    "question": "Do jakého literárního druhu se řadí Obraz Doriana Graye?",
+    "options": [],
+    "correctAnswer": "Epika",
+    "explanation": "Základní klasifikace díla spadá jednoznačně do epiky."
+  },
+  {
+    "id": "literarni_teorie_zanr",
+    "type": "flashcard",
+    "tags": ["literarni_teorie", "seznam_all", "seznam_miro", "seznam_vu"],
+    "importance": 9,
+    "question": "Jaký je literární žánr Obrazu Doriana Graye (a jak jej označoval sám autor)?",
+    "options": [],
+    "correctAnswer": "Román s prvky hororu (sám autor jej však označoval jako esej).",
+    "explanation": "Průvodce uvádí dílo jako román s prvky hororu, ačkoliv Wilde o něm dobově mluvil jako o eseji."
+  },
+  {
+    "id": "literarni_teorie_forma",
+    "type": "flashcard",
+    "tags": ["literarni_teorie", "seznam_all", "seznam_miro", "seznam_vu"],
+    "importance": 9,
+    "question": "Jakou literární formu má toto dílo?",
+    "options": [],
+    "correctAnswer": "Próza",
+    "explanation": "Román je psán nekomplikovaně ve volných odstavcích a větách, tedy formou prózy."
+  },
+  {
+    "id": "dilo_obsah_casoprostor",
+    "type": "flashcard",
+    "tags": ["dilo_obsah", "seznam_all", "seznam_miro", "seznam_vu"],
+    "importance": 9,
+    "question": "Jaký je přesný časoprostor (místo a doba) děje románu?",
+    "options": [],
+    "correctAnswer": "Londýn, 19. století.",
+    "explanation": "Příběh se odehrává v 19. století v Londýně."
+  },
+  {
+    "id": "dilo_obsah_zacatek",
+    "type": "flashcard",
+    "tags": ["dilo_obsah", "seznam_all", "seznam_miro", "seznam_vu"],
+    "importance": 6,
+    "question": "Kde a jakou situací začíná děj celého příběhu?",
+    "options": [],
+    "correctAnswer": "Začíná v ateliéru malíře Basila Hallwarda, který dokončuje dokonalý portrét mladíka Doriana Graye.",
+    "explanation": "Kniha se otevírá v ateliéru, kde malíř zrovna dokončuje své stěžejní dílo."
+  },
+  {
+    "id": "dilo_obsah_vliv_henryho",
+    "type": "flashcard",
+    "tags": ["dilo_obsah", "seznam_all", "seznam_miro", "seznam_vu"],
+    "importance": 7,
+    "question": "Kdo Doriana u obrazu osloví a vnukne mu myšlenky o důležitosti mládí a požitkářství?",
+    "options": [],
+    "correctAnswer": "Lord Henry Wotton",
+    "explanation": "Lord Henry je strůjcem změny Dorianova myšlení díky svým řečem v ateliéru."
+  },
+  {
+    "id": "dilo_obsah_osudove_prani",
+    "type": "flashcard",
+    "tags": ["dilo_obsah", "seznam_all", "seznam_miro", "seznam_vu"],
+    "importance": 9,
+    "question": "Jaké osudové přání vysloví Dorian při pohledu na svůj dokončený portrét?",
+    "options": [],
+    "correctAnswer": "Přeje si, aby on sám zůstal navždy mladý a místo něj stárnul obraz.",
+    "explanation": "Toto je základní fantastický a zápletkový prvek celého příběhu."
+  },
+  {
+    "id": "dilo_obsah_sibyla_odmitnuti",
+    "type": "flashcard",
+    "tags": ["dilo_obsah", "seznam_all", "seznam_miro", "seznam_vu"],
+    "importance": 8,
+    "question": "Proč Dorian krutě odvrhne herečku Sibylu Vaneovou?",
+    "options": [],
+    "correctAnswer": "Protože pod vlivem svých citů k němu pokazí herecký výkon.",
+    "explanation": "Dorian byl zamilován více do jejího umění než do ní samotné; když zkazila hru, ztratila pro něj význam."
+  },
+  {
+    "id": "dilo_obsah_sibyla_sebevrazda",
+    "type": "flashcard",
+    "tags": ["dilo_obsah", "seznam_all", "seznam_miro", "seznam_vu"],
+    "importance": 8,
+    "question": "Jaký je osud Sibyly Vaneové po Dorianově odmítnutí?",
+    "options": [],
+    "correctAnswer": "Spáchá sebevraždu.",
+    "explanation": "Odmítnutí od Doriana je pro ni natolik zdrcující, že si vezme život."
+  },
+  {
+    "id": "dilo_obsah_zmena_obrazu",
+    "type": "flashcard",
+    "tags": ["dilo_obsah", "seznam_all", "seznam_miro", "seznam_vu"],
+    "importance": 8,
+    "question": "Jaká první změna se po Sibylině smrti odehraje na portrétu?",
+    "options": [],
+    "correctAnswer": "Tvář na obrazu získá rys krutosti.",
+    "explanation": "Obraz poprvé zareaguje na Dorianův hřích a ukáže jeho krutost."
+  },
+  {
+    "id": "dilo_obsah_skryti_obrazu",
+    "type": "flashcard",
+    "tags": ["dilo_obsah", "seznam_all", "seznam_miro", "seznam_vu"],
+    "importance": 5,
+    "question": "Kam Dorian obraz po prvních změnách uschová?",
+    "options": [],
+    "correctAnswer": "Uschová jej na půdu.",
+    "explanation": "Dorian portrét před zraky ostatních i před sebou samým uzamkne na půdě."
+  },
+  {
+    "id": "dilo_obsah_vrazda_basila",
+    "type": "multiple_choice",
+    "tags": ["dilo_obsah", "seznam_all", "seznam_miro", "seznam_vu"],
+    "importance": 9,
+    "question": "Co se stane, když Dorian po mnoha letech ukáže zničený obraz jeho autorovi, malíři Basilovi?",
+    "options": [
+      "Když Basil zděšeně vidí hrůznou podobu zkažené duše, Dorian jej v afektu zavraždí.",
+      "Basil se zhroutí, omluví se za vytvoření obrazu a druhý den spáchá sebevraždu.",
+      "Lord Henry vstoupí do místnosti a přesvědčí Doriana, aby Basila podplatil.",
+      "Basil vezme nůž a pokusí se zlověstný obraz sám rozřezat, ale Dorian ho zastaví."
+    ],
+    "correctAnswer": "Když Basil zděšeně vidí hrůznou podobu zkažené duše, Dorian jej v afektu zavraždí.",
+    "explanation": "Basilův šok a zděšení vyprovokují v Dorianovi hněv, který vyústí v přímou vraždu malíře."
+  },
+  {
+    "id": "dilo_obsah_likvidace_tela",
+    "type": "flashcard",
+    "tags": ["dilo_obsah", "seznam_all", "seznam_miro", "seznam_vu"],
+    "importance": 6,
+    "question": "Koho Dorian donutí vydíráním, aby mu pomohl zbavit se těla zavražděného Basila?",
+    "options": [],
+    "correctAnswer": "Donutí k tomu (svého bývalého přítele) chemika.",
+    "explanation": "Dorian použije chemika k likvidaci těla pomocí kyseliny (či jiných chemikálií)."
+  },
+  {
+    "id": "dilo_obsah_pronásledovani_james",
+    "type": "flashcard",
+    "tags": ["dilo_obsah", "seznam_all", "seznam_miro", "seznam_vu"],
+    "importance": 7,
+    "question": "Kdo Doriana po letech pronásleduje s touhou po pomstě, ale nakonec náhodně zemře?",
+    "options": [],
+    "correctAnswer": "Sibylin bratr, James Vane.",
+    "explanation": "Námořník James Vane chce pomstít svou sestru, ale dříve než se mu to povede, nešťastně zahyne."
+  },
+  {
+    "id": "dilo_obsah_chronologie_deje",
+    "type": "sorting",
+    "tags": ["dilo_obsah", "seznam_all", "seznam_miro", "seznam_vu"],
+    "importance": 5,
+    "question": "Seřaďte události děje tak, jak za sebou chronologicky následují:",
+    "options": [
+      "Dorian ukrývá měnící se portrét na půdu.",
+      "James Vane, který chce Doriana zabít, umírá náhodnou smrtí.",
+      "Dorian v afektu ubodá malíře Basila Hallwarda.",
+      "Dorian vyslovuje přání, aby zůstal navždy mladý.",
+      "Dorian odvrhuje Sibylu, která následně páchá sebevraždu."
+    ],
+    "correctAnswer": [
+      "Dorian vyslovuje přání, aby zůstal navždy mladý.",
+      "Dorian odvrhuje Sibylu, která následně páchá sebevraždu.",
+      "Dorian ukrývá měnící se portrét na půdu.",
+      "Dorian v afektu ubodá malíře Basila Hallwarda.",
+      "James Vane, který chce Doriana zabít, umírá náhodnou smrtí."
+    ],
+    "explanation": "Chronologie: 1. Přání v ateliéru, 2. Konec vztahu se Sibylou, 3. Ukrytí obrazu, 4. Vražda Basila, 5. Úleva po smrti pronásledovatele Jamese."
+  },
+  {
+    "id": "dilo_obsah_konec_doriana",
+    "type": "multiple_choice",
+    "tags": ["dilo_obsah", "seznam_all", "seznam_miro", "seznam_vu"],
+    "importance": 9,
+    "question": "Jak dopadne úplný závěr příběhu?",
+    "options": [
+      "Dorian probodne nožem obraz, čímž zabije sám sebe. Služebnictvo najde starou ohyzdnou mrtvolu a dokonalý mladý obraz.",
+      "Lord Henry obraz spálí, čímž Dorian okamžitě zestárne, avšak dostane šanci na nový spravedlivý život.",
+      "Dorian obraz sbalí, odjede do exilu a zanechává za sebou jen nevyřešené záhady.",
+      "Dorian se přizná k vraždě policii a je stejně jako autor odsouzen k pobytu ve vězení."
+    ],
+    "correctAnswer": "Dorian probodne nožem obraz, čímž zabije sám sebe. Služebnictvo najde starou ohyzdnou mrtvolu a dokonalý mladý obraz.",
+    "explanation": "Závěr je tragický; snaha zničit obraz zabije Doriana. Kouzlo se obrátí, portrétu se vrátí mládí a na tělo se přenese jeho stáří a hříchy."
+  },
+  {
+    "id": "dilo_obsah_identifikace_mrtvoly",
+    "type": "flashcard",
+    "tags": ["dilo_obsah", "seznam_all", "seznam_miro", "seznam_vu"],
+    "importance": 6,
+    "question": "Podle čeho musí služebnictvo identifikovat znetvořenou mrtvolu starce, kterou naleznou u dokonalého portrétu?",
+    "options": [],
+    "correctAnswer": "Podle prstenu.",
+    "explanation": "Mrtvola byla natolik ohyzdná a odlišná od Doriana, že ho poznali pouze díky prstenu, který nosil."
+  },
+  {
+    "id": "dilo_obsah_hlavni_temata",
+    "type": "multiple_choice",
+    "tags": ["dilo_obsah", "seznam_all", "seznam_miro", "seznam_vu"],
+    "importance": 9,
+    "question": "Co z následujícího nejlépe vystihuje hlavní témata a myšlenku románu?",
+    "options": [
+      "Otázka morálky a svědomí, zkaženost charakteru a myšlenka, že krása není vždy to nejdůležitější.",
+      "Oslava venkovského folklóru a nevinnosti prostých lidí v kontrastu s městskou smetánkou.",
+      "Varování před technickým pokrokem, který lidem odebere jejich duši.",
+      "Oslava absolutní moci diktátorského systému, který plně ovládá myšlení občanů."
+    ],
+    "correctAnswer": "Otázka morálky a svědomí, zkaženost charakteru a myšlenka, že krása není vždy to nejdůležitější.",
+    "explanation": "Román zkoumá rozklad morálky, vliv hédonismu a zhoubnost přesvědčení, že tělesná krása omlouvá absenci svědomí."
+  },
+  {
+    "id": "dilo_titul_vysvetleni",
+    "type": "multiple_choice",
+    "tags": ["dilo_titul", "seznam_all", "seznam_miro", "seznam_vu"],
+    "importance": 8,
+    "question": "Jaké je symbolické vysvětlení názvu knihy?",
+    "options": [
+      "Obraz je zrcadlem Dorianovy duše a zachycuje jeho postupný morální úpadek, zatímco Dorian si uchovává dokonalý zevnějšek.",
+      "Název odkazuje na konkrétní starožitný rám, do kterého je obraz vložen a který je ústředním motivem krádeže.",
+      "Pojem 'obraz' funguje metaforicky jako pohled na britskou společnost, samotný portrét v knize nikdy nevystupuje.",
+      "Název symbolizuje dokonalost techniky malby 19. století, do níž se autor knihy jako milovník umění zamiloval."
+    ],
+    "correctAnswer": "Obraz je zrcadlem Dorianovy duše a zachycuje jeho postupný morální úpadek, zatímco Dorian si uchovává dokonalý zevnějšek.",
+    "explanation": "Obraz slouží jako přímé zrcadlo svědomí, které stárne a nese šrámy hříchů, zatímco člověk zůstává fyzicky nedotčen."
+  },
+  {
+    "id": "jazyk_a_styl_atmosfera",
+    "type": "flashcard",
+    "tags": ["jazyk_a_styl", "seznam_all", "seznam_miro", "seznam_vu"],
+    "importance": 8,
+    "question": "Jakými slovy text charakterizuje celkovou atmosféru díla?",
+    "options": [],
+    "correctAnswer": "Je dekadentní, temná a hororová, prokládaná břitkou ironií.",
+    "explanation": "Atmosféra kombinuje hrůzu a tíseň s Wildovým typickým sarkasmem a břitkým vtipem."
+  },
+  {
+    "id": "dilo_postavy_dorian_vyvoj",
+    "type": "multiple_choice",
+    "tags": ["dilo_postavy", "seznam_all", "seznam_miro", "seznam_vu"],
+    "importance": 9,
+    "question": "Jak lze nejlépe popsat charakterový vývoj Doriana Graye během příběhu?",
+    "options": [
+      "Z nezkušeného mravně čistého mladíka se vlivem vlastního narcismu a lorda Henryho stává bezcitný zvrhlík, vrah a požitkář.",
+      "Z cynického podvodníka se po setkání se Sibylou postupně stává morálně čistý a napravený člověk.",
+      "Dorian zůstává celou dobu psychicky silný a odhodlaný hrdina, který úspěšně vzdoruje vlivu zkorumpované společnosti.",
+      "Z počátečního vraha a kriminálníka se pomocí dlouhých rozhovorů s malířem Basilem stává pokorný věřící."
+    ],
+    "correctAnswer": "Z nezkušeného mravně čistého mladíka se vlivem vlastního narcismu a lorda Henryho stává bezcitný zvrhlík, vrah a požitkář.",
+    "explanation": "Dorian prožívá dokonalý mravní propad od nevinnosti až k vraždě a těžké paranoie."
+  },
+  {
+    "id": "dilo_postavy_dorian_vzhled",
+    "type": "flashcard",
+    "tags": ["dilo_postavy", "seznam_all", "seznam_miro", "seznam_vu"],
+    "importance": 4,
+    "question": "Jaké specifické fyzické znaky má mladý Dorian Gray na počátku knihy?",
+    "options": [],
+    "correctAnswer": "Je proslulý svýma modrýma očima a zlatými vlasy.",
+    "explanation": "Průvodce vyzdvihuje tyto typicky andělské, nevinné rysy modrých očí a zlatých vlasů."
+  },
+  {
+    "id": "dilo_postavy_lord_henry",
+    "type": "flashcard",
+    "tags": ["dilo_postavy", "seznam_all", "seznam_miro", "seznam_vu"],
+    "importance": 8,
+    "question": "Jaká je charakteristika lorda Henryho Wottona a jaký má na Doriana vliv?",
+    "options": [],
+    "correctAnswer": "Je to dekadentní aristokrat milující sarkasmy a aforismy. Považuje mládí za jedinou hodnotu a stává se tak strůjcem Dorianova morálního úpadku.",
+    "explanation": "Lord Henry zastává pozici zkaženého mentora, jehož řečnické schopnosti a povrchní životní filozofie zničí Dorianův morální kompas."
+  },
+  {
+    "id": "dilo_postavy_basil",
+    "type": "flashcard",
+    "tags": ["dilo_postavy", "seznam_all", "seznam_miro", "seznam_vu"],
+    "importance": 8,
+    "question": "Kdo byl Basil Hallward a jaký vztah měl k Dorianovi?",
+    "options": [],
+    "correctAnswer": "Byl to malíř a romantik, který byl Dorianovou krásou naprosto pohlcen (pravděpodobně do něj byl zamilován).",
+    "explanation": "Basil je autor magického portrétu a jeho posedlost Dorianem se mu nakonec stane osudnou."
+  },
+  {
+    "id": "dilo_postavy_sibyla_charakteristika",
+    "type": "flashcard",
+    "tags": ["dilo_postavy", "seznam_all", "seznam_miro", "seznam_vu"],
+    "importance": 8,
+    "question": "Jakými slovy je charakterizována Sibyla Vaneová před svým zhroucením?",
+    "options": [],
+    "correctAnswer": "Mladá, nadaná, ale naivní a romanticky založená herečka.",
+    "explanation": "Sibyla představuje čistotu a talent, které jsou zničeny prvním kontaktem s Dorianovou zvrácenou povrchností."
+  },
+  {
+    "id": "dilo_postavy_james_vane",
+    "type": "flashcard",
+    "tags": ["dilo_postavy", "seznam_all", "seznam_miro", "seznam_vu"],
+    "importance": 7,
+    "question": "Kdo je v románu popsán jako „lehce neotesaný dobrodruh a námořník“?",
+    "options": [],
+    "correctAnswer": "James Vane (bratr Sibyly).",
+    "explanation": "James je námořník, který představuje hrubší fyzickou hrozbu v kontrastu s vyšší společností Londýna."
+  },
+  {
+    "id": "jazyk_a_styl_vypravec",
+    "type": "multiple_choice",
+    "tags": ["jazyk_a_styl", "seznam_all", "seznam_miro", "seznam_vu"],
+    "importance": 8,
+    "question": "Jaký typ vypravěče je v románu využit?",
+    "options": [
+      "Er-forma (vyprávěno vševědoucím vypravěčem).",
+      "Ich-forma (vyprávěno přímo postavou Doriana Graye).",
+      "Ich-forma (vyprávěno okouzleným pozorovatelem Basilem).",
+      "Du-forma (vypravěč se přímo obrací na čtenáře v druhé osobě)."
+    ],
+    "correctAnswer": "Er-forma (vyprávěno vševědoucím vypravěčem).",
+    "explanation": "Příběh je podáván klasickou er-formou, tedy vševědoucím vypravěčem, který děj pozoruje zvenčí."
+  },
+  {
+    "id": "jazyk_a_styl_jazykove_vrstvy",
+    "type": "multiple_choice",
+    "tags": ["jazyk_a_styl", "seznam_all", "seznam_miro", "seznam_vu"],
+    "importance": 8,
+    "question": "Jaká specifická jazyková vrstva se podle textu vyskytuje v románu?",
+    "options": [
+      "Používá se výhradně spisovná čeština s výskytem archaismů (zastaralých výrazů).",
+      "Využívá se velké množství slangu a vězeňského argotu.",
+      "Jazyk je uměle vytvořený newspeak zaměřený na zúžení slovní zásoby.",
+      "Často se objevují vulgarismy a hovorová nespisovná mluva nižších vrstev."
+    ],
+    "correctAnswer": "Používá se výhradně spisovná čeština s výskytem archaismů (zastaralých výrazů).",
+    "explanation": "Text zdůrazňuje propracovaný jazyk, výhradně spisovnou češtinu a využití archaismů."
+  },
+  {
+    "id": "jazyk_a_styl_archaismy_priklady",
+    "type": "flashcard",
+    "tags": ["jazyk_a_styl", "seznam_all", "seznam_miro", "seznam_vu"],
+    "importance": 3,
+    "question": "Uveďte dva konkrétní příklady archaismů, které zmiňuje studijní průvodce.",
+    "options": [],
+    "correctAnswer": "Údobí, ruměnec",
+    "explanation": "Průvodce uvádí tato dvě slova jako přímé příklady dobového zastaralého jazyka v textu."
+  },
+  {
+    "id": "jazyk_a_styl_stylisticke_prostredky",
+    "type": "matching",
+    "tags": ["jazyk_a_styl", "seznam_all", "seznam_miro", "seznam_vu"],
+    "importance": 7,
+    "question": "Přiřaďte vlastnosti ke stylu, jakým je dílo napsáno:",
+    "options": [
+      "Dlouhé promluvy postav slouží k",
+      "Stylisticky dílo oplývá",
+      "Z literárních prostředků se hojně využívá"
+    ],
+    "correctAnswer": [
+      "Dlouhé promluvy postav slouží k == Kritice dobové společnosti a jejímu zesměšnění.",
+      "Stylisticky dílo oplývá == Dlouhými popisy interiérů a prvky hororu.",
+      "Z literárních prostředků se hojně využívá == Častá ironie a aforismy."
+    ],
+    "explanation": "Wilde rád kritizoval a ironizoval společnost skrz dlouhé, filozoficky a esteticky laděné monology svých postav."
+  },
+  {
+    "id": "jazyk_a_styl_kompozice",
+    "type": "flashcard",
+    "tags": ["jazyk_a_styl", "seznam_all", "seznam_miro", "seznam_vu"],
+    "importance": 7,
+    "question": "Jaký typ kompozice a členění je pro tuto knihu charakteristický?",
+    "options": [],
+    "correctAnswer": "Chronologická kompozice a rozdělení do kapitol.",
+    "explanation": "Román je postaven na přirozeném sledu událostí řazeném do kapitol."
+  },
+  {
+    "id": "jazyk_a_styl_predmluva",
+    "type": "flashcard",
+    "tags": ["jazyk_a_styl", "seznam_all", "seznam_miro", "seznam_vu"],
+    "importance": 8,
+    "question": "Jaká specifická a klíčová část se nachází na úplném začátku knihy, v níž autor vzbudil bouřlivé ohlasy?",
+    "options": [],
+    "correctAnswer": "Slavná Předmluva (ve které formuluje teze estetismu).",
+    "explanation": "Wilde přidal předmluvu, která funguje jako jakýsi manifest lartpourtlartismu."
+  },
+  {
+    "id": "rozbor_textu_tematicka_souvislost",
+    "type": "multiple_choice",
+    "tags": ["rozbor_textu", "seznam_all", "seznam_miro", "seznam_vu"],
+    "importance": 4,
+    "question": "Co se doporučuje hledat při zkoumání 'tematické souvislosti' přiloženého neuměleckého textu u zkoušky?",
+    "options": [
+      "Jak text odkazuje na dění v románu (např. zda jde o recenzi, článek o estetismu či životě smetánky ve viktoriánské Anglii).",
+      "Kolikrát se v textu objevují archaismy a historismy z 19. století.",
+      "Zda text pochází ze stejné knihy, ze které je hlavní ukázka.",
+      "Pravopisné a stylistické chyby v textu, které je nutné opravit."
+    ],
+    "correctAnswer": "Jak text odkazuje na dění v románu (např. zda jde o recenzi, článek o estetismu či životě smetánky ve viktoriánské Anglii).",
+    "explanation": "Student by měl identifikovat pojítko mezi neuměleckým textem a kontextem hlavního díla."
+  },
+  {
+    "id": "text_analysis_funkcni_styl_publicisticky",
+    "type": "text_analysis",
+    "tags": ["rozbor_textu", "seznam_all", "seznam_miro", "seznam_vu"],
+    "importance": 5,
+    "question": "Pokud přiložený neumělecký text tvoří 'zpráva či sloupek' například z novin, o jaký funkční styl se jedná?",
+    "options": [
+      "Publicistický",
+      "Odborný",
+      "Umělecký",
+      "Prostěsdělovací"
+    ],
+    "correctAnswer": "Publicistický",
+    "explanation": "Zprávy a sloupky jsou charakteristickými žánry publicistického funkčního stylu."
+  },
+  {
+    "id": "text_analysis_funkcni_styl_odborny",
+    "type": "text_analysis",
+    "tags": ["rozbor_textu", "seznam_all", "seznam_miro", "seznam_vu"],
+    "importance": 5,
+    "question": "Pokud předložený text tvoří životopis autora nebo heslo z encyklopedie, o jaký funkční styl primárně půjde?",
+    "options": [
+      "Odborný",
+      "Publicistický",
+      "Umělecký",
+      "Administrativní"
+    ],
+    "correctAnswer": "Odborný",
+    "explanation": "Encyklopedická hesla a životopisy sloužící k jasnému předání faktů spadají do odborného stylu."
+  },
+  {
+    "id": "text_analysis_slohovy_postup_informacni",
+    "type": "text_analysis",
+    "tags": ["rozbor_textu", "seznam_all", "seznam_miro", "seznam_vu"],
+    "importance": 5,
+    "question": "Jaký slohový postup je aplikován, pokud autor v textu pouze poskytuje fakta?",
+    "options": [
+      "Informační",
+      "Popisný",
+      "Výkladový",
+      "Úvahový"
+    ],
+    "correctAnswer": "Informační",
+    "explanation": "Poskytování prostých faktů bez širších souvislostí je znakem informačního slohového postupu."
+  },
+  {
+    "id": "text_analysis_slohovy_postup_popisny",
+    "type": "text_analysis",
+    "tags": ["rozbor_textu", "seznam_all", "seznam_miro", "seznam_vu"],
+    "importance": 5,
+    "question": "O jaký slohový postup jde, pokud neumělecký text podrobně líčí znaky a vlastnosti?",
+    "options": [
+      "Popisný",
+      "Informační",
+      "Výkladový",
+      "Vyprávěcí"
+    ],
+    "correctAnswer": "Popisný",
+    "explanation": "Líčení znaků a vlastností odpovídá popisnému slohovému postupu."
+  },
+  {
+    "id": "text_analysis_slohovy_postup_vykladovy",
+    "type": "text_analysis",
+    "tags": ["rozbor_textu", "seznam_all", "seznam_miro", "seznam_vu"],
+    "importance": 5,
+    "question": "Jaký slohový postup volí autor, když vysvětluje složitější kontext a příčiny problémů (např. zániku estetismu)?",
+    "options": [
+      "Výkladový",
+      "Popisný",
+      "Úvahový",
+      "Informační"
+    ],
+    "correctAnswer": "Výkladový",
+    "explanation": "Hledání příčin a následků a detailní vysvětlování kontextu definuje výkladový postup."
+  },
+  {
+    "id": "text_analysis_slohovy_postup_uvahovy",
+    "type": "text_analysis",
+    "tags": ["rozbor_textu", "seznam_all", "seznam_miro", "seznam_vu"],
+    "importance": 5,
+    "question": "O jaký slohový postup se jedná, pokud autor ve vybraném textu zamyšleně polemizuje o dopadech nějakého dění?",
+    "options": [
+      "Úvahový",
+      "Výkladový",
+      "Popisný",
+      "Vyprávěcí"
+    ],
+    "correctAnswer": "Úvahový",
+    "explanation": "Subjektivní polemizování a zvažování je typické pro úvahový slohový postup."
+  },
+  {
+    "id": "rozbor_textu_cizi_slova",
+    "type": "flashcard",
+    "tags": ["rozbor_textu", "seznam_all", "seznam_miro", "seznam_vu"],
+    "importance": 4,
+    "question": "Uveďte tři slova cizího původu objevující se v textu, na která byste se při zkoumání slovní zásoby mohli zaměřit.",
+    "options": [],
+    "correctAnswer": "Hedonismus, lartpourtlartismus, dekadence.",
+    "explanation": "Tato tři slova jsou v návodu přímo vypsána jako zástupci slovní zásoby cizího původu."
+  },
+  {
+    "id": "definice_epika",
+    "type": "flashcard",
+    "tags": ["definice", "literarni_teorie", "seznam_all", "seznam_miro", "seznam_vu"],
+    "importance": 10,
+    "question": "Definujte termín 'Epika' na základě přiloženého slovníčku pojmů.",
+    "options": [],
+    "correctAnswer": "Literární druh založený na vyprávění děje (příběhu).",
+    "explanation": "Termín je takto přesně vysvětlen v oddíle 7."
+  },
+  {
+    "id": "definice_proza",
+    "type": "flashcard",
+    "tags": ["definice", "literarni_teorie", "seznam_all", "seznam_miro", "seznam_vu"],
+    "importance": 10,
+    "question": "Definujte termín 'Próza' na základě přiloženého slovníčku pojmů.",
+    "options": [],
+    "correctAnswer": "Literární forma psaná volně, strukturovaná do vět, odstavců a kapitol (nikoliv ve verších).",
+    "explanation": "Termín je takto přesně vysvětlen v oddíle 7."
+  },
+  {
+    "id": "definice_roman",
+    "type": "flashcard",
+    "tags": ["definice", "literarni_teorie", "seznam_all", "seznam_miro", "seznam_vu"],
+    "importance": 10,
+    "question": "Definujte termín 'Román' na základě přiloženého slovníčku pojmů.",
+    "options": [],
+    "correctAnswer": "Rozsáhlé epické (prozaické) dílo s důkladným vykreslením postav, mnoha odbočkami a spletitějším dějem, posouvajícím se v čase.",
+    "explanation": "Termín je takto přesně vysvětlen v oddíle 7."
+  },
+  {
+    "id": "definice_horor",
+    "type": "flashcard",
+    "tags": ["definice", "literarni_teorie", "seznam_all", "seznam_miro", "seznam_vu"],
+    "importance": 10,
+    "question": "Definujte termín 'Horor' na základě přiloženého slovníčku pojmů.",
+    "options": [],
+    "correctAnswer": "Umělecký žánr, jehož primárním cílem je vyvolat ve čtenáři pocit strachu, děsu a napětí.",
+    "explanation": "Termín je takto přesně vysvětlen v oddíle 7."
+  },
+  {
+    "id": "definice_esej",
+    "type": "flashcard",
+    "tags": ["definice", "literarni_teorie", "seznam_all", "seznam_miro", "seznam_vu"],
+    "importance": 10,
+    "question": "Definujte termín 'Esej' na základě přiloženého slovníčku pojmů.",
+    "options": [],
+    "correctAnswer": "Žánr na pomezí odborného a uměleckého stylu; autor v něm zamyšleně a literárně vytříbeně analyzuje určité téma.",
+    "explanation": "Termín je takto přesně vysvětlen v oddíle 7."
+  },
+  {
+    "id": "definice_literarni_moderna",
+    "type": "flashcard",
+    "tags": ["definice", "literarni_teorie", "seznam_all", "seznam_miro", "seznam_vu"],
+    "importance": 10,
+    "question": "Definujte termín 'Literární moderna' na základě přiloženého slovníčku pojmů.",
+    "options": [],
+    "correctAnswer": "Široké označení pro literární směry konce 19. a počátku 20. století, které se odklánějí od realismu a zdůrazňují individualismus a vnitřní svět (zahrnuje např. dekadenci a symbolismus).",
+    "explanation": "Termín je takto přesně vysvětlen v oddíle 7."
+  },
+  {
+    "id": "definice_dekadence",
+    "type": "flashcard",
+    "tags": ["definice", "literarni_teorie", "seznam_all", "seznam_miro", "seznam_vu"],
+    "importance": 10,
+    "question": "Definujte termín 'Dekadence' na základě přiloženého slovníčku pojmů.",
+    "options": [],
+    "correctAnswer": "Umělecký směr konce 19. století zaměřený na pocity zmaru, splínu, opovrhování běžným životem, s důrazem na mysticismus, narcismus, či kult zla a smrti.",
+    "explanation": "Termín je takto přesně vysvětlen v oddíle 7."
+  },
+  {
+    "id": "definice_lartpourtlartismus",
+    "type": "flashcard",
+    "tags": ["definice", "literarni_teorie", "seznam_all", "seznam_miro", "seznam_vu"],
+    "importance": 10,
+    "question": "Definujte termín 'Lartpourtlartismus (Estetismus)' na základě přiloženého slovníčku pojmů.",
+    "options": [],
+    "correctAnswer": "Názor \"umění pro umění\". Směr zastávající absolutní svobodu umělce a nezávislost krásy, která nemá sloužit žádnému morálnímu ani společenskému poslání.",
+    "explanation": "Termín je takto přesně vysvětlen v oddíle 7."
+  },
+  {
+    "id": "definice_hedonismus",
+    "type": "flashcard",
+    "tags": ["definice", "literarni_teorie", "seznam_all", "seznam_miro", "seznam_vu"],
+    "importance": 10,
+    "question": "Definujte termín 'Hédonismus' na základě přiloženého slovníčku pojmů.",
+    "options": [],
+    "correctAnswer": "Způsob života a filozofický přístup, který považuje slast, požitek a užívání si za nejvyšší dobro a cíl lidské existence.",
+    "explanation": "Termín je takto přesně vysvětlen v oddíle 7."
+  },
+  {
+    "id": "definice_bohemstvi",
+    "type": "flashcard",
+    "tags": ["definice", "literarni_teorie", "seznam_all", "seznam_miro", "seznam_vu"],
+    "importance": 10,
+    "question": "Definujte termín 'Bohémství' na základě přiloženého slovníčku pojmů.",
+    "options": [],
+    "correctAnswer": "Neuspořádaný, volný způsob života umělců, často spojený s odmítáním přísných společenských konvencí a norem.",
+    "explanation": "Termín je takto přesně vysvětlen v oddíle 7."
+  },
+  {
+    "id": "definice_novoromantismus",
+    "type": "flashcard",
+    "tags": ["definice", "literarni_teorie", "seznam_all", "seznam_miro", "seznam_vu"],
+    "importance": 10,
+    "question": "Definujte termín 'Novoromantismus' na základě přiloženého slovníčku pojmů.",
+    "options": [],
+    "correctAnswer": "Směr navazující na romantismus, který zdůrazňuje tajemství, mystiku a výjimečné osudy jedinců.",
+    "explanation": "Termín je takto přesně vysvětlen v oddíle 7."
+  },
+  {
+    "id": "definice_er_forma",
+    "type": "flashcard",
+    "tags": ["definice", "jazyk_a_styl", "seznam_all", "seznam_miro", "seznam_vu"],
+    "importance": 10,
+    "question": "Definujte termín 'Er-forma' na základě přiloženého slovníčku pojmů.",
+    "options": [],
+    "correctAnswer": "Způsob vyprávění prováděný nezúčastněným vševědoucím vypravěčem ve třetí osobě, umožňující náhled do situací a postav \"zvenčí\".",
+    "explanation": "Termín je takto přesně vysvětlen v oddíle 7."
+  },
+  {
+    "id": "definice_chronologicka_kompozice",
+    "type": "flashcard",
+    "tags": ["definice", "jazyk_a_styl", "seznam_all", "seznam_miro", "seznam_vu"],
+    "importance": 10,
+    "question": "Definujte termín 'Chronologická kompozice' na základě přiloženého slovníčku pojmů.",
+    "options": [],
+    "correctAnswer": "Uspořádání literárního děje, ve kterém události následují přirozeně za sebou tak, jak se odehrály v čase.",
+    "explanation": "Termín je takto přesně vysvětlen v oddíle 7."
+  },
+  {
+    "id": "definice_archaismus",
+    "type": "flashcard",
+    "tags": ["definice", "jazyk_a_styl", "seznam_all", "seznam_miro", "seznam_vu"],
+    "importance": 10,
+    "question": "Definujte termín 'Archaismus' na základě přiloženého slovníčku pojmů.",
+    "options": [],
+    "correctAnswer": "Zastaralý jazykový prostředek (slovo nebo tvar), který se v běžné současné řeči již nepoužívá.",
+    "explanation": "Termín je takto přesně vysvětlen v oddíle 7."
+  },
+  {
+    "id": "definice_aforismus",
+    "type": "flashcard",
+    "tags": ["definice", "jazyk_a_styl", "seznam_all", "seznam_miro", "seznam_vu"],
+    "importance": 10,
+    "question": "Definujte termín 'Aforismus' na základě přiloženého slovníčku pojmů.",
+    "options": [],
+    "correctAnswer": "Vtipná, stručná, často ironická myšlenka nebo originální výrok (v románu je zhusta využívá Lord Henry).",
+    "explanation": "Termín je takto přesně vysvětlen v oddíle 7."
+  },
+  {
+    "id": "definice_paradox",
+    "type": "flashcard",
+    "tags": ["definice", "jazyk_a_styl", "seznam_all", "seznam_miro", "seznam_vu"],
+    "importance": 10,
+    "question": "Definujte termín 'Paradox' na základě přiloženého slovníčku pojmů.",
+    "options": [],
+    "correctAnswer": "Zjevně protismyslné tvrzení, které ale po zamyšlení odhaluje nečekanou pravdu či postřeh (typické pro Wildeův styl).",
+    "explanation": "Termín je takto přesně vysvětlen v oddíle 7."
+  }
+]
