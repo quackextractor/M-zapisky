@@ -6,15 +6,23 @@ You will find the strict rules, the reading list mappings, and the source text b
 You may ONLY use the exact strings from this list in the "tags" array. Never invent new tags.
 * Topic Tags (Choose at least one): "gramatika", "literarni_teorie", "rozbor_textu"
 * Author and Book Tags (Choose when applicable): "autor_zivot" (for author trivia and biography), "dilo_obsah" (for plots and themes), "dilo_postavy" (for character analysis)
+* Detail Tags: "jazyk_a_styl" (for narrator, atmosphere, and vocabulary), "dilo_titul" (for title explanations).
 * Content Type Tags: "definice" (CRITICAL: You MUST use this tag whenever the question asks for a strict definition, especially for 'flashcard' types).
 * Seznam Tags (Apply ALL that match): "seznam_all", "seznam_common", "seznam_marian", "seznam_miro", "seznam_vu"
 
 **2. CROSS-REFERENCING RULE**
-* If a question is derived from a specific author's study guide or pertains to a specific book, you MUST check the READING LIST MAPPINGS section. 
+* If a question is derived from a specific author's study guide or pertains to a specific book, you MUST check the READING LIST MAPPINGS section.
 * You MUST append all associated "seznam_..." tags for that author/book to EVERY question in that batch, including general definitions or theory terms found within that author's text.
 * If the source text is a general "Jazykový přehled" (Grammar/Language) not tied to an author, do not apply "seznam_..." tags.
 
-**3. STRICT JSON SCHEMA**
+**3. CONTENT EXTRACTION PRIORITIES**
+To ensure a comprehensive study guide, your generated batch of questions MUST cover a diverse range of topics from the source text. You must extract information from the following categories if they are present in the text:
+* Language and Style: You must include at least one question testing narrator type (e.g., ich-forma, er-forma), specific language layers (e.g., argot, slang, vulgarisms), or stylistic choices (e.g., use of refrain, metaphors).
+* Title and Atmosphere: Test the explanation or irony behind the work's title, or the specific atmosphere of the text.
+* Literary Context and Comparisons: Extract questions about the specific literary period or direct comparisons made between the author and other writers.
+* Deep Character Analysis: Focus on the psychological development of characters or their hidden motivations, not just their basic descriptions.
+
+**4. STRICT JSON SCHEMA**
 Every object in the JSON array must possess exactly these keys, formatted precisely according to the rules below:
 
 [
@@ -29,8 +37,12 @@ Every object in the JSON array must possess exactly these keys, formatted precis
   }
 ]
 
-**4. TYPE RULES & EXERCISE VARIETY**
-You must attempt to generate a diverse mix of exercise types. Always attempt to include at least one 'sorting' question if the text contains sequential events or plots.
+**5. TYPE RULES & EXERCISE VARIETY**
+You must attempt to generate a diverse mix of exercise types that test different cognitive skills.
+* Mandatory Inclusions: Every batch of 5 to 6 questions MUST include:
+  * At least one 'sorting' question for chronological events or plot progression.
+  * At least one 'multiple_choice' question focused on Literary Context, Comparisons, or Title Significance.
+  * At least one 'flashcard' or 'multiple_choice' question focused on Language, Style, Narrator Type, or Atmosphere.
 * If type is 'multiple_choice':
   * options: Array of exactly 4 strings. 1 correct, 3 plausible distractors. DISTRACTORS MUST BE DRAWN FROM THE PROVIDED TEXT (e.g., use other authors, tropes, or concepts mentioned as traps). Do not hallucinate generic distractors.
   * correctAnswer: Exactly 1 string that perfectly matches the correct item in the options array.
@@ -47,7 +59,7 @@ You must attempt to generate a diverse mix of exercise types. Always attempt to 
   * options: Array of strings containing the possible functional styles or stylistic procedures.
   * correctAnswer: Exactly 1 string matching the correct option.
 
-**5. OUTPUT RULES & ANTI-TRUNCATION**
+**6. OUTPUT RULES & ANTI-TRUNCATION**
 * Generate exactly 5 to 6 questions per request to ensure the output is not truncated.
 * Output ONLY raw, valid JSON. Ensure every string, array, and object is properly closed. Do not cut off mid-sentence.
 * DO NOT wrap the output in markdown code blocks (do not use ```json or ```).
