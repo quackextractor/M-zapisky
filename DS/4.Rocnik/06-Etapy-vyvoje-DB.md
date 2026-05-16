@@ -33,7 +33,7 @@
 - (dekompozice vztahu M:N)
 	-> **konzultace s klientem**
 - mohou být i atributy (bez PK, FK)
-- 
+
 > vysvětlit normalizaci, uvádět příklad k logickém schématu
 > **dekompozice** = rozložení vztahy M:N na 2 x 1:N + vazební tabulka
 #### b) relační schéma
