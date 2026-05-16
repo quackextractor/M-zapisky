@@ -22,7 +22,7 @@
     * a) **Systémová data** - server log file, status file, .ib log files, system tablespace.
     * b) **Data subdirectories** (pro každou databázi) - obsahují indexy + data, struktury objektů (.frm soubory) a katalogy.
 
-![[architektura-mysql.png]]
+![architektura-mysql.png](architektura-mysql.png)
 
 > **Důležitá poznámka:** Buffer je větší, ale pomalejší oproti cache.
 

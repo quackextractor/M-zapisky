@@ -3,11 +3,16 @@
 ## Důležité diagramy
 ### 1) fáze: vytváření db
 
-![[1-faze.svg]]
+![01-faze.svg](01-faze.svg)
 
 ### 2) fáze: provoz db
 
-![[faze-2.svg]]
+![faze-2.svg](faze-2.svg)
+
+### 3) Full
+
+![celkem-prokop.png](celkem-prokop.png)
+
 ## Fáze podrobně
 
 ### 1. Analýza
